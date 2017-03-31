@@ -1,0 +1,76 @@
+/* Settings */
+"ONLINE_CONTACTS" = "جهات الاتصال المتصلة";
+"PREFERENCES" = "إعدادات OnlineNotify";
+"TRACKING_TABLE" = "جدول التتبع";
+"CONTACT_LOGS" = "سجلات جهات الاتصال";
+
+"ENABLE_DESCRIPTION" = "التمكين من بدء تلقي الإشعارات";
+"ENABEL_LABEL" = "تمكين الإشعارات";
+
+"ONLINE_NOTIFICATION_LABEL" = "تمكين إشعارت متصل الآن";
+"OFFLINE_NOTIFICATION_LABEL" = "تمكين إشعارت غير متصل";
+"TYPING_NOTIFICATION_LABEL" = "تمكين إشعارات جاري الكتابة";
+"READ_MESSAGE_NOTIFICATION_LABEL" = "تمكين إشعارات قراءة الرسالة";
+"NOTIFICATIONS_DESCRIPTION" = "- احصل على إشعار متصل الآن / غير متصل.. للمستخدمين ولتحديد جهات إتصال يجب إضافة مستخدمين من جدول التتبع\n- الحصول على إشعار عند أي شخص من جهات الاتصال الخاصة بك يبدأ الكتابة في الدردشة\n- الحصول على إشعار عندما يقرأ جهة الاتصال الرسائل المرسلة";
+
+"LOG_NOTIFCATIONS_LABEL" = "سجلات الإشعارات";
+"LOG_NOTIFCATIONS_DESCRIPTION" = "تسجيل الإشعارات متصل الآن  / غير متصل / جاري الكتابة كل جهة الاتصال التي تتلقاها، يمكنك التحقق من جدول التتبع و سجلات جهة الاتصال";
+
+"SELECTED_TYPING_LABEL" = "تحديد إشعارات جاري الكتابة";
+"SELECTED_READ_MESSAGE_LABEL" = "تحديد إشعارات قراءة الرسائل";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "عندما تمكن هذه الخيارات سوف تتلقى الإشعارات من جهات الاتصال التي تم تحديدها في جدول التتبع";
+
+"SHOW_TEST_NOTIFICATION" = "عرض إشعار كتجربة";
+"TEST_NOTIFICATION_MESSAGE" = "نموذج عن اشعارات";
+
+"NOTIFICATION_SOUND_LABEL" = "صوت الإشعارات";
+"NOTIFICATION_SOUND_DESCRIPTION" = "أختر صوت للإشعارات";
+
+"OUTSIDE_NOTIFICATIONS" = "الإشعارات في الخارج";
+"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "الحصول على الإشعارات خارج ال واتساب. انتبه أن ال WhatsApp يحتاج إلى أن تكون نشطة في الخلفية، وسوف تظهر دائما أون لاين.";
+
+"FAVORITES_LIST_LABEL" = "قائمة المفضلة";
+"FAVORITES_LIST_DESCRIPTION" = "- يضيف المؤشر الأخضر بجوار المستخدمون المتصلين في الـ WhatsApp قائمة المفضلة.\n- استبدال حالة جهات الإتصال بآخر ظهور في قائمة المفضلة.";
+
+"GROUP_MEMBERS_LABEL" = "أعضاء المجموعة";
+"GROUP_MEMBERS_DESCRIPTION" = "- يضيف المؤشر الأخضر بجوار المستخدمون المتصلين في قائمة أعضاء المجموعة.\n- استبدال حالة جهات الإتصال بآخر ظهور في قائمة أعضاء المجموعة.";
+
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "إضافة صف أعلى قائمة دردشات للتحقق من جهات الاتصال المتصلة الأن";
+"ONLINE_CONTACTS_LIST_LABEL" = "جهات الاتصال المتصلة";
+
+"ENABLE_NOTIFICATIONS_ALERT" = "يحتاج إلى إعادة تشغيل ال WhatsApp لتمكين الإشعارات";
+"DISABLE_NOTIFICATIONS_ALERT" = "يحتاج إلى إعادة تشغيل ال WhatsApp من أجل تعطيل الإشعارات";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "عند تفعيل الإشعارات خارج التطبيق سوف تكون متصلا على واي فاي الخاص بك بعد أن يتم قفل الجهاز وسوف تظهر دائما أون لاين وحتى عندما يكون الـ WhatsApp في الخلفية";
+
+"CHATS_LIST_LABEL" = "قائمة الدردشات";
+"CHATS_LIST_DESCRIPTION" = "يضيف المؤشر الأخضر بجوار المستخدمون المتصلين في قائمة الدردشات";
+
+"ONLINE_INDICATOR" = "المؤشر متصل الآن";
+"LAST_SEEN" = "اخر ظهور";
+
+"ADD_CONTACT" = "إضافة جهة اتصال";
+"CONTACT_ALREADY_EXISTS" = "جهة الاتصال موجود بالفعل";
+
+"RELAUNCH" = "اعادة التشغيل";
+"LATER" = "لاحقاً";
+"CANCEL" = "إلغاء";
+"OKAY" = "تم";
+"DELETE" = "حذف";
+"ENABLE" = "تمكين";
+"EXPORT" = "تصدير";
+
+/* Messages */
+"ZIP_AND_EXPORT_LOGS" = "حزم السجالات وارسالها";
+"DELETE_ALL_LOGS_WARNING" = "حذف جميع السجلات";
+"DELETE_ALL_LOGS_FOR_WARNING" = "حذف جميع السجلات ل";
+
+/* Notifications */
+"ONLINE" = "متصل الآن";
+"OFFLINE" = "غير متصل";
+"IS_TYPING" = "يكتب الأن...";
+"IS_NOW_ONLINE" = "متصل الآن";
+"HAS_GONE_OFFLINE_AT" = "لقد غادر الوتساب وغير متصل منذ";
+"HAS_READ_YOUR_MESSAGES" = "لقد قرأ رسائلك";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "لقد قرأ رسالتك في مجموعتك";
+"HAS_RECEIVED_YOUR_MESSAGES" = "تلقى رسائلك";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "تلقى رسائل مجموعتك";

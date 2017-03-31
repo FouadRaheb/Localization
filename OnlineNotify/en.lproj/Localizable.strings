@@ -1,0 +1,76 @@
+/* Settings */
+"ONLINE_CONTACTS" = "Online Contacts";
+"PREFERENCES" = "Preferences";
+"TRACKING_TABLE" = "Tracking List";
+"CONTACT_LOGS" = "Contact Logs";
+
+"ENABLE_DESCRIPTION" = "Enable to start receiving notifications";
+"ENABEL_LABEL" = "Enable Notifications";
+
+"ONLINE_NOTIFICATION_LABEL" = "Online Notificaitons";
+"OFFLINE_NOTIFICATION_LABEL" = "Offline Notifications";
+"TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
+"NOTIFICATIONS_DESCRIPTION" = "- Get online/offline notifications for selected users. (Add users from Tracking Table.\n- Get notification when anyone of your contacts starts typing in your chat.\n- Get notification when a contact reads your sent messages.";
+
+"LOG_NOTIFCATIONS_LABEL" = "Notifications Logs";
+"LOG_NOTIFCATIONS_DESCRIPTION" = "Log every contact's Online/Offline/Typing notification you receive, you can check the logs from Logs Table.";
+
+"SELECTED_TYPING_LABEL" = "Typing for favorites";
+"SELECTED_READ_MESSAGE_LABEL" = "Read Messages for favorites";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "Receive typing & read messages notification only for favorite contacts you selected in tracking table.";
+
+"SHOW_TEST_NOTIFICATION" = "Show example notification";
+"TEST_NOTIFICATION_MESSAGE" = "Example notification message";
+
+"NOTIFICATION_SOUND_LABEL" = "Notifications Sound";
+"NOTIFICATION_SOUND_DESCRIPTION" = "Choose a sound for notifications.";
+
+"OUTSIDE_NOTIFICATIONS" = "Outside Notifications";
+"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Get OnlineNotify notifications outside WhatsApp.\nNote that WhatsApp needs to be active in background and you will be shown as Online.";
+
+"FAVORITES_LIST_LABEL" = "Favorites List";
+"FAVORITES_LIST_DESCRIPTION" = "- Adds a green indicator next to Online Users in Watusi favorites list which replaces the camera tab..\n- Replace contacts status with their lastseen in Watusi favorites list.";
+
+"GROUP_MEMBERS_LABEL" = "Group Members";
+"GROUP_MEMBERS_DESCRIPTION" = "- Adds a green indicator next to Online Users in group members list.\n- Replace contacts status with their lastseen in group members list.";
+
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Add a row on top of Chats List to check your online contacts.";
+"ONLINE_CONTACTS_LIST_LABEL" = "Online Contacts List";
+
+"ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp needs to be relaunched in order to enable notifications";
+"DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp needs to be relaunched in order to disable notifications";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Enabling Outside notifications will keep your WiFi active after the device has been locked and you will be always shown as Online even when WhatsApp is in background";
+
+"CHATS_LIST_LABEL" = "Chats List";
+"CHATS_LIST_DESCRIPTION" = "Adds a green indicator next to Online Users in chats list.";
+
+"ONLINE_INDICATOR" = "Online Indicator";
+"LAST_SEEN" = "Last seen";
+
+"ADD_CONTACT" = "Add Contact";
+"CONTACT_ALREADY_EXISTS" = "Contact already exists";
+
+"RELAUNCH" = "Relaunch";
+"LATER" = "Later";
+"CANCEL" = "Cancel";
+"OKAY" = "Okay";
+"DELETE" = "Delete";
+"ENABLE" = "Enable";
+"EXPORT" = "Export";
+
+/* Messages */
+"ZIP_AND_EXPORT_LOGS" = "Zip and export all logs";
+"DELETE_ALL_LOGS_WARNING" = "This action will delete ALL logs.";
+"DELETE_ALL_LOGS_FOR_WARNING" = "This action will delete all logs for";
+
+/* Notifications */
+"ONLINE" = "Online";
+"OFFLINE" = "Offline";
+"IS_TYPING" = "is typing...";
+"IS_NOW_ONLINE" = "is now online";
+"HAS_GONE_OFFLINE_AT" = "has gone offline at";
+"HAS_READ_YOUR_MESSAGES" = "has read your messages";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "has read your group messages";
+"HAS_RECEIVED_YOUR_MESSAGES" = "has received your messages";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "has received your group messages";
