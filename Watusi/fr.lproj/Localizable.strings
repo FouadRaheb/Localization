@@ -151,8 +151,8 @@
 "ARCHIVE_LOCK_DESC" = "Appuyez longuement sur les chats dans la vue d'archivage afin de verrouiller les chats archivés, ce qui signifie que le chat verrouillé ne sera pas transféré dans la liste des chats lorsqu'il reçoit un nouveau message. Vous pouvez gérer les chats verrouillés du bouton en haut à droite Vue chats archivée.";
 "ARCHIVE_LOCK_LABEL" = "Interface archive de verrouillage";
 "ARCHIVE_LOCKED_CHATS" = "Chats verrouillés";
-"ARCHIVE_LOCK_UNLOCK_TITLE" = "Verouiller le chat";
-"ARCHIVE_LOCK_LOCK_TITLE" = "Débloquer le chat";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "Débloquer le chat";
+"ARCHIVE_LOCK_LOCK_TITLE" = "Verouiller le chat";
 "ARCHIVE_LOCK_UNLOCK_MESSAGE" = "Lorsqu'un nouveau message est reçu, le chat va revenir à la liste des discussions.";
 "ARCHIVE_LOCK_LOCK_MESSGAE" = "Si vous recevez de nouveaux messages de ce chat, il ne reviendra pas vers la liste des Chats.";
 "ARCHIVE_LOCK_LOCK_BUTTON" = "Verrouiller";

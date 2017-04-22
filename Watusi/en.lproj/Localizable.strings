@@ -151,8 +151,8 @@
 "ARCHIVE_LOCK_DESC" = "Long press on chats in archive view in order to lock into archived chats which means the locked chat will not be moved back into chats list when it receives a new message. You can manage locked chats from the top right button on archived chats view.";
 "ARCHIVE_LOCK_LABEL" = "Archive Lock Interface";
 "ARCHIVE_LOCKED_CHATS" = "Locked Chats";
-"ARCHIVE_LOCK_UNLOCK_TITLE" = "Lock Chat";
-"ARCHIVE_LOCK_LOCK_TITLE" = "Unlock Chat";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "Unlock Chat";
+"ARCHIVE_LOCK_LOCK_TITLE" = "Lock Chat";
 "ARCHIVE_LOCK_UNLOCK_MESSAGE" = "When a new message is received, the chat will move back to chats list.";
 "ARCHIVE_LOCK_LOCK_MESSGAE" = "If you receive new messages from this chat, it will not move back to Chats list.";
 "ARCHIVE_LOCK_LOCK_BUTTON" = "Lock";
