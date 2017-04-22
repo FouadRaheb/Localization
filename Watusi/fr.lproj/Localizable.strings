@@ -98,7 +98,7 @@
 "TAP_TO_RECORD_LABEL" = "Tapper pour enregistrer";
 "TAP_TO_RECORD_SLIDE_LABEL" = "tapper & glisser pour annuler";
 
-"CALL_CONFIRM_DESC" = "Obtenez une alerte de confirmation lorsque vous appuyez sur les boutons d'appel vocal ou vidéo, vous pouvez également choisir entre un appel WhatsApp ou un appel normalisé. \ NVous pouvez également confirmer les appels lorsque vous tapez sur la cellule de contact dans l'historique des appels.";
+"CALL_CONFIRM_DESC" = "Obtenez une alerte de confirmation lorsque vous appuyez sur les boutons d'appel vocal ou vidéo, vous pouvez également choisir entre un appel WhatsApp ou un appel normalisé.";
 "CALL_CONFIRM_LABEL" = "Confirmation d'appel";
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmer l'appel dans les récents";
 "START_VIDEO_CALL_WITH" = "Démarrer l'appel vidéo avec";

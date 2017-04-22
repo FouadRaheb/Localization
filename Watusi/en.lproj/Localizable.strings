@@ -98,7 +98,7 @@
 "TAP_TO_RECORD_LABEL" = "Tap To Record";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tap & Slide to Cancel";
 
-"CALL_CONFIRM_DESC" = "Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.\nYou can also confirm calls when tapping on contact cell in call history.";
+"CALL_CONFIRM_DESC" = "Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.";
 "CALL_CONFIRM_LABEL" = "Call Confirm";
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirm Call Tap In Recents";
 "START_VIDEO_CALL_WITH" = "Start video call with";
@@ -304,7 +304,7 @@
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contacts";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favorites";
 
-"MY_NUMBER" = "My Number: ";
+"MY_NUMBER" = "My Number:";
 "%zd_CONTACTS" = "%zd Contacts";
 
 "DISABLE_LARGE_EMOJI_DESC" = "Disable converting single emoji message into a larger emoji.";
