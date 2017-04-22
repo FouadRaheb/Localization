@@ -226,6 +226,8 @@
 "CHAT_PROTECTION_LOCKED_CHATS" = "Chats verrouillés";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Verrouiller tous les Chats";
 "CHAT_PROTECTION_USE_TOUCH_ID" = "Utiliser Touch ID";
+"CHAT_PROTECTION_UNLOCK_BUTTON" = "Ouvrir";
+"CHAT_PROTECTION_LOCK_BUTTON" = "Fermer";
 
 "HIDE_LAST_MESSAGE_LABEL" = "Masquer le dernier message";
 "HIDE_LAST_MESSAGE_NONE" = "Aucun";
