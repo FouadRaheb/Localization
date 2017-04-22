@@ -381,6 +381,7 @@
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Bulle sortante couleur BG";
 "COULEUR" = "Couleur";
 
+"ENABLE_BUBBLE_OPACITY_LABEL" = "Activer l'opacité des bulles";
 "INCOMING_BUBBLE_OPACITY_LABEL" = "Opacité de la bulle entrante";
 "OUTGOING_BUBBLE_OPACITY_LABEL" = "Opération de la bulle sortante";
 

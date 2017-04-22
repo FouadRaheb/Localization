@@ -381,6 +381,7 @@
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Outgoing Bubble BG Color";
 "COLOR" = "Color";
 
+"ENABLE_BUBBLE_OPACITY_LABEL" = "Enable Bubbles Opacity";
 "INCOMING_BUBBLE_OPACITY_LABEL" = "Incoming Bubble Opacity";
 "OUTGOING_BUBBLE_OPACITY_LABEL" = "Outgoing Bubble Opacity";
 
