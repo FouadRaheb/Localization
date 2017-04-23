@@ -40,7 +40,7 @@
 "LASTSEEN_AUTO_SWITCH_DESC" = "Auto set your Lastseen privacy to Nobody when WhatsApp enter background and set it back to 'My Contacts' when you open WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Lastseen Privacy Auto switch";
 
-"MY_CONTACTS_PRIVACY_DESC" = "Select contacts you wish to exclude from the list of your contacts sent to WhatsApp server. Contacts that are not sent to server will not be able to view your picture/status/lastseen only if you set WhatsApp privacy to 'My contacts'.\n\nNOTE:\n1) You'll not be able to edit/delete your blacklisted contacts if you have this feature enabled.\n2)Your blocked contacts' profile picture thumbnails will not change until you open their picture and load the new one. \n3) You will receive status media from your blacklisted contacts. \n4) If you have 'Stalky' tweak installed, you will not receive stalky updates for blacklisted contacts.";
+"MY_CONTACTS_PRIVACY_DESC" = "Select contacts you wish to exclude from the list of your contacts sent to WhatsApp server. Contacts that are not sent to server will not be able to view your picture/status/lastseen only if you set WhatsApp privacy to 'My contacts'.\n\nNOTE:\n1) You'll not be able to edit/delete your blacklisted contacts if you have this feature enabled.\n2)Your blocked contacts' profile picture thumbnails will not change until you open their picture and load the new one. \n3) You will not receive status media from your blacklisted contacts. \n4) If you have 'Stalky' tweak installed, you will not receive stalky updates for blacklisted contacts.";
 "MY_CONTACTS_PRIVACY_LABEL" = "My Contacts Privacy";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Blacklisted Contacts";
 
