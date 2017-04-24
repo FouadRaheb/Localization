@@ -382,7 +382,11 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Dimensione del nome del contatto nella nuvoletta";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Colore del testo della chat in arrivo";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Colore del testo della chat in uscita";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Colore del testo della chat in uscita";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Incoming Chat Timestamp Color";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+
 "CHAT_URL_COLOR_LABEL" = "Colore dell'URL della chat";
 "TEXT_INPUT_COLOR_LABEL" = "Colore in input del testo";
 

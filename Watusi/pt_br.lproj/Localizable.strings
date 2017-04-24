@@ -373,7 +373,11 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamanho dos balões de nomes de contatos";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo recebido";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Incoming Chat Timestamp Color";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+
 "CHAT_URL_COLOR_LABEL" = "Cor do URL do bate-papo";
 "TEXT_INPUT_COLOR_LABEL" = "Cor de entrada de texto";
 

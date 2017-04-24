@@ -373,7 +373,11 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Bulle Contact Nom taille";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Couleur du texte du chat entrant";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Couleur du texte du message sortant";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Couleur du texte du chat sortant";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Couleur du timestamp du chat entrant";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Couleur du timestamp du chat sortant";
+
 "CHAT_URL_COLOR_LABEL" = "Couleur de l'URL du Chat";
 "TEXT_INPUT_COLOR_LABEL" = "Couleur d'entrée de texte";
 

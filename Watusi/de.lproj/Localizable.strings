@@ -249,7 +249,7 @@
 "SHARE_SHEET_LABEL" = "Medien Menü";
 "SHARE_SHEET_ACTIVE_BUTTONS" = "Aktive Buttons";
 "SHARE_SHEET_STYLE" = "Style";
-"SHARE_SHEET_STYLE_DEFAULT" = "Standart";
+"SHARE_SHEET_STYLE_DEFAULT" = "Standard";
 "SHARE_SHEET_STYLE_IMAGE_PICKER" = "Fotoauswahl";
 "SHARE_SHEET_STYLE_DARK" = "Dunkel";
 "SHARE_SHEET_STYLE_WHITE" = "Weiß";
@@ -300,7 +300,7 @@
 
 "REPLACE_CAMERA_TAB_DESC" = "Ersetzt den neuen Kamera Tab mit den alten Kontakt oder Favoriten Seiten.";
 "REPLACE_CAMERA_TAB_LABEL" = "Kamera Tab";
-"REPLACE_CAMERA_TAB_DEFAULT" = "Standart";
+"REPLACE_CAMERA_TAB_DEFAULT" = "Standard";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Kontakte";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoriten";
 
@@ -373,7 +373,11 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Größe von Kontaktname in Blase";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Textfarbe eingehender Chats";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Textfarbe ausgehender Chats";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Textfarbe ausgehender Chats";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Incoming Chat Timestamp Color";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+
 "CHAT_URL_COLOR_LABEL" = "Textfarbe von URLs";
 "TEXT_INPUT_COLOR_LABEL" = "Textfarbe von Eingabe";
 
@@ -387,7 +391,7 @@
 
 "KEYBOARD_STYLE_DESC" = "Tastatur Stil";
 "KEYBOARD_STYLE_LABEL" = "Tastatur";
-"KEYBOARD_STYLE_DEFAULT" = "Standart";
+"KEYBOARD_STYLE_DEFAULT" = "Standard";
 "KEYBOARD_STYLE_DARK" = "Dunkel";
 "KEYBOARD_STYLE_DARK_BLUE" = "Dunkel & Blau";
 
@@ -489,7 +493,7 @@
 /* Button */
 
 "GROUPS" = "Gruppen";
-"DEFAULT" = "Standart";
+"DEFAULT" = "Standard";
 "DELETE" = "Löschen";
 "CANCEL" = "Abbrechen";
 "OKAY" = "Okay";

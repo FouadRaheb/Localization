@@ -373,7 +373,11 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "حجم اسم جهة الاتصال في الفقاعة";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المستقبل";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المرسل";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المرسل";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المستقبل";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المرسل";
+
 "CHAT_URL_COLOR_LABEL" = "لون الشات";
 "TEXT_INPUT_COLOR_LABEL" = "لون خط الشات";
 
