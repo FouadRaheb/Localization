@@ -64,6 +64,8 @@
 "DELETE_ALL_LOGS_WARNING" = "Cette action supprime TOUS les journaux.";
 "DELETE_ALL_LOGS_FOR_WARNING" = "Cette action supprimera tous les journaux pour";
 
+"RELAUNCH_MESSAGE" = "Vous devez relancer WhatsApp afin d'appliquer les modifications";
+
 /* Notifications */
 "EN LIGNE" = "En ligne";
 "OFFLINE" = "Hors ligne";

@@ -64,6 +64,8 @@
 "DELETE_ALL_LOGS_WARNING" = "This action will delete ALL logs.";
 "DELETE_ALL_LOGS_FOR_WARNING" = "This action will delete all logs for";
 
+"RELAUNCH_MESSAGE" = "You need to relaunch WhatsApp in order to apply changes";
+
 /* Notifications */
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";

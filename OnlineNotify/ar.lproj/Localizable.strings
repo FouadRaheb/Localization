@@ -64,6 +64,8 @@
 "DELETE_ALL_LOGS_WARNING" = "حذف جميع السجلات";
 "DELETE_ALL_LOGS_FOR_WARNING" = "حذف جميع السجلات ل";
 
+"RELAUNCH_MESSAGE" = "تحتاج إلى إعادة تشغيل WhatsApp من أجل تطبيق التغييرات";
+
 /* Notifications */
 "ONLINE" = "متصل الآن";
 "OFFLINE" = "غير متصل";
