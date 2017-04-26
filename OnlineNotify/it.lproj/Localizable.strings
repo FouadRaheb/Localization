@@ -1,0 +1,78 @@
+/* Settings */
+"ONLINE_CONTACTS" = "Contatti online";
+"PREFERENCES" = "Preferenze";
+"TRACKING_TABLE" = "Lista di monitoraggio";
+"CONTACT_LOGS" = "Log dei contatti";
+
+"ENABLE_DESCRIPTION" = "Attiva per ricevere notifiche";
+"ENABEL_LABEL" = "Attiva notifiche";
+
+"ONLINE_NOTIFICATION_LABEL" = "Notifica accesso";
+"OFFLINE_NOTIFICATION_LABEL" = "Notifica disconnessione";
+"TYPING_NOTIFICATION_LABEL" = "Notifica digitazione";
+"READ_MESSAGE_NOTIFICATION_LABEL" = "Notifica lettura";
+"NOTIFICATIONS_DESCRIPTION" = "- Ricevi notifiche accesso/disconnessione per contatti selezionati. (Aggiungi i contatti desiderati dalla lista di monitoraggio.\n- Ricevi una notifica quando uno dei tuoi contatti ti sta scrivendo.\n- Ricevi una notifica quando un tuo contatto legge un tuo messaggio.";
+
+"LOG_NOTIFCATIONS_LABEL" = "Log delle notifiche";
+"LOG_NOTIFCATIONS_DESCRIPTION" = "Log di tutte le notifiche di accesso/disconnessione/scrittura, puoi controllare il log dalla tabella di log.";
+
+"SELECTED_TYPING_LABEL" = "Notifica di scrittura per contatti preferiti";
+"SELECTED_READ_MESSAGE_LABEL" = "Notifica di lettura per contatti preferiti";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "Ricevi una notifica di lettura/scrittura solo per i contatti preferiti selezionati nella tabella di monitoraggio.";
+
+"SHOW_TEST_NOTIFICATION" = "Mostra un esempio di notifica";
+"TEST_NOTIFICATION_MESSAGE" = "Esempio di notifica";
+
+"NOTIFICATION_SOUND_LABEL" = "Suoni di notifica";
+"NOTIFICATION_SOUND_DESCRIPTION" = "Scegli un suono per le notifiche.";
+
+"OUTSIDE_NOTIFICATIONS" = "Notifiche all'esterno";
+"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Ricevi notifiche di OnlineNotify fuori da WhatsApp (nella Home- e Lockscreen).\nWhatsApp deve essere aperto in background e il tuo stato sarà costantemente online.";
+
+"FAVORITES_LIST_LABEL" = "Lista dei preferiti";
+"FAVORITES_LIST_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nella lista preferiti di Watusi che sostituisce la scheda \"camera\".\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista preferiti di Watusi.";
+
+"GROUP_MEMBERS_LABEL" = "Membri dei gruppi";
+"GROUP_MEMBERS_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nei gruppi.\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista dei membri dei gruppi.";
+
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Aggiunge una riga sopra alla lista delle chat per controllare i contatti online.";
+"ONLINE_CONTACTS_LIST_LABEL" = "Lista contatti online";
+
+"ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp deve essere riavviato per attivare le notifiche";
+"DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp deve essere riavviato per disattivare le notifiche";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "L'attivazione delle notifiche esterne mantiene attivo il WiFi dopo che il dispositivo viene bloccato, e sarai sempre online, anche se WhatsApp è in background";
+
+"CHATS_LIST_LABEL" = "Lista chat";
+"CHATS_LIST_DESCRIPTION" = "Aggiunge un indicatore verde accanto agli utenti online nella lista delle chat.";
+
+"ONLINE_INDICATOR" = "Indicatore online";
+"LAST_SEEN" = "Ultimo accesso";
+
+"ADD_CONTACT" = "Aggiungi contatto";
+"CONTACT_ALREADY_EXISTS" = "Il contatto è già presente";
+
+"RELAUNCH" = "Riavvia";
+"LATER" = "Dopo";
+"CANCEL" = "Annulla";
+"OKAY" = "Okay";
+"DELETE" = "Elimina";
+"ENABLE" = "Attiva";
+"EXPORT" = "Exporta";
+
+/* Messages */
+"ZIP_AND_EXPORT_LOGS" = "Comprimi ed esporta tutti i log";
+"DELETE_ALL_LOGS_WARNING" = "Questa azione eliminerà tutti i log.";
+"DELETE_ALL_LOGS_FOR_WARNING" = "Questa azione eliminerà tutti i log per.";
+
+"RELAUNCH_MESSAGE" = "Whatsapp deve essere riavviato per rendere effettive le modifiche";
+
+/* Notifications */
+"ONLINE" = "Online";
+"OFFLINE" = "Offline";
+"IS_TYPING" = "sta scrivendo...";
+"IS_NOW_ONLINE" = "si è connesso";
+"HAS_GONE_OFFLINE_AT" = "si è disconnesso alle";
+"HAS_READ_YOUR_MESSAGES" = "ha letto il tuo messaggio";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha letto il tuo messaggio nel gruppo";
+"HAS_RECEIVED_YOUR_MESSAGES" = "ha ricevuto il tuo messaggio";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha ricevuto il tuo messaggio nel gruppo";
