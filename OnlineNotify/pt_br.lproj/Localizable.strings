@@ -1,0 +1,78 @@
+/* Settings */
+"ONLINE_CONTACTS" = "Contatos Online";
+"PREFERENCES" = "Preferências";
+"TRACKING_TABLE" = "Lista de Rastreamento";
+"CONTACT_LOGS" = "Registros de Contatos";
+
+"ENABLE_DESCRIPTION" = "Ativar para começar a receber notificações";
+"ENABEL_LABEL" = "Ativar para começar a receber notificações";
+
+"ONLINE_NOTIFICATION_LABEL" = "Notificações Online";
+"OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
+"TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
+"READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
+"NOTIFICATIONS_DESCRIPTION" = "- - Receba notificações on-line / off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
+
+"LOG_NOTIFCATIONS_LABEL" = "Registro de Notificações";
+"LOG_NOTIFCATIONS_DESCRIPTION" = "Registre todas as notificações de Online/Offline/Digitando que você receber,  você pode checar na aba ‘Registro de Contatos’.";
+
+"SELECTED_TYPING_LABEL" = "Digitando para favoritos";
+"SELECTED_READ_MESSAGE_LABEL" = "Mensagem Lida para favoritos";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "Receba notificação de digitaçao e leitura apenas dos contatos favoritos que você selecionou na ‘Lista de Rastreamento’.";
+
+"SHOW_TEST_NOTIFICATION" = "Mostrar exemplo de notificação";
+"TEST_NOTIFICATION_MESSAGE" = "Notificação de exemplo";
+
+"NOTIFICATION_SOUND_LABEL" = "Som de Notificação";
+"NOTIFICATION_SOUND_DESCRIPTION" = "Escolha um som para as notificações.";
+
+"OUTSIDE_NOTIFICATIONS" = "Notificações Externas";
+"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obter notificações do  OnlineNotify fora do WhatsApp.\n Observe que o WhatsApp precisa estar ativo em segundo plano e você será mostrado como Online.";
+
+"FAVORITES_LIST_LABEL" = "Lista de Favoritos";
+"FAVORITES_LIST_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de favoritos do Watusi que substitui a guia da câmera.\n - Substitua o status dos contatos com o último visto na lista de favoritos do Watusi.";
+
+"GROUP_MEMBERS_LABEL" = "Participantes de Grupos";
+"GROUP_MEMBERS_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de participantes do grupo.\n - Substituir o status dos contatos pela última vez vistos na lista de membros do grupo.";
+
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos on-line.";
+"ONLINE_CONTACTS_LIST_LABEL" = "Lista de Contatos Online";
+
+"ENABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para ativar as notificações";
+"DISABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para desativar as notificações";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "A ativação de notificações externas manterá seu Wi-Fi ativo após o bloqueio do dispositivo e você será sempre exibido como Online mesmo quando o WhatsApp estiver em segundo plano";
+
+"CHATS_LIST_LABEL" = "Lista de Chats";
+"CHATS_LIST_DESCRIPTION" = "Adiciona um indicador verde ao lado de Usuários Online na lista de bate-papo.";
+
+"ONLINE_INDICATOR" = "Indicador online";
+"LAST_SEEN" = "Último visto";
+
+"ADD_CONTACT" = "Adicionar Contato";
+"CONTACT_ALREADY_EXISTS" = "Contato já existe";
+
+"RELAUNCH" = "Re-abrir";
+"LATER" = "Depois";
+"CANCEL" = "Cancelar";
+"OKAY" = "Ok";
+"DELETE" = "Deletar";
+"ENABLE" = "Ativar";
+"EXPORT" = "Exportar";
+
+/* Messages */
+"ZIP_AND_EXPORT_LOGS" = "Zipar e exportar os registros";
+"DELETE_ALL_LOGS_WARNING" = "Essa ação apagara TODOS os registros.";
+"DELETE_ALL_LOGS_FOR_WARNING" = "Essa ação apagara registros de";
+
+"RELAUNCH_MESSAGE" = "Você precisa re-abrir o WhatsApp para aplicar as alterações";
+
+/* Notifications */
+"ONLINE" = "Online";
+"OFFLINE" = "Offline";
+"IS_TYPING" = "digitando...";
+"IS_NOW_ONLINE" = "está online agora";
+"HAS_GONE_OFFLINE_AT" = "ficou off-line às";
+"HAS_READ_YOUR_MESSAGES" = "leu suas mensagens";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "leu suas mensagens no grupo";
+"HAS_RECEIVED_YOUR_MESSAGES" = "recebeu sua mensagem";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "recebeu suas mensagens do grupo";
