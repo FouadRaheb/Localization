@@ -40,7 +40,7 @@
 
 "ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp deve essere riavviato per attivare le notifiche";
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp deve essere riavviato per disattivare le notifiche";
-"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "L'attivazione delle notifiche esterne mantiene attivo il WiFi dopo che il dispositivo viene bloccato, e sarai sempre online, anche se WhatsApp è in background";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "L'attivazione delle notifiche esterne mantiene attivo il WiFi dopo che il dispositivo viene bloccato, e sarai sempre online anche se WhatsApp è in background";
 
 "CHATS_LIST_LABEL" = "Lista chat";
 "CHATS_LIST_DESCRIPTION" = "Aggiunge un indicatore verde accanto agli utenti online nella lista delle chat.";
@@ -57,7 +57,7 @@
 "OKAY" = "Okay";
 "DELETE" = "Elimina";
 "ENABLE" = "Attiva";
-"EXPORT" = "Exporta";
+"EXPORT" = "Esporta";
 
 /* Messages */
 "ZIP_AND_EXPORT_LOGS" = "Comprimi ed esporta tutti i log";
