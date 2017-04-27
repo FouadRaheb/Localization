@@ -32,7 +32,7 @@
 "FORCE_SEND_TYPING_TO" = "Forçar envio de que está digitando para...";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar os recibos de leitura e os indicadores de digitação na sua página de informações de contato para ativá-la/desativá-la diretamente para esse contato.";
-"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostrar controles na página de informações";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Controles na página de informações";
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Seus contatos não verão que você recebeu suas mensagens. Ele mostrará apenas um cheque.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desativar recibos de entrega";
@@ -70,12 +70,12 @@
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF salvo na biblioteca";
 
 
-"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desativar a marcação automática de visualizada";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desativar auto-marcacar visualizada";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desativar a marcação automática do status de seus contatos conforme visualizado e enviar manualmente os recibos vistos usando o botão Watusi. Os status marcados como visualizados não mostrarão o botão de marcar forçado.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adiciona a opção para criar grupos de contatos e facilmente selecioná-los/desmarcá-los do seletor de contatos do WhatsApp.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Mostrar os grupos de contatos";
-"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "Você ainda não tem nenhum grupo de contatos, use o botão + button para criar um.";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "Você ainda não tem nenhum grupo de contatos, use o botão + para criar um.";
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Contatos";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Contatos";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Novo Grupo";
@@ -92,7 +92,7 @@
 "CHATS_ADDONS_LABEL" = "Complementos para o Chat";
 
 "ABOUT_ON_CHATS_DESC" = "Mostre o recado do seu contato em uma pequena barra na parte superior da tela de bate-papo";
-"ABOUT_ON_CHATS_LABEL" = "SObreo Chat";
+"ABOUT_ON_CHATS_LABEL" = "Sobre o Chat";
 
 "TAP_TO_RECORD_DESC" = "Toque uma vez para iniciar a gravação e toque novamente em para enviar ou toque e deslize para excluir.";
 "TAP_TO_RECORD_LABEL" = "Toque para gravar";
@@ -118,7 +118,7 @@
 "FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Mensagem de %zd enviado para %zd contatos.";
 
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Adiciona um ícone ao lado das mensagens dos contatos que são enviadas para você por meio de transmissão, para ajudá-lo a diferenciá-lo das mensagens que são enviadas diretamente para você.";
-"BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de mensagem de transmissão";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de transmissão";
 
 "IN_APP_BROWSER_DESC" = "Abra URLs da web dentro do WhatsApp em vez de alternar para safari.";
 "IN_APP_BROWSER_LABEL" = "Navegados dentro do app";
@@ -175,7 +175,7 @@
 "PINNED_CHATS_HEADER_ALL_TITLE" = "Todas os Chats";
 
 "PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "Desafixar chat do topo?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Deafixar";
+"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Desafixar";
 "PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "Fixar chat no topo?";
 "PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "Fixar";
 
@@ -201,7 +201,7 @@
 "SWIPE_TO_DELETE_BUTTON" = "Deslize para deletar chat";
 "SWIPE_TO_DELETE_MESSAGE" = "Deletar chat";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "Substitua o novo 'marcar como lido' deslizando para direita no bate-papo por 'informaçãoe de contato'";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "Substitua o novo 'marcar como lido' deslizando para direita no bate-papo por 'informaçãoe de contato";
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Deslize para informações de contato";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Informações";
 
@@ -299,7 +299,7 @@
 "USER_INTERFACE_LABEL" = "Interface do Usuário";
 
 "REPLACE_CAMERA_TAB_DESC" = "Substitua o novo botão de câmera com a antiga página de Contatos ou Favoritos.";
-"REPLACE_CAMERA_TAB_LABEL" = "Botão de Câmera";
+"REPLACE_CAMERA_TAB_LABEL" = "Botão Câmera";
 "REPLACE_CAMERA_TAB_DEFAULT" = "Padrão";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contatos";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoritos";
@@ -352,8 +352,8 @@
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Título";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Nome do Contato";
 
-"HIDE_MUTED_BADGES_DESC" = "Esconda os números de notificação do WhatsApp para bate-papos e grupos silenciados.";
-"HIDE_MUTED_BADGES_LABEL" = "Esconder números de notificação silenciados";
+"HIDE_MUTED_BADGES_DESC" = "Esconda os números de notificação do WhatsApp para bate-papos e grupos silenciados (balão vermelho com número).";
+"HIDE_MUTED_BADGES_LABEL" = "Esconder números de notificação";
 
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Substituir ícone WhatsApp nas notificações com a sua imagem de perfil de contato";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Ícone de Notificação";
@@ -370,19 +370,19 @@
 "FONTS_LABEL" = "Fontes";
 
 "BUBBLE_TEXT_SIZE_LABEL" = "Tamanho dos balões de mensagens";
-"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamanho dos balões de nomes de contatos";
+"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamanho dos balões de nomes";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo recebido";
-"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
+"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
 
-"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Incoming Chat Timestamp Color";
-"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor Data e Hora Recebidos";
+"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor Data e Hora Enviados";
 
 "CHAT_URL_COLOR_LABEL" = "Cor do URL do bate-papo";
 "TEXT_INPUT_COLOR_LABEL" = "Cor de entrada de texto";
 
-"INCOMING_BUBBLE_BG_COLOR_LABEL" = "Cor de fundo dos balões de mensagens recebidas";
-"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Cor de fundo dos balões de mensagens enviadas";
+"INCOMING_BUBBLE_BG_COLOR_LABEL" = "BG balões de mensagens recebidas";
+"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "BG balões de mensagens enviadas";
 "COLOR" = "Cor";
 
 "ENABLE_BUBBLE_OPACITY_LABEL" = "Ativar Opacidade da Bolha";
@@ -393,7 +393,7 @@
 "KEYBOARD_STYLE_LABEL" = "Teclado";
 "KEYBOARD_STYLE_DEFAULT" = "Padrão";
 "KEYBOARD_STYLE_DARK" = "Escuro";
-"KEYBOARD_STYLE_DARK_BLUE" = "Escuro e Azul";
+"KEYBOARD_STYLE_DARK_BLUE" = "Escuro & Azul";
 
 
 /* Contacts Blacklist */
