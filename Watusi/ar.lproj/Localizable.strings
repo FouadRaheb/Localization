@@ -110,8 +110,8 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "عرض صورة الملف الشخصي للعضو في المجموعة بجوار رسائلهم في الدردشة الجماعية. يمكنك أيضا النقر لعرض في معاينة الصورة.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "صور اعضاء المجموعة";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عدد رسائل أعضاء المجموعة";
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عرض عدد الرسائل لكل عضو في صفحة المجموعة";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد الرسائل لكل عضو في صفحة المجموعة";
 
 "MESSAGE_FORWARD_DESC" = "إضافة زر جديد إلى الأمام للدردشة تحرير شريط الأدوات الذي يستخدم لإعادة توجيه رسائل متعددة لأكثر من جهة اتصال واحدة في وقت واحد.";
 "MESSAGE_FORWARD_LABEL" = "إعادة توجيه الرسالة";

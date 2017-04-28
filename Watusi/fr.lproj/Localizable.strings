@@ -110,8 +110,8 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Afficher l'image de profil du membre du groupe à côté de leurs messages en groupe. Vous pouvez aussi cliquer sur l'aperçu de l'image";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Image des membres du groupe";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Nombre de Groupe Membres Msgs";
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Afficher le nombre de messages pour chaque membre dans la page de groupe.";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Nombre de Groupe Membres Msgs";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Afficher le nombre de messages pour chaque membre dans la page de groupe.";
 
 "MESSAGE_FORWARD_DESC" = "Ajoute un nouveau bouton avant à la barre d'outils d'édition de discussion qui permet de transmettre plusieurs messages à plus d'un contact à la fois.";
 "MESSAGE_FORWARD_LABEL" = "Message Forward";

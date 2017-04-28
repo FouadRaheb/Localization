@@ -110,8 +110,8 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Zeigt das Profilbild von Gruppenmitgliedern neben ihrer Nachricht. Außerdem kannst auf das Bild tippen, für eine Vorschau.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Bilder von Gruppenmitgliedern";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Group Members Msgs Count";
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Display the number of messages for each member in the group page.";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Group Members Msgs Count";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Display the number of messages for each member in the group page.";
 
 "MESSAGE_FORWARD_DESC" = "Fügt einen neuen Weiterleitungsbutton hinzu, welcher mehrere Nachrichten an mehrere Kontakte gleichzeitig weiterleiten kann.";
 "MESSAGE_FORWARD_LABEL" = "Nachricht weiterleiten";

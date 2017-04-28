@@ -110,8 +110,8 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Show group member profile picture next to their messages in group chat. You can also tap to view in image preview.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Group Members Picture";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Group Members Msgs Count";
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Display the number of messages for each member in the group page.";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Group Members Msgs Count";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Display the number of messages for each member in the group page.";
 
 "MESSAGE_FORWARD_DESC" = "Adds a new forward button to chat edit toolbar which is used to forward multiple messages to more than one contact at a time.";
 "MESSAGE_FORWARD_LABEL" = "Message Forward";
