@@ -110,6 +110,9 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostrar la imagen de perfil del miembro del grupo junto a sus mensajes en el chat en grupo. También puede tocar para ver la vista previa de la imagen.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagen de los miembros del grupo";
 
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Group Members Msgs Count";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Display the number of messages for each member in the group page.";
+
 "MESSAGE_FORWARD_DESC" = "Añade un nuevo botón de avance a la barra de herramientas de edición de chat que se utiliza para reenviar varios mensajes a más de un contacto a la vez.";
 "MESSAGE_FORWARD_LABEL" = "Mensaje eviado";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Contactos  No Selecionados";

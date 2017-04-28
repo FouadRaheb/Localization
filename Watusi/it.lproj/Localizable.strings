@@ -110,6 +110,9 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostra l'immagine profilo dei membri dei gruppi accanto ai loro messaggi nelle chat di gruppo, Puoi anche cliccare sulle foto per visualizzarne un'anteprima.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Immagini dei membri del gruppo";
 
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Group Members Msgs Count";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Display the number of messages for each member in the group page.";
+
 "MESSAGE_FORWARD_DESC" = "Aggiunge un nuovo tasto di inoltro nella barra di modifica della chat che è utilizzata per inoltrare più messaggi a più di un contatto alla volta.";
 "MESSAGE_FORWARD_LABEL" = "Inoltra messaggio";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Nessun contatto selezionato";

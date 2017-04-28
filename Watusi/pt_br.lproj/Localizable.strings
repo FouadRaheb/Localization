@@ -110,6 +110,9 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostrar a imagem do perfil do membro do grupo junto às suas mensagens no chat de grupo. Você também pode tocar para exibir na visualização da imagem.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagem dos membros do grupo";
 
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Group Members Msgs Count";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Display the number of messages for each member in the group page.";
+
 "MESSAGE_FORWARD_DESC" = "Adiciona um novo botão de envio para a barra de ferramentas de edição de bate-papo, que é usado para encaminhar várias mensagens para mais de um contato por vez.";
 "MESSAGE_FORWARD_LABEL" = "Messagem enviada";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Nenhum contato selecionado";
