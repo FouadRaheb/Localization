@@ -69,10 +69,8 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Condividi come GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF salvata nel rullino foto";
 
-
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Disattiva 'Segna come visto'";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Attivando questa opzione, quando visualizzerai gli aggiornamenti allo stato dei tuoi contatti, essi non verranno segnati automaticamente come visti. Dovrai utilizzate il tasto di Watusi per inviare manualmente la conferma di averlo visto. Non visualizzerai quel tasto negli aggiornamenti allo stato già impostati come visti.";
-
 
 "STATUS_CONTACT_GROUPS_DESC" = "Aggiunge l'opzione per creare gruppi di contatti per selezionarli/deselezionarli facilmente dal selettore contatti di WhatsApp.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Mostra i gruppi di contatti";
@@ -109,7 +107,6 @@
 "CARRIER_CALL_BUTTON" = "Chiamata tramite operatore";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "La chiamata tramite operatore non è disponibile!";
 
-
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostra l'immagine profilo dei membri dei gruppi accanto ai loro messaggi nelle chat di gruppo, Puoi anche cliccare sulle foto per visualizzarne un'anteprima.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Immagini dei membri del gruppo";
 
@@ -124,7 +121,6 @@
 
 "IN_APP_BROWSER_DESC" = "Apri i link dentro WhatsApp invece di aprire Safari.";
 "IN_APP_BROWSER_LABEL" = "Browser in-app";
-
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Aggiungi un tasto in alto a sinistra della chat broadcast quando elimini i messaggi per cancellare la chat.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Cancella chat broadcast";
@@ -150,8 +146,6 @@
 "CONTACT_ABOUT_DATE_DESC" = "Aggiungi l'opzione per visualizzare l'info dei tuoi contatti nella loro sezione info contatto che è stato rimossa da WhatsApp nei loro aggiornamenti recenti.";
 "CONTACT_ABOUT_DATE_LABEL" = "Data dell'info del contatto";
 "CONTACT_ABOUT_DATE_FORMAT" = "Formato della data";
-
-
 
 "ARCHIVE_LOCK_DESC" = "Premi a lungo sulle chat archiviate per bloccarle in quella sezione. Le chat bloccate non verranno rispostate nella lista delle chat quando riceveranno un nuovo messaggio. Puoi gestire le chat bloccate utilizzando il tasto in alto a destra nella sezione delle chat archiviate.";
 "ARCHIVE_LOCK_LABEL" = "Interfaccia delle chat bloccate";
@@ -219,7 +213,6 @@
 "INCREASE_ABOUT_LENGHT_LABEL" = "Lunghezza della tua info";
 
 
-
 /* Protection */
 
 "PROTECTION_LABEL" = "Protezione";
@@ -277,8 +270,6 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Blocca contatto";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Sblocca contatto";
 
-
-
 "BLOCK" = "Blocca";
 "UNBLOCK" = "Sblocca";
 "BLOCK_CONTACT" = "Blocca contatto";
@@ -314,7 +305,6 @@
 
 "MY_NUMBER" = "Il mio numero:";
 "%zd_CONTACTS" = "%zd contatti";
-
 
 "DISABLE_LARGE_EMOJI_DESC" = "Disattiva la visualizzazione delle emoji giganti";
 "DISABLE_LARGE_EMOJI_LABEL" = "Disattiva emoji giganti";
@@ -352,7 +342,6 @@
 
 /* Notifications */
 
-
 "NOTIFICATIONS_LABEL" = "Notifiche";
 
 "PRIVATE_NOTIFICATION_DESC" = "Sostituisci il contenuto delle notifiche WhatsApp con uno specifico messaggio per proteggere la tua privacy.\nPuoi anche lasciarlo in bianco.";
@@ -368,12 +357,15 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Sostituisci l'icona di WhatsApp nelle notifiche con l'immagine del profilo del tuo contatto";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Icona notifica";
 
+
 /* Theme */
 
 "THEME_LABEL" = "Tema";
 
 "ENABLE_APP_TINTCOLOR_LABEL" = "Attiva la tinta del colore dell'app";
 "APP_TINTCOLOR_LABEL" = "Colore tinta dell'app";
+
+"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
 
 "CHAT_FONTNAME_LABEL" = "Nome del font chat";
 "FONTS_LABEL" = "Font";
@@ -404,22 +396,8 @@
 "KEYBOARD_STYLE_DARK_BLUE" = "Scuro e blu";
 "THEME_LABEL" = "Tema";
 
-"ENABLE_APP_TINTCOLOR_LABEL" = "Enable App Tint Color";
-"APP_TINTCOLOR_LABEL" = "App Tint Color";
-
-"CHAT_FONTNAME_LABEL" = "Chat Font Name";
-"FONTS_LABEL" = "Fonts";
-
 
 /* Contacts Blacklist */
-
-"CONTACTS_BLACKLIST_LABEL" = "Contacts Blacklist";
-"CONTACTS_BLACKLIST_DESC" = "Blacklisting contacts will hide their chat from the chats list and show an empty chat when opening it from somewhere else. You can only view your blacklisted chats content from this page. You'll not receive new messages notifications from blacklisted chats.";
-"BLACKLISTED_CONTACTS" = "Blacklisted Contacts";
-"BLACKLISTED_CHATS_MESSAGES" = "Blacklisted Chats Messages";
-"PROTECT_BLACKLIST_SETTINGS" = "Protect Blacklist Settings";
-"ENABLE_BLACKLIST_LABEL" = "Enable";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "You can not send messages in a blacklisted chat.";
 
 "CONTACTS_BLACKLIST_LABEL" = "Contatti in lista nera";
 "CONTACTS_BLACKLIST_DESC" = "Le chat dei contatti in lista nera saranno nascosti della lista delle chat e verrà mostrata una chat vuota aprendola da qualsiasi altra sezione. Potrai visualizzare il contenuto delle chat in lista nera solamente da questa pagina. Non riceverai le notifiche dei messaggi in lista nera.";
@@ -455,7 +433,6 @@
 "AUTO_REPLY_DELAY_THIRTY_MINUTES" = "30 minuti";
 "AUTO_REPLY_DELAY_ONE_HOUR" = "1 ora";
 
-
 "AUTO_REPLY_ON_LABEL" = "Rispondi";
 "AUTO_REPLY_TIME_RANGE_LABEL" = "Stabilisci il tempo";
 "AUTO_REPLY_ENABLE_TIME_RANGE_LABEL" = "Attiva range di autorisposta";
@@ -472,7 +449,6 @@
 "AUTO_REPLY_FILTER_WHITELIST" = "Lista bianca";
 "AUTO_REPLY_FILTER_BLACKLIST" = "Lista nera";
 "AUTO_REPLY_FILTER_DESC" = "Seleziona un filtro della lista nera se desideri escludere alcuni contatti dalla funzione di autorisposta o della lista bianca per rispondere automaticamente solamente ad alcuni contatti.";
-
 
 
 /* Scheduled Messages */
@@ -514,6 +490,7 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Pubblica un tweet per 2 giorni senza pubblicità";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Devi accedere al tuo account per acquistare Watusi.";
 "LOADING" = "Caricamento...";
+
 
 /* Button */
 

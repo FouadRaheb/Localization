@@ -69,7 +69,6 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "مشاركة كGIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الGIF للمكتبة";
 
-
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل آظهار رؤية الحالة";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل وسم حالات جهات الاصتال كمرئية عند عرضها و اتاحة القيام بذلك يدويا. الحالات التي تعرضها يدويا و ترسل انك رأيتها لن تحتوي على زر وسم الرؤية";
 
@@ -366,6 +365,8 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "تفعيل تلوين التطبيق";
 "APP_TINTCOLOR_LABEL" = "تلوين التطبيق";
 
+"ENABLE_FONT_STYLE_LABEL" = "تفعيل نمط الخط";
+
 "CHAT_FONTNAME_LABEL" = "اسم نوع خط المحادثة";
 "FONTS_LABEL" = "Fonts";
 
@@ -490,6 +491,7 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "يتوجب عليك التسجيل لشراء الرخصة";
 "LOADING" = "جاري التحميل...";
 
+
 /* Button */
 
 "GROUPS" = "مجموعات";
@@ -510,6 +512,7 @@
 
 
 /* Messages */
+
 "RELAUNCH_MESSAGE" = "واتساب يحتاج لاعدة الفتح لتطبيق التغيرات";
 "RELAUNCH_FEATURE_MESSAGE" = "عليك باعادة فتح الواتساب لتمكين هذه الخاصية او الميزة";
 "OLD_VERSION_ALERT" = "Watusi يدعم اخر اضدار من الواتس اب..الرجاء التحديث من متجر التطبيقات";

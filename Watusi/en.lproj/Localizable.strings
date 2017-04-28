@@ -69,7 +69,6 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Share as GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF Saved to Library";
 
-
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Disable Auto Mark Viewed";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Disable auto marking your contacts status as viewed and manually send viewed receipts using Watusi button. Statuses marked as viewed will not show the force mark button.";
 
@@ -366,6 +365,8 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Enable App Tint Color";
 "APP_TINTCOLOR_LABEL" = "App Tint Color";
 
+"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
+
 "CHAT_FONTNAME_LABEL" = "Chat Font Name";
 "FONTS_LABEL" = "Fonts";
 
@@ -490,6 +491,7 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "You have to login with your account in order to purchase Watusi.";
 "LOADING" = "Loading...";
 
+
 /* Button */
 
 "GROUPS" = "Groups";
@@ -510,6 +512,7 @@
 
 
 /* Messages */
+
 "RELAUNCH_MESSAGE" = "WhatsApp needs to relaunch in order to apply changes";
 "RELAUNCH_FEATURE_MESSAGE" = "You need to relaunch WhatsApp in order to enable this feature.";
 "OLD_VERSION_ALERT" = "Watusi supports only latest WhatsApp version, please update WhatsApp from the AppStore.";

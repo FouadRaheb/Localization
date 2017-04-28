@@ -69,7 +69,6 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Partager en tant que GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF enregistré dans la bibliothèque";
 
-
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Désactiver la marque automatique vue";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Désactiver le marquage automatique de votre état des contacts en tant que visualisé et envoyer manuellement les reçus consultés à l'aide du bouton Watusi. Les états marqués comme affichés ne montrent pas le bouton de la marque de force.";
 
@@ -366,6 +365,8 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Activer la couleur de la teinte de l'application";
 "APP_TINTCOLOR_LABEL" = "Couleur de la teinte de l'application";
 
+"ENABLE_FONT_STYLE_LABEL" = "Activer le style de la police";
+
 "CHAT_FONTNAME_LABEL" = "Nom de la police de conversation";
 "FONTS_LABEL" = "Fonts";
 
@@ -490,6 +491,7 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "Vous devez vous connecter avec votre compte afin d'acheter Watusi.";
 "CHARGEMENT" = "Chargement...";
 
+
 /* Bouton */
 
 "GROUPS" = "Groupes";
@@ -510,6 +512,7 @@
 
 
 /* Messages */
+
 "RELAUNCH_MESSAGE" = "WhatsApp doit se relancer afin d'appliquer les modifications";
 "RELAUNCH_FEATURE_MESSAGE" = "Vous devez relancer WhatsApp afin d'activer cette fonctionnalité.";
 "OLD_VERSION_ALERT" = "Watusi prend en charge uniquement la dernière version de WhatsApp, mettez à jour WhatsApp à partir de l'AppStore.";
