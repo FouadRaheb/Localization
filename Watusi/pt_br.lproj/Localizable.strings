@@ -110,8 +110,8 @@
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostrar a imagem do perfil do membro do grupo junto às suas mensagens no chat de grupo. Você também pode tocar para exibir na visualização da imagem.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagem dos membros do grupo";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Group Members Msgs Count";
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Display the number of messages for each member in the group page.";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Num. msgs de grupo por usuário";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Exibir o número de mensagens enviado por cada membro na página de grupo";
 
 "MESSAGE_FORWARD_DESC" = "Adiciona um novo botão de envio para a barra de ferramentas de edição de bate-papo, que é usado para encaminhar várias mensagens para mais de um contato por vez.";
 "MESSAGE_FORWARD_LABEL" = "Messagem enviada";
@@ -368,7 +368,7 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Ativar cor do matiz do aplicativo";
 "APP_TINTCOLOR_LABEL" = "Cor do matiz do aplicativo";
 
-"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
+"ENABLE_FONT_STYLE_LABEL" = "Ativar Estilo de Fonte";
 
 "CHAT_FONTNAME_LABEL" = "Nome da fonte do chat";
 "FONTS_LABEL" = "Fontes";
