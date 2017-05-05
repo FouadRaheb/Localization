@@ -1,0 +1,521 @@
+/* Preferences */
+
+"WATUSI_PREFERENCES_LABEL" = "Watusi הגדרות";
+"DEBUG_MENU" = "Debug תפריט";
+
+
+/* Privacy */
+
+"PRIVACY_LABEL" = "פרטיות";
+
+"FREEZE_LASTSEEN_LABEL" = "הקפאת הנראה לאחרונה";
+"FREEZE_LASTSEEN_DESC" = "לא תוצג/י לאחרים כמחובר/ת ולא תוכל/י לראות לאחרים את הנראה לאחרונה";
+
+"DISABLE_READ_RECEIPTS_LABEL" = "ביטול וי כחול";
+"READ_RECEIPTS_DESC" = "אחרים לא יוכלו לראות את הוי הכחול שלך , אבל את/ה תוכל/י לראות את שלהם";
+"NEVER_SEND_RECEIPTS_TO" = "...בחיים אל תשלח/י וי כחול ל";
+"FORCE_SEND_RECEIPTS_TO" = "...שלח/י וי כחול ל";
+
+"FORCE_RECEIPTS_ON" = "...שלח/י וי כחול ל";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = ".ההודעה נשלחה";
+"FORCE_RECEIPTS_ON_START_TYPING" = "/המקליד";
+"FORCE_RECEIPTS_ON_NEVER" = "בחיים לא";
+
+"WHITELIST" = "רשימה לבנה";
+"BLACKLIST" = "רשימה שחורה";
+"SEND_TYPING_INDICATOR_BUTTON" = "הצג לאחרים אותי כמקליד/ה";
+"SEND_READ_RECEIPTS_BUTTON" = "שלח/י לאחרים וי כחול";
+
+"DISABLE_TYPING_LABEL" = "ביטול המקליד/ה בשורת הסטטוס";
+"DISABLE_TYPING_DESC" = "אנשי הקשר לעולם לא יראו אותך בסטטוס מקליד/ה";
+"NEVER_SEND_TYPING_TO" = "...בחיים לא לשלוח מקליד/ה אל";
+"FORCE_SEND_TYPING_TO" = "...לשלוח מקליד/ה אל";
+
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "הצג אפשרויות אלו גם בפרטי איש הקשר";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "הצגת אפשרויות אלו בפרטי איש קשר";
+
+"DISABLE_DELIVERY_RECEIPTS_DESC" = ".האנשי קשר שלך לא יראו שקיבלת את ההודעה, יציג רק וי אחד";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "ביטול קבלת הודעה";
+
+"LASTSEEN_AUTO_SWITCH_DESC" = "להגדיר את הפרטיות שלך באופן אוטומטי כאף אחד כאשר הוואטסאפ ממוזער וכאשר תיכנס/י מחדש הוא יחזור לכולם";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "פרטיות נראה לאחרונה אוטומטי";
+
+"MY_CONTACTS_PRIVACY_DESC" = "בחר אנשים שאתה רוצה להוציא אותם מהרשימה שישלחו לשרת הוואטסאפ, אנשים לא יוכלו לראות את התמונות/סטטוס/נראה לאחרונה שלך. הערה: תצטרך לטעון את התמונה שלהם באופן ידני,לא תקבל התראות מהם.";
+"MY_CONTACTS_PRIVACY_LABEL" = "פרטיות אנשי הקשר שלי";
+"MY_CONTACTS_BLACKLISTED_LABEL" = "הרשימה השחורה של אנשי הקשר";
+
+"DISABLE_VOIP_DESC" = "ביטול שיחות בתוך הוואטסאפ";
+"DISABLE_VOIP_LABEL" = "ביטול שיחות";
+
+
+/* Status Addons */
+
+"STATUS_ADDONS_LABEL" = "סטטוס";
+
+"STATUS_DOWNLOAD_BUTTON_LABEL" = "הראה כפתור הורדה";
+"STATUS_DOWNLOAD_BUTTON_DESC" = ".הוסף כפתור הורדה בצד ימין של הסטטוס כדי לשמור את התמונה/סרטון";
+
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "שמור את התמונה לגלרייה";
+"STATUS_DOWNLOAD_IMAGE_SHARE" = "שתף תמונה";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = ".התמונה נשמרה בגלרייה";
+
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = ".שמור וידאו לגלרייה";
+"STATUS_DOWNLOAD_VIDEO_SHARE" = "שתף וידאו.";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = ".הוידאו נשמר בגלרייה";
+
+"STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "שמור כוידאו";
+"STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "GIF - שמור כ";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "שתף כוידאו";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "GIF - שתף כ";
+"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "נשמר בגלרייה GIF ה";
+
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "ביטול צפייה אוטומטית בסטורי";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "ביטול צפייה אוטומטית ושלח באופן ידני כשצפית בסטורי של האיש קשר.";
+
+"STATUS_CONTACT_GROUPS_DESC" = "הוסף את האפשרות ליצור קבוצת אנשי קשר בזריזות";
+"STATUS_CONTACT_GROUPS_LABEL" = "הצג קבוצות אנשי קשר";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "(+) אין לך קבוצות אנשי קשר כדי להוסיף קבוצה לחץ על ה";
+"STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "איש קשר";
+"STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "אנשי קשר";
+"STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "קבוצה חדשה";
+"STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "הכנס שם קבוצה";
+"STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "שם קבוצה";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "ניהול";
+
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "ביטול דילוג אוטומטי לסטורי הבא";
+"STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "ביטול דילוג אוטומטי";
+
+
+/* Chats Addons */
+
+"CHATS_ADDONS_LABEL" = "תוספות לצא'טים";
+
+"ABOUT_ON_CHATS_DESC" = "הראה את הסטטוס במלבן קטן מתחת לשם של האיש קשר";
+"ABOUT_ON_CHATS_LABEL" = "סטטוס במלבן קטן";
+
+"TAP_TO_RECORD_DESC" = "לחץ לחיצה קצרה כדי להתחיל הקלטה ולסיים אותה";
+"TAP_TO_RECORD_LABEL" = "לחיצה קצרה במקום ארוכה להקלטה";
+"TAP_TO_RECORD_SLIDE_LABEL" = "החלק כדי לבטל את ההקלטה";
+
+"CALL_CONFIRM_DESC" = "קבל התראת אישור בעת הקשה על חיוג לאיש קשר דרך הוואטסאפ";
+"CALL_CONFIRM_LABEL" = "אישור שיחות";
+"CALL_CONFIRM_RECENTS_LABEL" = "אישור שיחה אחרונים";
+"START_VIDEO_CALL_WITH" = "התחל שיחת וידאו עם";
+"START_VOICE_CALL_WITH" = "התחלת שיחת קול עם";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "שיחת וידאו - וואטסאפ";
+"WHATSAPP_VOICE_CALL_BUTTON" = "שיחה קולית - וואטסאפ";
+"CARRIER_CALL_BUTTON" = "שיחה רגילה - טלפון";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "!בלתי אפשרי לחייג מן הטלפון";
+
+"GROUP_MEMBERS_PICTURE_DESC" = "הצג תמונת פרופיל של איש קשר ליד ההודעה שלו בקבוצה";
+"GROUP_MEMBERS_PICTURE_LABEL" = "תמונת פרופיל בצד ההודעה בקבוצה";
+
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "מספר הודעות קבוצתיות";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "הצג את כמות ההודעות של כל משתמש בקבוצה.";
+
+"MESSAGE_FORWARD_DESC" = "הוספת לחצן חדש להעברת הודעות מרובות ללא הגבלה וליותר מאיש אחד בכל פעם.";
+"MESSAGE_FORWARD_LABEL" = "העברת הודעות";
+"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "לא נבחרו אנשי קשר";
+"MESSAGE_FORWARD_BUTTON_TITLE" = "העברה";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "העבר %zd הודעות %zd אנשי קשר.";
+
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "מוסיף סמל לצד הודעות האנשי הקשר שנשלחו אליך בהודעות שידור כדי להבדיל בין הודעות רגילות לשידור.";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "סימון הודעות שידור";
+
+"IN_APP_BROWSER_DESC" = "פתח בחלון אינטרנט במקום בדפדפן הספארי.";
+"IN_APP_BROWSER_LABEL" = "חלון אינטרנט בתוך האפליקצייה";
+
+"CLEAR_BROADCAST_BUTTON_DESC" = "הוסף לחצן בפינה השמאלית עליונהה של השידור בעת מחיקת הודעות כדי לנקות את כל הצ'אט.";
+"CLEAR_BROADCAST_BUTTON_LABEL" = "מחיקת הודעות שידור";
+"CLEAR_BROADCAST_ALERT_MESSAGE" = "מחיקת היסטורית שידורים";
+"CLEAR_BROADCAST_ALERT_BUTTON" = "ניקוי";
+"CLEAR_BROADCAST_NAVBAR_BUTTON" = "ניקוי צ'אט";
+
+"SEND_RETURN_KEY_DESC" = "החלף את מקש האנטר במקש שליחת ההודעה.";
+"SEND_RETURN_KEY_LABEL" = "החלפת מקש האנטר בשליחת הודעה";
+
+
+/* Other Addons */
+
+"OTHER_ADDONS_LABEL" = "תוספות שונות";
+
+"CALL_RECORDER_DESC" = "הקלט את כל השיחות היוצאות והנכנסות בוואטסאפ, אפשרי לבדוק את ההקלטות בטאב של ההקלטות.";
+"CALL_RECORDER_LABEL" = "מקליט שיחות";
+"CALL_RECRODER_RECORDINGS_BUTTON" = "הקלטות";
+"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "הפעולה הזו תמחוק את כל ההקלטות %@";
+"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "הקלטות %d מחק";
+"CALL_RECORDER_DELETE_CURRENT_RECORDING" = "מחק את ההקלטה הנוכחית";
+
+"CONTACT_ABOUT_DATE_DESC" = "הוסף את האפשרות לראות את מידע פרטי איש הקשר שהוסר על ידי וואטסאפ בעדכון האחרון.";
+"CONTACT_ABOUT_DATE_LABEL" = "פרטי מידע איש קשר";
+"CONTACT_ABOUT_DATE_FORMAT" = "פורמט תאריך";
+
+"ARCHIVE_LOCK_DESC" = "לחיצה ארוכה על הצ'אט בארכיון כדי לנעול את הצאט. אפשרות להשאיר את הצאט בתוך הארכיון גם אם הוא יקבל התראה.";
+"ARCHIVE_LOCK_LABEL" = "נעילת צ'אט בארכיון";
+"ARCHIVE_LOCKED_CHATS" = "צ'אטים נעולים";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "פתח נעילה לצ'אט";
+"ARCHIVE_LOCK_LOCK_TITLE" = "צ'אטים נעולים";
+"ARCHIVE_LOCK_UNLOCK_MESSAGE" = "שתתקבל הודעה חדשה הצ'אט יועבר לשיחות באופן אוטומטי";
+"ARCHIVE_LOCK_LOCK_MESSGAE" = "אם תקבל הודעה בצ'אט הזה, הוא לא יעבור לרשימת השיחות.";
+"ARCHIVE_LOCK_LOCK_BUTTON" = "נעל";
+"ARCHIVE_LOCK_UNLOCK_BUTTON" = "בטל נעילה";
+"ARCHIVE_LOCK_TABLE_TITLE" = "נעולים בארכיון";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "הצ'אט נעול בארכיון/n האם תרצה לשחרר אותו ?";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "בטל נעילה & שיחרור מהארכיון";
+
+"PIN_CHATS_INTERFACE_DESC" = "לחיצה ארוכה על הצאט ברשימת שיחות כדי להצמיד אותו למסך העליון.";
+"PIN_CHATS_INTERFACE_LABEL" = "הצמדת צ'אטים למסך העליון";
+"PINNED_CHATS" = "צ'אטים שהוצמדו";
+"PINNED_CHATS_STICK_TO_TOP" = "הצמד למסך העליון";
+
+"PINNED_CHATS_DELETE_MESSAGE" = "אתה מנסה למחוק צ'אט שהוצמד, האם תרצה לבטל הצמדה ולמחוק?";
+"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "בטל הצמדה & מחק";
+"PINNED_CHATS_ARCHIVE_MESSAGE" = "אתה מנסה לשלוח לארכיון צ'אט שהוצמד למסך , האם לבטל הצמדה ולשלוח לארכיון?";
+"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "בטל הצמדה & שלח לארכיון";
+
+"PINNED_CHATS_HEADER_PINNED_TITLE" = "צ'אטים שהוצמדו";
+"PINNED_CHATS_HEADER_ALL_TITLE" = "כל הצ'אטים";
+
+"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "לבטל הצמדה מהמסך העליון?";
+"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "בטל הצמדה מהמסך העליון";
+"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "להצמיד את הצ'אט למסך העליון";
+"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "הצמד";
+
+"GROUPS_LIST_DESC" = "הוסף סמל כדי לראות את כל הקבוצות הקיימות";
+"GROUPS_LIST_LABEL" = "רשימת קבוצות";
+"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "דף ברירת מחדל";
+"GROUPS_LIST_GROUP_LABEL" = "קבוצות";
+"GROUPS_LIST_BROADCAST_LABEL" = "שידור";
+
+"OPEN_PICTURE_ON_TAP_DESC" = "זה יפתח את התמונת פרופיל של האיש קשר כשתלחץ על התמונה שלו.";
+"OPEN_PICTURE_ON_TAP_LABEL" = "פתח תמונת פרופיל בלחיצה";
+
+"NEW_CHAT_OPTIONS_DESC" = "בלחיצה על יצירת צ'אט חדש תהיה אפשרות להכניס מספר טלפון מבלי להוסיף לאנשי הקשר.";
+"NEW_CHAT_OPTIONS_LABEL" = "אפשרויות יצירת אנשי קשר";
+"NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "צור שיחה חדשה";
+"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "בחר איש קשר";
+"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "הכנס מספר (התחל ב972 במקום הספרה 0)";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "הכנס מספר: (התחל ב972 במקום הספרה 0 )";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "התחל שיחה";
+
+"SWIPE_TO_DELETE_DESC" = "החלקה ארוכה שמאלה כדי למחוק צ'אט";
+"SWIPE_TO_DELETE_LABEL" = "החלק כדי למחוק צ'אט";
+"SWIPE_TO_DELETE_BUTTON" = "החלק כדי למחוק צ'אט";
+"SWIPE_TO_DELETE_MESSAGE" = "מחק צ'אט";
+
+"SWIPE_FOR_CONTACT_INFO_DESC" = "החלף את ההחלקה ימינה כדי לקבל פרטים על איש הקשר";
+"SWIPE_FOR_CONTACT_INFO_LABEL" = "החלק כדי לקבל פרטי איש קשר";
+"SWIPE_FOR_CONTACT_INFO_BUTTON" = "פרטי איש קשר";
+
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "הוסף כפתור חדש בקבוצה/שידור כדי לסמן/לבטל את כולם! זה עובר את ההגבלה של 256 אנשים!";
+"GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "סמן את כולם בקבוצה/שידור";
+"GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "כולם";
+"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "אף אחד";
+
+"INCREASE_ABOUT_LENGHT_DESC" = "הגדל את האורך בין 139 ל256";
+"INCREASE_ABOUT_LENGHT_LABEL" = "מידע על אורך";
+
+
+/* Protection */
+
+"PROTECTION_LABEL" = "הגנות";
+
+"DELETE_APP_PASSCODE" = "מחק את סיסמאת האפליקציה";
+"SET_APP_PASSCODE" = "הגדר סיסמא לאפליקציה";
+"USE_TOUCH_ID" = "השתמש בטביעת אצבע";
+
+"CHAT_PROTECTION_LABEL" = "הגנה על שיחת הצ'אט";
+"CHAT_PROTECTION_LOCKED_CHATS" = "צ'אטים נעולים";
+"CHAT_PROTECTION_LOCK_ALL_CHATS" = "נעל את כל הצ'אטים";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "השתמש בטביעת אצבע";
+"CHAT_PROTECTION_UNLOCK_BUTTON" = "בטל נעילה";
+"CHAT_PROTECTION_LOCK_BUTTON" = "נעל";
+
+"HIDE_LAST_MESSAGE_LABEL" = "הסתר הודעות אם נעול";
+"HIDE_LAST_MESSAGE_NONE" = "אף אחד";
+"HIDE_LAST_MESSAGE_LOCKED" = "נעולים";
+"HIDE_LAST_MESSAGE_ALL" = "כולם";
+
+"BYPASS_PROTECTION_LABEL" = "עוקף הגנות";
+"BYPASS_PROTECTION_DESC" = "הכנס את השם של האינטרנט האלחוטי כדי שיזהה שאתה בבית ותוכל לגשת להכל מבלי להכניס מחדש כל פעם סיסמא";
+"BYPASS_APP_PROTECTION_LABEL" = "עקוף סיסמאת אפליקציה";
+"BYPASS_CHAT_PROTECTION_LABEL" = "עקוף סיסמאת צ'אטים";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "אינטרנט אלחוטי בטוח";
+
+
+/* Media */
+
+"MEDIA_LABEL" = "מדיה";
+
+"SHARE_SHEET_DESC" = "הוסף עוד אפשרויות לשיתוף מדיה, כמו שלח תמונה אחרונה מהגלריה,מוזיקה,חסימה ועוד.";
+"SHARE_SHEET_LABEL" = "ערכת נושא לאפשרויות שיתוף";
+"SHARE_SHEET_ACTIVE_BUTTONS" = "אפשרויות פעילות";
+"SHARE_SHEET_STYLE" = "סגנון";
+"SHARE_SHEET_STYLE_DEFAULT" = "ברירת מחדל";
+"SHARE_SHEET_STYLE_IMAGE_PICKER" = "בחר תמונה";
+"SHARE_SHEET_STYLE_DARK" = "שחור(מומלץ)";
+"SHARE_SHEET_STYLE_WHITE" = "לבן";
+
+"SHARE_SHEET_BUTTONS_LABEL" = "כפתורי ערכת נושא";
+"SHARE_SHEET_ENABLED_LABEL" = "מאופשר";
+"SHARE_SHEET_DISABLED_LABEL" = "מבוטל";
+
+"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "צלם תמונה או סרטון";
+"SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "שלח תמונה/סרטון מהגלרייה";
+"SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "גלריית תמונות";
+"SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "גלריית וידאו";
+"SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "שלח תמונה אחרונה שבגלרייה";
+"SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "שתף מסמך";
+"SHARE_SHEET_SHARE_LOCATION_BUTTON" = "שתף מיקום";
+"SHARE_SHEET_SHARE_CONTACT_BUTTON" = "שתף איש קשר";
+"SHARE_SHEET_SHARE_MUSIC_BUTTON" = "שתף מוזיקה";
+"SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "חסום/ביטול חסימה לאיש קשר";
+"SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "חסום איש קשר";
+"SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "ביטול חסימה לאיש קשר";
+
+"BLOCK" = "חסום";
+"UNBLOCK" = "ביטול חסימה";
+"BLOCK_CONTACT" = "חסום איש קשר";
+"UNBLOCK_CONTACT" = "ביטול חסימה לאיש קשר";
+"BLOCK_CONTACT_MESSAGE" = "לחץ על חסום כדי להפסיק לקבל הודעות משיחה זו.";
+"UNBLOCK_CONTACT_MESSAGE" = "לחץ על ביטול חסימה כדי לקבל הודעות משיחה זו.";
+
+"SHARE_DEVICE_FILES_DESC" = "הוסף כפתור לשיתוף מסמכים כדי לשתף מסמכים מהמכשיר שלך";
+"SHARE_DEVICE_FILES_LABEL" = "שתף מסמכים מהמכשיר";
+"SHARE_DEVICE_FILES_BUTTON" = "קבצים מהמכשיר";
+
+"SELECT_UNLIMITED_PHOTOS_DESC" = "שלח תמונות ללא הגבלה";
+"SELECT_UNLIMITED_PHOTOS_LABEL" = "תמונות ללא הגבלה";
+
+"MEDIA_DELETE_BUTTON_DESC" = "הוסף כפתור חדש במדיה כדי למחוק את כל המדיה של הצ'אט בשיחה הנוכחית.";
+"MEDIA_DELETE_BUTTON_LABEL" = "כפתור מחיקת מדיה";
+"MEDIA_DELETE_ALERT_MESSAGE" = "מחק את כל המדיה בשיחה הזו";
+
+"MEDIA_FORWARD_BUTTON_DESC" = "הוסף כפתור חדש כדי לשלוח את המדיה לאנשי קשר מרובים.";
+"MEDIA_FORWARD_BUTTON_LABEL" = "כפתור העברת מדיה";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "העבר מדיה ל %zd";
+
+
+/* User Interface */
+
+"USER_INTERFACE_LABEL" = "ממשק משתמש";
+
+"REPLACE_CAMERA_TAB_DESC" = "החלף את כפתור הסטורי בכפתור אנשי הקשר או המועדפים הישן.";
+"REPLACE_CAMERA_TAB_LABEL" = "כפתור הסטורי";
+"REPLACE_CAMERA_TAB_DEFAULT" = "ברירת מחדל";
+"REPLACE_CAMERA_TAB_CONTACTS" = "אנשי קשר";
+"REPLACE_CAMERA_TAB_FAVORITES" = "מועדפים";
+
+"MY_NUMBER" = ":המספר שלי";
+"%zd_CONTACTS" = "%zd כמות אנשי קשר";
+
+"DISABLE_LARGE_EMOJI_DESC" = "ביטול הגדלת אמוג'י יחיד בצ'אט";
+"DISABLE_LARGE_EMOJI_LABEL" = "בטל אימוג'י גדול";
+
+"SHOW_SECONDS_DESC" = "הוסף שניות לוי הכחול של השיחה";
+"SHOW_SECONDS_LABEL" = "הראה שניות";
+
+"AUTO_SHOW_KEYBOARD_DESC" = "הצג מקלדת לאחר שנכנסת לצ'אט";
+"AUTO_SHOW_KEYBOARD_LABEL" = "הצג מקלדת";
+
+"DISABLE_LANDSCAPE_DESC" = "ביטול הפיכת המסך לצד";
+"DISABLE_LANDSCAPE_LABEL" = "ביטול סיבוב מסך";
+
+"MUTE_SOUND_DESC" = "השתק את ההתראות וההקלדה במקלדת";
+"MUTE_SOUND_LABEL" = "השתק סאונד";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "השתק הקלדה על המקלדת";
+
+"HIDE_CHAT_BUTTONS_DESC" = "החבא כפתורי המצלמה וההקלטה בצ'אט";
+"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "החבא מצלמה";
+"HIDE_CHAT_MIC_BUTTON_LABEL" = "החבא הקלטה";
+
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "החבא את תמונת הפרופיל של איש הקשר בתוך הצ'אט";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "החבא תמונת פרופיל";
+
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "החבא את אפשרות הוידאו והשיחה בצ'אט.";
+"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "החבא את כפתור השיחה בצ'אט";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "החבא את כפתור הוידאו בצ'אט";
+
+"FULLSCREEN_MODE_DESC" = "החבא את הסטטוס בר בצ'אט.";
+"FULLSCREEN_MODE_LABEL" = "מסך מלא";
+
+"IPAD_FULLSCREEN_MODE_DESC" = "פתח את הוואטסאפ כמו באייפד";
+"IPAD_FULLSCREEN_MODE_LABEL" = "מסך מלא כמו באייפד";
+
+
+/* Notifications */
+
+"NOTIFICATIONS_LABEL" = "התראות";
+
+"PRIVATE_NOTIFICATION_DESC" = "החלף את ההתראות בוואטסאפ בהודעה מיוחדת כדי להגן על הפרטיות (אפשר להשאיר ריק)";
+"PRIVATE_NOTIFICATION_LABEL" = "התראות פרטיות";
+"PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "הודעה";
+"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "הודעת התראה";
+"PRIVATE_NOTIFICATION_TITLE_LABEL" = "כותרת";
+"PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "שם האיש קשר";
+
+"HIDE_MUTED_BADGES_DESC" = "הסתר התראות לקבוצות ושיחות מושתקות.";
+"HIDE_MUTED_BADGES_LABEL" = "הסתר התראות מושתקות";
+
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "החלף את הרקע בהתראות של האפליקציה עם התמונת פרופיל של האיש קשר";
+"CONTACT_ICON_NOTIFICATION_LABEL" = "אייקון התראה";
+
+
+/* Theme */
+
+"THEME_LABEL" = "ערכת נושא";
+
+"ENABLE_APP_TINTCOLOR_LABEL" = "הפעל צבע לאפליקציה";
+"APP_TINTCOLOR_LABEL" = "צבע אפליקציה";
+
+"ENABLE_FONT_STYLE_LABEL" = "הפעל סגנון פונט";
+
+"CHAT_FONTNAME_LABEL" = "שינוי פונט הטקסט";
+"FONTS_LABEL" = "פונטים";
+
+"BUBBLE_TEXT_SIZE_LABEL" = "גודל בועת ההודעה";
+"BUBBLE_NAME_TEXT_SIZE_LABEL" = "גודל בועת ההודעה של איש הקשר";
+
+"INCOMING_CHAT_TEXT_COLOR_LABEL" = "צבע ההודעה הנכנסת";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "צבע ההודעה היוצאת";
+
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "צבע חתימת השעה בהודעה נכנסת";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "צבע חתימת השעה בהודעה יוצאת";
+
+"CHAT_URL_COLOR_LABEL" = "צבע של קישור לינק";
+"TEXT_INPUT_COLOR_LABEL" = "צבע ההודעה בטקסט";
+
+"INCOMING_BUBBLE_BG_COLOR_LABEL" = "צבע הרקע של ההודעה שנכנסת";
+"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "צבע הרקע של ההודעה שיוצאת";
+"COLOR" = "Color";
+
+"ENABLE_BUBBLE_OPACITY_LABEL" = "הפעל אטימות בועה";
+"INCOMING_BUBBLE_OPACITY_LABEL" = "אטימות בועה של ההודעה הנכנסת";
+"OUTGOING_BUBBLE_OPACITY_LABEL" = "אטימות בועה של ההודעה היוצאת";
+
+"KEYBOARD_STYLE_DESC" = "סגנון מקלדת";
+"KEYBOARD_STYLE_LABEL" = "מקלדת";
+"KEYBOARD_STYLE_DEFAULT" = "ברירת מחדל";
+"KEYBOARD_STYLE_DARK" = "אפור";
+"KEYBOARD_STYLE_DARK_BLUE" = "אפור וכחול (מומלץ!)";
+
+
+/* Contacts Blacklist */
+
+"CONTACTS_BLACKLIST_LABEL" = "רשימה שחורה";
+"CONTACTS_BLACKLIST_DESC" = "לא תקבל התראות מהם, הצ'אט שלהם יוסתר ויוצג צ'אט ריק.";
+"BLACKLISTED_CONTACTS" = "אנשי קשר ברשימה השחורה";
+"BLACKLISTED_CHATS_MESSAGES" = "צ'אטים ברשימה השחורה";
+"PROTECT_BLACKLIST_SETTINGS" = "הגנה על הרשימה השחורה";
+"ENABLE_BLACKLIST_LABEL" = "מאופשר";
+"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "אתה לא יכול לשלוח הודעות לאנשים ברשימה השחורה";
+
+
+/* Auto Reply */
+
+"AUTO_REPLY_LABEL" = "תגובה בחזרה אוטומטית";
+"AUTO_REPLY_ENABLE_LABEL" = "מאופשר";
+"AUTO_REPLY_DESC" = "כשמאופשר, שתקבל הודעה מאיש קשר , אנחנו נשלח לו הודעה אוטומטית.";
+
+"AUTO_REPLY_CONFIGURATION_LABEL" = "הגדרות";
+
+"AUTO_REPLY_MESSAGE_LABEL" = "תגובה אוטומטית בחזרה";
+"AUTO_REPLY_SELECT_MESSAGE" = "בחר הודעה";
+"AUTO_REPLY_MESSAGES_TITLE" = "הודעות";
+"AUTO_REPLY_NO_MESSAGES_FOOTER" = "+אין לך הודעות תשובה בחזרה , להוספה לחץ על סימן ה";
+"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "החלק או לחיצה ארוכה כדי לערוך הודעה";
+"AUTO_REPLY_MESSAGES_EDIT_MESSAGE" = "ערוך הודעה";
+"AUTO_REPLY_MESSAGES_NEW_MESSAGE" = "הודעה חדשה";
+"AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "ההודעה לא יכולה להיות ריקה";
+"AUTO_REPLY_LAST_MODIFIED" = "נערך לאחרונה";
+
+"AUTO_REPLY_DELAY_LABEL" = "דיליי בין הודעה לתגובה האוטומטית";
+"AUTO_REPLY_DELAY_NONE" = "ללא דיליי";
+"AUTO_REPLY_DELAY_ONE_MINUTE" = "דקה אחת";
+"AUTO_REPLY_DELAY_FIVE_MINUTES" = "חמש דקות";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES" = "חצי שעה";
+"AUTO_REPLY_DELAY_ONE_HOUR" = "שעה שלמה";
+
+"AUTO_REPLY_ON_LABEL" = "תגובה בחזרה פועלת";
+"AUTO_REPLY_TIME_RANGE_LABEL" = "טווח זמנים";
+"AUTO_REPLY_ENABLE_TIME_RANGE_LABEL" = "אפשר טווח זמנים";
+"AUTO_REPLY_TIME_RANGE_DESC" = "שלח הודעה אוטומטית בטווח הזמנים";
+"AUTO_REPLY_TIME_RANGE_START_TIME" = "זמן התחלה";
+"AUTO_REPLY_TIME_RANGE_END_TIME" = "זמן סיום";
+"AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "סופי שבוע";
+"AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "כל הסוף שבוע";
+
+"AUTO_REPLY_TO_LABEL" = "הגב ל";
+"AUTO_REPLY_TO_GROUPS_LABEL" = "הגב לקבוצה";
+"AUTO_REPLY_FILTER_LABEL" = "פילטר הודעה בחזרה";
+"AUTO_REPLY_FILTERED_CONTACTS" = "פילטר אנשי קשר";
+"AUTO_REPLY_FILTER_WHITELIST" = "רשימה לבנה";
+"AUTO_REPLY_FILTER_BLACKLIST" = "רשימה שחורה";
+"AUTO_REPLY_FILTER_DESC" = "בחר ברשימה השחורה אם ברצונך לא לכלול אנשי קשר מהתשובה האוטומטית, או ברשימה הלבנה כדי לאפשר מענה אוטומטי לאנשי קשר מסויימים";
+
+
+/* Scheduled Messages */
+
+"MESSAGE_SCHEDULER_LABEL" = "הודעה מתוזמנת";
+"MESSAGE_SCHEDULER_ENABLE_LABEL" = "מאופשר";
+
+"MESSAGE_SCHEDULER_MESSAGES_DESC" = "הצג וצור הודעות מתוזמנות";
+"MESSAGE_SCHEDULER_MESSAGES_LABEL" = "הודעות מתוזמנות";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "אם הלוח זמנים בצבע אדום , הכוונה שהוא כבר עובד ולא פועל יותר";
+"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "זמן ותאריך";
+"MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "קבלות";
+"MESSAGE_SCHEDULER_CREATE_MESSAGE" = "הודעות";
+"MESSAGE_SCHEDULER_CREATE_IMAGE" = "תמונה";
+
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "הצג התראה כאשר ההודעה נשלחה";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "הצג התראה";
+
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "אפשר לחיצה ארוכה על הלחצן שלח כדי לתזמן הודעה מתוזמנת";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "לחיצה ארוכה על הלחצן שלח";
+
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "שלח הודעה עכשיו";
+"MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "הודעות מתוזמנות";
+"MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "צפה בהודעות מתוזמנות";
+
+"MESSAGE_SCHEDULER_CREATE_EDIT" = "ערוך תזמון";
+"MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "הודעה מתוזמת חדשה";
+
+
+/* Accounts & Ad Removal */
+
+"ACCOUNT_AD_REMOVAL_LABEL" = "חשבון & הסרת מודעות";
+"ACCOUNT" = "חשבון";
+"MANAGE_ACCOUNT" = "ניהול משתמש";
+"LOGIN_OR_REGISTER" = "התחבר או הרשם";
+"LOGOUT" = "התנתק";
+"HOW_TO_REMOVE_ADS" = "איך להסיר מודעות";
+"PURCHASE_WATUSI_LICENSE_BUTTON" = "רכוש רישיון לטוויק";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "צייץ בשביל 2 ימים ללא מודעות";
+"LOGIN_TO_PURCHASE_MESSAGE" = "אתה צריך להתחבר למשתמש שלך.";
+"LOADING" = "טוען...";
+
+
+/* Button */
+
+"GROUPS" = "קבוצות";
+"DEFAULT" = "ברירת מחדל";
+"DELETE" = "מחיקה";
+"CANCEL" = "ביטול";
+"OKAY" = "אוקיי";
+"RELAUNCH" = "הפעל מחדש";
+"LATER" = "אחר כך";
+"SEND" = "שלח";
+"ADD" = "הוסף";
+"EDIT" = "עריכה";
+"TO" = "אל";
+"DISMISS" = "דלג";
+"DUPLICATE" = "שכפל";
+"SELECT_ALL" = "בחר הכל";
+"DESELECT_ALL" = "בטל בחירת הכל";
+
+
+/* Messages */
+
+"RELAUNCH_MESSAGE" = "וואטסאפ צריך אתחול כדי לשמור את הנתונים";
+"RELAUNCH_FEATURE_MESSAGE" = "אתה צריך להפעיל מחדש כדי לאפשר אפשרות זו";
+"OLD_VERSION_ALERT" = "הטוויק תומך בגירסא האחרונה של הוואטסאפ , אנא עדכן את האפליקציה!";
