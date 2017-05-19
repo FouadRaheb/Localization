@@ -295,6 +295,8 @@
 "MEDIA_FORWARD_BUTTON_LABEL" = "Taso inoltro media";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Inoltra media a %zd contatti";
 
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Capture Media Save";
 
 /* User Interface */
 
