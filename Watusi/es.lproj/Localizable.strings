@@ -296,7 +296,7 @@
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Avance medios a %zd contacto";
 
 "MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Capture Media Save";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Saving Captured Media";
 
 /* User Interface */
 
