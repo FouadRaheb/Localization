@@ -1,6 +1,9 @@
 /* Settings */
-"ONLINE_CONTACTS" = "جهات الاتصال المتصلة";
+
 "PREFERENCES" = "إعدادات OnlineNotify";
+
+"ONLINE_CONTACTS" = "جهات الاتصال المتصلة";
+
 "TRACKING_TABLE" = "جدول التتبع";
 "CONTACT_LOGS" = "سجلات جهات الاتصال";
 

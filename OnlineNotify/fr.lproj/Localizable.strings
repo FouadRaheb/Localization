@@ -1,6 +1,9 @@
 /* Paramètres */
+
+"PREFERENCES" = "OnlineNotify Préférences";
+
 "ONLINE_CONTACTS" = "Contacts en ligne";
-"PREFERENCES" = "Préférences";
+
 "TRACKING_TABLE" = "Liste de suivi";
 "CONTACT_LOGS" = "Journal des contacts";
 

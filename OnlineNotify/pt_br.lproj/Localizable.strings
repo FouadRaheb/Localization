@@ -1,6 +1,9 @@
 /* Settings */
+
+"PREFERENCES" = "OnlineNotify Preferências";
+
 "ONLINE_CONTACTS" = "Contatos Online";
-"PREFERENCES" = "Preferências";
+
 "TRACKING_TABLE" = "Lista de Rastreamento";
 "CONTACT_LOGS" = "Registros de Contatos";
 
@@ -11,7 +14,7 @@
 "OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
-"NOTIFICATIONS_DESCRIPTION" = "- - Receba notificações on-line / off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
+"NOTIFICATIONS_DESCRIPTION" = "- Receba notificações on-line / off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
 
 "LOG_NOTIFCATIONS_LABEL" = "Registro de Notificações";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre todas as notificações de Online/Offline/Digitando que você receber,  você pode checar na aba ‘Registro de Contatos’.";

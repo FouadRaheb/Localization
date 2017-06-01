@@ -295,8 +295,8 @@
 "MEDIA_FORWARD_BUTTON_LABEL" = "Botón de avance de medios";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Avance medios a %zd contacto";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Saving Captured Media";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Desactivar el guardado de los medios(Fotos/Videos) capturados por la cámara a traves de WhatsApp en la aplicación Fotos del dispositivo.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Desactivar guardado de  medios capturados";
 
 /* User Interface */
 

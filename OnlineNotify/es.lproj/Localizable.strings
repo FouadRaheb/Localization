@@ -1,6 +1,9 @@
 /* Settings */
+
+"PREFERENCES" = "OnlineNotify Preferencias";
+
 "ONLINE_CONTACTS" = "Contactos en línea";
-"PREFERENCES" = "Preferencias";
+
 "TRACKING_TABLE" = "Lista de rastreo";
 "CONTACT_LOGS" = "Registros de contacto";
 

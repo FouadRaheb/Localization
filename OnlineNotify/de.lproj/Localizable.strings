@@ -1,6 +1,9 @@
 /* Settings */
+
+"PREFERENCES"="OnlineNotify Einstellungen";
+
 "ONLINE_CONTACTS"="Kontakte die online sind";
-"PREFERENCES"="Einstellungen";
+
 "TRACKING_TABLE"="Liste der verfolgten Kontakte";
 "CONTACT_LOGS"="Kontakt-Logs";
 
