@@ -220,6 +220,7 @@
 
 "PROTECTION_LABEL" = "Proteção";
 
+"APP_PROTECTION_LABEL" = "Proteção do app";
 "DELETE_APP_PASSCODE" = "Deletar senha do app";
 "SET_APP_PASSCODE" = "Definir senha para o app";
 "USE_TOUCH_ID" = "Usar Touch ID";
@@ -471,6 +472,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Enviar notificação quando a mensagem agendada estiver sendo enviada para o destinatário.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Mostrar Notificação";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Ativar toque longo no botão Enviar dos chats a fim de agendar directamente uma mensagem dos chat.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Toque longo ao enviar";

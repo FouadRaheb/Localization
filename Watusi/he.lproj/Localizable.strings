@@ -220,6 +220,7 @@
 
 "PROTECTION_LABEL" = "הגנות";
 
+"APP_PROTECTION_LABEL" = "App Protection";
 "DELETE_APP_PASSCODE" = "מחק את סיסמאת האפליקציה";
 "SET_APP_PASSCODE" = "הגדר סיסמא לאפליקציה";
 "USE_TOUCH_ID" = "השתמש בטביעת אצבע";
@@ -471,6 +472,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "הצג התראה כאשר ההודעה נשלחה";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "הצג התראה";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "אפשר לחיצה ארוכה על הלחצן שלח כדי לתזמן הודעה מתוזמנת";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "לחיצה ארוכה על הלחצן שלח";

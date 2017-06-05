@@ -220,6 +220,7 @@
 
 "PROTECTION_LABEL" = "الحماية";
 
+"APP_PROTECTION_LABEL" = "حماية التطبيق";
 "DELETE_APP_PASSCODE" = "مسح رمز قفل التطبيق";
 "SET_APP_PASSCODE" = "اعداد رمز قفل التطبيق";
 "USE_TOUCH_ID" = "استخدم مستشعر البصمة";
@@ -471,6 +472,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض إشعار عند إرسال الرسالة إلى مستلمي الجدول الزمني.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "عرض اشعار";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "تمكين الضغظ عل زر ارسال الرسالة على الشات بشكل مطول لاظهار خيارات جدولة الرسائل";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة طويلة على زر الارسال";

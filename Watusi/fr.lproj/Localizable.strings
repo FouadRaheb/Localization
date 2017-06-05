@@ -220,11 +220,12 @@
 
 "PROTECTION_LABEL" = "Protection";
 
+"APP_PROTECTION_LABEL" = "Protection de l'Application";
 "DELETE_APP_PASSCODE" = "Supprimer le code d'accès de l'application";
 "SET_APP_PASSCODE" = "Définir le code d'accès de l'application";
 "USE_TOUCH_ID" = "Utiliser Touch ID";
 
-"CHAT_PROTECTION_LABEL" = "Ignorer la protection des discussions";
+"CHAT_PROTECTION_LABEL" = "Protection des discussions";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Convs verrouillés";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Verrouiller tous les convs";
 "CHAT_PROTECTION_USE_TOUCH_ID" = "Utiliser Touch ID";
@@ -471,6 +472,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Afficher une notification lorsque le message est envoyé aux destinataires";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Afficher la notification";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Activer le bouton d'envoi de la touche longue durée sur les conversations afin de programmer directement un message.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Appuyez longuement sur envoyer";
