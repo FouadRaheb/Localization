@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "إخفاء علمات قرائة الرسائل مع إمكانية روئية علامات قراءة الرسائل من جهات الاتصال الخاصة بك. و يمكنك ازالتها للجهات التي تختارها من كل جهة اتصال على حدى او من القوائم الاخرى في اعدادات watusi";
 "NEVER_SEND_RECEIPTS_TO" = "إخفاء علامات قراءة الرسائل ل...";
 "FORCE_SEND_RECEIPTS_TO" = "فرض إظهار علملات قراءة الرسائل ل...";
-
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "فرض العلامات على..";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "رسالة أرسلت";
 "FORCE_RECEIPTS_ON_START_TYPING" = "يكتب";
@@ -308,6 +308,10 @@
 "REPLACE_CAMERA_TAB_DEFAULT" = "العادي";
 "REPLACE_CAMERA_TAB_CONTACTS" = "جهات الاتصال";
 "REPLACE_CAMERA_TAB_FAVORITES" = "المفضلين";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
 
 "MY_NUMBER" = "رقمي:";
 "%zd_CONTACTS" = "جهات الاتصال %zd";
@@ -497,6 +501,20 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "غرد من اجل يومين خاليين من الاعلانات";
 "LOGIN_TO_PURCHASE_MESSAGE" = "يتوجب عليك التسجيل لشراء الرخصة";
 "LOADING" = "جاري التحميل...";
+
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "Redeem";
+"REDEEM_BUTTON" = "Redeem";
+"REDEEM_CODE" = "Redeem Code";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
+"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
+"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
+"REDEEM_FAILED_TITLE" = "Redeem Failed";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
 
 
 /* Button */

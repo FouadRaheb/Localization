@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Disable read receipts but still see your contacts receipts. You can still enable/disable read receipts for specific contacts from force/never lists or by selecting it on their profile.";
 "NEVER_SEND_RECEIPTS_TO" = "Never Send Receipts to...";
 "FORCE_SEND_RECEIPTS_TO" = "Force Send Receipts to...";
-
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "Force Receipts on...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message Sent";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Typing";
@@ -303,11 +303,15 @@
 
 "USER_INTERFACE_LABEL" = "User Interface";
 
-"REPLACE_CAMERA_TAB_DESC" = "Replace the new camera tab bar with the old Contacts or Favorites pages.";
+"REPLACE_CAMERA_TAB_DESC" = "Replace the new camera tab bar with the old favorites pages.";
 "REPLACE_CAMERA_TAB_LABEL" = "Camera Tab";
 "REPLACE_CAMERA_TAB_DEFAULT" = "Default";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contacts";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favorites";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
 
 "MY_NUMBER" = "My Number:";
 "%zd_CONTACTS" = "%zd Contacts";
@@ -497,6 +501,20 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet for 2 days ad-free";
 "LOGIN_TO_PURCHASE_MESSAGE" = "You have to login with your account in order to purchase Watusi.";
 "LOADING" = "Loading...";
+
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "Redeem";
+"REDEEM_BUTTON" = "Redeem";
+"REDEEM_CODE" = "Redeem Code";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
+"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
+"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
+"REDEEM_FAILED_TITLE" = "Redeem Failed";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
 
 
 /* Button */

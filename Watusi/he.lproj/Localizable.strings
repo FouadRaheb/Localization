@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "אחרים לא יוכלו לראות את הוי הכחול שלך , אבל את/ה תוכל/י לראות את שלהם";
 "NEVER_SEND_RECEIPTS_TO" = "...בחיים אל תשלח/י וי כחול ל";
 "FORCE_SEND_RECEIPTS_TO" = "...שלח/י וי כחול ל";
-
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "...שלח/י וי כחול ל";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = ".ההודעה נשלחה";
 "FORCE_RECEIPTS_ON_START_TYPING" = "/המקליד";
@@ -308,6 +308,10 @@
 "REPLACE_CAMERA_TAB_DEFAULT" = "ברירת מחדל";
 "REPLACE_CAMERA_TAB_CONTACTS" = "אנשי קשר";
 "REPLACE_CAMERA_TAB_FAVORITES" = "מועדפים";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
 
 "MY_NUMBER" = ":המספר שלי";
 "%zd_CONTACTS" = "%zd כמות אנשי קשר";
@@ -497,6 +501,20 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "צייץ בשביל 2 ימים ללא מודעות";
 "LOGIN_TO_PURCHASE_MESSAGE" = "אתה צריך להתחבר למשתמש שלך.";
 "LOADING" = "טוען...";
+
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "Redeem";
+"REDEEM_BUTTON" = "Redeem";
+"REDEEM_CODE" = "Redeem Code";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
+"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
+"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
+"REDEEM_FAILED_TITLE" = "Redeem Failed";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
 
 
 /* Button */

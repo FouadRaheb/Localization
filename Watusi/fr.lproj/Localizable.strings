@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Désactiver les reçus de lecture, mais encore voir vos reçus de contacts. Vous pouvez toujours activer/désactiver les reçus de lecture pour les contacts spécifiques de la force / jamais listé ou en le sélectionnant sur leur profil.";
 "NEVER_SEND_RECEIPTS_TO" = "Ne jamais envoyer de reçus à...";
 "FORCE_SEND_RECEIPTS_TO" = "Forcer l'envoyer des reçus à...";
-
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "Forcer les reçus pour...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message envoyé";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Ecrit";
@@ -308,6 +308,10 @@
 "REPLACE_CAMERA_TAB_DEFAULT" = "Par défaut";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contacts";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoris";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
 
 "MY_NUMBER" = "Mon Numéro:";
 "%zd_CONTACTS" = "%zd Contacts";
@@ -497,6 +501,20 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet pour 2 jours sans publicité";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Vous devez vous connecter avec votre compte afin d'acheter Watusi.";
 "CHARGEMENT" = "Chargement...";
+
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "Redeem";
+"REDEEM_BUTTON" = "Redeem";
+"REDEEM_CODE" = "Redeem Code";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
+"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
+"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
+"REDEEM_FAILED_TITLE" = "Redeem Failed";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
 
 
 /* Bouton */
