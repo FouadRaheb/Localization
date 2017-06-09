@@ -296,8 +296,8 @@
 "MEDIA_FORWARD_BUTTON_LABEL" = "Bouton multimédia";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Transférer le média vers %zd contact";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Saving Captured Media";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Désactiver l'enregistrement de photos envoyé par la caméra intégrée de WhatsApp dans l'application Photos de votre appareil.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Désactiver l'enregistrement de photos";
 
 /* Interface utilisateur */
 
@@ -308,10 +308,10 @@
 "REPLACE_CAMERA_TAB_DEFAULT" = "Par défaut";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contacts";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoris";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Supprimer tous les contacts favoris";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Supprimer tous";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Ajouter tous les contacts favoris";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Tous ajouter";
 
 "MY_NUMBER" = "Mon Numéro:";
 "%zd_CONTACTS" = "%zd Contacts";
@@ -503,18 +503,18 @@
 "CHARGEMENT" = "Chargement...";
 
 
-/* Promo Code */
+/* Code de promotion */
 
-"REDEEM_TITLE" = "Redeem";
-"REDEEM_BUTTON" = "Redeem";
-"REDEEM_CODE" = "Redeem Code";
-"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
-"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
-"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
-"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
-"REDEEM_FAILED_TITLE" = "Redeem Failed";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
+"REDEEM_TITLE" = "Racheter";
+"REDEEM_BUTTON" = "Racheter";
+"REDEEM_CODE" = "Racheter un code";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Code de promotion invalide";
+"ENTER_PROMO_CODE_MESSAGE" = "Entrez votre code promo";
+"REDEEM_SUCCESSFULL_TITLE" = "Code racheté";
+"REDEEM_SUCCESSFULL_MESSAGE" = "La licence Watusi a été ajoutée à votre compte";
+"REDEEM_FAILED_TITLE" = "Échange échoué";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Code de promotion invalide";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Données invalides";
 
 
 /* Bouton */
