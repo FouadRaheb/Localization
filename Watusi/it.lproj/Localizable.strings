@@ -273,6 +273,7 @@
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "Blocca/sblocca contatto";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Blocca contatto";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Sblocca contatto";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
 
 "BLOCK" = "Blocca";
 "UNBLOCK" = "Sblocca";
@@ -375,6 +376,10 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Attiva la tinta del colore dell'app";
 "APP_TINTCOLOR_LABEL" = "Colore tinta dell'app";
 
+"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
+"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+
 "ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
 
 "CHAT_FONTNAME_LABEL" = "Nome del font chat";
@@ -387,7 +392,13 @@
 "OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Colore del testo della chat in uscita";
 
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Incoming Chat Timestamp Color";
-"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Outgoing Chat Timestamp Color";
+
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
 
 "CHAT_URL_COLOR_LABEL" = "Colore dell'URL della chat";
 "TEXT_INPUT_COLOR_LABEL" = "Colore in input del testo";

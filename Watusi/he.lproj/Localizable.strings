@@ -273,6 +273,7 @@
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "חסום/ביטול חסימה לאיש קשר";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "חסום איש קשר";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "ביטול חסימה לאיש קשר";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
 
 "BLOCK" = "חסום";
 "UNBLOCK" = "ביטול חסימה";
@@ -375,6 +376,10 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "הפעל צבע לאפליקציה";
 "APP_TINTCOLOR_LABEL" = "צבע אפליקציה";
 
+"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
+"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+
 "ENABLE_FONT_STYLE_LABEL" = "הפעל סגנון פונט";
 
 "CHAT_FONTNAME_LABEL" = "שינוי פונט הטקסט";
@@ -388,6 +393,12 @@
 
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "צבע חתימת השעה בהודעה נכנסת";
 "OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "צבע חתימת השעה בהודעה יוצאת";
+
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
 
 "CHAT_URL_COLOR_LABEL" = "צבע של קישור לינק";
 "TEXT_INPUT_COLOR_LABEL" = "צבע ההודעה בטקסט";

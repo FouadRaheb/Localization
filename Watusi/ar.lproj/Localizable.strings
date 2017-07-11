@@ -273,6 +273,7 @@
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "حظر/الغاء حظر جهة الاتصال";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "حظر جهة الاتصال";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "الغاء حظر جهة الاتصال";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
 
 "BLOCK" = "حظر";
 "UNBLOCK" = "الغاء الحظر";
@@ -375,6 +376,10 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "تفعيل تلوين التطبيق";
 "APP_TINTCOLOR_LABEL" = "تلوين التطبيق";
 
+"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
+"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+
 "ENABLE_FONT_STYLE_LABEL" = "تفعيل نمط الخط";
 
 "CHAT_FONTNAME_LABEL" = "اسم نوع خط المحادثة";
@@ -387,7 +392,13 @@
 "OUTGOING_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المرسل";
 
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المستقبل";
-"OUTGOiNG_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المرسل";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المرسل";
+
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
 
 "CHAT_URL_COLOR_LABEL" = "لون الشات";
 "TEXT_INPUT_COLOR_LABEL" = "لون خط الشات";
