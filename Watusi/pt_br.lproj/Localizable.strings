@@ -273,7 +273,7 @@
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "Bloquear/Desbloquear contato";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Bloquear Contato";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Desbloquear Contato";
-"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartilhar Imagem da Internet";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
@@ -311,7 +311,7 @@
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoritos";
 "REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Deletar todos os contatos favoritos";
 "REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Deletar todos";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Adicionar todos os contatos favoritos ";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Adicionar todos os contatos favoritos";
 "REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Adicionar todos";
 
 "MY_NUMBER" = "Meu número:";
@@ -376,9 +376,9 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Ativar cor do matiz do aplicativo";
 "APP_TINTCOLOR_LABEL" = "Cor do matiz do aplicativo";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
-"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+"MESSAGES_TEXT_COLORS_TITLE" = "Cores de Texto das Mensagens";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Cores de Fundo das Mensagens";
+"MESSAGES_STATUS_COLORS_TITLE" = "Itens do Status das Mensagens";
 
 "ENABLE_FONT_STYLE_LABEL" = "Ativar Estilo de Fonte";
 
@@ -391,14 +391,14 @@
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo recebido";
 "OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
 
-"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor Data e Hora Recebidos";
-"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor Data e Hora Enviados";
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor da Hora Recebida";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor da Hora Enviadas";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Cor Tique de Enviado Cinza";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Cor Tique de Recebido Cinza";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Cor Tique de Lido Azul";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Cor das Estrelas de Favorito";
 
 "CHAT_URL_COLOR_LABEL" = "Cor do URL do bate-papo";
 "TEXT_INPUT_COLOR_LABEL" = "Cor de entrada de texto";
@@ -487,7 +487,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Enviar notificação quando a mensagem agendada estiver sendo enviada para o destinatário.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Mostrar Notificação";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = " Enviando mensagem agendada ";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Enviando mensagem agendada";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Ativar toque longo no botão Enviar dos chats a fim de agendar diretamente uma mensagem dos chat.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Toque longo ao enviar";
@@ -522,15 +522,15 @@
 "BAD_PROMO_CODE_FORMAT_MESSAGE" = "Código Promocional Inválido";
 "ENTER_PROMO_CODE_MESSAGE" = "Digite seu código promocional";
 "REDEEM_SUCCESSFULL_TITLE" = "Código Resgatado";
-"REDEEM_SUCCESSFULL_MESSAGE" = " A licença do Watusi foi adicionada à sua conta ";
+"REDEEM_SUCCESSFULL_MESSAGE" = "A licença do Watusi foi adicionada à sua conta";
 "REDEEM_FAILED_TITLE" = "Resgate Falhou";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = " Código Promocional Inválido ";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = " Dados inválidos ";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Código Promocional Inválido";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Dados inválidos";
 
 
 /* Button */
 
-"GROUPS" = "Gropos";
+"GROUPS" = "Grupos";
 "DEFAULT" = "Padrão";
 "DELETE" = "Deletar";
 "CANCEL" = "Cancelar";
