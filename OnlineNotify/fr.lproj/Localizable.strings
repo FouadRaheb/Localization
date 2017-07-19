@@ -1,11 +1,11 @@
 /* Paramètres */
 
-"PREFERENCES" = "OnlineNotify Préférences";
+"PREFERENCES" = "Réglages OnlineNotify";
 
 "ONLINE_CONTACTS" = "Contacts en ligne";
 
-"TRACKING_TABLE" = "Liste de suivi";
-"CONTACT_LOGS" = "Journal des contacts";
+"TRACKING_TABLE" = "Liste des contacts suivis";
+"CONTACT_LOGS" = "Journal de connexion";
 
 "ENABLE_DESCRIPTION" = "Activer pour commencer à recevoir des notifications";
 "ENABEL_LABEL" = "Activer les notifications";
@@ -16,7 +16,7 @@
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Lire les notifications des messages";
 "NOTIFICATIONS_DESCRIPTION" = "- Obtenez des notifications en ligne/hors ligne pour les utilisateurs sélectionnés. (Ajoutez des utilisateurs à partir de la liste de suivi.\n- Obtenez une notification lorsque quelqu'un de vos contacts commence à taper.\n- Obtenez une notification lorsqu'un contact lit vos messages envoyés.";
 
-"LOG_NOTIFCATIONS_LABEL" = "Journal des notifications";
+"LOG_NOTIFCATIONS_LABEL" = "Journal des connexions";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Enregistrez la notification en ligne/hors ligne/écrit de chaque contact que vous recevez, vous pouvez vérifier les journaux de la table des journaux.";
 
 "SELECTED_TYPING_LABEL" = "Ecrit pour les favoris";
