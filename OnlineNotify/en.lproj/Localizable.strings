@@ -40,6 +40,8 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Add a row on top of Chats List to check your online contacts.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Online Contacts List";
+"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Online Contacts feature has always been a reason for getting blocked from requesting your contacts lastseen which usually gets fixed after few hours. The reason of this block is due to the large number of requests because you are fetching the lastseen of your whole contacts list.\n\nTherefore, I have decided to make this list an online list of the contacts you choose to follow and not of all your contacts list.";
+"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
 
 "ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp needs to be relaunched in order to enable notifications";
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp needs to be relaunched in order to disable notifications";
