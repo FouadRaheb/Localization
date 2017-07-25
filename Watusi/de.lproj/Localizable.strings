@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Deaktivert Lesebestätigungen und lässt sie dich trotzdem bei deinen Kontakten sehen. Du kannst sie dennoch Kontaktspezifisch aktiveren/deaktivieren, indem du die Lesebestätigungen bei dem jeweiligen Kontakt auf nie/erzwingen stellst.";
 "NEVER_SEND_RECEIPTS_TO" = "Lesebestätigungen deaktiveren für...";
 "FORCE_SEND_RECEIPTS_TO" = "Lesebestätigungen erzwingen für...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Hörbestätigungen erzwingen";
 "FORCE_RECEIPTS_ON" = "Lesebestätigungen erzwingen bei...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Nachricht gesendet";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Tippt";
@@ -40,7 +40,7 @@
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Zuletzt online automatisch wechseln";
 
-"MY_CONTACTS_PRIVACY_DESC" = "Wähle Kontakte, die du nicht an die WhatsApp Server übermitteln willst. Kontakte die dem Server nicht übermittelt werden, werden dein Profilbild, deinen Status und deinen 'zuletzt online' Status nicht sehen können, wenn die jeweilge Datenschutzeinstellung auf 'Meine Kontakte' steht.\n\nHINWEIS:\n1) Du wirst deine geblacklisteten Kontakte nicht editieren/löschen können, wenn du dieses Feature aktiviert hast.\n2) Die Vorschaubilder der geblacklisteten Kontakte werden sich nicht ändern, bis du ihr Profilbild öffnest und das neue lädst. \n3) Du wirst die Status Updates der geblacklisteten Kontakte nicht erhalten. \n4) Wenn du den Tweak 'Stalky' installiert hast, wirst du keine Stalky Updates für die geblacklisteten Kontakte erhalten.";
+"MY_CONTACTS_PRIVACY_DESC" = "Wähle Kontakte, die du nicht an die WhatsApp Server übermitteln willst. Kontakte die dem Server nicht übermittelt werden, werden dein Profilbild, deinen Status und deinen 'zuletzt online' Status nicht sehen können, wenn die jeweilge Datenschutzeinstellung auf 'Meine Kontakte' steht.\n\nHINWEIS:\n1) Du wirst deine geblacklisteten Kontakte nicht bearbeiten/löschen können, wenn du dieses Feature aktiviert hast.\n2) Die Vorschaubilder der geblacklisteten Kontakte werden sich nicht ändern, bis du ihr Profilbild öffnest und das neue lädst. \n3) Du wirst die Status Updates der geblacklisteten Kontakte nicht erhalten. \n4) Wenn du den Tweak 'Stalky' installiert hast, wirst du keine Stalky Updates für die geblacklisteten Kontakte erhalten.";
 "MY_CONTACTS_PRIVACY_LABEL" = "Meine Kontakte Privatsphäre";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Geblacklistete Kontakte";
 
@@ -273,7 +273,7 @@
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "Kontakt blockieren/freigeben";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Kontakt blockieren";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kontakt freigeben";
-"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Bild aus dem Internet teilen";
 
 "BLOCK" = "Blockieren";
 "UNBLOCK" = "Freigeben";
@@ -297,8 +297,8 @@
 "MEDIA_FORWARD_BUTTON_LABEL" = "Medien Weiterleitungs Button";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Medien zum Kontakt %zd weiterleiten";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Saving Captured Media";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Deaktiviert das automatische Speichern in die Fotos App von Medien, die mit der WhatsApp Kamera aufgenommen wurden.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Speichern ausgehender Medien deaktiveren";
 
 /* User Interface */
 
@@ -309,10 +309,10 @@
 "REPLACE_CAMERA_TAB_DEFAULT" = "Standard";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Kontakte";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoriten";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Alle Favoriten löschen";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Alle löschen";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Alle Favoriten hinzufügen";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Alle hinzufügen";
 
 "MY_NUMBER" = "Meine Nummer:";
 "%zd_CONTACTS" = "%zd Kontakte";
@@ -376,9 +376,9 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "App Akzentfarbe aktiveren";
 "APP_TINTCOLOR_LABEL" = "App Akzentfarbe";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
-"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+"MESSAGES_TEXT_COLORS_TITLE" = "Textfarben von Nachrichten";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Hintergrundfarben von Nachrichten";
+"MESSAGES_STATUS_COLORS_TITLE" = "Farben von Status";
 
 "ENABLE_FONT_STYLE_LABEL" = "Schriftart aktivieren";
 
@@ -394,18 +394,18 @@
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Farbe eingehender Chat-Zeitstempel";
 "OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Farbe ausgehender Chat-Zeitstempel";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Farbe bei gesendeter Nachricht";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Farbe bei zugestellter Nachricht";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Farbe bei gelesener Nachricht";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Farbe von 'Mit Stern markiert' Indikator";
 
 "CHAT_URL_COLOR_LABEL" = "Textfarbe von URLs";
 "TEXT_INPUT_COLOR_LABEL" = "Textfarbe von Eingabe";
 
 "INCOMING_BUBBLE_BG_COLOR_LABEL" = "Hintergrundfarbe eingehender Blasen";
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Hintergrundfarbe ausgehender Blasen";
-"COLOR" = "Color";
+"COLOR" = "Farbe";
 
 "ENABLE_BUBBLE_OPACITY_LABEL" = "Blasen Deckkraft aktivieren";
 "INCOMING_BUBBLE_OPACITY_LABEL" = "Deckkraft eingehender Blasen";
@@ -496,7 +496,7 @@
 "MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "Nachricht planen";
 "MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "Geplante Nachrichten öffnen";
 
-"MESSAGE_SCHEDULER_CREATE_EDIT" = "Planung editieren";
+"MESSAGE_SCHEDULER_CREATE_EDIT" = "Planung bearbeiten";
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Neue geplante Nachricht";
 
 
@@ -516,16 +516,16 @@
 
 /* Promo Code */
 
-"REDEEM_TITLE" = "Redeem";
-"REDEEM_BUTTON" = "Redeem";
-"REDEEM_CODE" = "Redeem Code";
-"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
-"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
-"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
-"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
-"REDEEM_FAILED_TITLE" = "Redeem Failed";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
+"REDEEM_TITLE" = "Einlösen";
+"REDEEM_BUTTON" = "Einlösen";
+"REDEEM_CODE" = "Code einlösen";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Ungültiger Promo Code";
+"ENTER_PROMO_CODE_MESSAGE" = "Promo Code eingeben";
+"REDEEM_SUCCESSFULL_TITLE" = "Code eingelöst";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Eine Watusi Lizenz wurde deinem Account hinzugefügt";
+"REDEEM_FAILED_TITLE" = "Einlösen fehlgeschlagen";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Ungültiger Promo Code";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Ungültige Daten";
 
 
 /* Button */
@@ -539,7 +539,7 @@
 "LATER" = "Später";
 "SEND" = "Senden";
 "ADD" = "Hinzufügen";
-"EDIT" = "Editieren";
+"EDIT" = "Bearbeiten";
 "TO" = "zu";
 "DISMISS" = "Schließen";
 "DUPLICATE" = "Duplizieren";
