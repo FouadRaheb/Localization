@@ -41,7 +41,11 @@
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Ajoutez une ligne en haut de Chats List pour vérifier vos contacts en ligne.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Liste de contacts en ligne";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Online Contacts feature has always been a reason for getting blocked from requesting your contacts lastseen which usually gets fixed after few hours. The reason of this block is due to the large number of requests because you are fetching the lastseen of your whole contacts list.\n\nTherefore, I have decided to make this list an online list of the contacts you choose to follow and not of all your contacts list.";
+"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "List Settings";
+"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Selected Contacts";
 "ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Show Offline Contacts";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Show Lastseen of Offline Contacts";
 
 "ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp doit être relancé afin d'activer les notifications";
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp doit être relancé afin de désactiver les notifications";
