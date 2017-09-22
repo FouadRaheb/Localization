@@ -69,6 +69,12 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "GIF - שתף כ";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "נשמר בגלרייה GIF ה";
 
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
+"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
+"STATUS_TEXT_SHARE_TEXT" = "Share Text";
+"STATUS_TEXT_COPY_TEXT" = "Copy Text";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "ביטול צפייה אוטומטית בסטורי";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "ביטול צפייה אוטומטית ושלח באופן ידני כשצפית בסטורי של האיש קשר.";
 
@@ -500,7 +506,19 @@
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "הודעה מתוזמת חדשה";
 
 
-/* Accounts & Ad Removal */
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "Support";
+
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_TITLE" = "Versions";
+"UPDATES_SECTION_TITLE" = "Updates";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
+"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
+"MORE_TWEAKS_TITLE" = "More Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "חשבון & הסרת מודעות";
 "ACCOUNT" = "חשבון";

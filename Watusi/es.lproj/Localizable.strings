@@ -69,6 +69,12 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Compartir como GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF guardado en la biblioteca";
 
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
+"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
+"STATUS_TEXT_SHARE_TEXT" = "Share Text";
+"STATUS_TEXT_COPY_TEXT" = "Copy Text";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desactivar auto marcado visto";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de tus contactos tal como se visualiza y enviar manualmente los recibos visualizados mediante el botón Watusi. Los estados marcados como vistos no mostraran forzar boton de marca.";
 
@@ -500,7 +506,19 @@
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Programar nuevo mensaje";
 
 
-/* Accounts & Ad Removal */
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "Support";
+
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_TITLE" = "Versions";
+"UPDATES_SECTION_TITLE" = "Updates";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
+"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
+"MORE_TWEAKS_TITLE" = "More Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y remover publicidad";
 "ACCOUNT" = "Cuenta";

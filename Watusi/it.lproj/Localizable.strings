@@ -69,6 +69,12 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Condividi come GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF salvata nel rullino foto";
 
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
+"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
+"STATUS_TEXT_SHARE_TEXT" = "Share Text";
+"STATUS_TEXT_COPY_TEXT" = "Copy Text";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Disattiva 'Segna come visto'";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Attivando questa opzione, quando visualizzerai gli aggiornamenti allo stato dei tuoi contatti, essi non verranno segnati automaticamente come visti. Dovrai utilizzate il tasto di Watusi per inviare manualmente la conferma di averlo visto. Non visualizzerai quel tasto negli aggiornamenti allo stato già impostati come visti.";
 
@@ -500,7 +506,19 @@
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Nuovo messaggio programmato";
 
 
-/* Accounts & Ad Removal */
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "Support";
+
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_TITLE" = "Versions";
+"UPDATES_SECTION_TITLE" = "Updates";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
+"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
+"MORE_TWEAKS_TITLE" = "More Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Account e rimozione pubblicità";
 "ACCOUNT" = "Account";
