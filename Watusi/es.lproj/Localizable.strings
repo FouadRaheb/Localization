@@ -96,6 +96,10 @@
 
 "CHATS_ADDONS_LABEL" = "Ajustes de Chats";
 
+"REVOKE_MESSAGES_DESC" = "Enable WhatsApp's built-in messages revoke feature.\nEnabling 'Keep Contacts Revoked Messages' will show an icon next to messages that your contacts have revoked.";
+"REVOKE_MESSAGES_ENABLE_LABEL" = "Enable Revoke Feature";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING" = "Keep Contacts Revoked Messages";
+
 "ABOUT_ON_CHATS_DESC" = "Muestra estado de tu contacto en una pequeña barra en la parte superior chat";
 "ABOUT_ON_CHATS_LABEL" = "Estado en el chat";
 
