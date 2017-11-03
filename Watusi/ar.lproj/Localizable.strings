@@ -36,6 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن ترى أنك استقبلت رسائلهم. سوف تظهر لهم علامة صح واحدة فقط.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "إخفاء علامات وصول الرسائل";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "تعيين تلقائي لخصوصية أخر مشاهدة على الواتس اب الى \"لا احد\" عند الخروج من واتس اب و كونه في الخلفية, و اعادتها ل\"جهات اتصالي\" عند فتح واتس اب مرة اخرى.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "التبديل التلقائي لخصوصية آخر مشاهدة";
@@ -96,9 +97,11 @@
 
 "CHATS_ADDONS_LABEL" = "اضافات المحادثات";
 
-"REVOKE_MESSAGES_DESC" = "Enable WhatsApp's built-in messages revoke feature.\nEnabling 'Keep Contacts Revoked Messages' will show an icon next to messages that your contacts have revoked.";
-"REVOKE_MESSAGES_ENABLE_LABEL" = "Enable Revoke Feature";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
 
 "ABOUT_ON_CHATS_DESC" = "اظهار \"عن\" لممتصل تحت اسمه في شريط صغير";
 "ABOUT_ON_CHATS_LABEL" = "عن في المحادثة";
@@ -365,7 +368,7 @@
 
 "NOTIFICATIONS_LABEL" = "الاشعارات";
 
-"PRIVATE_NOTIFICATION_DESC" = "استبدال جميع محتويات لاشعار للرسالة  بمحتويات محددة لحماية خصوصيتك. \ يمكنك أيضا تركه فارغا.";
+"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
 "PRIVATE_NOTIFICATION_LABEL" = "الاشعارات الخاصة";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "الرسالة";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "اشعار الرسالة";

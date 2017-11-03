@@ -36,6 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Deine Kontakte werden nicht sehen, dass die Nachricht zugestellt wurde. Sie werden nur einen Haken sehen.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktiveren";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Zuletzt online automatisch wechseln";
@@ -96,9 +97,11 @@
 
 "CHATS_ADDONS_LABEL" = "Chat Erweiterungen";
 
-"REVOKE_MESSAGES_DESC" = "Enable WhatsApp's built-in messages revoke feature.\nEnabling 'Keep Contacts Revoked Messages' will show an icon next to messages that your contacts have revoked.";
-"REVOKE_MESSAGES_ENABLE_LABEL" = "Enable Revoke Feature";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";
@@ -365,7 +368,7 @@
 
 "NOTIFICATIONS_LABEL" = "Benachrichtigungen";
 
-"PRIVATE_NOTIFICATION_DESC" = "Ersetzt den Inhalt aller WhatsApp Benachrichtigungen mit einer bestimmten Nachricht, um deine Privatsphäre zu schützen.";
+"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
 "PRIVATE_NOTIFICATION_LABEL" = "Private Benachrichtigungen";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Nachricht";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Nachricht bei Benachrichtigung";

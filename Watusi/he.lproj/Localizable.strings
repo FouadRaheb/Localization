@@ -36,6 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = ".האנשי קשר שלך לא יראו שקיבלת את ההודעה, יציג רק וי אחד";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "ביטול קבלת הודעה";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "להגדיר את הפרטיות שלך באופן אוטומטי כאף אחד כאשר הוואטסאפ ממוזער וכאשר תיכנס/י מחדש הוא יחזור לכולם";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "פרטיות נראה לאחרונה אוטומטי";
@@ -96,9 +97,11 @@
 
 "CHATS_ADDONS_LABEL" = "תוספות לצא'טים";
 
-"REVOKE_MESSAGES_DESC" = "Enable WhatsApp's built-in messages revoke feature.\nEnabling 'Keep Contacts Revoked Messages' will show an icon next to messages that your contacts have revoked.";
-"REVOKE_MESSAGES_ENABLE_LABEL" = "Enable Revoke Feature";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
 
 "ABOUT_ON_CHATS_DESC" = "הראה את הסטטוס במלבן קטן מתחת לשם של האיש קשר";
 "ABOUT_ON_CHATS_LABEL" = "סטטוס במלבן קטן";
@@ -365,7 +368,7 @@
 
 "NOTIFICATIONS_LABEL" = "התראות";
 
-"PRIVATE_NOTIFICATION_DESC" = "החלף את ההתראות בוואטסאפ בהודעה מיוחדת כדי להגן על הפרטיות (אפשר להשאיר ריק)";
+"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
 "PRIVATE_NOTIFICATION_LABEL" = "התראות פרטיות";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "הודעה";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "הודעת התראה";
