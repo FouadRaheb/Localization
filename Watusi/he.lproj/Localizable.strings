@@ -77,6 +77,7 @@
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "ביטול צפייה אוטומטית בסטורי";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "ביטול צפייה אוטומטית ושלח באופן ידני כשצפית בסטורי של האיש קשר.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "הוסף את האפשרות ליצור קבוצת אנשי קשר בזריזות";

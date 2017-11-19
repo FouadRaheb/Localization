@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Sus contactos no verán que recibió sus mensajes. Sólo mostrará un check.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desactivar recibos de entrega";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "¡Advertencia! Habilitar esta característica provocará un retraso en los mensajes porque el servidor de WhatsApp dejará de enviarle nuevos mensajes si tiene muchos mensajes pendientes en el servidor que esperan ser marcados como entregados. No es posible solucionar esto ya que su servidor echó a un lado.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Establecer automaticamente su privacidad a nadie de su ultima conexion cuando WhatsApp entrar en el fondo y vuelva a configurarlo 'Mis Contactos' cuando abra WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Cambiar auto privacidad ultima conexion";
@@ -51,7 +51,7 @@
 
 /* Status Addons */
 
-"STATUS_ADDONS_LABEL" = "Ajustes De Estados";
+"STATUS_ADDONS_LABEL" = "Ajustes de Estados";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar el botón de descarga";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Añadir un botón en la parte inferior derecha de los estados para descargarlo.";
@@ -70,13 +70,14 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Compartir como GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF guardado en la biblioteca";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Guardar imagen en la biblioteca";
+"STATUS_TEXT_SHARE_IMAGE" = "Compartir imagen";
+"STATUS_TEXT_SHARE_TEXT" = "Compartir texto";
+"STATUS_TEXT_COPY_TEXT" = "Copiar texto";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texto copiado al portapapeles";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desactivar auto marcado visto";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Mover los estados vistos hacia abajo";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de tus contactos tal como se visualiza y enviar manualmente los recibos visualizados mediante el botón Watusi. Los estados marcados como vistos no mostraran forzar boton de marca.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Añadir la opción para crear grupos de contactos y seleccionarlos/deseleccionarlos fácilmente desde el selector de contactos de WhatsApp.";
@@ -97,11 +98,11 @@
 
 "CHATS_ADDONS_LABEL" = "Ajustes de Chats";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Límite de revocación de mensaje";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Omitir el límite de revocacion de los mensajes de 7 minutos de WhatsApp";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantener mensajes revocados por tus contactos";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que sus contactos revocan no se eliminarán y mostrarán un ícono para indicar que su contacto lo ha revocado.";
 
 "ABOUT_ON_CHATS_DESC" = "Muestra estado de tu contacto en una pequeña barra en la parte superior chat";
 "ABOUT_ON_CHATS_LABEL" = "Estado en el chat";
@@ -368,7 +369,7 @@
 
 "NOTIFICATIONS_LABEL" = "Notificaciones";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "Reemplace todo el contenido de las notificaciones de WhatsApp con un mensaje específico para proteger su privacidad.\n\nPuede usar la notificación original usando:\n%[título] para obtener el título de la notificación\n%[mensaje] para recibir el mensaje de notificación";
 "PRIVATE_NOTIFICATION_LABEL" = "Notificaciones privadas";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Mensaje";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensaje de notificación";
@@ -515,17 +516,17 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"SUPPORT_SECTION_TITLE" = "Soporte";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"CONTACT_AND_MORE_LABEL" = "Contacto Y Mas";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Soporte";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Soporte";
+"CONTACT_SUPPORT_LABEL" = "Contacto Soporte";
+"VERSIONS_TITLE" = "Versiones";
+"UPDATES_SECTION_TITLE" = "Actualizaciones";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificación automática de actualizaciones";
+"CHECK_FOR_UPDATES_BUTTON" = "Verificar para actualizaciones";
+"MORE_TWEAKS_TITLE" = "Mas Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y remover publicidad";
 "ACCOUNT" = "Cuenta";
@@ -577,3 +578,4 @@
 "RELAUNCH_MESSAGE" = "WhatsApp necesita reiniciar para aplicar cambìos";
 "RELAUNCH_FEATURE_MESSAGE" = "Debe reiniciar WhatsApp para habilitar esta funciòn.";
 "OLD_VERSION_ALERT" = "Watusi soporta sòlo la ultima versiòn de WhatsApp, actualiza WhatsApp desde AppStore.";
+

@@ -77,6 +77,7 @@
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desativar auto-marcacar visualizada";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desativar a marcação automática do status de seus contatos conforme visualizado e enviar manualmente os recibos vistos usando o botão Watusi. Os status marcados como visualizados não mostrarão o botão de marcar forçado.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adiciona a opção para criar grupos de contatos e facilmente selecioná-los/desmarcá-los do seletor de contatos do WhatsApp.";

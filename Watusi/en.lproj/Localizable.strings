@@ -77,6 +77,7 @@
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Disable Auto Mark Viewed";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Disable auto marking your contacts status as viewed and manually send viewed receipts using Watusi button. Statuses marked as viewed will not show the force mark button.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adds the option to create contact groups and easily select/deselect them from WhatsApp contacts picker.";
