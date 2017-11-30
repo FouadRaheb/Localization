@@ -1,47 +1,47 @@
 /* Preferences */
 
-"WATUSI_PREFERENCES_LABEL" = "Watusi Preferencias";
-"DEBUG_MENU" = "Menu Depuración";
+"WATUSI_PREFERENCES_LABEL" = "Preferencias Watusi";
+"DEBUG_MENU" = "Menú de Depuración";
 
 
 /* Privacy */
 
 "PRIVACY_LABEL" = "Privacidad";
 
-"FREEZE_LASTSEEN_LABEL" = "Congelar ultima conexión";
-"FREEZE_LASTSEEN_DESC" = "No se mostrara en linea y su ultima conexión no se actualizara al abrir WhatsApp";
+"FREEZE_LASTSEEN_LABEL" = "Congelar Ultima Conexión";
+"FREEZE_LASTSEEN_DESC" = "No te mostrará en linea y tu última conexión no se actualizará al abrir WhatsApp";
 
 "DISABLE_READ_RECEIPTS_LABEL" = "Desactivar confirmación de lectura";
-"READ_RECEIPTS_DESC" = "Desactivar marcado de lectura pero seguir viendo los marcados de sus contactos. Se puede activar/desactivar los marcados de lectura para contactos especificos para forzar/nunca o seleccionarlo en su perfil.";
-"NEVER_SEND_RECEIPTS_TO" = "Nunca enviar recibidos a...";
-"FORCE_SEND_RECEIPTS_TO" = "Forzar enviar recibidos a...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forzar el envio de recibos de voz";
-"FORCE_RECEIPTS_ON" = "Forzar recibidos...";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mensaje enviado";
+"READ_RECEIPTS_DESC" = "Desactivar confirmación de lectura pero seguir viendo los confirmaciones de tus contactos. Puedes activar/desactivar las confirmaciones de lectura para contactos especificos desde las listas de Forzar/Nunca o seleccionándolo en su perfil.";
+"NEVER_SEND_RECEIPTS_TO" = "Nunca enviar confirmaciones a...";
+"FORCE_SEND_RECEIPTS_TO" = "Forzar envío de confirmaciones a...";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forzar confirmaciones de envío de mensajes de voz";
+"FORCE_RECEIPTS_ON" = "Forzar confirmaciones en...";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mensaje Enviado";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Escribiendo";
 "FORCE_RECEIPTS_ON_NEVER" = "Nunca";
 
 "WHITELIST" = "Lista blanca";
 "BLACKLIST" = "Lista negra";
-"SEND_TYPING_INDICATOR_BUTTON" = "Enviar indicador escribiendo";
-"SEND_READ_RECEIPTS_BUTTON" = "Enviar confirmación de lectura";
+"SEND_TYPING_INDICATOR_BUTTON" = "Enviar Indicador de Escribiendo";
+"SEND_READ_RECEIPTS_BUTTON" = "Enviar Confirmación de Lectura";
 
-"DISABLE_TYPING_LABEL" = "Desactivar indicador escribiendo";
-"DISABLE_TYPING_DESC" = "Tus contactos no veran que estas escribiendo";
-"NEVER_SEND_TYPING_TO" = "Nunca enviar escribiendo a...";
-"FORCE_SEND_TYPING_TO" = "Forzar enviar escribiendo a...";
+"DISABLE_TYPING_LABEL" = "Desactivar indicador de Escribiendo";
+"DISABLE_TYPING_DESC" = "Tus contactos no verán cuando estés escribiendo";
+"NEVER_SEND_TYPING_TO" = "Nunca enviar Escribiendo a...";
+"FORCE_SEND_TYPING_TO" = "Forzar envío de Escribiendo a...";
 
-"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar los recibidos de lectura y los controles de indicador de escritura en la página de información de contacto con el fin de habilitar/deshabilitar directamente para ese contacto.";
-"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostrar los controles en la página de información";
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar los controles de Enviar Confirmación de Lectura y de Enviar Indicador de Escribiendo en la página de información de tus contactos para poder activarlos/descativarlos directamente en ese contacto.";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostrar controles en la página de información";
 
-"DISABLE_DELIVERY_RECEIPTS_DESC" = "Sus contactos no verán que recibió sus mensajes. Sólo mostrará un check.";
-"DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desactivar recibos de entrega";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "¡Advertencia! Habilitar esta característica provocará un retraso en los mensajes porque el servidor de WhatsApp dejará de enviarle nuevos mensajes si tiene muchos mensajes pendientes en el servidor que esperan ser marcados como entregados. No es posible solucionar esto ya que su servidor echó a un lado.";
+"DISABLE_DELIVERY_RECEIPTS_DESC" = "Tus contactos no verán que has recibido sus mensajes. Sólo se mostrará un check.";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desactivar confirmación de entrega";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "¡Atención! Habilitar esta función provocará demora en los mensajes debido a que el servidor de WhatsApp dejará de enviar nuevos mensajes si tiene muchos ya pendientes en el servidor para ser marcados como entregados. No es posible solucionar esto ya que es del lado del servidor.";
 
-"LASTSEEN_AUTO_SWITCH_DESC" = "Establecer automaticamente su privacidad a nadie de su ultima conexion cuando WhatsApp entrar en el fondo y vuelva a configurarlo 'Mis Contactos' cuando abra WhatsApp";
-"LASTSEEN_AUTO_SWITCH_LABEL" = "Cambiar auto privacidad ultima conexion";
+"LASTSEEN_AUTO_SWITCH_DESC" = "Automáticamente no se muestra tu útlima conexión a Nadie cuando Whatsapp está en segundo plano y se restatura a 'Mis Contactos' cuando vuelves a abrir Whatsapp";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "Auto privacidad de última conexion";
 
-"MY_CONTACTS_PRIVACY_DESC" = "Selecciona los contactos que deseas excluir de la lista de tus contactos enviados al servidor de WhatsApp. Los contactos que no se envíen al servidor no podrán ver su imagen/estado/ultima conexion sólo si establece la privacidad de WhatsApp 'Mis Contactos'.\n\nNOTA:\n1) No podrás editar/eliminar tus contactos en la lista negra si esta característica está activada. \n2) La foto de perfil de tus contactos bloqueados no cambiará hasta que abras la foto y cargue la nueva. \n3) Recibirá los medios de estado de sus contactos en la lista negra. \n4) Si tiene instalado el ajuste 'Stalky', no recibirá actualizaciones para los contactos de la lista negra.";
+"MY_CONTACTS_PRIVACY_DESC" = "Selecciona los contactos que deseas excluir de la lista de tus contactos enviados al servidor de WhatsApp. Los contactos que no se envian al servidor no podrán ver tu imagen/estado/ultima conexion unicamente si se establece la privacidad de WhatsApp 'Mis Contactos'.\n\nNOTA:\n1) No podrás editar/eliminar tus contactos en la lista negra si esta característica está activada. \n2) La foto de perfil de tus contactos bloqueados no cambiará hasta que abras la foto y se cargue la nueva foto. \n3) Recibirá el estado de los archivos multimedia de tus contactos en la lista negra. \n4) Si tienes el tweak 'Stalky' instalado, no recibirás actualizaciones de tus contactos que estén en la lista negra.";
 "MY_CONTACTS_PRIVACY_LABEL" = "Mis contactos privados";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Lista negra de contactos";
 
@@ -51,10 +51,10 @@
 
 /* Status Addons */
 
-"STATUS_ADDONS_LABEL" = "Ajustes de Estados";
+"STATUS_ADDONS_LABEL" = "Ajuste De Estados";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar el botón de descarga";
-"STATUS_DOWNLOAD_BUTTON_DESC" = "Añadir un botón en la parte inferior derecha de los estados para descargarlo.";
+"STATUS_DOWNLOAD_BUTTON_DESC" = "Agregar un botón en la parte inferior derecha de los estados para descargarlo.";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Guardar imagen en la biblioteca";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Compartir imagen";
@@ -76,95 +76,95 @@
 "STATUS_TEXT_COPY_TEXT" = "Copiar texto";
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texto copiado al portapapeles";
 
-"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desactivar auto marcado visto";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Mover los estados vistos hacia abajo";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de tus contactos tal como se visualiza y enviar manualmente los recibos visualizados mediante el botón Watusi. Los estados marcados como vistos no mostraran forzar boton de marca.";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desactivar auto marca de Visto";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Mover hacia abajo los estados Visto";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de visto de tus contactos en cuanto se visualiza el mensaje y enviar las marcas manualmente a través del botón Watusi. Los estados marcados como Visto no mostraran el botón de Forzar marca.";
 
-"STATUS_CONTACT_GROUPS_DESC" = "Añadir la opción para crear grupos de contactos y seleccionarlos/deseleccionarlos fácilmente desde el selector de contactos de WhatsApp.";
-"STATUS_CONTACT_GROUPS_LABEL" = "Mostrar los grupos de contactos";
-"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "Todavía no tienes ningún grupo de contactos, usa el botón + para crear uno.";
+"STATUS_CONTACT_GROUPS_DESC" = "Agregar la opción de crear Grupos de contactos y seleccionarlos/deseleccionarlos fácilmente desde el selector de contactos de WhatsApp.";
+"STATUS_CONTACT_GROUPS_LABEL" = "Mostrar los Grupos de contactos";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "Todavía no tienes ningún Grupo de contactos, usa el botón + para crear uno.";
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Contacto";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Contactos";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Nuevo grupo";
-"STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Entrar el nombre de grupo";
+"STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Escribe el nombre de grupo";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nombre del grupo";
-"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gestionar";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Administrar";
 
-"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desactivar el auto avance al siguiente estado.";
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desactivar auto avance al siguiente estado.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desactivar auto avance";
 
 
 /* Chats Addons */
 
-"CHATS_ADDONS_LABEL" = "Ajustes de Chats";
+"CHATS_ADDONS_LABEL" = "Ajuste de Chats";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Límite de revocación de mensaje";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Omitir el límite de revocacion de los mensajes de 7 minutos de WhatsApp";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Eliminar límites de anulación de mensajes";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Eliminar el límite de 7 minutos en los mensajes anulados de WhatsApp";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantener mensajes revocados por tus contactos";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que sus contactos revocan no se eliminarán y mostrarán un ícono para indicar que su contacto lo ha revocado.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conservar mensajes anulados por tus contactos";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que tus contactos anulen no se borrarán y se mostrará un ícono para indicar que tu contacto lo ha anulado.";
 
-"ABOUT_ON_CHATS_DESC" = "Muestra estado de tu contacto en una pequeña barra en la parte superior chat";
+"ABOUT_ON_CHATS_DESC" = "Muestra el estado de tu contacto en una pequeña barra en la parte superior del chat";
 "ABOUT_ON_CHATS_LABEL" = "Estado en el chat";
 
-"TAP_TO_RECORD_DESC" = "Toque una vez para iniciar la grabación y toque de nuevo para enviar o toque y deslice para eliminar.";
+"TAP_TO_RECORD_DESC" = "Toque una vez para iniciar la grabación y toque nuevamente para enviar o toque y deslice para eliminar.";
 "TAP_TO_RECORD_LABEL" = "Toque para grabar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque y deslice para cancelar";
 
-"CALL_CONFIRM_DESC" = "Obtenga una alerta de confirmación al pulsar los botones de llamada de voz o video, también puede elegir entre una llamada de WhatsApp o una llamada de operador normal.Puede confirmar también las llamadas al tocar en la celda de contacto del historial de llamadas.";
-"CALL_CONFIRM_LABEL" = "Confirmar llamar";
-"CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamar al tocar en recientes";
-"START_VIDEO_CALL_WITH" = "Iniciar videollamada con";
+"CALL_CONFIRM_DESC" = "Obtén un alerta de confirmación al pulsar los botones de llamada de voz o video, también puedes elegir entre una llamada de WhatsApp o una llamada normal de operador.";
+"CALL_CONFIRM_LABEL" = "Confirmar llamada";
+"CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamada al tocar en recientes";
+"START_VIDEO_CALL_WITH" = "Iniciar Videollamada con";
 "START_VOICE_CALL_WITH" = "Iniciar llamada de voz con";
-"WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp video llamada";
-"WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp llamada de voz";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "Videollamada de WhatsApp ";
+"WHATSAPP_VOICE_CALL_BUTTON" = "Llamada de voz de WhatsApp ";
 "CARRIER_CALL_BUTTON" = "Llamada de operador";
-"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "llamada de operador no disponible!";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Llamada de operador no disponible!";
 
-"GROUP_MEMBERS_PICTURE_DESC" = "Mostrar la imagen de perfil del miembro del grupo junto a sus mensajes en el chat en grupo. También puede tocar para ver la vista previa de la imagen.";
+"GROUP_MEMBERS_PICTURE_DESC" = "Mostrar la imagen de perfil del miembro del grupo junto a sus mensajes en el chat de grupo. También puedes tocar para ver la vista previa de la imagen.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagen de los miembros del grupo";
 
-"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Contar los mensajes de los miembros del grupo.";
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Mostrar el número de Msg de cada miembro en la página del grupo";
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Contador de mensajes de los miembros del grupo.";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Mostrar el número de mensajes de cada miembro en la página del grupo";
 
 "MESSAGE_FORWARD_DESC" = "Añade un nuevo botón de avance a la barra de herramientas de edición de chat que se utiliza para reenviar varios mensajes a más de un contacto a la vez.";
 "MESSAGE_FORWARD_LABEL" = "Reenviar mensaje";
-"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Contactos no selecionados";
+"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "No hay contactos no selecionados";
 "MESSAGE_FORWARD_BUTTON_TITLE" = "Enviado";
-"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Eviado %zd mensaje a %zd contacto.";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Reenviar %zd mensajes a %zd contactos.";
 
-"BROADCAST_MESSAGE_INDICATOR_DESC" = "Añade un icono junto a los contactos de que los mensajes se envían a usted a través de difusión, para ayudar a que se diferencien de que los mensajes se envían directamente solo a usted.";
-"BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de mensaje de difusión";
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "Agrega un icono junto a los mensajes de los contactos que recibiste vía difusión, para ayudar a que diferenciarlos de que los mensajes se envían directamente solo a ti.";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de mensaje vía difusión";
 
-"IN_APP_BROWSER_DESC" = "Abrir las urls web dentro de WhatsApp en lugar de cambiar a Safari.";
-"IN_APP_BROWSER_LABEL" = "En la aplicación navegador";
+"IN_APP_BROWSER_DESC" = "Abrir las páginas web dentro de WhatsApp en lugar de cambiar a Safari.";
+"IN_APP_BROWSER_LABEL" = "Navegador integrado";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Añadir un botón en la parte superior izquierda del chat de difusión al eliminar mensajes con el fin de limpiar el chat.";
-"CLEAR_BROADCAST_BUTTON_LABEL" = "limpiar chat de disfusión";
-"CLEAR_BROADCAST_ALERT_MESSAGE" = "limpiar historial chat de difusión";
+"CLEAR_BROADCAST_BUTTON_LABEL" = "limpiar chat vía disfusión";
+"CLEAR_BROADCAST_ALERT_MESSAGE" = "limpiar historial de chat de difusión";
 "CLEAR_BROADCAST_ALERT_BUTTON" = "Limpiar";
 "CLEAR_BROADCAST_NAVBAR_BUTTON" = "Limpiar chat";
 
-"SEND_RETURN_KEY_DESC" = "Reemplazar texto tecla de return en el teclado del chat por el botón enviar.";
-"SEND_RETURN_KEY_LABEL" = "Tecla de return por enviar";
+"SEND_RETURN_KEY_DESC" = "Reemplazar texto tecla de Intro en el teclado del chat por el botón Enviar.";
+"SEND_RETURN_KEY_LABEL" = "Tecla Intro por enviar";
 
 
 /* Other Addons */
 
 "OTHER_ADDONS_LABEL" = "Otros Ajustes";
 
-"CALL_RECORDER_DESC" = "Grabe todas sus llamadas entrantes y salientes en WhatsApp. Puede comprobar sus llamadas grabadas en la pestaña de registros del segmento.";
+"CALL_RECORDER_DESC" = "Grabe todas sus llamadas entrantes y salientes en WhatsApp. Puede comprobar sus llamadas grabadas en la pestaña del segmento de registros.";
 "CALL_RECORDER_LABEL" = "Grabador de llamadas";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Grabaciones";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Esta acción borrara todas las grabaciones para %@";
 "CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "Borrar %d Grabar";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Borrar grabación actual";
 
-"CONTACT_ABOUT_DATE_DESC" = "Vuelva a agregar la opción para ver la fecha de sus contactos en su página de información de contacto que fue eliminada por WhatsApp en su actualización reciente.";
-"CONTACT_ABOUT_DATE_LABEL" = "Fecha acerca de contactos";
+"CONTACT_ABOUT_DATE_DESC" = "Vuelva a agregar la opción para ver la fecha de sus contactos en la página de información del contacto que fue eliminada por WhatsApp en su actualización reciente.";
+"CONTACT_ABOUT_DATE_LABEL" = "Fecha de contactos";
 "CONTACT_ABOUT_DATE_FORMAT" = "Formato de fecha";
 
-"ARCHIVE_LOCK_DESC" = "Pulsación larga en chats en la vista de archivo para bloquear en chats archivados, lo que significa que el chat bloqueado no se moverá de nuevo a la lista de chats cuando reciba un mensaje nuevo. Puedes administrar chats bloqueados desde el botón superior derecho en la vista de chats archivados.";
+"ARCHIVE_LOCK_DESC" = "Pulsación larga en chats en la vista de archivados para bloquearlo en chats archivados, lo que significa que el chat bloqueado no se moverá de nuevo a la lista de chats recientes cuando reciba un mensaje nuevo. Puedes administrar chats bloqueados desde el botón superior derecho en la vista de chats archivados.";
 "ARCHIVE_LOCK_LABEL" = "Interfaz de chats bloqueados";
 "ARCHIVE_LOCKED_CHATS" = "Chats bloqueados";
 "ARCHIVE_LOCK_UNLOCK_TITLE" = "Chat desbloqueado";
@@ -173,18 +173,18 @@
 "ARCHIVE_LOCK_LOCK_MESSGAE" = "Si recibe nuevos mensajes de este chat, no volverá a la lista de chats.";
 "ARCHIVE_LOCK_LOCK_BUTTON" = "Bloquear";
 "ARCHIVE_LOCK_UNLOCK_BUTTON" = "Desbloquear";
-"ARCHIVE_LOCK_TABLE_TITLE" = "Bloqueado en el archivo";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "El chat está bloqueado en archivo.\n¿Deseas desbloquear el chat del archivo y desarchivarlo?";
+"ARCHIVE_LOCK_TABLE_TITLE" = "Bloqueado en archivados";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "El chat está bloqueado en archivados.\n¿Deseas desbloquear el chat de archivados y desarchivarlo?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Desbloquear y Desarchivar";
 
-"PIN_CHATS_INTERFACE_DESC" = "Presion larga en un chat en la lista de chat con el fin de pin en la parte superior de la lista de chat.";
-"PIN_CHATS_INTERFACE_LABEL" = "Interfaz de chat fijado";
+"PIN_CHATS_INTERFACE_DESC" = "Presion larga en un chat en la lista de chat con el fin de fijarlo en la parte superior de la lista de chat.";
+"PIN_CHATS_INTERFACE_LABEL" = "Interfaz de fijado de chat";
 "PINNED_CHATS" = "Chats fijados";
 "PINNED_CHATS_STICK_TO_TOP" = "Poner arriba";
 
-"PINNED_CHATS_DELETE_MESSAGE" = "Estás intentando borrar un chat fijado en la parte superior, ¿te gustaría desfijar y eliminar el chat?";
+"PINNED_CHATS_DELETE_MESSAGE" = "Estás intentando borrar un chat fijado en la parte superior, ¿te gustaría desfijarlo y eliminar el chat?";
 "PINNED_CHATS_UNPIN_DELETE_BUTTON" = "Desfijar y eliminar";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "¿Está intentando archivar un chat fijado en la parte superior, le gustaría desfijar y archivar el chat?";
+"PINNED_CHATS_ARCHIVE_MESSAGE" = "¿Está intentando archivar un chat fijado en la parte superior, le gustaría desfijarlo y archivar el chat?";
 "PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "Desfijar y archivar";
 
 "PINNED_CHATS_HEADER_PINNED_TITLE" = "Chats fijados";
@@ -195,83 +195,83 @@
 "PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "¿Fijar chat hacia arriba?";
 "PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "Fijar";
 
-"GROUPS_LIST_DESC" = "Añade un botón de la barra de navegación para abrir una lista de todos los grupos.";
+"GROUPS_LIST_DESC" = "Agrega un botón de la barra de navegación para abrir una lista de todos tus grupos.";
 "GROUPS_LIST_LABEL" = "Lista de grupos";
 "GROUPS_LIST_DEFAULT_PAGE_LABEL" = "Página por defecto";
 "GROUPS_LIST_GROUP_LABEL" = "Grupos";
 "GROUPS_LIST_BROADCAST_LABEL" = "Transmisiones";
 
-"OPEN_PICTURE_ON_TAP_DESC" = "Esto abrirá la imagen de tu perfil de contacto cuando toques en su miniatura en la lista de chat o página de favoritos.";
+"OPEN_PICTURE_ON_TAP_DESC" = "Esto abrirá la imagen del perfil de tu contacto cuando toques en su miniatura en la lista de chat o página de favoritos.";
 "OPEN_PICTURE_ON_TAP_LABEL" = "Toque para abrir imagen";
 
-"NEW_CHAT_OPTIONS_DESC" = "Al pulsar el botón de chat nuevo se mostrará una alerta con la opción de ingresar un número de teléfono al mensaje en WhatsApp sin crear un contacto para él.";
+"NEW_CHAT_OPTIONS_DESC" = "Al pulsar el botón de Iniciar nuevo chat se mostrará una alerta con la opción de ingresar un número de teléfono para enviar el mensaje en WhatsApp sin agregarlo a Contactos";
 "NEW_CHAT_OPTIONS_LABEL" = "Nuevas opciones de chat";
 "NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "Iniciar un nuevo chat";
 "NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "Seleccione un contacto";
 "NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "Ingresar número";
-"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "Introduzca el número de contacto añadiendo el código del país seguido del número de teléfono sin símbolos adicionales";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "Introduzca el número de teléfono agregando el código de país seguido del número de teléfono sin símbolos adicionales";
 "NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "Chat abierto";
 
-"SWIPE_TO_DELETE_DESC" = "Deslizar prolongado a la izquierda en un chat en la lista de chats con el fin de eliminar el chat";
+"SWIPE_TO_DELETE_DESC" = "Deslizar prolongado hacia la izquierda en un chat en la lista de chats con el fin de eliminar el chat";
 "SWIPE_TO_DELETE_LABEL" = "Deslizar para eliminar el chat";
 "SWIPE_TO_DELETE_BUTTON" = "Deslizar para eliminar el chat";
 "SWIPE_TO_DELETE_MESSAGE" = "Eliminar Chat";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "Reemplazar la nueva marca leido deslizando a la derecha en el chat por obtener información de contacto";
-"SWIPE_FOR_CONTACT_INFO_LABEL" = "Deslizar para información de contacto";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "Reemplazar el nuevo Marcar como Leido deslizando hacia la derecha en el chat, por obtener información del contacto";
+"SWIPE_FOR_CONTACT_INFO_LABEL" = "Deslizar para ver información del contacto";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Información";
 
-"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Añada un nuevo botón en el selector de grupo/difusión para seleccionar/anular la selección de todos los contactos. Esto también evitará el límite de 256 contactos. NOTA: Puede que no sea posible agregar más de 256 miembros en un grupo en el servidor, pero ustedes pueden probar.";
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Añada un nuevo botón en el selector de grupos/difusión para seleccionar/anular la selección de todos los contactos. Esto también evitará el límite de 256 contactos. NOTA: Puede que no sea posible agregar más de 256 miembros en un grupo en el servidor, pero se pueden intentar.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Grupo/Difusión seleccionar todo";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "Todos";
 "GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "Ninguno";
 
-"INCREASE_ABOUT_LENGHT_DESC" = "Aumentar la longitud de 139 a 256 caracteres.";
-"INCREASE_ABOUT_LENGHT_LABEL" = "Acerca de longitud de caracteres";
+"INCREASE_ABOUT_LENGHT_DESC" = "Aumentar la longitud de caracteres de 139 a 256.";
+"INCREASE_ABOUT_LENGHT_LABEL" = "Acerca de la longitud de caracteres";
 
 
 /* Protection */
 
 "PROTECTION_LABEL" = "Protección";
 
-"APP_PROTECTION_LABEL" = "Proteccion App";
-"DELETE_APP_PASSCODE" = "Eliminar el código de acceso a la aplicación";
-"SET_APP_PASSCODE" = "Establecer contraseña de aplicación";
-"USE_TOUCH_ID" = "Use Touch ID";
+"APP_PROTECTION_LABEL" = "Proteccion de la Aplicación";
+"DELETE_APP_PASSCODE" = "Borrar el código de acceso a la aplicación";
+"SET_APP_PASSCODE" = "Establecer código de acceso de la aplicación";
+"USE_TOUCH_ID" = "Usar Touch ID";
 
 "CHAT_PROTECTION_LABEL" = "Proteccion del chat";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Bloquear chats";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Bloquear todos los chats";
-"CHAT_PROTECTION_USE_TOUCH_ID" = "Use Touch ID";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "Usar Touch ID";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "Desbloquear";
 "CHAT_PROTECTION_LOCK_BUTTON" = "Bloquear";
 
-"HIDE_LAST_MESSAGE_LABEL" = "Ocultar Msg";
+"HIDE_LAST_MESSAGE_LABEL" = "Ocultar último mensaje";
 "HIDE_LAST_MESSAGE_NONE" = "Ninguno";
 "HIDE_LAST_MESSAGE_LOCKED" = "Bloqueado";
 "HIDE_LAST_MESSAGE_ALL" = "Todos";
 
-"BYPASS_PROTECTION_LABEL" = "Proteccion con codigo";
-"BYPASS_PROTECTION_DESC" = "Introduzca el nombre de la red WiFi en la que desea evitar la protección cuando está conectado a ella.";
-"BYPASS_APP_PROTECTION_LABEL" = "Protección de la aplicación con codigo";
-"BYPASS_CHAT_PROTECTION_LABEL" = "Protecion del chat con codigo";
-"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "WiFis seguras SSIDs";
+"BYPASS_PROTECTION_LABEL" = "Evitar Proteccion con Codigo";
+"BYPASS_PROTECTION_DESC" = "Ingrese el nombre de la red WiFi en la que desea evitar la protección cuando esté conectado a ella.";
+"BYPASS_APP_PROTECTION_LABEL" = "Evitar Protección de la aplicación";
+"BYPASS_CHAT_PROTECTION_LABEL" = "Evitar Protección del chat";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "SSIDs de las WiFi seguras";
 
 
 /* Media */
 
 "MEDIA_LABEL" = "Media";
 
-"SHARE_SHEET_DESC" = "Añade más opciones a la menu de uso compartido de medios de WhatsApp, como enviar la última foto en el rollo de cámara, compartir música, bloquear/desbloquear contacto.";
+"SHARE_SHEET_DESC" = "Añade más opciones al menu de uso compartido de medios de WhatsApp, como enviar la última foto en el carrete de la cámara, compartir música, bloquear/desbloquear contacto.";
 "SHARE_SHEET_LABEL" = "Menu compartido";
 "SHARE_SHEET_ACTIVE_BUTTONS" = "Botones activos";
 "SHARE_SHEET_STYLE" = "Estilo";
-"SHARE_SHEET_STYLE_DEFAULT" = "Defecto";
-"SHARE_SHEET_STYLE_IMAGE_PICKER" = "Imagen escogida";
+"SHARE_SHEET_STYLE_DEFAULT" = "Por defecto";
+"SHARE_SHEET_STYLE_IMAGE_PICKER" = "Imagen elegida";
 "SHARE_SHEET_STYLE_DARK" = "Oscuro";
 "SHARE_SHEET_STYLE_WHITE" = "Blanco";
 
-"SHARE_SHEET_BUTTONS_LABEL" = "Menu de botones";
+"SHARE_SHEET_BUTTONS_LABEL" = "Hoja de botones";
 "SHARE_SHEET_ENABLED_LABEL" = "Habilitado";
 "SHARE_SHEET_DISABLED_LABEL" = "Deshabilitado";
 
@@ -281,13 +281,13 @@
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "Libreria de videos";
 "SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "Compartir la última foto";
 "SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "Compartir documento";
-"SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Compartir localización";
+"SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Compartir ubicación";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "Compartir contacto";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "Compartir música";
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "Bloquear/Desbloquear contacto";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Bloquear contacto";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Desbloquear contacto";
-"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartir imagen de Web";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartir imagen de la Web";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
@@ -296,80 +296,80 @@
 "BLOCK_CONTACT_MESSAGE" = "Tocar 'Bloquear' para dejar de recibir mensajes del contacto.";
 "UNBLOCK_CONTACT_MESSAGE" = "Tocar 'Desbloquear' para comenzar a recibir mensajes del contacto.";
 
-"SHARE_DEVICE_FILES_DESC" = "Añade un nuevo botón para compartir el menu del documento que te permite compartir cualquier archivo desde tu dispositivo.";
+"SHARE_DEVICE_FILES_DESC" = "Agrega un nuevo botón a la hoja de Compartir Documento para compartir cualquier archivo desde tu dispositivo.";
 "SHARE_DEVICE_FILES_LABEL" = "Compartir archivos del dispositivo";
 "SHARE_DEVICE_FILES_BUTTON" = "Archivos del dispositivo";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "Envía un número ilimitado de fotos a la vez.";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "Fotos ilimitadas";
 
-"MEDIA_DELETE_BUTTON_DESC" = "Añade un nuevo botón de eliminación en la galería de medios para eliminar todos los medios de contacto a la vez.";
-"MEDIA_DELETE_BUTTON_LABEL" = "Botón de eliminar medios";
-"MEDIA_DELETE_ALERT_MESSAGE" = "Eliminar todos los medios";
+"MEDIA_DELETE_BUTTON_DESC" = "Agrega un nuevo botón de eliminación en la galería de medios para eliminar todos los archivos multimedia de los contactos a la vez.";
+"MEDIA_DELETE_BUTTON_LABEL" = "Botón de eliminar multimedia";
+"MEDIA_DELETE_ALERT_MESSAGE" = "Eliminar todos los archivos multimedia";
 
-"MEDIA_FORWARD_BUTTON_DESC" = "Añade un nuevo botón de avance en la parte superior del navegador de medios para enviar el mensaje multimedia a varios contactos a la vez.";
-"MEDIA_FORWARD_BUTTON_LABEL" = "Botón de avance de medios";
-"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Avance medios a %zd contacto";
+"MEDIA_FORWARD_BUTTON_DESC" = "Agrega un nuevo botón de reenvío en la parte superior del navegador de multimedia para enviar el mensaje multimedia a distintos contactos a la vez.";
+"MEDIA_FORWARD_BUTTON_LABEL" = "Botón de avance de multimedia";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Reenviar multimedia a %zd contacto";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Desactivar el guardado de los medios(Fotos/Videos) capturados por la cámara a traves de WhatsApp en la aplicación Fotos del dispositivo.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Desactivar guardado de  medios capturados";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Desactivar el guardado de multimedia (Fotos/Videos) tomados por la cámara desde WhatsApp en la Librería Fotos del dispositivo.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Desactivar guardado de multimedia tomada";
 
 /* User Interface */
 
 "USER_INTERFACE_LABEL" = "Interfaz de Usuario";
 
-"REPLACE_CAMERA_TAB_DESC" = "Reemplace la nueva barra de pestañas de la cámara por las páginas de contactos o favoritos.";
-"REPLACE_CAMERA_TAB_LABEL" = "Boton cámara";
-"REPLACE_CAMERA_TAB_DEFAULT" = "Defecto";
+"REPLACE_CAMERA_TAB_DESC" = "Reemplace la nueva barra de pestañas de la cámara por la anterior página de favoritos.";
+"REPLACE_CAMERA_TAB_LABEL" = "Pestaña de cámara";
+"REPLACE_CAMERA_TAB_DEFAULT" = "Por Defecto";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contactos";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoritos";
 "REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Eliminar todos los contactos favoritos";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Eliminar todos";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Añadir todos los contactos a favoritos";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Añadir todos";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Eliminar todo";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Agregar todos los contactos favoritos";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Agregar todo";
 
 "MY_NUMBER" = "Mi número:";
 "%zd_CONTACTS" = "%zd Contactos";
 
-"DISABLE_LARGE_EMOJI_DESC" = "Deshabilitar en un chat la conversión de un emoji en un emoji más grande.";
+"DISABLE_LARGE_EMOJI_DESC" = "Deshabilitar la conversión de un emoji a un emoji más grande.";
 "DISABLE_LARGE_EMOJI_LABEL" = "Deshabilitar emoji grande";
 
-"SHOW_SECONDS_DESC" = "Añadido segundos en ultima conexión/mensajes y otras cadenas de fecha en WhatsApp";
+"SHOW_SECONDS_DESC" = "Segundos agregados en ultima conexión/mensajes y otras cadenas de fecha en WhatsApp";
 "SHOW_SECONDS_LABEL" = "Mostrar segundos";
 
-"AUTO_SHOW_KEYBOARD_DESC" = "Mostrar el teclado directamente después de entrar en un chat";
+"AUTO_SHOW_KEYBOARD_DESC" = "Mostrar el teclado directamente después de ingresar en un chat";
 "AUTO_SHOW_KEYBOARD_LABEL" = "Mostrar Teclado";
 
-"DISABLE_LANDSCAPE_DESC" = "Deshabilitar rotación de WhatsApp a paisaje.";
-"DISABLE_LANDSCAPE_LABEL" = "Desactivar paisaje";
+"DISABLE_LANDSCAPE_DESC" = "Deshabilitar rotación de WhatsApp a pantalla horizontal.";
+"DISABLE_LANDSCAPE_LABEL" = "Desactivar pantalla horizontal";
 
 "MUTE_SOUND_DESC" = "Silenciar el sonido WhatsApp de los mensajes enviados/recibidos y/o silenciar los clics del teclado.";
-"MUTE_SOUND_LABEL" = "Sin sonido";
-"MUTE_SOUND_KEY_CLICKS_LABEL" = "Silenciar clics de teclas";
+"MUTE_SOUND_LABEL" = "Silenciar sonidos";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "Silenciar clics del teclado";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Ocultar el botón de la cámara y los botones de grabación de voz en los chats.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Ocultar cámara";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "Ocultar micrófono";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Ocultar imagen de perfil del contacto dentro de un chat.";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Ocultar imagen de perfil del contacto dentro del chat.";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Ocultar imagen del perfil";
 
-"HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar los botones de llamada de los chats.";
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar los botones de llamada en los chats.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de voz";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de video";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de videollamada";
 
 "FULLSCREEN_MODE_DESC" = "Ocultar la barra de estado dentro de WhatsApp.";
-"FULLSCREEN_MODE_LABEL" = "Modo de pantalla completa";
+"FULLSCREEN_MODE_LABEL" = "Modo pantalla completa";
 
 "IPAD_FULLSCREEN_MODE_DESC" = "Abre WhatsApp en pantalla completa como cualquier otra aplicación compatible con iPad.";
-"IPAD_FULLSCREEN_MODE_LABEL" = "IPad Pantalla completa";
+"IPAD_FULLSCREEN_MODE_LABEL" = "iPad Pantalla completa";
 
 
 /* Notifications */
 
 "NOTIFICATIONS_LABEL" = "Notificaciones";
 
-"PRIVATE_NOTIFICATION_DESC" = "Reemplace todo el contenido de las notificaciones de WhatsApp con un mensaje específico para proteger su privacidad.\n\nPuede usar la notificación original usando:\n%[título] para obtener el título de la notificación\n%[mensaje] para recibir el mensaje de notificación";
+"PRIVATE_NOTIFICATION_DESC" = "Reemplaza todas las notificaciones de WhatsApp con un mensaje específico para proteger su privacidad.\nTambién puede dejarlo en blanco.";
 "PRIVATE_NOTIFICATION_LABEL" = "Notificaciones privadas";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Mensaje";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensaje de notificación";
@@ -379,19 +379,19 @@
 "HIDE_MUTED_BADGES_DESC" = "Ocultar badges de WhatsApp para chats y grupos silenciados.";
 "HIDE_MUTED_BADGES_LABEL" = "Ocultar badges Silenciados";
 
-"CONTACT_ICON_NOTIFICATIONS_DESC" = "Reemplazar el icono de WhatsApp en las notificaciones por la foto de perfil de contacto";
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "Reemplaza el icono de WhatsApp en las notificaciones por la foto de perfil de contacto";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Icono de Notificación";
 
 
 /* Theme */
 
-"THEME_LABEL" = "Tema";
+"THEME_LABEL" = "Apariencia";
 
-"ENABLE_APP_TINTCOLOR_LABEL" = "Habilitar el color del tinte de la aplicación";
-"APP_TINTCOLOR_LABEL" = "Color del tinte de la aplicación";
+"ENABLE_APP_TINTCOLOR_LABEL" = "Habilitar el color de tinta en la aplicación";
+"APP_TINTCOLOR_LABEL" = "Color de tinta de la aplicación";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Colores en mensajes de texto";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Colores de fondo en mensajes";
+"MESSAGES_TEXT_COLORS_TITLE" = "Colores de los mensajes de texto";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Colores del fondo en los mensajes";
 "MESSAGES_STATUS_COLORS_TITLE" = "Color de items en mensajes";
 
 "ENABLE_FONT_STYLE_LABEL" = "Habilitar estilo de fuente";
@@ -399,26 +399,26 @@
 "CHAT_FONTNAME_LABEL" = "Nombre de fuente del chat";
 "FONTS_LABEL" = "Fuentes";
 
-"BUBBLE_TEXT_SIZE_LABEL" = "Tamaño del texto en burbuja";
-"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamaño nombre del contacto...";
+"BUBBLE_TEXT_SIZE_LABEL" = "Tamaño de la burbuja de texto";
+"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamaño del nombre del contacto";
 
-"INCOMING_CHAT_TEXT_COLOR_LABEL" = "Color del texto del chat entrante";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Color del texto del chat saliente";
+"INCOMING_CHAT_TEXT_COLOR_LABEL" = "Color del texto de chat entrante";
+"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Color del texto de chat saliente";
 
-"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora del chat entrante";
-"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora del chat saliente";
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora de chat entrante";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora de chat saliente";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Color del estado mensaje enviado";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Color del estado mensaje entregado";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Color del estado mensaje leido";
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Color de estado del mensaje enviado";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Color de estado de mensaje entregado";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Color de estado del mensaje leido";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Color indicador de mensaje estrellado";
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Color indicador de mensaje destacado";
 
-"CHAT_URL_COLOR_LABEL" = "Color de la URL del chat";
-"TEXT_INPUT_COLOR_LABEL" = "Color de texto de entrada";
+"CHAT_URL_COLOR_LABEL" = "Color de las URLs en el chat";
+"TEXT_INPUT_COLOR_LABEL" = "Color de las entradas de texto";
 
-"INCOMING_BUBBLE_BG_COLOR_LABEL" = "Color de la burbuja entrante BG";
-"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Color de la burbuja saliente BG";
+"INCOMING_BUBBLE_BG_COLOR_LABEL" = "Color de la burbuja BG entrante";
+"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Color de la burbuja BG saliente";
 "COLOR" = "Color";
 
 "ENABLE_BUBBLE_OPACITY_LABEL" = "Habilitar opacidad de las burbujas";
@@ -428,14 +428,14 @@
 "KEYBOARD_STYLE_DESC" = "Estilo del Teclado";
 "KEYBOARD_STYLE_LABEL" = "Teclado";
 "KEYBOARD_STYLE_DEFAULT" = "Defecto";
-"KEYBOARD_STYLE_DARK" = "Ocuro";
-"KEYBOARD_STYLE_DARK_BLUE" = "Oscuro Y Azul";
+"KEYBOARD_STYLE_DARK" = "Oscuro";
+"KEYBOARD_STYLE_DARK_BLUE" = "Oscuro y Azul";
 
 
 /* Contacts Blacklist */
 
 "CONTACTS_BLACKLIST_LABEL" = "Lista negra de contactos";
-"CONTACTS_BLACKLIST_DESC" = "Los contactos de lista negra ocultarán su chat de la lista de chats y mostrarán un chat vacío cuando lo abran desde otro lugar. Sólo puede ver el contenido de chats en la página de lista negra. No recibirás notificaciones de nuevos mensajes de chats en lista negra.";
+"CONTACTS_BLACKLIST_DESC" = "Los chats de los contactos en la lista negra serán ocultados de la lista de chats y mostrarán un chat vacío cuando lo abran desde cualquier otro lugar. Sólo se puede ver el contenido de los chats en la página de lista negra. No recibirás notificaciones de nuevos mensajes de chats en lista negra.";
 "BLACKLISTED_CONTACTS" = "Contactos en la lista negra";
 "BLACKLISTED_CHATS_MESSAGES" = "Mensajes de los chats en la lista negra";
 "PROTECT_BLACKLIST_SETTINGS" = "Proteger los ajustes de la lista negra";
@@ -454,8 +454,8 @@
 "AUTO_REPLY_MESSAGE_LABEL" = "Mensaje de respuesta";
 "AUTO_REPLY_SELECT_MESSAGE" = "Seleccione un mensaje";
 "AUTO_REPLY_MESSAGES_TITLE" = "Mensajes";
-"AUTO_REPLY_NO_MESSAGES_FOOTER" = "No tiene mensajes de respuesta automática, cree uno con el botón +.";
-"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "Deslice o pulsación prolongada para editar un mensaje.";
+"AUTO_REPLY_NO_MESSAGES_FOOTER" = "No tienes mensajes de respuesta automática, crea uno con el botón +";
+"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "Desliza o pulse prolongadamente para editar un mensaje.";
 "AUTO_REPLY_MESSAGES_EDIT_MESSAGE" = "Editar mensaje";
 "AUTO_REPLY_MESSAGES_NEW_MESSAGE" = "Nuevo mensaje";
 "AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "El mensaje no puede estar vacío.";
@@ -483,7 +483,7 @@
 "AUTO_REPLY_FILTERED_CONTACTS" = "Contactos filtrados";
 "AUTO_REPLY_FILTER_WHITELIST" = "Lista blanca";
 "AUTO_REPLY_FILTER_BLACKLIST" = "Lista negra";
-"AUTO_REPLY_FILTER_DESC" = "Seleccione un filtro de lista negra si desea excluir algunos contactos de la respuesta automática o lista blanca para habilitar la respuesta automática sólo para los contactos seleccionados.";
+"AUTO_REPLY_FILTER_DESC" = "Selecciona un filtro de lista negra si desea excluir a esos contactos de la respuesta automática o selecciona una filtro de lista blanca para habilitar la respuesta automática sólo para esos contactos seleccionados.";
 
 
 /* Scheduled Messages */
@@ -493,24 +493,24 @@
 
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Ver y crear mensajes programados";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Mensajes programados";
-"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "El programado rojo significa que se ha procesado y no se esta ejecutando màs.";
-"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Fecha y tiempo";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "El programado en rojo significa que se procesó y ya no se esta ejecutando.";
+"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Fecha y Hora";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Destinatarios";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Mensaje";
 "MESSAGE_SCHEDULER_CREATE_IMAGE" = "Imagen";
 
-"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Mostrar una notificaciòn cuando el mensaje se envia a los destinatarios de la programados.";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Mostrar una notificación cuando el mensaje se envía a los destinatarios programados.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Mostrar notificacion";
 "MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Envío de mensajes programados";
 
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Habilitar el gesto de presion larga en el botòn de envio de chats para programar directamente un mensaje de los chats.";
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Presion larga para enviar";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Habilitar presión larga en el botón de envío de chats para programar directamente un mensaje desde los chats.";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Presión larga para enviar";
 
 "MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "Enviar mensaje ahora";
 "MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "Programar mensaje";
 "MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "Ver mensajes programados";
 
-"MESSAGE_SCHEDULER_CREATE_EDIT" = "Editar programado";
+"MESSAGE_SCHEDULER_CREATE_EDIT" = "Editar mensajes programados";
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Programar nuevo mensaje";
 
 
@@ -518,25 +518,25 @@
 
 "SUPPORT_SECTION_TITLE" = "Soporte";
 
-"CONTACT_AND_MORE_LABEL" = "Contacto Y Mas";
+"CONTACT_AND_MORE_LABEL" = "Contacto & Más";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Soporte";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Soporte";
-"CONTACT_SUPPORT_LABEL" = "Contacto Soporte";
+"CONTACT_SUPPORT_LABEL" = "Contacto con Soporte";
 "VERSIONS_TITLE" = "Versiones";
 "UPDATES_SECTION_TITLE" = "Actualizaciones";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificación automática de actualizaciones";
-"CHECK_FOR_UPDATES_BUTTON" = "Verificar para actualizaciones";
-"MORE_TWEAKS_TITLE" = "Mas Tweaks";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Chequear automáticamente nuevas actualizaciones";
+"CHECK_FOR_UPDATES_BUTTON" = "Chequear nuevas actualizaciones";
+"MORE_TWEAKS_TITLE" = "Más Trucos";
 
-"ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y remover publicidad";
+"ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y eliminar publicidad";
 "ACCOUNT" = "Cuenta";
 "MANAGE_ACCOUNT" = "Gestionar cuenta";
-"LOGIN_OR_REGISTER" = "Iniciar sesiòn o registro";
-"LOGOUT" = "Cerrar sesiòn";
-"HOW_TO_REMOVE_ADS" = "Como remover publicidad";
+"LOGIN_OR_REGISTER" = "Iniciar sesión o registro";
+"LOGOUT" = "Cerrar sesión";
+"HOW_TO_REMOVE_ADS" = "Como eliminar la publicidad";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Comprar Licencia Watusi";
-"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet para 2 dias sin publicidad";
-"LOGIN_TO_PURCHASE_MESSAGE" = "Tienes que ingresar con tu cuenta para poder comprar Watusi.";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tuit para 2 dias sin publicidad";
+"LOGIN_TO_PURCHASE_MESSAGE" = "Tienes que ingresar con tu cuenta para poder comprar Watusi";
 "LOADING" = "Cargando...";
 
 
@@ -549,7 +549,7 @@
 "ENTER_PROMO_CODE_MESSAGE" = "Introduce tu código de promoción";
 "REDEEM_SUCCESSFULL_TITLE" = "Código canjeado";
 "REDEEM_SUCCESSFULL_MESSAGE" = "Se ha agregado la licencia Watusi a tu cuenta.";
-"REDEEM_FAILED_TITLE" = "Fallo al canjear";
+"REDEEM_FAILED_TITLE" = "Se ha producido un fallo al canjear";
 "REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Código promocional no válido";
 "REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Datos inválidos";
 
@@ -560,22 +560,21 @@
 "DEFAULT" = "Defecto";
 "DELETE" = "Borrar";
 "CANCEL" = "Cancelar";
-"OKAY" = "Ok";
+"OKAY" = "OK";
 "RELAUNCH" = "Relanzar";
 "LATER" = "Despues";
-"SEND" = "Envìar";
-"ADD" = "Añadir";
+"SEND" = "Enviar";
+"ADD" = "Agregar";
 "EDIT" = "Editar";
 "TO" = "a";
 "DISMISS" = "Descartar";
 "DUPLICATE" = "Duplicar";
-"SELECT_ALL" = "Seleccionar Todos";
-"DESELECT_ALL" = "Deseleccionar Todos";
+"SELECT_ALL" = "Seleccionar Todo";
+"DESELECT_ALL" = "Deseleccionar Todo";
 
 
 /* Messages */
 
-"RELAUNCH_MESSAGE" = "WhatsApp necesita reiniciar para aplicar cambìos";
-"RELAUNCH_FEATURE_MESSAGE" = "Debe reiniciar WhatsApp para habilitar esta funciòn.";
-"OLD_VERSION_ALERT" = "Watusi soporta sòlo la ultima versiòn de WhatsApp, actualiza WhatsApp desde AppStore.";
-
+"RELAUNCH_MESSAGE" = "WhatsApp necesita reiniciar para aplicar los cambios";
+"RELAUNCH_FEATURE_MESSAGE" = "Debes reiniciar WhatsApp para habilitar esta función.";
+"OLD_VERSION_ALERT" = "Watusi soporta únicamente la ultima versión de WhatsApp, actualiza WhatsApp desde la AppStore.";
