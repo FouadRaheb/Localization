@@ -93,6 +93,8 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Deaktiviert das automatische Wechseln zum nächsten Status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Automatisches Wechseln deaktiveren";
 
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
 
 /* Chats Addons */
 
@@ -177,23 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Dieser Chat ist im Archiv gesperrt\nWillst du ihn entsperren und unarchivieren?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Entsperren & Unarchivieren";
 
-"PIN_CHATS_INTERFACE_DESC" = "Drücke lange auf einem Chat in der Liste, um ihn oben in der Liste anzupinnen.";
-"PIN_CHATS_INTERFACE_LABEL" = "Chat-Anpinn Interface";
-"PINNED_CHATS" = "Angepinnte Chats";
-"PINNED_CHATS_STICK_TO_TOP" = "Oben anheften";
-
-"PINNED_CHATS_DELETE_MESSAGE" = "Du versuchst einen Chat zu löschen, welcher oben angepinnt ist. Willst du ihn abpinnen und löschen?";
-"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "Abpinnen & Löschen";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "Du versuchst einen Chat zu archivieren, welcher oben angepinnt ist. Willst du ihn abpinnen und archivieren?";
-"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "Abpinnen & Archivieren";
-
-"PINNED_CHATS_HEADER_PINNED_TITLE" = "Angepinnte Chats";
-"PINNED_CHATS_HEADER_ALL_TITLE" = "Alle Chats";
-
-"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "Chat von oben abpinnen?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Abpinnen";
-"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "Chat oben anpinnen?";
-"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "Anpinnen";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
 
 "GROUPS_LIST_DESC" = "Fügt einen Button in der Navigationsleiste hinzu, welcher eine Liste aller Gruppen öffnet.";
 "GROUPS_LIST_LABEL" = "Gruppenliste";

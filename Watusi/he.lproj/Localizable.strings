@@ -93,6 +93,8 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "ביטול דילוג אוטומטי לסטורי הבא";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "ביטול דילוג אוטומטי";
 
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
 
 /* Chats Addons */
 
@@ -177,23 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "הצ'אט נעול בארכיון/n האם תרצה לשחרר אותו ?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "בטל נעילה & שיחרור מהארכיון";
 
-"PIN_CHATS_INTERFACE_DESC" = "לחיצה ארוכה על הצאט ברשימת שיחות כדי להצמיד אותו למסך העליון.";
-"PIN_CHATS_INTERFACE_LABEL" = "הצמדת צ'אטים למסך העליון";
-"PINNED_CHATS" = "צ'אטים שהוצמדו";
-"PINNED_CHATS_STICK_TO_TOP" = "הצמד למסך העליון";
-
-"PINNED_CHATS_DELETE_MESSAGE" = "אתה מנסה למחוק צ'אט שהוצמד, האם תרצה לבטל הצמדה ולמחוק?";
-"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "בטל הצמדה & מחק";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "אתה מנסה לשלוח לארכיון צ'אט שהוצמד למסך , האם לבטל הצמדה ולשלוח לארכיון?";
-"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "בטל הצמדה & שלח לארכיון";
-
-"PINNED_CHATS_HEADER_PINNED_TITLE" = "צ'אטים שהוצמדו";
-"PINNED_CHATS_HEADER_ALL_TITLE" = "כל הצ'אטים";
-
-"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "לבטל הצמדה מהמסך העליון?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "בטל הצמדה מהמסך העליון";
-"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "להצמיד את הצ'אט למסך העליון";
-"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "הצמד";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
 
 "GROUPS_LIST_DESC" = "הוסף סמל כדי לראות את כל הקבוצות הקיימות";
 "GROUPS_LIST_LABEL" = "רשימת קבוצות";

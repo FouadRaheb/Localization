@@ -93,6 +93,8 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Désactiver l'avance automatique vers le statut suivant";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Désactiver l'avancement automatique";
 
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
 
 /* Réglages pour les discussions */
 
@@ -177,23 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "La conversation est verrouillé dans l'archive. \ NVous souhaitez débloquer la discussion de l'archive et l'annuler?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Débloquer et désarchiver";
 
-"PIN_CHATS_INTERFACE_DESC" = "Appuyez longuement sur une conversation afin d'insérer sur la liste des conversations épinglés.";
-"PIN_CHATS_INTERFACE_LABEL" = "Interface des discussions épinglées";
-"PINNED_CHATS" = "Discussions épinglées";
-"PINNED_CHATS_STICK_TO_TOP" = "Haut de la page";
-
-"PINNED_CHATS_DELETE_MESSAGE" = "Vous essayez de supprimer une discussion épinglé sur le dessus, voulez-vous supprimer la discussion?";
-"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "Annuler et supprimer";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "Vous essayez d'archiver une discussion épinglé sur le dessus, voulez-vous supprimer et archiver la discussion?";
-"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "Déplacer et archiver";
-
-"PINNED_CHATS_HEADER_PINNED_TITLE" = "Discussion épinglé";
-"PINNED_CHATS_HEADER_ALL_TITLE" = "Toutes les discussions";
-
-"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "Décomposer la discussion de la partie supérieure?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Détacher";
-"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "Discussion épinglé vers le haut?";
-"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "épinglé";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
 
 "GROUPS_LIST_DESC" = "Ajoute un bouton de barre de navigation pour ouvrir une liste de tous vos groupes.";
 "GROUPS_LIST_LABEL" = "Liste des groupes";

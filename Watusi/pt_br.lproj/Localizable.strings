@@ -93,6 +93,8 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desative o avanço automático para o próximo status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desativar Avanço Automático";
 
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
 
 /* Chats Addons */
 
@@ -177,23 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "O bate-papo está bloqueado no arquivo. \n Você gostaria de desbloquear o bate-papo do arquivo e desarquivá-lo?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Desbloquear e Desarquivar";
 
-"PIN_CHATS_INTERFACE_DESC" = "Pressione e segure em um bate-papo na lista de bate-papo, a fim de fixar no topo da lista de chat.";
-"PIN_CHATS_INTERFACE_LABEL" = "Interface dos chats fixados";
-"PINNED_CHATS" = "Chats Fixados";
-"PINNED_CHATS_STICK_TO_TOP" = "Cole no topo";
-
-"PINNED_CHATS_DELETE_MESSAGE" = "Você está tentando deletar um chat fixado no topo, você deseja desafixar e deletar o chat?";
-"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "Desafixar e Deletar";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "Você está tentando arquivar um chat fixado no topo, você deseja desafixar e arquivar o chat?";
-"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "Desafixar e Arquivar";
-
-"PINNED_CHATS_HEADER_PINNED_TITLE" = "Chats Fixados";
-"PINNED_CHATS_HEADER_ALL_TITLE" = "Todos os Chats";
-
-"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "Desafixar chat do topo?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Desafixar";
-"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "Fixar chat no topo?";
-"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "Fixar";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
 
 "GROUPS_LIST_DESC" = "Adiciona um botão da barra de navegação para abrir uma lista de todos os seus grupos.";
 "GROUPS_LIST_LABEL" = "Lista de Grupos";

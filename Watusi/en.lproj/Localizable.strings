@@ -93,6 +93,8 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Disable auto advance to next status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Disable Auto Advance";
 
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
 
 /* Chats Addons */
 
@@ -177,23 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "The chat is locked in archive.\nWould you like to unlock the chat from archive and unarchive it?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Unlock & Unarchive";
 
-"PIN_CHATS_INTERFACE_DESC" = "Long press on a chat in chat list in order to pin on top of chat list.";
-"PIN_CHATS_INTERFACE_LABEL" = "Pin Chat Interface";
-"PINNED_CHATS" = "Pinned Chats";
-"PINNED_CHATS_STICK_TO_TOP" = "Stick to Top";
-
-"PINNED_CHATS_DELETE_MESSAGE" = "You are trying to delete a chat pinned on top, would you like to unpin and delete the chat?";
-"PINNED_CHATS_UNPIN_DELETE_BUTTON" = "Unpin & Delete";
-"PINNED_CHATS_ARCHIVE_MESSAGE" = "You are trying to archive a chat pinned on top, would you like to unpin and archive the chat?";
-"PINNED_CHATS_UNPIN_ARCHIVE_BUTTON" = "Unpin & Archive";
-
-"PINNED_CHATS_HEADER_PINNED_TITLE" = "Pinned Chats";
-"PINNED_CHATS_HEADER_ALL_TITLE" = "All Chats";
-
-"PINNED_CHATS_LONGPRESS_UNPIN_MESSAGE" = "Unpin chat from top?";
-"PINNED_CHATS_LONGPRESS_UNPIN_BUTTON" = "Unpin";
-"PINNED_CHATS_LONGPRESS_PIN_MESSAGE" = "Pin chat to top?";
-"PINNED_CHATS_LONGPRESS_PIN_BUTTON" = "Pin";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
 
 "GROUPS_LIST_DESC" = "Adds a navigation bar button to open a list of all your groups.";
 "GROUPS_LIST_LABEL" = "Groups List";
