@@ -118,8 +118,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamada al tocar en recientes";
 "START_VIDEO_CALL_WITH" = "Iniciar Videollamada con";
 "START_VOICE_CALL_WITH" = "Iniciar llamada de voz con";
-"WHATSAPP_VIDEO_CALL_BUTTON" = "Videollamada de WhatsApp ";
-"WHATSAPP_VOICE_CALL_BUTTON" = "Llamada de voz de WhatsApp ";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "Videollamada de WhatsApp";
+"WHATSAPP_VOICE_CALL_BUTTON" = "Llamada de voz de WhatsApp";
 "CARRIER_CALL_BUTTON" = "Llamada de operador";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Llamada de operador no disponible!";
 

@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Seus contatos não verão que você recebeu suas mensagens. Ele mostrará apenas um cheque.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desativar recibos de entrega";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Atenção! A ativação desse recurso causará um atraso nas mensagens, porque o servidor WhatsApp deixará de enviar novas mensagens se você tiver muitas mensagens pendentes no servidor esperando para ser marcado como entregue. Não é possível consertar isso, pois o servidor é de um lado só";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Auto configurar o Último Visto para 'Ninguém' quando o WhatsApp estiver em plano de fundo e configurar de volta para 'Meus Contatos' quando você abrir o WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Auto troca do Último Visto";
@@ -70,11 +70,11 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Compartilhar como GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF salvo na biblioteca";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Salvar imagem na biblioteca";
+"STATUS_TEXT_SHARE_IMAGE" = "Compartilhar Imagem";
+"STATUS_TEXT_SHARE_TEXT" = "Compartilhar Texto";
+"STATUS_TEXT_COPY_TEXT" = "Copiar Texto";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texto copiado para área de transferência";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desativar auto-marcacar visualizada";
 "STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
@@ -93,18 +93,18 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desative o avanço automático para o próximo status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desativar Avanço Automático";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Ocultar o ponto azul na guia de status quando um novo status estiver disponível";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Esconder badge de status";
 
 /* Chats Addons */
 
 "CHATS_ADDONS_LABEL" = "Complementos para o Chat";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Desativar Tempo de Revoção";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Desativar Tempo de Revoção de 7 mnutos do Whatsapp";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Manter Mensagens Revogadas";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "As mensagens que os contatos revogarem não serão deletadas e um ícone para indicar que o contato revogou aparecerá.";
 
 "ABOUT_ON_CHATS_DESC" = "Mostre o recado do seu contato em uma pequena barra na parte superior da tela de bate-papo";
 "ABOUT_ON_CHATS_LABEL" = "Sobre o Chat";
@@ -179,8 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "O bate-papo está bloqueado no arquivo. \n Você gostaria de desbloquear o bate-papo do arquivo e desarquivá-lo?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Desbloquear e Desarquivar";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
-"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Chats Fixados Ilimitados";
+"UNLIMITED_PINNED_CHATS_DESC" = "Fixe mais de 3 chats";
 
 "GROUPS_LIST_DESC" = "Adiciona um botão da barra de navegação para abrir uma lista de todos os seus grupos.";
 "GROUPS_LIST_LABEL" = "Lista de Grupos";
@@ -356,7 +356,7 @@
 
 "NOTIFICATIONS_LABEL" = "Notificações";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "Substitua todo o conteúdo das notificações do WhatsApp por uma mensagem específica para proteger sua privacidade.\n\nVocê pode usar a notificação original usando:\n%[title] para obter o título da notificação \n%[message] para receber a mensagem de notificação";
 "PRIVATE_NOTIFICATION_LABEL" = "Notificações Privadas";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Mensagem";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensagem de notificação";
@@ -390,7 +390,7 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamanho dos balões de nomes";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo recebido";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Cor do texto do bate-papo enviado";
 
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor da Hora Recebida";
 "OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Cor da Hora Enviadas";
@@ -503,17 +503,17 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"SUPPORT_SECTION_TITLE" = "Suporte";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"CONTACT_AND_MORE_LABEL" = "Contatos & Mais";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Suporte";
+"CONTACT_SUPPORT_SECTION_TITLE" = "Suporte";
+"CONTACT_SUPPORT_LABEL" = "Contactar Suporte";
+"VERSIONS_TITLE" = "Versões";
+"UPDATES_SECTION_TITLE" = "Atualizações";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificação automática de atualizações";
+"CHECK_FOR_UPDATES_BUTTON" = "Verificar atualizações";
+"MORE_TWEAKS_TITLE" = "Mais Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Conta e Remoção de Anúncios";
 "ACCOUNT" = "Conta";
@@ -565,3 +565,4 @@
 "RELAUNCH_MESSAGE" = "WhatsApp precisa reabrir para aplicar as mudanças";
 "RELAUNCH_FEATURE_MESSAGE" = "Você precisa reabrir o WhatsApp para habilitar esse recurso.";
 "OLD_VERSION_ALERT" = "O Watusi suporta apenas a versão mais recente do WhatsApp, atualize o WhatsApp da AppStore.";
+
