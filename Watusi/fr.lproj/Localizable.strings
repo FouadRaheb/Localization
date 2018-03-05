@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Vos contacts ne verront pas que vous avez reçu leurs messages. Il affichera un seul vu.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Désactiver les reçus de livraison";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Attention! L'activation de cette fonctionnalité entraînera un retard dans les messages car le serveur WhatsApp arrêtera de vous envoyer de nouveaux messages si vous avez beaucoup de messages en attente sur le serveur il sera en attente d'être marqué comme remis. Il n'est pas possible de résoudre ce problème.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Définissez automatiquement votre confidentialité de dernière visite sur Personne lorsque WhatsApp entre dans l'arrière-plan et la redéfinir à Mes contacts lorsque vous ouvrez WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Confidentialité automatique";
@@ -70,14 +70,14 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Partager en tant que GIF";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF enregistré dans la bibliothèque";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Enregistrer l'image dans la galerie";
+"STATUS_TEXT_SHARE_IMAGE" = "Partager l'image";
+"STATUS_TEXT_SHARE_TEXT" = "Partager le text";
+"STATUS_TEXT_COPY_TEXT" = "Copier le text";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texte copié dans le presse-papiers";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Désactiver le vue automatique";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Déplacer les statuts affichés en bas";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Désactiver le marquage automatique de votre statut des contacts en tant que visualisé et envoyer manuellement les reçus consultés à l'aide du bouton Watusi. Les statuts marqués comme affichés ne montrent pas le bouton de la marque de force.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Ajoute l'option pour créer des groupes de contacts et les sélectionner / les désélectionner facilement à partir du sélecteur de contacts WhatsApp.";
@@ -93,18 +93,18 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Désactiver l'avance automatique vers le statut suivant";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Désactiver l'avancement automatique";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Masquer le badge bleu sur l'onglet Statut lorsqu'un nouveau statut est disponible";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Masquer les insignes d'état";
 
 /* Réglages pour les discussions */
 
 "CHATS_ADDONS_LABEL" = "Réglages pour les discussions";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Enlever la limite";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Enlever la limte des messages de 7 minutes";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conserver les messages supprimés des contacts";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Les messages que vos contacts supprime ne seront pas supprimés et afficheront une icône pour indiquer que votre contact l'a supprimé.";
 
 "ABOUT_ON_CHATS_DESC" = "Montre l'actu des contacts sur une petite bannière en dessous de la barre des dernière visite";
 "ABOUT_ON_CHATS_LABEL" = "Actu dans les discussions";
@@ -179,8 +179,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "La conversation est verrouillé dans l'archive. \ NVous souhaitez débloquer la discussion de l'archive et l'annuler?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Débloquer et désarchiver";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
-"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Chats épinglés illimités";
+"UNLIMITED_PINNED_CHATS_DESC" = "Épingler plus de 3 discutions";
 
 "GROUPS_LIST_DESC" = "Ajoute un bouton de barre de navigation pour ouvrir une liste de tous vos groupes.";
 "GROUPS_LIST_LABEL" = "Liste des groupes";
@@ -224,7 +224,7 @@
 "APP_PROTECTION_LABEL" = "Protection de l'Application";
 "DELETE_APP_PASSCODE" = "Supprimer le code d'accès de l'application";
 "SET_APP_PASSCODE" = "Définir le code d'accès de l'application";
-"USE_TOUCH_ID" = "Utiliser Touch ID";
+"USE_TOUCH_ID" = "Utiliser Touch ID ou Face ID";
 
 "CHAT_PROTECTION_LABEL" = "Protection des discussions";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Convs verrouillés";
@@ -488,7 +488,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Afficher une notification lorsque le message est envoyé aux destinataires";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Afficher la notification";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Envoyer un message planifié";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Activer le bouton d'envoi de la touche longue durée sur les conversations afin de programmer directement un message.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Appuyez longuement sur envoyer";
@@ -515,19 +515,19 @@
 "CHARGEMENT" = "Chargement...";
 
 
-/* Support Section */
+/* Section soutien*/
 
 "SUPPORT_SECTION_TITLE" = "Support";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_LABEL" = "Contact & Plus";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Support";
 "CONTACT_SUPPORT_LABEL" = "Contact Support";
 "VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"UPDATES_SECTION_TITLE" = "Mise à jour";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Vérifié automatiquement les mises à jour";
+"CHECK_FOR_UPDATES_BUTTON" = "Vérifié mise à jour";
+"MORE_TWEAKS_TITLE" = "Plus de Tweaks";
 
 "REDEEM_TITLE" = "Racheter";
 "REDEEM_BUTTON" = "Racheter";
