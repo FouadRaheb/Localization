@@ -208,6 +208,13 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Wischen für Kontaktinformationen";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Infos";
 
+"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
+"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
+"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Fügt einen neuen Button in der Gruppen-/Broadcastauswahl hinzu, der alle Kontakte auf einmal auswählt/abwählt. Dies umgeht auch das 256 Kontaktlimit von WhatsApp. HINWEIS: Es ist, aufgrund des Servers, eventuell nicht möglich, mehr als 256 Leute einer Gruppe hinzuzufügen, aber ihr könnt es ausprobieren.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Gruppen/Broadcast alle auswählen";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "Alle";

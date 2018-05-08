@@ -208,6 +208,13 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "مرر لمعلومات جهة المتصل";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "معلومات";
 
+"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
+"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
+"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "أضف زر جديد في منتقي المجموعة / البث لتحديد / إلغاء تحديد جميع جهات الاتصال. وهذا أيضا تجاوز 256 الاتصالات الحد. ملاحظة: قد لا يكون من الممكن إضافة أكثر من 256 عضوا إلى مجموعة على الخادم ولكن يا رفاق يمكن أن تحاول.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "مجموعة/برودكاست اختار الكل";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "الكل";

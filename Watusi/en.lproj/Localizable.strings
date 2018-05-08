@@ -166,7 +166,7 @@
 "CONTACT_ABOUT_DATE_LABEL" = "Contacts About Date";
 "CONTACT_ABOUT_DATE_FORMAT" = "Date Format";
 
-"ARCHIVE_LOCK_DESC" = "Long press on chats in archive view in order to lock into archived chats which means the locked chat will not be moved back into chats list when it receives a new message. You can manage locked chats from the top right button on archived chats view.";
+"ARCHIVE_LOCK_DESC" = "Long press on chats in archive view in order to lock into archived chats which means the locked chat will not move back into chats list when it receives a new message. You can manage locked chats from the top right button on archived chats view.";
 "ARCHIVE_LOCK_LABEL" = "Archive Lock Interface";
 "ARCHIVE_LOCKED_CHATS" = "Locked Chats";
 "ARCHIVE_LOCK_UNLOCK_TITLE" = "Unlock Chat";
@@ -207,6 +207,13 @@
 "SWIPE_FOR_CONTACT_INFO_DESC" = "Replace the new Mark As Read right swipe on chat with the a swipe for contact info";
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Swipe For Contact Info";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Info";
+
+"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
+"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
+"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Add new button in Group/Broadcast picker to select/deselect all contacts. This will also bypass the 256 contacts limit. NOTE: it might not be possible to add more than 256 members into a group on server but you guys can try.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Group/Broadcast Select All";
