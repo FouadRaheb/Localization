@@ -376,6 +376,8 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "החלף את הרקע בהתראות של האפליקציה עם התמונת פרופיל של האיש קשר";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "אייקון התראה";
 
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
 
 /* Theme */
 

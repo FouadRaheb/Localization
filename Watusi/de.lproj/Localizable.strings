@@ -376,6 +376,8 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Ersetzt das WhatsApp Icon in Benachrichtigungen durch das Profilbild des Kontakts.";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Benachrichtigungs Profilbild";
 
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
 
 /* Theme */
 
