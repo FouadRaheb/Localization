@@ -208,12 +208,12 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Glissez pour les infos de contact";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Info";
 
-"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
-"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
-"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
-"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
-"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+"CLEAR_CHATS_BUTTON_DESC" = "Ajouter un bouton d'effacement dans le menu d'édition de la liste des chats pour effacer les discussions";
+"CLEAR_CHATS_BUTTON_LABEL" = "Effacer le bouton Chats";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Effacer";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Effacer les chats sélectionnés";
+"CLEAR_ALL_CHATS_BUTTON" = "Effacer toutes les discussions";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Effacer tout le contenu du chat, y compris archivé";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Ajouter un nouveau bouton dans le sélecteur de groupe/diffusion pour sélectionner/désélectionner tous les contacts. Cela contournera également la limite des 256 contacts. REMARQUE: il n'est pas possible d'ajouter plus de 256 membres dans un groupe sur le serveur mais vous les gars peuvent essayer.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Sélectionner tous les Groupes/diffusions";
@@ -376,8 +376,8 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Remplacer l'icône WhatsApp sur les notifications avec votre image de profil";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Icône de notification";
 
-"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Activer les notifications locales";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Cette option gardera WhatsApp actif en arrière-plan afin de recevoir des notifications mais augmentera votre consommation de batterie";
 
 /* Theme */
 
