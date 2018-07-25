@@ -113,8 +113,8 @@
 "TAP_TO_RECORD_LABEL" = "Tapper pour enregistrer";
 "TAP_TO_RECORD_SLIDE_LABEL" = "tapper & glisser pour annuler";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
-"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Masquer l'indicateur des messages transferés";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Masquer l'indicateur 'Transferé' lorsque vous transferez un message à vos contacts";
 
 "CALL_CONFIRM_DESC" = "Obtenez une alerte de confirmation lorsque vous appuyez sur les boutons d'appel vocal ou vidéo, vous pouvez également choisir entre un appel WhatsApp ou un appel réseaux.";
 "CALL_CONFIRM_LABEL" = "Confirmation d'appel";
