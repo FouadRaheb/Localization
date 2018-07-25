@@ -113,6 +113,9 @@
 "TAP_TO_RECORD_LABEL" = "Tap To Record";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tap & Slide to Cancel";
 
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+
 "CALL_CONFIRM_DESC" = "Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.";
 "CALL_CONFIRM_LABEL" = "Call Confirm";
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirm Call Tap In Recents";
@@ -275,6 +278,7 @@
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "Video Library";
 "SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "Share Last Photo";
 "SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "Share Document";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Share Device Files";
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Share Location";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "Share Contact";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "Share Music";
@@ -409,6 +413,9 @@
 "MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
 
 "CHAT_URL_COLOR_LABEL" = "Chat URL Color";
 "TEXT_INPUT_COLOR_LABEL" = "Text Input Color";

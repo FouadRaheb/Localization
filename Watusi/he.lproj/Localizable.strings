@@ -113,6 +113,9 @@
 "TAP_TO_RECORD_LABEL" = "לחיצה קצרה במקום ארוכה להקלטה";
 "TAP_TO_RECORD_SLIDE_LABEL" = "החלק כדי לבטל את ההקלטה";
 
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+
 "CALL_CONFIRM_DESC" = "קבל התראת אישור בעת הקשה על חיוג לאיש קשר דרך הוואטסאפ";
 "CALL_CONFIRM_LABEL" = "אישור שיחות";
 "CALL_CONFIRM_RECENTS_LABEL" = "אישור שיחה אחרונים";
@@ -275,6 +278,7 @@
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "גלריית וידאו";
 "SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "שלח תמונה אחרונה שבגלרייה";
 "SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "שתף מסמך";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Share Device Files";
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "שתף מיקום";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "שתף איש קשר";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "שתף מוזיקה";
@@ -409,6 +413,9 @@
 "MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
 
 "CHAT_URL_COLOR_LABEL" = "צבע של קישור לינק";
 "TEXT_INPUT_COLOR_LABEL" = "צבע ההודעה בטקסט";
