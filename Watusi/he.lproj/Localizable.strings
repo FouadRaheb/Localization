@@ -286,6 +286,7 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "חסום איש קשר";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "ביטול חסימה לאיש קשר";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
 
 "BLOCK" = "חסום";
 "UNBLOCK" = "ביטול חסימה";

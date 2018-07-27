@@ -286,6 +286,7 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Kontakt blockieren";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kontakt freigeben";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Bild aus dem Internet teilen";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
 
 "BLOCK" = "Blockieren";
 "UNBLOCK" = "Freigeben";
