@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Deine Kontakte werden nicht sehen, dass die Nachricht zugestellt wurde. Sie werden nur einen Haken sehen.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktiveren";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warnung! Die Aktivierung dieser Funktion führt zu einer Verzögerung der Nachrichten, da der WhatsApp-Server keine neuen Nachrichten mehr sendet, wenn auf dem Server viele ausstehende Nachrichten auf die Zustellung warten. Es ist nicht möglich, dies zu beheben, da es serverseitig ist.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Zuletzt online automatisch wechseln";
@@ -70,14 +70,14 @@
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Als GIF teilen";
 "STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF in die Mediathek gespeichert";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Bild in Mediathek speichern";
+"STATUS_TEXT_SHARE_IMAGE" = "Bild teilen";
+"STATUS_TEXT_SHARE_TEXT" = "Text teilen";
+"STATUS_TEXT_COPY_TEXT" = "Text kopieren";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text in Zwischenablage kopiert";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Nicht als gesehen markieren";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Gesehene Statuse nach unten verschieben";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Deaktiviert das automatische als gesehen Markieren des Status deiner Kontakte, du kannst den Status per Watusi Button manuell als gesehen markieren.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Fügt die Option hinzu, Kontaktgruppen zu erstellen und diese im Kontaktauswahlmenü auszuwählen/abzuwählen.";
@@ -93,18 +93,18 @@
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Deaktiviert das automatische Wechseln zum nächsten Status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Automatisches Wechseln deaktiveren";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Blenden Sie das blaue Punkt-Abzeichen auf der Status-Registerkarte aus, wenn ein neuer Status verfügbar ist";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Status Abzeichen ausblenden";
 
 /* Chats Addons */
 
 "CHATS_ADDONS_LABEL" = "Chat Erweiterungen";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Begrenzung umgehen";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Umgehen des Whatsapp´s 7 Minuten Nachrichten widerrufen Limit";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kontakte für widerrufene Nachrichten behalten";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Nachrichten, die von Ihren Kontakten widerrufen werden, werden nicht gelöscht und zeigen ein Symbol an, das angibt, dass Ihr Kontakt sie widerrufen hat.";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";
@@ -113,8 +113,8 @@
 "TAP_TO_RECORD_LABEL" = "Tippen für Aufnahme";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tippen & wischen zum Abbrechen";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
-"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Deaktiviert das weitergeleitet Kennzeichen";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Deaktiviert das Anzeigen des weitergeleitet Kennzeichen, wenn du eine Nachricht an deine Kontakte weiterleitest";
 
 "CALL_CONFIRM_DESC" = "Erhalte eine Bestätigung, wenn du auf den Sprach-/Videoanruf Button tippst, außerdem kannst du dort zwischen Mobilfunk und WhatsApp Anruf auswählen.";
 "CALL_CONFIRM_LABEL" = "Anrufsbestätigung";
@@ -182,8 +182,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Dieser Chat ist im Archiv gesperrt\nWillst du ihn entsperren und unarchivieren?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Entsperren & Unarchivieren";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
-"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Unbegrenzte gepinnte Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Pinne mehr als 3 Chats";
 
 "GROUPS_LIST_DESC" = "Fügt einen Button in der Navigationsleiste hinzu, welcher eine Liste aller Gruppen öffnet.";
 "GROUPS_LIST_LABEL" = "Gruppenliste";
@@ -211,12 +211,12 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Wischen für Kontaktinformationen";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Infos";
 
-"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
-"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
-"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
-"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
-"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+"CLEAR_CHATS_BUTTON_DESC" = "Fügt eine Schaltfläche im Chats List-Bearbeitungsmenü hinzu, um Chats zu löschen";
+"CLEAR_CHATS_BUTTON_LABEL" = "Schaltfläche "Chats löschen"";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Löschen";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Ausgewählte Chats löschen";
+"CLEAR_ALL_CHATS_BUTTON" = "Alle Chats löschen";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Löschen Sie alle Chats, einschließlich archivierter Inhalte";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Fügt einen neuen Button in der Gruppen-/Broadcastauswahl hinzu, der alle Kontakte auf einmal auswählt/abwählt. Dies umgeht auch das 256 Kontaktlimit von WhatsApp. HINWEIS: Es ist, aufgrund des Servers, eventuell nicht möglich, mehr als 256 Leute einer Gruppe hinzuzufügen, aber ihr könnt es ausprobieren.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Gruppen/Broadcast alle auswählen";
@@ -278,7 +278,7 @@
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "Video Mediathek";
 "SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "Letztes Foto teilen";
 "SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "Dokument teilen";
-"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Share Device Files";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Gerätedateien teilen";
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Standort teilen";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "Kontakt teilen";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "Musik teilen";
@@ -286,7 +286,7 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Kontakt blockieren";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kontakt freigeben";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Bild aus dem Internet teilen";
-"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Zahlung senden";
 
 "BLOCK" = "Blockieren";
 "UNBLOCK" = "Freigeben";
@@ -368,7 +368,7 @@
 
 "NOTIFICATIONS_LABEL" = "Benachrichtigungen";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "Ersetzen Sie alle WhatsApp-Benachrichtigungsinhalte durch eine spezifische Nachricht, um Ihre Privatsphäre zu schützen.\n\nDu kannst die ursprüngliche Benachrichtigung hiermit verwenden:\n%[title] um den Benachrichtigungstitel zu erhalten\n%[message] um die Benachrichtigung zu erhalten";
 "PRIVATE_NOTIFICATION_LABEL" = "Private Benachrichtigungen";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Nachricht";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Nachricht bei Benachrichtigung";
@@ -381,8 +381,8 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Ersetzt das WhatsApp Icon in Benachrichtigungen durch das Profilbild des Kontakts.";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Benachrichtigungs Profilbild";
 
-"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Lokale Benachrichtigungen aktivieren";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Diese Option hält WhatsApp im Hintergrund aktiv, um Benachrichtigungen zu erhalten, erhöht jedoch den Akkuverbrauch";
 
 /* Theme */
 
@@ -415,8 +415,8 @@
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Farbe von 'Mit Stern markiert' Indikator";
 
-"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
-"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Widerrufene Nachricht Kennzeichen Farbe";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's Symbol für Nachrichten, die von deinen Kontakten widerrufen wurden";
 
 "CHAT_URL_COLOR_LABEL" = "Textfarbe von URLs";
 "TEXT_INPUT_COLOR_LABEL" = "Textfarbe von Eingabe";
@@ -505,7 +505,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Zeigt eine Benachrichtigung, wenn die Nachricht zum Empfänger versendet wird.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Benachrichtigung anzeigen";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Geplante Nachricht senden";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Aktivert langes Drücken der Senden-Taste in Chats, um eine geplante Nachricht direkt vom Chat zu versenden.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Langes Drücken auf Senden";
@@ -522,15 +522,15 @@
 
 "SUPPORT_SECTION_TITLE" = "Support";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
+"CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
+"VERSIONS_TITLE" = "Versionen";
 "UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Automatisch nach Updates suchen";
+"CHECK_FOR_UPDATES_BUTTON" = "Nach Updates suchen";
+"MORE_TWEAKS_TITLE" = "Mehr Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Account & Werbungsentfernung";
 "ACCOUNT" = "Account";
