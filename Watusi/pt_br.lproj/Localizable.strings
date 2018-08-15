@@ -77,7 +77,7 @@
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Texto copiado para área de transferência";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Desativar auto-marcacar visualizada";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Mover status vistos para baixo";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desativar a marcação automática do status de seus contatos conforme visualizado e enviar manualmente os recibos vistos usando o botão Watusi. Os status marcados como visualizados não mostrarão o botão de marcar forçado.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adiciona a opção para criar grupos de contatos e facilmente selecioná-los/desmarcá-los do seletor de contatos do WhatsApp.";
@@ -100,8 +100,8 @@
 
 "CHATS_ADDONS_LABEL" = "Complementos para o Chat";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Desativar Tempo de Revoção";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Desativar Tempo de Revoção de 7 mnutos do Whatsapp";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Desativar Tempo de Revogação";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Desativar Tempo de Revogação de 7 minutos do Whatsapp";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Manter Mensagens Revogadas";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "As mensagens que os contatos revogarem não serão deletadas e um ícone para indicar que o contato revogou aparecerá.";
@@ -113,8 +113,8 @@
 "TAP_TO_RECORD_LABEL" = "Toque para gravar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque e deslize para cancelar";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
-"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Desativar indicador de Encaminhado";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Não mostra o indicador de Encaminhado quando se encaminha uma mensagem para seus contatos";
 
 "CALL_CONFIRM_DESC" = "Receba um alerta de confirmação quando tocar em botões de chamadas de voz ou de vídeo, também pode escolher entre uma chamada do WhatsApp ou uma chamada de operadora normal.";
 "CALL_CONFIRM_LABEL" = "Confirmação de ligação";
@@ -124,7 +124,7 @@
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Ligação de vídeo do WhatsApp";
 "WHATSAPP_VOICE_CALL_BUTTON" = "Ligação de voz do WhatsApp";
 "CARRIER_CALL_BUTTON" = "Ligação usando a operadora";
-"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Ligação usando a operadora não esta disponível!";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Ligação usando a operadora não está disponível!";
 
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostrar a imagem do perfil do membro do grupo junto às suas mensagens no chat de grupo. Você também pode tocar para exibir na visualização da imagem.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagem dos membros do grupo";
@@ -211,12 +211,12 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Deslize para informações de contato";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Informações";
 
-"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
-"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
-"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
-"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
-"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+"CLEAR_CHATS_BUTTON_DESC" = "Adiciona um botão de apagar na lista de chats quando o menu editar é selecionado, para apagar os chats";
+"CLEAR_CHATS_BUTTON_LABEL" = "Botão de Apagar Chats";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Apagar";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Apagar chats selecionados";
+"CLEAR_ALL_CHATS_BUTTON" = "Apagar TODOS os chats";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Apagar todo o conteúdo dos chats, incluindo os arquivados";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Adicionar novo botão no selecionador de Grupo/Transmissão para selecionar/desmarcar todos os contatos. Isso também ignorará o limite de 256 contatos. NOTA: pode não ser possível adicionar mais de 256 membros em um grupo no servidor, mas vocês podem tentar.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Grupo/Transmissão Selecionar tudo";
@@ -278,7 +278,7 @@
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "Biblioteca de Vídeos";
 "SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "Compartilhar Última Foto";
 "SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "Compartilhar Documentos";
-"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Share Device Files";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Compartilhar Arquivos";
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Compartilhar Localização";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "Compartilhar Contato";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "Compartilhar Música";
@@ -286,7 +286,7 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Bloquear Contato";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Desbloquear Contato";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartilhar Imagem da Internet";
-"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pagamento";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
@@ -381,8 +381,8 @@
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Substituir ícone WhatsApp nas notificações com a sua imagem de perfil de contato";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Ícone de Notificação";
 
-"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Ativar notificações locais";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Essa opção manterá o WhatsApp ativo em segundo plano para receber notificações, mas aumentará o uso da bateria";
 
 /* Theme */
 
@@ -415,8 +415,8 @@
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Cor das Estrelas de Favorito";
 
-"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
-"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Cor do Indicador de Mensagem Revogada";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Ícone do Watusi para mensagens revogadas por seus contatos";
 
 "CHAT_URL_COLOR_LABEL" = "Cor do URL do bate-papo";
 "TEXT_INPUT_COLOR_LABEL" = "Cor de entrada de texto";
@@ -525,7 +525,7 @@
 "CONTACT_AND_MORE_LABEL" = "Contatos & Mais";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Suporte";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Suporte";
-"CONTACT_SUPPORT_LABEL" = "Contactar Suporte";
+"CONTACT_SUPPORT_LABEL" = "Contatar Suporte";
 "VERSIONS_TITLE" = "Versões";
 "UPDATES_SECTION_TITLE" = "Atualizações";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificação automática de atualizações";
@@ -582,4 +582,3 @@
 "RELAUNCH_MESSAGE" = "WhatsApp precisa reabrir para aplicar as mudanças";
 "RELAUNCH_FEATURE_MESSAGE" = "Você precisa reabrir o WhatsApp para habilitar esse recurso.";
 "OLD_VERSION_ALERT" = "O Watusi suporta apenas a versão mais recente do WhatsApp, atualize o WhatsApp da AppStore.";
-

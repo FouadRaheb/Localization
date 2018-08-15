@@ -212,7 +212,7 @@
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Infos";
 
 "CLEAR_CHATS_BUTTON_DESC" = "Fügt eine Schaltfläche im Chats List-Bearbeitungsmenü hinzu, um Chats zu löschen";
-"CLEAR_CHATS_BUTTON_LABEL" = "Schaltfläche "Chats löschen"";
+"CLEAR_CHATS_BUTTON_LABEL" = "Schaltfläche 'Chats löschen'";
 "CLEAR_CHATS_CLEAR_BUTTON" = "Löschen";
 "CLEAR_SELECTED_CHATS_BUTTON" = "Ausgewählte Chats löschen";
 "CLEAR_ALL_CHATS_BUTTON" = "Alle Chats löschen";

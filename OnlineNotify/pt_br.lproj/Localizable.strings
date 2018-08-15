@@ -40,12 +40,12 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos on-line.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista de Contatos Online";
-"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Online Contacts feature has always been a reason for getting blocked from requesting your contacts lastseen which usually gets fixed after few hours. The reason of this block is due to the large number of requests because you are fetching the lastseen of your whole contacts list.\n\nTherefore, I have decided to make this list an online list of the contacts you choose to follow and not of all your contacts list.";
-"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "List Settings";
-"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Selected Contacts";
-"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Show Offline Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Show Lastseen of Offline Contacts";
+"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "O recurso de Contatos online sempre foi um motivo para ser bloqueado pelo WhatsApp por solicitar o último visto dos seus contatos, o que geralmente é corrigido após algumas horas. O motivo deste bloqueio é devido ao grande número de solicitações, porque você está buscando o último visto de toda a sua lista de contatos.\n\nPortanto, decidi fazer desta lista uma lista online dos contatos que você escolheu seguir e não de todos os seus contatos..";
+"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Configurações da lista";
+"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Contatos Selecionados";
+"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contatos";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Mostrar Contatos Offline";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Mostar último visto dos contatos offline";
 
 "ENABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para ativar as notificações";
 "DISABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para desativar as notificações";
