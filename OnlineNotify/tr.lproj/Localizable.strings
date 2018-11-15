@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Çevrimiçi Bildirimleri";
 "OFFLINE_NOTIFICATION_LABEL" = "Çevrimdışı Bildirimleri";
 "TYPING_NOTIFICATION_LABEL" = "Yazıyor Bildirimleri";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Mesajınız Okundu Bildirimleri";
 "NOTIFICATIONS_DESCRIPTION" = "- Seçilen kullanıcılar için çevrimiçi / çevrimdışı bildirimleri alın. (İzleme Tablosundan kullanıcı ekleyin.\n- Kişilerinizden herhangi biri sohbetinize yazmaya başladığında bildirim alın.\n- Bir kişi gönderdiğiniz iletileri okuduğunda bildirim alın.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Aldığınız tüm kişilerin Çevrimiçi / Çevrimdışı / Yazma bildirimlerini, Günlükler Tablosundan günlükleri kontrol edebilirsiniz.";
 
 "SELECTED_TYPING_LABEL" = "Favoriler için Yazıyor";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Favoriler için Mesajınız okundu";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Yalnızca izleme tablosunda seçtiğiniz favori kayıtlarınız için yazarak ve okundu mesajı alırsınız.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "Çevrimiçi";
 "OFFLINE" = "Çevrimdışı";
 "IS_TYPING" = "yazıyor...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "şimdi çevrimiçi";
 "HAS_GONE_OFFLINE_AT" = "şu zamanda çevrimdışı oldu";
 "HAS_READ_YOUR_MESSAGES" = "mesajınızı okudu";

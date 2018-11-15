@@ -12,7 +12,8 @@
 
 "ONLINE_NOTIFICATION_LABEL" = "Benachrichtigung wenn online";
 "OFFLINE_NOTIFICATION_LABEL" = "Benachrichtigung wenn offline";
-"TYPING_NOTIFICATION_LABEL" = "'Schreibt...'-Benachrichtigungen";
+"TYPING_NOTIFICATION_LABEL" = "'Schreibt...' Benachrichtigungen";
+"RECORDING_NOTIFICATION_LABEL" = "Voice Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Benachrichtigung für 'Gelesen'";
 "NOTIFICATIONS_DESCRIPTION" = "- Erhalte für ausgewählte Kontakte 'Ist online'\/'Ist offline'-Benachrichtigungen. (Füge die jeweiligen Kontakte der Liste der verfolgten Kontakte hinzu.)\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte dir eine Nachricht schreibt.\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte deine Nachricht gelesen hat.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Loggt alle 'Ist online'\/'Ist offline'\/'Schreibt'-Benachrichtigungen, die du erhältst; die Logs sind bei den Benachrichtigungs-Logs gespeichert.";
 
 "SELECTED_TYPING_LABEL" = "'Schreibt' für Favoriten";
+"SELECTED_RECORDING_LABEL" = "Voice Recording für Favoriten";
 "SELECTED_READ_MESSAGE_LABEL" = "'Gelesen' für Favoriten";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Erhalte nur für verfolgte Favoriten 'Schreibt'- und 'Gelesen'-Benachrichtigungen, die du in der Liste festgelegt hast.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "schreibt...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "ist jetzt online";
 "HAS_GONE_OFFLINE_AT" = "ist offline gegangen um";
 "HAS_READ_YOUR_MESSAGES" = "hat deine Nachrichten gelesen";

@@ -45,6 +45,9 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Kişilerim Gizlilik";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Kara Listedeki Kişiler";
 
+"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
+"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+
 "DISABLE_VOIP_DESC" = "Arama ekranını devre dışı bırak ve gelen aramaları engelle.";
 "DISABLE_VOIP_LABEL" = "Aramaları Devre Dışı Bırak";
 
@@ -346,9 +349,10 @@
 "MUTE_SOUND_LABEL" = "Sesi kapat";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Klavye Sesini Kapat";
 
-"HIDE_CHAT_BUTTONS_DESC" = "ohbetlerdeki kamera düğmesini ve ses kayıt düğmelerini gizle.";
+"HIDE_CHAT_BUTTONS_DESC" = "Sohbetlerdeki kamera, ses kayıt, ve çıkartmalar düğmelerini gizle.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Kamerayı Gizle";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "Mikrofonu Gizle";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Çıkartmaları Gizle";
 
 "HIDE_CHAT_CONTACT_PICTURE_DESC" = "Sohbet İçindeki Kişi Profil Resmini Gizle.";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Profil Resmini Gizle";

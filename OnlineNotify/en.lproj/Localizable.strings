@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Online Notificaitons";
 "OFFLINE_NOTIFICATION_LABEL" = "Offline Notifications";
 "TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 "NOTIFICATIONS_DESCRIPTION" = "- Get online/offline notifications for selected users. (Add users from Tracking Table.\n- Get notification when anyone of your contacts starts typing in your chat.\n- Get notification when a contact reads your sent messages.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Log every contact's Online/Offline/Typing notification you receive, you can check the logs from Logs Table.";
 
 "SELECTED_TYPING_LABEL" = "Typing for favorites";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Read Messages for favorites";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Receive typing & read messages notification only for favorite contacts you selected in tracking table.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "is typing...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "is now online";
 "HAS_GONE_OFFLINE_AT" = "has gone offline at";
 "HAS_READ_YOUR_MESSAGES" = "has read your messages";

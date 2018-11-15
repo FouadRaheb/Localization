@@ -45,6 +45,9 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "خصوصية جهات اتصالي";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "الجهات الموضوعة في القائمة السوداء";
 
+"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
+"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+
 "DISABLE_VOIP_DESC" = "تعطيل واجهة VOIP و حظر جميع مكالمات VOIP القادمة";
 "DISABLE_VOIP_LABEL" = "تعطيل VOIP";
 
@@ -346,9 +349,10 @@
 "MUTE_SOUND_LABEL" = "كتم الاصوات";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم اصوات الكليكات";
 
-"HIDE_CHAT_BUTTONS_DESC" = "اخفاء زر الكاميرا و زر التسجبل الصوتي في المحادثة";
-"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "اخفاء الكاميرا";
-"HIDE_CHAT_MIC_BUTTON_LABEL" = "اخفاء الميكروفون";
+"HIDE_CHAT_BUTTONS_DESC" = "اخفاء زر الكاميرا و زر التسجبل الصوتي و زر الملصقات في المحادثة";
+"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "اخفاء زر الكاميرا";
+"HIDE_CHAT_MIC_BUTTON_LABEL" = "اخفاء زر الميكروفون";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
 
 "HIDE_CHAT_CONTACT_PICTURE_DESC" = "اخفاء صورة جهة الاتصال الشخصية في المحادثة";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "اخفاء الصورة الشخصيةللمتصل";

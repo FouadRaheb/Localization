@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Notificaciones en línea";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificaciones sin conexión";
 "TYPING_NOTIFICATION_LABEL" = "Notificaciones de escribiendo";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Leer notificaciones de mensajes";
 "NOTIFICATIONS_DESCRIPTION" = "- Obtener notificaciones en línea/sin conexión para los usuarios seleccionados. (Añadir usuarios de la tabla de seguimiento).\n- Recibe una notificación cuando alguno de tus contactos empieza a escribir en tu chat.\n- Obtener notificación cuando un contacto lee los mensajes enviados.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre la notificación en línea/sin conexión/escribiendo que usted recibe de cada contacto, puede comprobar los registros en lista de los registros.";
 
 "SELECTED_TYPING_LABEL" = "Escribiendo para los favoritos";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Leer mensajes para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Recibe notificación de mensajes de escritura y lectura sólo para contactos favoritos que ha seleccionado en la lista de seguimiento.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "en línea";
 "OFFLINE" = "desconectado";
 "IS_TYPING" = "esta escribiendo...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "está ahora en línea";
 "HAS_GONE_OFFLINE_AT" = "se ha desconectado en";
 "HAS_READ_YOUR_MESSAGES" = "ha leído tus mensajes";

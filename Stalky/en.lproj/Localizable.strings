@@ -1,0 +1,286 @@
+/* Preferences */
+
+"STALKY_PREFERENCES_LABEL" = "Stalky Preferences";
+
+
+/* Updates Table */
+
+"UPDATES_TABLE_TITLE" = "Updates Table";
+
+"DEFAULT_UPDATES_PAGE_LABEL" = "Default Page";
+"DEFAULT_UPDATES_PAGE_DESC" = "Choose which page to open by default, badge number will be for the default page.";
+
+"COLORIZE_UPDATES_TABLE" = "Colorize Updates";
+"COLORIZE_UPDATES_DESC" = "Colorzing updates will add a background color for each update type (ProfilePictures/Red, Statuses/Blue, About/Yellow, Group/Green).";
+
+"BLACKLISTED_CONTACTS" = "Blacklisted Contacts";
+"BLACKLISTED_CONTACTS_DESCRIPTION" = "Add contacts to blacklist in order to stop receiving their updates.";
+
+
+/* Download */
+
+"SAVE_AND_DOWNLOAD_TITLE" = "Save & Auto-Download";
+
+"SAVE_TITLE" = "Saved Updates";
+"SAVE_DESCRIPTION" = "Disable updates that you do not wish to save. The media of unsaved updates will not be downloaded.";
+"SAVE_PICTURES_LABEL" = "Save Profile Pictures Updates";
+"SAVE_ABOUT_LABEL" = "Save About Updates";
+"SAVE_GROUP_LABEL" = "Save Group Updates";
+"SAVE_STATUS_LABEL" = "Save Status Updates";
+"SAVE_ACCOUNTS_CHANGE_LABEL" = "Save Contacts Account Updates";
+
+"AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "Auto-Download Pictures";
+"AUTO_DOWNLOAD_STATUSES_LABEL" = "Auto-Download Statuses";
+"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Automatically download your contacts profile pictures. You can still manually download the picture if possible by tapping on it in the updates table.";
+"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Automatically download your contacts status media. When disabled, stalky will attempt to download the media by tapping on the update only if its still available in your statuses.";
+"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi & Cellular";
+"AUTO_DOWNLOAD_WIFI" = "Wi-Fi";
+"AUTO_DOWNLOAD_NEVER" = "Never";
+
+"BACKGROUND_FETCH" = "Background Fetch";
+"BACKGROUND_FETCH_DESC" = "This option is used when a contact change its profile picture multiple times while you are offline. Since WhatsApp server will replace your contact old image with his new one, this option will keep WhatsApp active in background in order to download the images directly when your contact changes it.";
+"BG_FETCH_TURN_OFF_ALERT" = "Turning off background fetch will stop fetching new updates in background and therefore you'll not receive outside notifications.";
+"BG_FETCH_ALERT" = "In order to enable background fetch, Stalky will keep WhatsApp active in background and will maintain your wifi conncetion when you lock your device. This will slightly increase your battery consumption.";
+
+
+/* Notifications */
+
+"NOTIFICATIONS_TITLE" = "Notifications";
+
+"INSIDE_NOTIFICATIONS" = "Inside Notifications";
+"INSIDE_NOTIFICATIONS_DESC" = "Display notifications for new updates inside WhatsApp.";
+
+"OUTSIDE_NOTIFICATIONS" = "Outside Notifications";
+"OUTSIDE_NOTIFICATIONS_DESC" = "Get new updates notifications outside WhatsApp. It requires background fetch to be enabled.";
+"OUTSIDE_NOTIFICATIONS_ALERT" = "Background fetch should be enabled in order to fetch latest updates in background and display outside notifications.";
+
+"NOTIFICATIONS_TYPE_LABEL" = "Contacts Notifications";
+"NOTIFICATIONS_TYPE_DESC" = "Choose for which contacts you wish to receive notifications.";
+
+"NOTIFICATION_SOUND" = "Notification Sound";
+"NOTIFICATION_SOUND_DESC" = "Choose the sound of the inside and outside notifications.";
+
+
+/* Disk Usage */
+
+"DISK_USAGE_TITLE" = "Disk Usage";
+
+"PROFILE_PICTURES_USAGE_TITLE" = "Profile Pictures";
+"PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "View Saved Pictures";
+"PROFILE_PICTURES_DIRECTORY" = "Profile Pictures Directory";
+"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "Pictures Directory";
+"PROFILE_PICTURES_DIRECTORY_ALERT_MESSAGE" = "Profile pictures are located in";
+"PROFILE_PICTURES_DELETE_SAVED_PICTURES" = "Delete Saved Profile Pictures";
+
+"STATUSES_USAGE_TITLE" = "Statuses";
+"STATUSES_VIEW_SAVED_MEDIA" = "View Saved Statuses";
+"STATUSES_DIRECTORY" = "Statuses Directory";
+"STATUSES_DIRECTORY_ALERT_TITLE" = "Statuses Directory";
+"STATUSES_DIRECTORY_ALERT_MESSAGE" = "Statuses media are located in";
+"STATUSES_DELETE_SAVED_MEDIA" = "Delete Saved Statuses";
+
+"OPEN_IN_FILZA_BUTTON" = "Open in Filza";
+"OPEN_IN_IFILE_BUTTON" = "Open in iFile";
+
+"DELETE_ALL_IMAGES_DESCRIPTION" = "Deleting images will remove all the JPG files but keep the thumbnails which is used to show your contacts pictures in WhatsApp.";
+
+"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "You can either delete all profile pictures or keep those of your favorite contacts.";
+"DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Delete All";
+"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "All Except Favorites";
+"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Select Contacts to Delete";
+
+"DELETE_STATUSES_ALERT_MESSAGE" = "You can either delete all statuses or keep those of your favorite contacts.";
+"DELETE_ALL_STATUSES_ALERT_BUTTON" = "Delete All";
+"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "All Except Favorites";
+"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Select Contacts to Delete";
+
+"SAVED_PICTURES_LABEL" = "Saved Pictures";
+"SAVED_STATUSES_LABEL" = "Saved Statuses";
+
+"MEDIA_BACKUP_HEADER" = "Backup";
+"MEDIA_BACKUP_EXPORT_TITLE" = "Export Contacts Media";
+"MEDIA_BACKUP_IMPORT_TITLE" = "Import Contacts Media";
+"MEDIA_BACKUP_FOOTER" = "Export your contacts saved updates to your PC and import it back anytime.";
+
+"BACKUP_IMPORT_ALERT_TITLE" = "Import Media";
+"BACKUP_IMPORT_ALERT_MESSAGE" = "Import a zip file in order to restore your media. Your zip file should be in the same structure as the exported zip files.\nIt can contain 2 folders (Profiles) and/or (Statuses) with each containing a folder for every user by his WhatsApp ID, also the file names should have the correct format)";
+"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Import from WebServer";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Visit %@ on your PC and upload the .zip file.\nThe file will be detected automatically once uploaded.";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "Waiting ZIP";
+
+"BACKUP_IMPORT_PROCESS_MESSAGE" = "Processing Uploaded ZIP";
+"BACKUP_IMPORT_PROCESS_UNZIPPING_FAILED_MESSAGE" = "Unzippnig Failed";
+"BACKUP_IMPORT_PROCESS_INVALID_ZIP_MESSAGE" = "Zip file does not contain any profile or status media.";
+"BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "Import Completed";
+
+"BACKUP_EXPORT_ALERT_TITLE" = "Export Media";
+"BACKUP_EXPORT_ALERT_MESSAGE" = "Create a backup ZIP of your contacts saved profile pictures and statuses. This will not export Stalky database which contains your contacts updates list.";
+"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "All Media";
+"BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "Favorites Media";
+"BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "Your favorite list does not contain any contact";
+"BACKUP_EXPORT_ALERT_SELECT_CONTACTS_BUTTON" = "Select Contacts";
+"BACKUP_EXPORT_SELECT_CONTACTS_NONE_SELECTED_MESSAGE" = "You need to select at least 1 contact in order to export the media.";
+"BACKUP_EXPORT_FAILED_ALERT_MESSAGE" = "Media export failed";
+"BACKUP_EXPORT_SHARE_BY_ACTIVITY_BUTTON" = "Share ZIP";
+"BACKUP_EXPORT_SHARE_BY_WEBSERVER_BUTTON" = "Export by WebServer";
+"BACKUP_EXPORT_SHARE_WEBSERVER_MESSAGE" = "Visit %@ on your PC and download the .zip file.";
+"BACKUP_EXPORT_SHARE_WEBSERVER_TITLE" = "Download ZIP";
+
+"BACKUP_EXPORT_PROCESS_EXPORTING_STATUSES" = "Exporting Statuses";
+"BACKUP_EXPORT_PROCESS_EXPORTING_PROFILE_PICTURES" = "Exporting Profile Pictures";
+
+
+"BACKUP_WEBSERVER_STARTING_ERROR_MESSAGE" = "Error starting webserver";
+"BACKUP_WEBSERVER_STOP_BUTTON" = "Stop WebServer";
+
+/* Messages */
+
+"RELAUNCH_APP_MESSAGE" = "You need to relaunch WhatsApp in order to apply changes";
+
+"RELAUNCH" = "Relaunch";
+"CANCEL" = "Cancel";
+"OKAY" = "Okay";
+"DELETE" = "Delete";
+"DELETING" = "Deleting...";
+"LOADING" = "Loading...";
+"ENABLE" = "Enable";
+"LATER" = "Later";
+"FORWARD" = "Forward";
+
+"FAVORITE_CONTACTS" = "Favorite Contacts";
+"ALL" = "All";
+"FAVORITES" = "Favorites";
+"SELECT_ALL" = "Select All";
+"DESELECT_ALL" = "Deselect All";
+
+
+/* Tweet */
+
+"CONTRIBUTE" = "Contribute";
+"TWEET_ABOUT_TWEAK" = "Tweet about %@";
+"DONATE_CUP_COFFEE" = "Buy me a cup of coffee";
+"NO_TWITTER_ACCOUNT_WARNING" = "You don't have any linked twitter account, add one from your device settings.";
+
+
+/* License Settings */
+
+"HOW_TO_REMOVE_ADS_LABEL" = "How to Remove Ads";
+"PURCHASE_LICENSE_BUTTON" = "Purchase License";
+"TWEET_FOR_2DAYS_ADFREE_BUTTON" = "Tweet for 2 days ad-free";
+"PURCHASE_LICENSE" = "You can purchase a license of %@ from Cydia";
+"FETCHING_LICENSE_MESSAGE" = "Fetching License...";
+"DELETE_SAVED_LICENSE_MESSAGE" = "Delete Saved License?";
+"LICENSE_DELETED_MESSAGE" = "License Deleted";
+"FETCHING_LICENSE_FAILED_MESSAGE" = "Fetching Failed";
+"INVALID_DEVICE_UDID_MESSAGE" = "Unable to fetch device UDID";
+"LICENSE_PURCHASED_LABEL" = "License Purchased";
+"YOU_TWEETED_MESSAGE" = "You Tweeted";
+"LICENSED_MESSAGE" = "Licensed";
+"TWEETED_MESSAGE" = "Thanks for tweeting!";
+"NO_LICENSE_FOUND_MESSAGE" = "No License Found";
+"RESTORE_LICENSE_MESSAGE" = "Restore License";
+"PURCHASE" = "Purchase";
+
+
+/* Updates Table */
+
+"ALL_UPDATES_FILTER" = "All Updates";
+"ABOUT_UPDATES_FILTER" = "About Updates";
+"PICTURE_UPDATES_FILTER" = "Profile Pictures Updates";
+"STATUS_UPDATES_FILTER" = "Status Updates";
+"GROUP_UPDATES_FILTER" = "Group Updates";
+"ACCOUNTS_UPDATES_FILTER" = "Accounts Updates";
+
+"SHOW_MORE_UPDATES_BUTTON" = "Showing %zd of %zd updates, show more...";
+"DELETE_ALL_UPDATE_WARNING" = "This action will delete all updates.";
+
+
+/* Action Buttons */
+
+"COPY_SHARE_SUBJECT" = "Copy/Share Subject";
+"COPY_SHARE_ABOUT" = "Copy/Share About";
+"SAVE_SHARE_IMAGE" = "Save/Share Image";
+"SAVE_SHARE_VIDEO" = "Save/Share Video";
+"SAVE_SHARE_GIF" = "Save/Share GIF";
+"SAVE_SHARE_TEXT" = "Save/Share Text";
+"MESSAGE_GROUP" = "Message Group";
+"MESSAGE_CONTACT" = "Message Contact";
+"ALL_SAVED_PICTURES_AND_STATUSES" = "All Saved Media";
+"ALL_ABOUT_UPDATES" = "All About Updates";
+"ADD_TO_BLACKLIST" = "Add to Blacklist";
+
+
+/* Updates Table Messages */
+
+"DELETED_PROFILE_PICTURE_UPDATE" = "Deleted profile picture";
+"CHANGED_PROFILE_PICTURE_UPDATE" = "Changed profile picture";
+
+"CONTACT_JOINED_WHATSAPP_UPDATE" = "Joined WhatsApp";
+"CONTACT_DELETED_WHATSAPP_UPDATE" = "Deleted WhatsApp account";
+
+"ADDED_NEW_IMAGE_STATUS_UPDATE" = "Added a new image status";
+"ADDED_NEW_VIDEO_STATUS_UPDATE" = "Added a new video status";
+"ADDED_NEW_GIF_STATUS_UPDATE" = "Added a new GIF status";
+"ADDED_NEW_TEXT_STATUS_UPDATE" = "Added a new text status";
+
+
+/* Notification Messages */
+
+"DELETE_PROFILE_PICTURE_NOTIFICATION" = "deleted profile picture";
+"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "changed profile picture";
+"CHANGED_ABOUT_NOTIFICATION" = "changed about to";
+
+"CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "joined WhatsApp";
+"CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "deleted WhatsApp account";
+
+"ADDED_NEW_IMAGE_STATUS_NOTIFICATION" = "added a new image status";
+"ADDED_NEW_VIDEO_STATUS_NOTIFICATION" = "added a new video status";
+"ADDED_NEW_GIF_STATUS_NOTIFICATION" = "added a new GIF status";
+"ADDED_NEW_TEXT_STATUS_NOTIFICATION" = "added a new text status";
+
+"DELETED_GROUP_PICTURE_NOTIFICATION" = "deleted group profile picture";
+"CHANGED_GROUP_PICTURE_NOTIFICATION" = "changed group profile picture";
+"CHANGED_GROUP_SUBJECT_NOTIFICATION" = "changed group subject to";
+
+"CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "is added to the group";
+"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "is removed from the group";
+
+
+/* Contact Info / Group Info Buttons */
+
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Statuses & Profile Pictures";
+"CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "About Messages";
+"CONTACT_INFO_GROUP_PICTURES_BUTTON" = "Group Pictures";
+"CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "Group Subjects";
+
+
+/* Messages */
+
+"PROFILE_IMAGE_NOT_FOUND" = "Image Not Found";
+"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "This is because you either deleted the saved images or your contact has changed the picture more than once while you were offline and we are unable to get this image since it has been replaced by the new one on WhatsApp server.";
+
+"STATUS_MESSAGE_NOT_FOUND" = "Status Not Found";
+"STATUS_MESSAGE_NOT_FOUND_MESSAGE" = "The status message has either been removed or expired.";
+
+"STATUS_MEDIA_DOWNLOAD_FAILED" = "Download Failed";
+"STATUS_MEDIA_DOWNLOAD_FAILED_MESSAGE" = "An error occured wihle downloading status media.";
+
+"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "Text Status";
+"STATUS_TEXT_IMAGE_GENERATION_FAILED_MESSAGE" = "An error occured while generating an image from text status.";
+
+"STATUS_MEDIA_EXPIRED" = "Status Expired";
+"STATUS_MEDIA_EXPIRED_MESSAGE" = "The status has either been expired or deleted.";
+
+"DELETE_CONTACT_UPDATES_AND_ADD_TO_BLACKLIST_MESSAGE" = "This will delete all available updates for %@ and will add it to blacklist in order stop receiving new updates. You can still access the previously saved media.";
+"REMOVE_CONTACT_FROM_BLACKLIST_MESSAGE" = "Start receiving updates from %@?";
+
+"WELCOME_MESSAGE" = "Thanks for installing!\nStalky is now free to download from BigBoss repo with a little ads banner at the bottom of updates table.\nAds can be removed by purchasing a license from Cydia.\nIf you already purchased Stalky, you have to restore your license from settings.\nYou can also tweet from the app for 2 days ad-free.";
+
+
+/* Date */
+
+"JUST_NOW" = "Just now";
+"M" = "m"; // Minute
+"H" = "h"; // Hour
+"AGO" = "ago";
+

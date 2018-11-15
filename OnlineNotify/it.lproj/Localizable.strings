@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Notifica accesso";
 "OFFLINE_NOTIFICATION_LABEL" = "Notifica disconnessione";
 "TYPING_NOTIFICATION_LABEL" = "Notifica digitazione";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notifica lettura";
 "NOTIFICATIONS_DESCRIPTION" = "- Ricevi notifiche accesso/disconnessione per contatti selezionati. (Aggiungi i contatti desiderati dalla lista di monitoraggio.\n- Ricevi una notifica quando uno dei tuoi contatti ti sta scrivendo.\n- Ricevi una notifica quando un tuo contatto legge un tuo messaggio.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Log di tutte le notifiche di accesso/disconnessione/scrittura, puoi controllare il log dalla tabella di log.";
 
 "SELECTED_TYPING_LABEL" = "Notifica di scrittura per contatti preferiti";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Notifica di lettura per contatti preferiti";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Ricevi una notifica di lettura/scrittura solo per i contatti preferiti selezionati nella tabella di monitoraggio.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "sta scrivendo...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "si è connesso";
 "HAS_GONE_OFFLINE_AT" = "si è disconnesso alle";
 "HAS_READ_YOUR_MESSAGES" = "ha letto il tuo messaggio";

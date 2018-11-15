@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "تمكين إشعارت متصل الآن";
 "OFFLINE_NOTIFICATION_LABEL" = "تمكين إشعارت غير متصل";
 "TYPING_NOTIFICATION_LABEL" = "تمكين إشعارات جاري الكتابة";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "تمكين إشعارات قراءة الرسالة";
 "NOTIFICATIONS_DESCRIPTION" = "- احصل على إشعار متصل الآن / غير متصل.. للمستخدمين ولتحديد جهات إتصال يجب إضافة مستخدمين من جدول التتبع\n- الحصول على إشعار عند أي شخص من جهات الاتصال الخاصة بك يبدأ الكتابة في الدردشة\n- الحصول على إشعار عندما يقرأ جهة الاتصال الرسائل المرسلة";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "تسجيل الإشعارات متصل الآن  / غير متصل / جاري الكتابة كل جهة الاتصال التي تتلقاها، يمكنك التحقق من جدول التتبع و سجلات جهة الاتصال";
 
 "SELECTED_TYPING_LABEL" = "تحديد إشعارات جاري الكتابة";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "تحديد إشعارات قراءة الرسائل";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "عندما تمكن هذه الخيارات سوف تتلقى الإشعارات من جهات الاتصال التي تم تحديدها في جدول التتبع";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "متصل الآن";
 "OFFLINE" = "غير متصل";
 "IS_TYPING" = "يكتب الأن...";
+"IS_RECORDING" = "يسجل الآن ...";
 "IS_NOW_ONLINE" = "متصل الآن";
 "HAS_GONE_OFFLINE_AT" = "لقد غادر الوتساب وغير متصل منذ";
 "HAS_READ_YOUR_MESSAGES" = "لقد قرأ رسائلك";

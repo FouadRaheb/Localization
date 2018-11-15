@@ -45,6 +45,9 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Meine Kontakte Privatsphäre";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Geblacklistete Kontakte";
 
+"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
+"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+
 "DISABLE_VOIP_DESC" = "Deaktivert das VOIP Interface und blockiert alle eingehenden Anrufe.";
 "DISABLE_VOIP_LABEL" = "VOIP deaktiveren";
 
@@ -346,9 +349,10 @@
 "MUTE_SOUND_LABEL" = "Sound stummschalten";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Tastatur Klicks stummschalten";
 
-"HIDE_CHAT_BUTTONS_DESC" = "Versteckt die Kamera und Sprachmemo Buttons in Chats.";
+"HIDE_CHAT_BUTTONS_DESC" = "Versteckt die Kamera und Sprachmemo und Aufkleber Buttons in Chats.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Kamera verstecken";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "Mikrofon verstecken";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Aufkleber verstecken";
 
 "HIDE_CHAT_CONTACT_PICTURE_DESC" = "Versteckt das Profilbild des Kontakts in Chats.";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Profilbild verstecken";

@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Notificações Online";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
 "NOTIFICATIONS_DESCRIPTION" = "- Receba notificações on-line / off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre todas as notificações de Online/Offline/Digitando que você receber,  você pode checar na aba ‘Registro de Contatos’.";
 
 "SELECTED_TYPING_LABEL" = "Digitando para favoritos";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Mensagem Lida para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Receba notificação de digitaçao e leitura apenas dos contatos favoritos que você selecionou na ‘Lista de Rastreamento’.";
 
@@ -79,6 +81,7 @@
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "digitando...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "está online agora";
 "HAS_GONE_OFFLINE_AT" = "ficou off-line às";
 "HAS_READ_YOUR_MESSAGES" = "leu suas mensagens";

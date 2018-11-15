@@ -13,6 +13,7 @@
 "ONLINE_NOTIFICATION_LABEL" = "Notifications en ligne";
 "OFFLINE_NOTIFICATION_LABEL" = "Notifications hors ligne";
 "TYPING_NOTIFICATION_LABEL" = "Notifications écrit";
+"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Lire les notifications des messages";
 "NOTIFICATIONS_DESCRIPTION" = "- Obtenez des notifications en ligne/hors ligne pour les utilisateurs sélectionnés. (Ajoutez des utilisateurs à partir de la liste de suivi.\n- Obtenez une notification lorsque quelqu'un de vos contacts commence à taper.\n- Obtenez une notification lorsqu'un contact lit vos messages envoyés.";
 
@@ -20,6 +21,7 @@
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Enregistrez la notification en ligne/hors ligne/écrit de chaque contact que vous recevez, vous pouvez vérifier les journaux de la table des journaux.";
 
 "SELECTED_TYPING_LABEL" = "Ecrit pour les favoris";
+"SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Lire les messages pour les favoris";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Recevoir la notification des messages de saisie et de lecture uniquement pour les contacts favoris que vous avez sélectionnés dans la liste de suivi.";
 
@@ -79,6 +81,7 @@
 "EN LIGNE" = "En ligne";
 "OFFLINE" = "Hors ligne";
 "IS_TYPING" = "écrit...";
+"IS_RECORDING" = "is recording...";
 "IS_NOW_ONLINE" = "est maintenant en ligne";
 "HAS_GONE_OFFLINE_AT" = "est déconnecté de";
 "HAS_READ_YOUR_MESSAGES" = "a lu vos messages";

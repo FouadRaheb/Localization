@@ -45,6 +45,9 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "פרטיות אנשי הקשר שלי";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "הרשימה השחורה של אנשי הקשר";
 
+"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
+"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+
 "DISABLE_VOIP_DESC" = "ביטול שיחות בתוך הוואטסאפ";
 "DISABLE_VOIP_LABEL" = "ביטול שיחות";
 
@@ -349,6 +352,7 @@
 "HIDE_CHAT_BUTTONS_DESC" = "החבא כפתורי המצלמה וההקלטה בצ'אט";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "החבא מצלמה";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "החבא הקלטה";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Hide stickers";
 
 "HIDE_CHAT_CONTACT_PICTURE_DESC" = "החבא את תמונת הפרופיל של איש הקשר בתוך הצ'אט";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "החבא תמונת פרופיל";
