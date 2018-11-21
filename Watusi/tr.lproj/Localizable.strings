@@ -14,7 +14,7 @@
 "DISABLE_READ_RECEIPTS_LABEL" = "Okundu Bilgisini Kapat";
 "READ_RECEIPTS_DESC" = "Okundu bilgisini kapat ancak sen görebilirsin. Seçtiğin kişilere göre okundu bilgisini ayarlayabilirisin.";
 "NEVER_SEND_RECEIPTS_TO" = "Kişiye Özel Alındı Bilgisi Gönderme...";
-"FORCE_SEND_RECEIPTS_TO" = "Force Send Receipts to...";
+"FORCE_SEND_RECEIPTS_TO" = "Okundu bilgisini gönder...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Alındı Bilgisini Yinede Gönder...";
 "FORCE_RECEIPTS_ON" = "Yinede Aldındı Bilgisi Açık...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mesaj Gönder";
@@ -36,7 +36,7 @@
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Kişileriniz mesajlarınızı aldığınızı göremez. Sadece bir kontrol gösterecektir.";
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Gönderildi Bilgisini Devre Dışı Bırak.";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarı! Bu özelliğin etkinleştirilmesi, iletilerin gecikmesine neden olur, çünkü Sunucuda teslim olarak işaretlenmesini bekleyen çok sayıda bekleyen ileti varsa, WhatsApp sunucusu size yeni ileti göndermeyi durduracaktır. Sunucu taraflı olduğu için bunu düzeltmek mümkün değildir.";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarı! \n Bu özelliğin etkinleştirilmesi, iletilerin gecikmesine neden olur, çünkü Sunucuda teslim olarak işaretlenmesini bekleyen çok sayıda bekleyen ileti varsa, WhatsApp sunucusu size yeni ileti göndermeyi durduracaktır. Sunucu taraflı olduğu için bunu düzeltmek mümkün değildir.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plan girerken son görülme gizliliğinizi Kimse'ye ve WhatsApp'ı açtığınızda tekrar 'Kişilerim'e ayarlayın";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Son Görülme Otomatik Değiştir";
@@ -45,8 +45,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Kişilerim Gizlilik";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Kara Listedeki Kişiler";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "Kişileriniz, arama sırasında mikrofonu susturduğunuzu bilmeyecektir.";
+"HIDE_CALL_MUTE_LABEL" = "Aramada Sessizi Gizle";
 
 "DISABLE_VOIP_DESC" = "Arama ekranını devre dışı bırak ve gelen aramaları engelle.";
 "DISABLE_VOIP_LABEL" = "Aramaları Devre Dışı Bırak";
@@ -76,7 +76,7 @@
 "STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Fotoğrafı Kütüphaneye Kaydet";
 "STATUS_TEXT_SHARE_IMAGE" = "Fotoğrafı paylaş";
 "STATUS_TEXT_SHARE_TEXT" = "Metni Paylaş";
-"STATUS_TEXT_COPY_TEXT" = "Metni Kopyalat";
+"STATUS_TEXT_COPY_TEXT" = "Metni Kopyala";
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Metin Clipboard'a Kaydedildi";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Görüntülenen Otomatik İşareti Devre Dışı Bırak";
@@ -262,7 +262,7 @@
 
 "MEDIA_LABEL" = "Medya";
 
-"SHARE_SHEET_DESC" = "WhatsApp medya paylaşım levhasına fotoğraf makinesi rulosunda en son fotoğraf gönderme, müzik paylaşma, engelleme / engellemeyi kaldırma gibi daha fazla seçenek ekleyin.";
+"SHARE_SHEET_DESC" = "WhatsApp medya paylaşım menüsüne fotoğraf rulosunda en son fotoğraf gönderme, müzik paylaşma, engelleme / engellemeyi kaldırma gibi daha fazla seçenek ekleyin.";
 "SHARE_SHEET_LABEL" = "Paylaşım Sayfası";
 "SHARE_SHEET_ACTIVE_BUTTONS" = "Aktif Düğmeler";
 "SHARE_SHEET_STYLE" = "Stil";
@@ -318,7 +318,7 @@
 
 /* User Interface */
 
-"USER_INTERFACE_LABEL" = "User Interface";
+"USER_INTERFACE_LABEL" = "Kullanıcı Arayüzü";
 
 "REPLACE_CAMERA_TAB_DESC" = "Yeni kamera sekme çubuğunu eski sık kullanılan sayfalarla değiştirin.";
 "REPLACE_CAMERA_TAB_LABEL" = "Kamera Sekmesi";
@@ -330,7 +330,7 @@
 "REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Tüm Favori Kişileri Ekle";
 "REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Tümünü Ekle";
 
-"MY_NUMBER" = "My Number:";
+"MY_NUMBER" = "Numaram:";
 "%zd_CONTACTS" = "%zd Kişiler";
 
 "DISABLE_LARGE_EMOJI_DESC" = "Tek emoji mesajını daha büyük bir emoji haline dönüştürmeyi devre dışı bırak.";
@@ -524,7 +524,7 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Çeviri by Yusuf ÖZGÜL\n\n\nJailbreakTR 🇹🇷🇹🇷🇹🇷\n\n\nDestek";
+"SUPPORT_SECTION_TITLE" = "Support;
 
 "CONTACT_AND_MORE_LABEL" = "İletişim & Daha Fazlası";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Destek";
@@ -534,7 +534,7 @@
 "UPDATES_SECTION_TITLE" = "Güncellemeler";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Güncellemeleri Otomatik Denetle";
 "CHECK_FOR_UPDATES_BUTTON" = "Güncellemeleri Kontrol Et";
-"MORE_TWEAKS_TITLE" = "(jailbreakTR) Daha Fazla Tweak";
+"MORE_TWEAKS_TITLE" = "Yukarıdaki ayarlardan Hide Settings'i seçerseniz watusi ayarları kaybolacaktır, bulmak için whatsapp ayarlarında başlığın sağ tarafına gizli buton gelecektir oradan watusi ayarlarına erişebilirsiniz.";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
 "ACCOUNT" = "Hesap";
@@ -545,7 +545,7 @@
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Watusi Lisansı Satın Alın";
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet atın 2 gün boyunca reklamsız kullanın";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Watusi'yi satın almak için hesabınızla giriş yapmak zorundasınız.";
-"LOADING" = "Yükleniyor ( jailbreaktr.com )...";
+"LOADING" = "Yükleniyor...";
 
 
 /* Promo Code */
