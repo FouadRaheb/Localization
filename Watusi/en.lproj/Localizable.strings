@@ -103,8 +103,8 @@
 
 "CHATS_ADDONS_LABEL" = "Chats Add-ons";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Time Limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp messages revoking time limit";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Tap To Record";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tap & Slide to Cancel";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirm Call Tap In Recents";
 "START_VIDEO_CALL_WITH" = "Start video call with";
 "START_VOICE_CALL_WITH" = "Start voice call with";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Video Call";
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Voice Call";
 "CARRIER_CALL_BUTTON" = "Carrier Call";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Call Recorder";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Recordings";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "This action will delete all recordings for %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "Delete %d recording";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "Delete %zd recording";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Delete current recording";
 
 "CONTACT_ABOUT_DATE_DESC" = "Re-add the option to view your contacts' About date on their contact info page which was removed by WhatsApp in their recent update.";

@@ -103,8 +103,8 @@
 
 "CHATS_ADDONS_LABEL" = "תוספות לצא'טים";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Time Limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp messages revoking time limit";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "לחיצה קצרה במקום ארוכה להקלטה";
 "TAP_TO_RECORD_SLIDE_LABEL" = "החלק כדי לבטל את ההקלטה";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "אישור שיחה אחרונים";
 "START_VIDEO_CALL_WITH" = "התחל שיחת וידאו עם";
 "START_VOICE_CALL_WITH" = "התחלת שיחת קול עם";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "שיחת וידאו - וואטסאפ";
 "WHATSAPP_VOICE_CALL_BUTTON" = "שיחה קולית - וואטסאפ";
 "CARRIER_CALL_BUTTON" = "שיחה רגילה - טלפון";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "מקליט שיחות";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "הקלטות";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "הפעולה הזו תמחוק את כל ההקלטות %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "הקלטות %d מחק";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "הקלטות %zd מחק";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "מחק את ההקלטה הנוכחית";
 
 "CONTACT_ABOUT_DATE_DESC" = "הוסף את האפשרות לראות את מידע פרטי איש הקשר שהוסר על ידי וואטסאפ בעדכון האחרון.";

@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Toque para gravar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque e deslize para cancelar";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Desativar indicador de Encaminhado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Não mostra o indicador de Encaminhado quando se encaminha uma mensagem para seus contatos";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar chamada Toque em Recentes";
 "START_VIDEO_CALL_WITH" = "Inicie a chamada de vídeo com";
 "START_VOICE_CALL_WITH" = "Inicie a chamada de voz com";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Ligação de vídeo do WhatsApp";
 "WHATSAPP_VOICE_CALL_BUTTON" = "Ligação de voz do WhatsApp";
 "CARRIER_CALL_BUTTON" = "Ligação usando a operadora";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Gravador de chamadas";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Gravações";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Esta ação excluirá todas as gravações de %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "Deletar %d gravações";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "Deletar %zd gravações";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Deletar gravação atual";
 
 "CONTACT_ABOUT_DATE_DESC" = "Adicione novamente a opção para exibir a data do recado de seus contatos em sua página de informações de contato que foi removida pelo WhatsApp em sua atualização recente.";

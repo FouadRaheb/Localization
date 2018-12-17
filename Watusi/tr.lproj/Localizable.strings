@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Kayıt için dokun";
 "TAP_TO_RECORD_SLIDE_LABEL" = "İptal İçin Kaydır ya da Dokun";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Yönlendirilmiş Göstergeyi Devre Dışı Bırak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kişilerinize bir mesaj iletirken yönlendirilmiş göstergeyi göstermeyi devre dışı bırak";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Aramayı Onay Kutusunda Şunlara Dokunun:";
 "START_VIDEO_CALL_WITH" = "Şununla görüntülü arama başlat:";
 "START_VOICE_CALL_WITH" = "Şununla sesli arama başlat:";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Video Araması";
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sesli Arama";
 "CARRIER_CALL_BUTTON" = "Şebeke Araması";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Çağrı Kaydedici";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Kayıtlar";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Bu işlem tüm kayıtları silecektir. %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "%d Kayıtları Sil";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "%zd Kayıtları Sil";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Geçerli kaydı sil";
 
 "CONTACT_ABOUT_DATE_DESC" = "Son güncellemelerinde WhatsApp tarafından kaldırılan kişi bilgiler sayfasında kişilerin 'Hakkında' tarihini görüntüleme seçeneğini yeniden ekleyin.";
@@ -524,7 +529,7 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support;
+"SUPPORT_SECTION_TITLE" = "Support";
 
 "CONTACT_AND_MORE_LABEL" = "İletişim & Daha Fazlası";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Destek";

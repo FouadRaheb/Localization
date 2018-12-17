@@ -1,233 +1,238 @@
 /* Preferences */
 
-"WATUSI_PREFERENCES_LABEL" = "Watusi اعدادت";
-"DEBUG_MENU" = "قائمة المعالجة والتصحيح";
+"WATUSI_PREFERENCES_LABEL" = "اعدادات Watusi";
+"DEBUG_MENU" = "قائمة التصحيح";
 
 
 /* Privacy */
 
 "PRIVACY_LABEL" = "الخصوصية";
 
-"FREEZE_LASTSEEN_LABEL" = "تجميد آخر رؤية";
-"FREEZE_LASTSEEN_DESC" = "لن يتم عرضك في حالة متاح ولن يتم تحديث آخر مرة شوهدت عند فتح ال واتساب";
+"FREEZE_LASTSEEN_LABEL" = "تجميد آخر ظهور";
+"FREEZE_LASTSEEN_DESC" = "لن يعرف جهات اتصالك انك 'متصل الآن' ولن يعلموا آخر مرة قمت فيها بفتح واتساب ايضا";
 
-"DISABLE_READ_RECEIPTS_LABEL" = "إخفاء علامات قراءة الرسائل";
-"READ_RECEIPTS_DESC" = "إخفاء علمات قرائة الرسائل مع إمكانية روئية علامات قراءة الرسائل من جهات الاتصال الخاصة بك. و يمكنك ازالتها للجهات التي تختارها من كل جهة اتصال على حدى او من القوائم الاخرى في اعدادات watusi";
-"NEVER_SEND_RECEIPTS_TO" = "إخفاء علامات قراءة الرسائل ل...";
-"FORCE_SEND_RECEIPTS_TO" = "فرض إظهار علملات قراءة الرسائل ل...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
-"FORCE_RECEIPTS_ON" = "فرض العلامات على..";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "رسالة أرسلت";
-"FORCE_RECEIPTS_ON_START_TYPING" = "يكتب";
+"DISABLE_READ_RECEIPTS_LABEL" = "اخفاء علامة قراءة الرسائل (علامتيْ 'الصح' الزرقاء)";
+"READ_RECEIPTS_DESC" = "بعد تعطيل علامة قراءة الرسائل، سترى انت علامة قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا علامة قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل علامة قراءة الرسائل لجهات اتصال محددة عن طريق خيارات اظهار/عدم اظهار او من خلال معلومات جهة الاتصال نفسها.";
+"NEVER_SEND_RECEIPTS_TO" = "عدم اظهار علامة قراءة الرسائل لـ";
+"FORCE_SEND_RECEIPTS_TO" = "اظهار علامة قراءة الرسائل لـ";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "اظهار 'جاري تسجيل مقطع صوتي...'";
+"FORCE_RECEIPTS_ON" = "اظهار العلامات على...";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
+"FORCE_RECEIPTS_ON_START_TYPING" = "جاري الكتابة";
 "FORCE_RECEIPTS_ON_NEVER" = "أبدا";
 
 "WHITELIST" = "القائمة البيضاء";
 "BLACKLIST" = "القائمة السوداء";
-"SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
-"SEND_READ_RECEIPTS_BUTTON" = "إظهار علاملات قراءة الرسالة";
+"SEND_TYPING_INDICATOR_BUTTON" = "اظهار جاري الكتابة...";
+"SEND_READ_RECEIPTS_BUTTON" = "إظهار علامة قراءة الرسالة";
 
-"DISABLE_TYPING_LABEL" = "إخفاء مؤشر الكتابة";
-"DISABLE_TYPING_DESC" = "جهات اتصالك لن تراك في حالة الكتابة اذا كنت تكتب رسالة";
-"NEVER_SEND_TYPING_TO" = "إخفاء مؤشر الكتابة ل...";
-"FORCE_SEND_TYPING_TO" = "إظهار مؤشر الكتابة ل...";
+"DISABLE_TYPING_LABEL" = "تعطيل جاري الكتابة...";
+"DISABLE_TYPING_DESC" = "لن ترى جهات اتصالك انك تقوم بكتابة شيء او انك تقوم بتسجيل شيء";
+"NEVER_SEND_TYPING_TO" = "عدم اظهار جاري الكتابة لـ";
+"FORCE_SEND_TYPING_TO" = "اظهار علامة \"جاري الكتابة...\" لـ";
 
-"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "عرض  التحكم في مؤشرات قراءة الرسائل و الكتابة في صفحة معلومات جهة الاتصال لتعطيل او تفعيلها مباشرة لجهةالاتصال المعنية.";
-"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "إظهار أدوات التحكم في صفحة معلومات جهات الاتصال";
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = ".اظهار ادوات التحكم لـ علامة قراءة الرسائل و 'جاري الكتابة...' في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "اظهار ادوات التحكم في صفحة معلومات جهة الاتصال";
 
-"DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن ترى أنك استقبلت رسائلهم. سوف تظهر لهم علامة صح واحدة فقط.";
-"DISABLE_DELIVERY_RECEIPTS_LABEL" = "إخفاء علامات وصول الرسائل";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server sided.";
+"DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن تعلم انك تلقيت رسائلهم، حيث انه لن يظهر سوى علامة 'صح' واحدة فقط لديهم.";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "اخفاء علامة وصول الرسائل (علامتيْ 'الصح' الرمادية)";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "تنبيه! سيؤدي تفعيل هذه الميزة الى وصول الرسائل بشكل متأخر، والسبب ان سيرفرات واتساب ستتوقف عن ارسال رسائل جديدة اليك نظرا لكثرة الرسائل المعلقة لديهم والتي يُنْتظر ان يتم وضع علامة عليها بأنها قد وصلت اليك، ولا يمكن اصلاح هذه المشكلة لانها تعتمد على سيرفرات واتساب.";
 
-"LASTSEEN_AUTO_SWITCH_DESC" = "تعيين تلقائي لخصوصية أخر مشاهدة على الواتس اب الى \"لا احد\" عند الخروج من واتس اب و كونه في الخلفية, و اعادتها ل\"جهات اتصالي\" عند فتح واتس اب مرة اخرى.";
-"LASTSEEN_AUTO_SWITCH_LABEL" = "التبديل التلقائي لخصوصية آخر مشاهدة";
+"LASTSEEN_AUTO_SWITCH_DESC" = "ضبط تلقائي لخصوصية آخر ظهور بحيث لا يراها احد عندما يكون واتساب في الخلفية، ويراها جهات اتصالك فقط عندما يصبح واتساب قيد الاستخدام.";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "ضبط تلقائي لخصوصية آخر ظهور";
 
-"MY_CONTACTS_PRIVACY_DESC" = "اختار جهات الاتصال التي ترغب في استبعادها من قائمة جهات الاتصال التي ترسل لسيرفرات واتس اب. الجهات التي لا ترسل للسيرفر لن تتمكن من عرض صورتك او حالتك او اخر مشاهدة لك و هذا في حالة انك في خصائص واتس اب اعددت خصوصيتك لجهات التصالك فقط. لن تكون قابل لتغيير او مسح قائمتك السوداء في حالة انها عندك اذا كانت هذه صور الجهات التي تحظرها لن تحدث الا عند قيامك بالضغط عليها و عرضها بنفسك. اذا كان لديك \"Stalky\" tweak لن تقوم باستقابل اي تحديثات للجهات الموضوعة في القائة السوداء";
+"MY_CONTACTS_PRIVACY_DESC" = "اختر جهات الاتصال التي ترغب في استبعادها من قائمة جهات الاتصال المرسلة الى سيرفرات واتساب.\n\nملاحظات:\n١- لن تتمكن من تعديل/حذف جهات اتصالك المدرجة في القائمة السوداء بعد تفعيل هذه الميزة.\n٢- لن تتغير الصور الشخصية المصغرة لجهات اتصالك المحظورة الا بعد النقر عليها.\n٣- لن تتلقى وسائط الحالة من جهات اتصالك المدرجة في القائمة السوداء.\n٤- اذا كانت لديك اداة Stalky، فلن تتلقى تغييرات جهات اتصالك المدرجة في القائمة السوداء (التغييرات الخاصة بأداة Stalky).";
 "MY_CONTACTS_PRIVACY_LABEL" = "خصوصية جهات اتصالي";
-"MY_CONTACTS_BLACKLISTED_LABEL" = "الجهات الموضوعة في القائمة السوداء";
+"MY_CONTACTS_BLACKLISTED_LABEL" = "جهات الاتصال المدرجة في القائمة السوداء";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "لن تعلم جهات اتصالك انك قمت بكتم الميكروفون اثناء المكالمة.";
+"HIDE_CALL_MUTE_LABEL" = "اخفاء كتم المكالمة";
 
-"DISABLE_VOIP_DESC" = "تعطيل واجهة VOIP و حظر جميع مكالمات VOIP القادمة";
-"DISABLE_VOIP_LABEL" = "تعطيل VOIP";
+"DISABLE_VOIP_DESC" = "تعطيل واجهة الاتصال الصوتي وحجب جميع المكالمات الصوتية الواردة.";
+"DISABLE_VOIP_LABEL" = "تعطيل الاتصال الصوتي";
 
 
 /* Status Addons */
 
-"STATUS_ADDONS_LABEL" = "إضافات الحالة";
+"STATUS_ADDONS_LABEL" = "اضافات الحالة";
 
-"STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر للتحميل";
-"STATUS_DOWNLOAD_BUTTON_DESC" = "وضح زر صغير في أسفل اليمين لتحميل الصورة او الفيديو";
+"STATUS_DOWNLOAD_BUTTON_LABEL" = "اظهار زر التحميل";
+"STATUS_DOWNLOAD_BUTTON_DESC" = "اضافة زر في الجزء السفلي الايمن في الحالة لتنزيلها.";
 
-"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصورة للمكتبة";
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور الى المكتبة";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "مشاركة الصورة";
-"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الصورة للمكتبة";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الصورة الى المكتبة";
 
-"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "حفظ الفيديو للمكتبة";
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "حفظ الفيديو الى المكتبة";
 "STATUS_DOWNLOAD_VIDEO_SHARE" = "مشاركة الفيديو";
-"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الفيديو للمكتبة";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الفيديو الى المكتبة";
 
-"STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "خفظ كفيديو";
-"STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "حفظ كGIF";
-"STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "مشاركة كفيديو";
-"STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "مشاركة كGIF";
-"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الGIF للمكتبة";
+"STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "حفظ كـ فيديو";
+"STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "حفظ كـ GIF";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "مشاركة كـ فيديو";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "مشاركة كـ GIF";
+"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الـ GIF الى المكتبة";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Save Image to Library";
-"STATUS_TEXT_SHARE_IMAGE" = "Share Image";
-"STATUS_TEXT_SHARE_TEXT" = "Share Text";
-"STATUS_TEXT_COPY_TEXT" = "Copy Text";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text Copied to Clipboard";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "حفظ الصورة الى المكتبة";
+"STATUS_TEXT_SHARE_IMAGE" = "مشاركة الصورة";
+"STATUS_TEXT_SHARE_TEXT" = "مشاركة النص";
+"STATUS_TEXT_COPY_TEXT" = "نسخ النص";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "تم نسخ النص الى الحافظة";
 
-"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل آظهار رؤية الحالة";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Move Viewed Statuses to Bottom";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل وسم حالات جهات الاصتال كمرئية عند عرضها و اتاحة القيام بذلك يدويا. الحالات التي تعرضها يدويا و ترسل انك رأيتها لن تحتوي على زر وسم الرؤية";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل اظهار رؤية الحالة";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها الى اسفل";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل اظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على رمز العين الذي سيصبح موجودا اسفل كل حالة بجوار زر التحميل";
 
-"STATUS_CONTACT_GROUPS_DESC" = "اضافة الخيار لإنشاء مجموعات الاتصال وسهولة تحديد / إلغاء تحديدها من منتقي الاتصالات.";
+"STATUS_CONTACT_GROUPS_DESC" = "اضافة خيار لإنشاء مجموعات و تحديد/الغاء تحديد جهات اتصالك بسهولة.";
 "STATUS_CONTACT_GROUPS_LABEL" = "اظهار مجموعات جهات الاتصال";
-"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "You don't have any contact groups yet, use the + button to create one.";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "لا يوجد لديك مجموعات حتى الآن، استخدم زر + لإنشاء واحدة";
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "مجموعة جديدة";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "ادخل اسم المجموعة";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
-"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "ادر";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "ادارة";
 
-"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيم التقدم التلقائي للحالات";
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "Hide the blue dot badge on the status tab when a new status is available";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Hide Status Badges";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "اخفاء شارة النقطة الزرقاء التي تظهر على ايقونة زر الحالة في البار السفلي للتطبيق عندما تكون هناك حالات جديدة.";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "اخفاء شارات شريط الحالة";
 
 /* Chats Addons */
 
-"CHATS_ADDONS_LABEL" = "اضافات المحادثات";
+"CHATS_ADDONS_LABEL" = "اضافات الدردشات";
 
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Limit";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp 7 minutes messages revoking limit";
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد الـ7 دقائق الذي تضعه واتساب كحد اقصى لحذف رسائلك.";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر ايقونة ايضا بجانب الرسالة المحذوفة لتبين ان جهة اتصالك قد قامت بحذف الرسالة.";
 
-"ABOUT_ON_CHATS_DESC" = "اظهار \"عن\" لممتصل تحت اسمه في شريط صغير";
-"ABOUT_ON_CHATS_LABEL" = "عن في المحادثة";
+"ABOUT_ON_CHATS_DESC" = "اظهار الحالة الخاصة بجهة الاتصال اسفل اسمه في شريط صغير داخل المحادثة.";
+"ABOUT_ON_CHATS_LABEL" = "الحالة في المحادثة";
 
-"TAP_TO_RECORD_DESC" = "انقر مرة للتسجيل  وانقر مرة اخرة لبعث التسجيل..او انقر و اسحب لليسار للاغاء";
+"TAP_TO_RECORD_DESC" = "انقر مرة واحدة لبدء تسجيل صوتي وانقر مرة اخرى لارسال هذا التسجيل او انقر مع السحب الى اليسار لحذف هذا التسجيل.";
 "TAP_TO_RECORD_LABEL" = "انقر للتسجيل";
-"TAP_TO_RECORD_SLIDE_LABEL" = "انقر و اسحب لليسار للالغاء";
+"TAP_TO_RECORD_SLIDE_LABEL" = "انقر واسحب الى اليسار للالغاء";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
-"DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "تعطيل التشغيل التلقائي للصوتيات";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "ايقاف واتساب من تشغيل الرسالة الصوتية التالية تلقائيا.";
 
-"CALL_CONFIRM_DESC" = "الحصول على تنبيه تأكيد عند النقر على أزرار مكالمة صوتية أو فيديو، يمكنك أيضا الاختيار بين مكالمة ال واتساب أو مكالمة الناقل العادي.";
-"CALL_CONFIRM_LABEL" = "تأكيد المكالمة";
-"CALL_CONFIRM_RECENTS_LABEL" = "تأكيد المكالمة في قائمة المؤخرا";
-"START_VIDEO_CALL_WITH" = "بدأ مكالمة فيديو مع";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "اخفاء علامة 'رسالة محولة'";
+"DISABLE_FORWARD_INDICATOR_DESC" = "اخفاء علامة 'رسالة محولة' عند تحويل اي رسائل الى جهات الاتصال الخاصة بك.";
+
+"CALL_CONFIRM_DESC" = "الحصول على تنبيه بالتأكيد عند الضغط على ازرار الاتصال (الصوتي او الفيديو)، كما يمكنك الاختيار بين مكالمة واتساب ومكالمة عادية.";
+"CALL_CONFIRM_LABEL" = "تأكيد الاتصال";
+"CALL_CONFIRM_RECENTS_LABEL" = "تأكيد الاتصال في قسم المكالمات";
+"START_VIDEO_CALL_WITH" = "بدء مكالمة فيديو مع";
 "START_VOICE_CALL_WITH" = "بدأ مكالمة صوتية مع";
-"WHATSAPP_VIDEO_CALL_BUTTON" = "مكالمة واتس اب فيديو";
-"WHATSAPP_VOICE_CALL_BUTTON" = "مكالمة واتس اب صوتية";
-"CARRIER_CALL_BUTTON" = "مكالمة عادية";
-"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "مكالمة الناقل غير متاحة!";
+"START_GROUP_VIDEO_CALL_WITH" = "بدء مكالمة جماعية صوتية";
+"START_GROUP_VOICE_CALL_WITH" = "بدء مكالمة فيديو جماعية";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "مكالمات واتساب الفيديو";
+"WHATSAPP_VOICE_CALL_BUTTON" = "مكالمات واتساب الصوتية";
+"CARRIER_CALL_BUTTON" = "اتصال عادي";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "الاتصال العادي غير متاح!";
 
-"GROUP_MEMBERS_PICTURE_DESC" = "عرض صورة الملف الشخصي للعضو في المجموعة بجوار رسائلهم في الدردشة الجماعية. يمكنك أيضا النقر لعرض في معاينة الصورة.";
+"GROUP_MEMBERS_PICTURE_DESC" = "اظهار الصورة الشخصية لكل عضو في المجموعة بجانب رسائله.\n يمكن ايضا النقر على الصورة لعرضها.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "صور اعضاء المجموعة";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
-"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد الرسائل لكل عضو في صفحة المجموعة";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد رسائل كل عضو في المجموعة بجانب صورته الشخصية في معلومات المجموعة.";
 
-"MESSAGE_FORWARD_DESC" = "إضافة زر جديد إلى الأمام للدردشة تحرير شريط الأدوات الذي يستخدم لإعادة توجيه رسائل متعددة لأكثر من جهة اتصال واحدة في وقت واحد.";
-"MESSAGE_FORWARD_LABEL" = "إعادة توجيه الرسالة";
-"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "لم يتم تحديد جهات اتصال";
-"MESSAGE_FORWARD_BUTTON_TITLE" = "اعادة توجيه";
-"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "إعادة توجيه %zd زد رسالة إلى %zd  زد الاتصال.";
+"MESSAGE_FORWARD_DESC" = "اضافة زر تحويل جديد الى شريط ادوات تحرير الدردشة والذي يمكن استخدامه في تحويل عدة رسائل الى اكثر من جهة اتصال في كل مرة.";
+"MESSAGE_FORWARD_LABEL" = "تحويل الرسالة";
+"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "لا توجد جهات اتصال محددة";
+"MESSAGE_FORWARD_BUTTON_TITLE" = "تحويل";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "تحويل %zd رسالة لـ %zd جهة اتصال";
 
-"BROADCAST_MESSAGE_INDICATOR_DESC" = "لإضافة رمز بجوار رسائل جهات الاتصال التي يتم إرسالها إليك عبر البرود كاست لمساعدتك في التمييز بين الرسائل التي يتم إرسالها إليك مباشرة.";
-"BROADCAST_MESSAGE_INDICATOR_LABEL" = "مؤشر رسائل البرودكاست";
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "اضافة رمز بجانب الرسائل التي يتم ارسالها عبر قوائم الرسائل الجماعية وذلك لتستطيع التمييز بينها وبين الرسائل الموجهة اليك بشكل مباشر.";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "تمييز الرسائل الجماعية";
 
-"IN_APP_BROWSER_DESC" = "فتح صفحات المتصفح في واتس اب بدلا من سفاري";
-"IN_APP_BROWSER_LABEL" = "متصفح التطبيق";
+"IN_APP_BROWSER_DESC" = "فتح الروابط وصفحات الويب داخل واتساب بدلا من الانتقال الى سفاري.";
+"IN_APP_BROWSER_LABEL" = "متصفح داخل التطبيق";
 
-"CLEAR_BROADCAST_BUTTON_DESC" = "أضف زرا في أعلى يمين دردشة البرودكاست عند حذف الرسائل من أجل محو الدردشة.";
-"CLEAR_BROADCAST_BUTTON_LABEL" = "محو دردشة البرودكاست";
-"CLEAR_BROADCAST_ALERT_MESSAGE" = "محو تاريخ دردشة البرود كاست";
-"CLEAR_BROADCAST_ALERT_BUTTON" = "محو";
-"CLEAR_BROADCAST_NAVBAR_BUTTON" = "محو الدردشة";
+"CLEAR_BROADCAST_BUTTON_DESC" = "اضافة زر في الجزء العلوي الايسر من دردشات قوائم الرسائل الجماعية يتيح لك ازالة الدردشة عند حذف الرسائل.";
+"CLEAR_BROADCAST_BUTTON_LABEL" = "ازالة دردشات قوائم الرسائل الجماعية";
+"CLEAR_BROADCAST_ALERT_MESSAGE" = "ازالة دردشات قوائم الرسائل الجماعية المحفوظة";
+"CLEAR_BROADCAST_ALERT_BUTTON" = "ازالة";
+"CLEAR_BROADCAST_NAVBAR_BUTTON" = "ازالة الدردشة";
 
-"SEND_RETURN_KEY_DESC" = "استبدال زر كيبورد العودة الى ارسال";
-"SEND_RETURN_KEY_LABEL" = "زر العودة يرسل بدلا من ادخال مسافة";
+"SEND_RETURN_KEY_DESC" = "استبدال زر الرجوع في الكيبورد بزر الارسال.";
+"SEND_RETURN_KEY_LABEL" = "استخدام زر الارسال بدلا من زر الرجوع";
 
 
 /* Other Addons */
 
-"OTHER_ADDONS_LABEL" = "الاضافات الاخرى";
+"OTHER_ADDONS_LABEL" = "اضافات اخرى";
 
-"CALL_RECORDER_DESC" = "تسجيل جميع المكالمات الواردة والصادرة على ال واتساب. يمكنك التحقق من المكالمات المسجلة في علامة التبويب الأخيرة من قسم السجلات.";
-"CALL_RECORDER_LABEL" = "مسجل المكالمات";
+"CALL_RECORDER_DESC" = "سجِّل جميع مكالماتك الواردة والصادرة على واتساب.\nيمكنك مراجعة مكالماتك المسجلة من علامة التبويب الاخيرة في قسم السجلات.";
+"CALL_RECORDER_LABEL" = "تسجيل المكالمات";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "جاري التسجيل";
-"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "%@ هذا سيلغي جميع التسجيلات";
-"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "مسح %zd التسجيلات";
-"CALL_RECORDER_DELETE_CURRENT_RECORDING" = "مسح التسجيل الحالي";
+"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "سيؤدي هذا الاجراء الى حذف جميع سجلات المكالمات لـ %@";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "حذف %zd من التسجيلات";
+"CALL_RECORDER_DELETE_CURRENT_RECORDING" = "حذف التسجيل الحالي";
 
-"CONTACT_ABOUT_DATE_DESC" = "إعادة إضافة الخيار لعرض جهات الاتصال الخاصة بك عن تاريخ على صفحة معلومات الاتصال الخاصة بهم والتي تمت إزالتها من قبل ال واتساب في التحديث الأخير.";
-"CONTACT_ABOUT_DATE_LABEL" = "تاريخ \"عن\" لجهة الاتصال";
-"CONTACT_ABOUT_DATE_FORMAT" = "نمط التاريخ";
+"CONTACT_ABOUT_DATE_DESC" = "اعادة اضافة خيار عرض الحالة لجهات الاتصال الخاصة بك والتي ازالتها واتساب في التحديثات الاخيرة.";
+"CONTACT_ABOUT_DATE_LABEL" = "تاريخ حالة جهات الاتصال";
+"CONTACT_ABOUT_DATE_FORMAT" = "صيغة التاريخ";
 
-"ARCHIVE_LOCK_DESC" = "اضغط لفترة طويلة على الدردشات في طريقة عرض الأرشيف من أجل تأمين الدردشات المؤرشفة مما يعني أن المحادثة المقفلة لن يتم نقلها مرة أخرى إلى قائمة الدردشات عندما تتلقى رسالة جديدة. يمكنك إدارة الأحاديث المؤمنة من أعلى الزر الأيمن على عرض الأحاديث المؤرشفة.";
-"ARCHIVE_LOCK_LABEL" = "واجهة قفل الارشيف";
-"ARCHIVE_LOCKED_CHATS" = "المحادثات المقفلة";
-"ARCHIVE_LOCK_UNLOCK_TITLE" = "فتح المحادثة";
-"ARCHIVE_LOCK_LOCK_TITLE" = "قفل المحادثةt";
+"ARCHIVE_LOCK_DESC" = "اضغط مطولا على اي محادثة موجودة في الأرشيف لطلب قفلها، واي محادثة سيتم قفلها لن تعود لقائمة المحادثات بعد ذلك عند تلقي رسالة جديدة، ويمكنك ادارة دردشاتك المقفلة في الأرشيف عن طريق ايقونة القفل الموجودة في اعلى اليسار في نفس الصفحة.";
+"ARCHIVE_LOCK_LABEL" = "قفل محادثات الأرشيف";
+"ARCHIVE_LOCKED_CHATS" = "الدردشات المقفلة";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "فتح قفل الدردشة";
+"ARCHIVE_LOCK_LOCK_TITLE" = "قفل المحادثة";
 "ARCHIVE_LOCK_UNLOCK_MESSAGE" = "عند استلام رسالة جديدة، ستنتقل الدردشة مرة أخرى إلى قائمة الدردشات.";
-"ARCHIVE_LOCK_LOCK_MESSGAE" = "إذا تلقيت رسائل جديدة من هذه الدردشة، فلن يتم الانتقال إلى قائمة الدردشات.";
+"ARCHIVE_LOCK_LOCK_MESSGAE" = "عند تلقي رسالة جديدة من جهة الاتصال هذه، ستنتقل دردشتها الى قائمة المحادثات.";
 "ARCHIVE_LOCK_LOCK_BUTTON" = "قفل";
 "ARCHIVE_LOCK_UNLOCK_BUTTON" = "فتح القفل";
-"ARCHIVE_LOCK_TABLE_TITLE" = "مقفول في الارشيف";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "تم تأمين الدردشة في الأرشيف. \ هل ترغب في إلغاء قفل الدردشة من الأرشيف وإلغاء الأرشفة؟";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل و ازالة من الارشفة";
+"ARCHIVE_LOCK_TABLE_TITLE" = "مقفلة في الأرشيف";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "هذه الدردشة مغلقة في الأرشيف.\nهل تريد فتح قفل هذه الدردشة والغاء ارشفتها؟";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل والغاء الأرشفة";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
-"UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
+"UNLIMITED_PINNED_CHATS_LABEL" = "تثبيت اكثر من 3 دردشات";
+"UNLIMITED_PINNED_CHATS_DESC" = "ستتمكن من تثبيت عدد لا نهائي من الدردشات.";
 
-"GROUPS_LIST_DESC" = "لإضافة زر شريط التنقل لفتح قائمة بجميع المجموعات الخاصة بك.";
+"GROUPS_LIST_DESC" = "اضافة زر شريط متنقل يمكنك من خلاله فتح قائمة تحتوي على جميع مجموعاتك.";
 "GROUPS_LIST_LABEL" = "قائمة المجموعات";
-"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "صفحة اولية";
-"GROUPS_LIST_GROUP_LABEL" = "مجموعات";
-"GROUPS_LIST_BROADCAST_LABEL" = "برودكاست";
+"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "الصفحة الرئيسية";
+"GROUPS_LIST_GROUP_LABEL" = "المجموعات";
+"GROUPS_LIST_BROADCAST_LABEL" = "قوائم الرسائل الجماعية";
 
-"OPEN_PICTURE_ON_TAP_DESC" = "سيؤدي ذلك إلى فتح صورة الملف الشخصي للاتصال عند النقر على صورته المصغرة في قائمة الدردشة أو صفحة المفضلة.";
-"OPEN_PICTURE_ON_TAP_LABEL" = "فتح الصورة مباشرة عند النقر عليها";
+"OPEN_PICTURE_ON_TAP_DESC" = "سيؤدي ذلك الى امكانية عرض الصورة الشخصية لجهات اتصالك عن طريق النقر على صورهم الشخصية المصغرة في قائمة الدردشة او المفضلة.";
+"OPEN_PICTURE_ON_TAP_LABEL" = "عرض الصورة عن طريق النقر";
 
-"NEW_CHAT_OPTIONS_DESC" = "النقر على زر الدردشة الجديدة سوف تظهر تنبيه مع خيار لإدخال رقم الهاتف إلى رسالة على ال واتساب دون إنشاءجهةاتصال لذلك.";
-"NEW_CHAT_OPTIONS_LABEL" = "خيارات المحادثة الجديدة";
-"NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "بدء محادثة جديدة";
-"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "اختر جهة الاتصال";
+"NEW_CHAT_OPTIONS_DESC" = "سيُظهر النقر على زر الدردشة الجديدة نافذة تنبيه مع خيار لإدخال رقم هاتف للإرسال على واتساب بدون الحاجة لحفظ الرقم وتعيينه كجهة اتصال لديك.";
+"NEW_CHAT_OPTIONS_LABEL" = "خيارات الدردشة الجديدة";
+"NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "بدء دردشة جديدة";
+"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "اختيار جهة اتصال";
 "NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "ادخل الرقم";
-"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "أدخل رقم الاتصال عن طريق إضافة رمز البلد متبوعا برقم الهاتف دون أي رموز إضافية";
-"NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "فتح المحادثةt";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "ادخل رقم الهاتف عن طريق اضافة رمز الدولة متبوعا بالرقم بدون كتابة اي رموز اضافية.";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "فتح الدردشة";
 
-"SWIPE_TO_DELETE_DESC" = "تحريك لليسار slide على المحادثة لمسحها";
-"SWIPE_TO_DELETE_LABEL" = "تحريك للمسح";
-"SWIPE_TO_DELETE_BUTTON" = "تحريك لمسح المحادثة";
-"SWIPE_TO_DELETE_MESSAGE" = "مسح المحادثة";
+"SWIPE_TO_DELETE_DESC" = "مرر اي دردشة في قائمة الدردشات الى اقصى اليمين لحذفها.";
+"SWIPE_TO_DELETE_LABEL" = "التمرير لحذف الدردشة";
+"SWIPE_TO_DELETE_BUTTON" = "التمرير لحذف الدردشة";
+"SWIPE_TO_DELETE_MESSAGE" = "حذف الدردشة";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "تبديل التمرير لليمين بعرض معلومات عن جهة الاتصال بدلا من تحديد القرائة";
-"SWIPE_FOR_CONTACT_INFO_LABEL" = "مرر لمعلومات جهة المتصل";
-"SWIPE_FOR_CONTACT_INFO_BUTTON" = "معلومات";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "استبدال تمرير الدرشة الى اليسار لجعلها غير مقروءة بالتمرير الى اليسار لعرض معلومات جهة الاتصال التي تم تمرير دردشتها.";
+"SWIPE_FOR_CONTACT_INFO_LABEL" = "التمرير لعرض معلومات جهة الاتصال";
+"SWIPE_FOR_CONTACT_INFO_BUTTON" = "حول";
 
-"CLEAR_CHATS_BUTTON_DESC" = "Adds a clear button in chats list edit menu to clear chats";
-"CLEAR_CHATS_BUTTON_LABEL" = "Clear Chats Button";
-"CLEAR_CHATS_CLEAR_BUTTON" = "Clear";
-"CLEAR_SELECTED_CHATS_BUTTON" = "Clear Selected Chats";
-"CLEAR_ALL_CHATS_BUTTON" = "Clear All Chats";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "Clear all chats content including archived";
+"CLEAR_CHATS_BUTTON_DESC" = "اضافة زر ازالة في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
+"CLEAR_CHATS_BUTTON_LABEL" = "زر ازالة الدردشات";
+"CLEAR_CHATS_CLEAR_BUTTON" = "ازالة";
+"CLEAR_SELECTED_CHATS_BUTTON" = "ازالة الدردشات المحددة";
+"CLEAR_ALL_CHATS_BUTTON" = "ازالة كل الدردشات";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "ازالة كل الدردشات بما في ذلك المؤرشفة.";
 
-"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "أضف زر جديد في منتقي المجموعة / البث لتحديد / إلغاء تحديد جميع جهات الاتصال. وهذا أيضا تجاوز 256 الاتصالات الحد. ملاحظة: قد لا يكون من الممكن إضافة أكثر من 256 عضوا إلى مجموعة على الخادم ولكن يا رفاق يمكن أن تحاول.";
-"GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "مجموعة/برودكاست اختار الكل";
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "اضافة زر جديد عند انشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/الغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا ايضا الى امكانية تجاوز حد 256 جهة اتصال.\nملاحظة: قد لا يكون من الممكن ان تضيف اكثر من 256 جهة اتصال ولكن لم لا تجرب ذلك (*_^)";
+"GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "الكل";
-"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "العدم";
+"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "لا احد";
 
-"INCREASE_ABOUT_LENGHT_DESC" = "زيادة حروف عن من 139 حرف ل 256";
-"INCREASE_ABOUT_LENGHT_LABEL" = "طول عن";
+"INCREASE_ABOUT_LENGHT_DESC" = "زيادة عدد احرف الحالة من 139 حرف الى 256 حرف.";
+"INCREASE_ABOUT_LENGHT_LABEL" = "زيادة احرف الحالة";
 
 
 /* Protection */
@@ -235,354 +240,354 @@
 "PROTECTION_LABEL" = "الحماية";
 
 "APP_PROTECTION_LABEL" = "حماية التطبيق";
-"DELETE_APP_PASSCODE" = "مسح رمز قفل التطبيق";
-"SET_APP_PASSCODE" = "اعداد رمز قفل التطبيق";
-"USE_TOUCH_ID" = "استخدم مستشعر البصمة";
+"DELETE_APP_PASSCODE" = "حذف كلمة مرور التطبيق";
+"SET_APP_PASSCODE" = "تعيين كلمة مرور للتطبيق";
+"USE_TOUCH_ID" = "استخدام بصمة الاصبع/الوجه";
 
-"CHAT_PROTECTION_LABEL" = "حماية المحادثة";
-"CHAT_PROTECTION_LOCKED_CHATS" = "المحادثات المقفولة";
-"CHAT_PROTECTION_LOCK_ALL_CHATS" = "قفل جميع المحادثات";
-"CHAT_PROTECTION_USE_TOUCH_ID" = "ةاستخدام مستشعر البصم";
+"CHAT_PROTECTION_LABEL" = "حماية الدردشة";
+"CHAT_PROTECTION_LOCKED_CHATS" = "الدردشات المقفلة";
+"CHAT_PROTECTION_LOCK_ALL_CHATS" = "قفل جميع الدردشات";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الاصبع او الوجه";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "فتح القفل";
 "CHAT_PROTECTION_LOCK_BUTTON" = "قفل";
 
-"HIDE_LAST_MESSAGE_LABEL" = "اخفائ اخر رسالة";
-"HIDE_LAST_MESSAGE_NONE" = "لا شي";
-"HIDE_LAST_MESSAGE_LOCKED" = "مقفول";
+"HIDE_LAST_MESSAGE_LABEL" = "اخفاء آخر رسالة";
+"HIDE_LAST_MESSAGE_NONE" = "لا شيء";
+"HIDE_LAST_MESSAGE_LOCKED" = "مقفل";
 "HIDE_LAST_MESSAGE_ALL" = "الكل";
 
-"BYPASS_PROTECTION_LABEL" = "تخطي الحماية";
-"BYPASS_PROTECTION_DESC" = "أدخل اسم شبكة ويفي التي ترغب في تجاوز الحماية لها عندما تكون متصلا بها.";
-"BYPASS_APP_PROTECTION_LABEL" = "تجاوز حماية التطبيق";
-"BYPASS_CHAT_PROTECTION_LABEL" = "تجاوز حماية المحادثة";
-"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "القاب الوايفاهات";
+"BYPASS_PROTECTION_LABEL" = "تخطي حماية التطبيق";
+"BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";
+"BYPASS_APP_PROTECTION_LABEL" = "تخطي حماية التطبيق";
+"BYPASS_CHAT_PROTECTION_LABEL" = "تخطي حماية الدردشة";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "اسماء شبكات الـ WiFi";
 
 
 /* Media */
 
 "MEDIA_LABEL" = "الوسائط";
 
-"SHARE_SHEET_DESC" = "إضافة المزيد من الخيارات إلى ال واتساب ورقة مشاركة الوسائط  مثل إرسال أحدث الصور في لفة الكاميرا، مشاركة الموسيقى، حظر / إلغاء حظر الاتصال.";
-"SHARE_SHEET_LABEL" = "ورقة المشاركة";
-"SHARE_SHEET_ACTIVE_BUTTONS" = "الزرائر المفعلة";
+"SHARE_SHEET_DESC" = "اضافة المزيد من الخيارات الى قائمة ازرار المشاركة مثل ارسال آخر صورة في البوم الكاميرا، مشاركة الموسيقى، حظر/الغاء حظر جهة الاتصال، وغيرها...";
+"SHARE_SHEET_LABEL" = "ازرار المشاركة";
+"SHARE_SHEET_ACTIVE_BUTTONS" = "تفعيل الازرار";
 "SHARE_SHEET_STYLE" = "الشكل";
-"SHARE_SHEET_STYLE_DEFAULT" = "العادي";
-"SHARE_SHEET_STYLE_IMAGE_PICKER" = "مختار الصور";
+"SHARE_SHEET_STYLE_DEFAULT" = "افتراضي";
+"SHARE_SHEET_STYLE_IMAGE_PICKER" = "قائمة الصور";
 "SHARE_SHEET_STYLE_DARK" = "اسود";
 "SHARE_SHEET_STYLE_WHITE" = "ابيض";
 
-"SHARE_SHEET_BUTTONS_LABEL" = "ازرة الورقة";
-"SHARE_SHEET_ENABLED_LABEL" = "مفعل";
-"SHARE_SHEET_DISABLED_LABEL" = "معطل";
+"SHARE_SHEET_BUTTONS_LABEL" = "ازرار المشاركة";
+"SHARE_SHEET_ENABLED_LABEL" = "الازرار المفعلة";
+"SHARE_SHEET_DISABLED_LABEL" = "الازرار المعطلة";
 
-"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "اخذ صورة او فيديو";
-"SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "مكتبة الصور/الفيديو";
-"SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "مكتبة الصورة";
-"SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "مكتبة الفيديو";
-"SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "ارسال اخر صورة";
-"SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "ارسال مستند";
-"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Share Device Files";
+"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "أخذ صورة او فيديو";
+"SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "مكتبة الصور/الفيديوهات";
+"SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "مكتبة الصور";
+"SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "مكتبة الفيديوهات";
+"SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "مشاركة آخر صورة";
+"SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "مشاركة مستندات";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "مشاركة ملفات من الجهاز";
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "مشاركة الموقع";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "مشاركة جهة اتصال";
-"SHARE_SHEET_SHARE_MUSIC_BUTTON" = "ارسال موسيقى";
+"SHARE_SHEET_SHARE_MUSIC_BUTTON" = "مشاركة الموسيقى";
 "SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "حظر/الغاء حظر جهة الاتصال";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "حظر جهة الاتصال";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "الغاء حظر جهة الاتصال";
-"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
-"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
+"SHARE_SHEET_PAYMENT_BUTTON" = "ارسال الدفع";
 
 "BLOCK" = "حظر";
 "UNBLOCK" = "الغاء الحظر";
 "BLOCK_CONTACT" = "حظر جهة الاتصال";
 "UNBLOCK_CONTACT" = "الغاء حظر جهة الاتصال";
-"BLOCK_CONTACT_MESSAGE" = "انقر حظر لمنع تلقي الرسائل من جهة الاتصال";
-"UNBLOCK_CONTACT_MESSAGE" = "انقر الغاء الحظر لتلقي الرسائل من جهة الاتصال";
+"BLOCK_CONTACT_MESSAGE" = "اضغط على \"حظر\" للتوقف عن تلقي الرسائل من جهة الاتصال هذه";
+"UNBLOCK_CONTACT_MESSAGE" = "انقر على \"الغاء الحظر\" لبدء تلقي الرسائل من جهة الاتصال هذه";
 
-"SHARE_DEVICE_FILES_DESC" = "اضافة زر جديد إلى ورقة المشاركة لخيار ارسال مستند التي تسمح لك بمشاركة أي ملف من جهازك.";
+"SHARE_DEVICE_FILES_DESC" = "اضافة زر جديد لمشاركة المستندات والذي يتيح لك مشاركة اي ملف من جهازك.";
 "SHARE_DEVICE_FILES_LABEL" = "مشاركة ملفات الجهاز";
 "SHARE_DEVICE_FILES_BUTTON" = "ملفات الجهاز";
 
-"SELECT_UNLIMITED_PHOTOS_DESC" = "ارسال عدد غير محدود من الصوف في نفس الوقت";
-"SELECT_UNLIMITED_PHOTOS_LABEL" = "عدد صور غير محدود";
+"SELECT_UNLIMITED_PHOTOS_DESC" = "تحديد عدد لا نهائي من الصور لارسالها دفعة واحدة.";
+"SELECT_UNLIMITED_PHOTOS_LABEL" = "عدد لانهائي من الصور";
 
-"MEDIA_DELETE_BUTTON_DESC" = "اضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائل الاتصال في آن واحد.";
+"MEDIA_DELETE_BUTTON_DESC" = "اضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
 "MEDIA_DELETE_BUTTON_LABEL" = "زر حذف الوسائط";
 "MEDIA_DELETE_ALERT_MESSAGE" = "حذف جميع الوسائط";
 
-"MEDIA_FORWARD_BUTTON_DESC" = "إضافة زر جديد للتوجيه على أعلى متصفح وسائل الإعلام من أجل إعادة توجيه رسالة وسائط إلى جهات اتصال متعددة في وقت واحد.";
-"MEDIA_FORWARD_BUTTON_LABEL" = "زر توجيه الوسائط";
-"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "وجه الرسالة إلى %zd أشخاص";
+"MEDIA_FORWARD_BUTTON_DESC" = "اضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط الى اكثر من جهة اتصال في آن واحد.";
+"MEDIA_FORWARD_BUTTON_LABEL" = "زر تحويل الوسائط";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "تحويل الوسائط الى %zd جهة اتصال";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Disable Saving Captured Media";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "تعطيل حفظ الوسائط المرسلة بواسطة كاميرا واتساب في تطبيق الصور لديك.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "تعطيل حفظ صور كاميرا واتساب";
 
 /* User Interface */
 
 "USER_INTERFACE_LABEL" = "واجهة المستخدم";
 
-"REPLACE_CAMERA_TAB_DESC" = "استبدل شريط علامات تبويب الكاميرا الجديد بصفحات جهات الاتصال القديمة أو المفضلة.";
-"REPLACE_CAMERA_TAB_LABEL" = "صفحة الكاميرا";
-"REPLACE_CAMERA_TAB_DEFAULT" = "العادي";
+"REPLACE_CAMERA_TAB_DESC" = "استبدال زر الكاميرا الموجود في اسفل منتصف البار السفلي للتطبيق بصفحة المفضلة.";
+"REPLACE_CAMERA_TAB_LABEL" = "زر الكاميرا";
+"REPLACE_CAMERA_TAB_DEFAULT" = "الافتراضي";
 "REPLACE_CAMERA_TAB_CONTACTS" = "جهات الاتصال";
-"REPLACE_CAMERA_TAB_FAVORITES" = "المفضلين";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "Delete All";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "Add all favorite contacts";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "Add All";
+"REPLACE_CAMERA_TAB_FAVORITES" = "المفضلة";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "حذف كل جهات اتصالك المفضلة";
+"REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "حذف الكل";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "اضافة كل جهات اتصالك المفضلة";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "اضافة الكل";
 
 "MY_NUMBER" = "رقمي:";
-"%zd_CONTACTS" = "جهات الاتصال %zd";
+"%zd_CONTACTS" = "%zd جهات الاتصال";
 
-"DISABLE_LARGE_EMOJI_DESC" = "تعطيل تكبير الايموجيس";
-"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الايموجيس المكبرة";
+"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الايموجي الكبير الذي يظهر عندما تحتوي الرسالة على ايموجي واحد فقط او اثنين فقط او ثلاثة فقط.";
+"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الايموجي الكبير";
 
-"SHOW_SECONDS_DESC" = "اضافة ثواني لاخر رسالة و لاخر رؤية و لاي شريط تأريخي في الواتس اب";
+"SHOW_SECONDS_DESC" = "اضافة عدّاد الثواني في آخر ظهور/الرسائل وأي شيء يظهر فيه الوقت داخل تطبيق واتساب.";
 "SHOW_SECONDS_LABEL" = "اظهار الثواني";
 
-"AUTO_SHOW_KEYBOARD_DESC" = "اظهار لوحدة المفاتيح عند فتح اي محادثة";
+"AUTO_SHOW_KEYBOARD_DESC" = "اظهار الكيبورد مباشرة عند الدخول الى المحادثة.";
 "AUTO_SHOW_KEYBOARD_LABEL" = "اظهار الكيبورد";
 
-"DISABLE_LANDSCAPE_DESC" = "غلق الروتيشن";
-"DISABLE_LANDSCAPE_LABEL" = "تعطيل الروتيشن لlandscape";
+"DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب الى الوضع الافقي.";
+"DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الافقي";
 
-"MUTE_SOUND_DESC" = "تعطيل الاصوات في واتس اب";
+"MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات الكيبورد.";
 "MUTE_SOUND_LABEL" = "كتم الاصوات";
-"MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم اصوات الكليكات";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات الكيبورد";
 
-"HIDE_CHAT_BUTTONS_DESC" = "اخفاء زر الكاميرا و زر التسجبل الصوتي و زر الملصقات في المحادثة";
+"HIDE_CHAT_BUTTONS_DESC" = "اخفاء ازرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "اخفاء زر الكاميرا";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "اخفاء زر الميكروفون";
 "HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "اخفاء صورة جهة الاتصال الشخصية في المحادثة";
-"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "اخفاء الصورة الشخصيةللمتصل";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "اخفاء الصورة الشخصية لجهة الاتصال داخل المحادثة.";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "اخفاء الصورة الشخصية";
 
-"HIDE_CHAT_CALL_BUTTONS_DESC" = "اخفاء ازرار الاتصال في المحادثة";
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "اخفاء ازرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "اخفاء زر الاتصال الصوتي";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "اخفاز زر اتصال الفيديو";
 
-"FULLSCREEN_MODE_DESC" = "اخفاء الستاتس بار من الواتس اب";
+"FULLSCREEN_MODE_DESC" = "اخفاء البار العلوي داخل تطبيق واتساب.";
 "FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة";
 
-"IPAD_FULLSCREEN_MODE_DESC" = "افتح ال واتساب في وضع ملء الشاشة تماما مثل أي تطبيق متوافق مع آي باد.";
-"IPAD_FULLSCREEN_MODE_LABEL" = "ملء الشاشة للايباد";
+"IPAD_FULLSCREEN_MODE_DESC" = "فتح واتساب في وضع ملء الشاشة مثل اي تطبيق آخر متوافق مع شاشة الـ iPad.";
+"IPAD_FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة للـ iPad";
 
 
 /* Notifications */
 
 "NOTIFICATIONS_LABEL" = "الاشعارات";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "استبدل جميع محتويات اشعارات واتساب بمحتوى معين تخصصه انت من اجل حماية خصوصيتك.\n\nيمكنك استخدام الاشعار الاصلي باستخدام:\n%[عنوان] للحصول على عنوان الاشعار.\n%[رسالة] للحصول على رسالة الاشعار.";
 "PRIVATE_NOTIFICATION_LABEL" = "الاشعارات الخاصة";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "الرسالة";
-"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "اشعار الرسالة";
+"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "رسالة الاشعار";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "العنوان";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "اسم جهة الاتصال";
 
-"HIDE_MUTED_BADGES_DESC" = "إخفاء شارات واتساب للدردشات الصامتة والمجموعات.";
-"HIDE_MUTED_BADGES_LABEL" = "إخفاء شارات تم كتمها";
+"HIDE_MUTED_BADGES_DESC" = "اخفاء شارات واتساب للدردشات والمجموعات التي تم كتمها.";
+"HIDE_MUTED_BADGES_LABEL" = "اخفاء شارات الكتم";
 
-"CONTACT_ICON_NOTIFICATIONS_DESC" = "استبدال ايقةنة واتس اب على الإخطارات  بصورة الملف الشخصي لجهة الاتصال";
-"CONTACT_ICON_NOTIFICATION_LABEL" = "ايقونة الاشعار";
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "استبدال ايقونة واتساب على الاشعارات بصورة البروفايل الخاصة بجهة الاتصال.";
+"CONTACT_ICON_NOTIFICATION_LABEL" = "ايقونة الاشعارات";
 
-"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "تفعيل الاشعارات الداخلية";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "سيعمل هذا الخيار على ابقاء واتساب نشطا في الخلفية دائما، ولكنه سيزيد من استهلاك البطارية.";
 
 /* Theme */
 
-"THEME_LABEL" = "الثيمات";
+"THEME_LABEL" = "تخصيص الوان التطبيق";
 
 "ENABLE_APP_TINTCOLOR_LABEL" = "تفعيل تلوين التطبيق";
 "APP_TINTCOLOR_LABEL" = "تلوين التطبيق";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
-"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+"MESSAGES_TEXT_COLORS_TITLE" = "الوان نص الرسائل";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "الوان خلفية الرسائل";
+"MESSAGES_STATUS_COLORS_TITLE" = "عناصر حالات الرسائل";
 
-"ENABLE_FONT_STYLE_LABEL" = "تفعيل نمط الخط";
+"ENABLE_FONT_STYLE_LABEL" = "تفعيل تخصيص الخط";
 
-"CHAT_FONTNAME_LABEL" = "اسم نوع خط المحادثة";
-"FONTS_LABEL" = "Fonts";
+"CHAT_FONTNAME_LABEL" = "اسم نوع خط الدردشة";
+"FONTS_LABEL" = "الخطوط";
 
-"BUBBLE_TEXT_SIZE_LABEL" = "حجم فقاعة الكلام";
+"BUBBLE_TEXT_SIZE_LABEL" = "حجم فقاعة النص";
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "حجم اسم جهة الاتصال في الفقاعة";
 
-"INCOMING_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المستقبل";
-"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "لون الكلام المرسل";
+"INCOMING_CHAT_TEXT_COLOR_LABEL" = "لون نص الدردشة المُستلمة";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "لون نص الدردشة المُرسلة";
 
-"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المستقبل";
-"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون الوقت المرسل";
+"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون وقت الدردشة المُستلمة";
+"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "لون وقت الدردشة المُرسلة";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "لون رسالة الحالة المُرسلة";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "لون رسالة الحالة المُستلمة";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "لون رسالة الحالة المَقروءة";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "لون علامة الرسالة المميزة بنجمة";
 
-"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
-"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "علامة الرسائل المحذوفة";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "ستظهر علامة بجانب الرسائل التي قام جهات اتصالك بحذفها.";
 
-"CHAT_URL_COLOR_LABEL" = "لون الشات";
-"TEXT_INPUT_COLOR_LABEL" = "لون خط الشات";
+"CHAT_URL_COLOR_LABEL" = "لون الروابط في الدردشة";
+"TEXT_INPUT_COLOR_LABEL" = "لون النص المُدخل";
 
-"INCOMING_BUBBLE_BG_COLOR_LABEL" = "لون خلفية الفقاعات المستقبلة";
-"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "لون خلفية الفقاعات المرسلة";
+"INCOMING_BUBBLE_BG_COLOR_LABEL" = "لون خلفية الفقاعات المُستلمة";
+"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "لون خلفية الفقاعة المُرسلة";
 "COLOR" = "اللون";
 
-"ENABLE_BUBBLE_OPACITY_LABEL" = "تفعيل اعتام الفقاعات";
-"INCOMING_BUBBLE_OPACITY_LABEL" = "عتمة الفقاعات المستقبلة";
-"OUTGOING_BUBBLE_OPACITY_LABEL" = "عتمة الفقعات المرسلة";
+"ENABLE_BUBBLE_OPACITY_LABEL" = "تفعيل تعتيم الفقاعات";
+"INCOMING_BUBBLE_OPACITY_LABEL" = "تعتيم الفقاعة المُستلمة";
+"OUTGOING_BUBBLE_OPACITY_LABEL" = "تعتيم الفقاعة المُرسلة";
 
-"KEYBOARD_STYLE_DESC" = "ستايل الكيبورد";
-"KEYBOARD_STYLE_LABEL" = "الكيبورد";
-"KEYBOARD_STYLE_DEFAULT" = "عادية";
+"KEYBOARD_STYLE_DESC" = "شكل الكيبورد";
+"KEYBOARD_STYLE_LABEL" = "لون الكيبورد";
+"KEYBOARD_STYLE_DEFAULT" = "افتراضي";
 "KEYBOARD_STYLE_DARK" = "اسود";
-"KEYBOARD_STYLE_DARK_BLUE" = "ابيض و اسود";
+"KEYBOARD_STYLE_DARK_BLUE" = "اسود وازرق";
 
 
 /* Contacts Blacklist */
 
-"CONTACTS_BLACKLIST_LABEL" = "قائمة جهات الاتصال السوداء";
-"CONTACTS_BLACKLIST_DESC" = "إخفاء الدردشة من قائمة دردشات وتظهر دردشة فارغة عند فتحه من مكان آخر. يمكنك فقط عرض محتوى دردشات القائمة السوداء من هذه الصفحة. لن تتلقى إشعارات رسائل جديدة من دردشات القائمة السوداء.";
-"BLACKLISTED_CONTACTS" = "جهات اتصال القائمة السوداء";
-"BLACKLISTED_CHATS_MESSAGES" = "رسائل القائمة السوداء";
+"CONTACTS_BLACKLIST_LABEL" = "جهات الاتصال المدرجة في القائمة السوداء";
+"CONTACTS_BLACKLIST_DESC" = "ستخفي القائمة السوداء دردشة جهة الاتصال المُدرجة من قائمة المحادثات، وستعرض محتدثة فارغة اذا تم فتح الدردشة من مكان آخر، يمكنك عرض محتويات دردشات جهات اتصالك المدرجة في القائمة السوداء عن طريق هذه الصفحة فقط، ولن تتلقى اي اشعارات جديدة من جهات اتصالك المدرجة في القائمة السوداء.";
+"BLACKLISTED_CONTACTS" = "جهات الاتصال المدرجة على القائمة السوداء";
+"BLACKLISTED_CHATS_MESSAGES" = "دردشات جهات الاتصال المدرجة على القائمة السوداء";
 "PROTECT_BLACKLIST_SETTINGS" = "اعدادات حماية القائمة السوداء";
 "ENABLE_BLACKLIST_LABEL" = "تفعيل";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل في دردشة مدرجة في القائمة السوداء.";
+"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "لا يمكنك ارسال الرسائل في دردشة مدرجة في القائمة السوداء";
 
 
 /* Auto Reply */
 
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
 "AUTO_REPLY_ENABLE_LABEL" = "تفعيل";
-"AUTO_REPLY_DESC" = "عند تمكين، كلما تتلقى رسالة من جهة الاتصال سوف يقوم واتس اب ب الرد تلقائيا مع الرسالة التي اخترتها.";
+"AUTO_REPLY_DESC" = "عند التفعيل، سيقوم Watusi بالرد تلقائيا بالرسالة التي اخترتها على جميع جهات الاتصال التي تتلقى منها رسائل.";
 
 "AUTO_REPLY_CONFIGURATION_LABEL" = "الاعداد";
 
 "AUTO_REPLY_MESSAGE_LABEL" = "رسالة الرد";
-"AUTO_REPLY_SELECT_MESSAGE" = "اختر رسالة";
-"AUTO_REPLY_MESSAGES_TITLE" = "الرسالة";
-"AUTO_REPLY_NO_MESSAGES_FOOTER" = "لس لديك اي رسائل معدة..انقر+ لعمل رسائل";
-"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "مرر او اضغط طويلا للتعديل";
+"AUTO_REPLY_SELECT_MESSAGE" = "اختيار رسالة";
+"AUTO_REPLY_MESSAGES_TITLE" = "الرسائل";
+"AUTO_REPLY_NO_MESSAGES_FOOTER" = "لا توجد لديك اي رسائل للرد التلقائي، اضغط على علامة + في الاعلى لانشاء رسالة جديدة.";
+"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "اسحب الى اليمين او اضغط مطولا للتعديل على الرسالة";
 "AUTO_REPLY_MESSAGES_EDIT_MESSAGE" = "تعديل الرسالة";
 "AUTO_REPLY_MESSAGES_NEW_MESSAGE" = "رسالة جديدة";
-"AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "لا يمكن للرسالة ان تكون فارغة";
-"AUTO_REPLY_LAST_MODIFIED" = "اخر تعديم تم";
+"AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "لا يمكن ان تكون الرسالة فارغة";
+"AUTO_REPLY_LAST_MODIFIED" = "آخر تعديل";
 
-"AUTO_REPLY_DELAY_LABEL" = "المدة بين الرد";
-"AUTO_REPLY_DELAY_NONE" = "لا تأخير";
-"AUTO_REPLY_DELAY_ONE_MINUTE" = "ديقيقة";
+"AUTO_REPLY_DELAY_LABEL" = "مدة التأخير بين الردود";
+"AUTO_REPLY_DELAY_NONE" = "بدون تأخير";
+"AUTO_REPLY_DELAY_ONE_MINUTE" = "دقيقة";
 "AUTO_REPLY_DELAY_FIVE_MINUTES" = "5 دقائق";
 "AUTO_REPLY_DELAY_THIRTY_MINUTES" = "30 دقيقة";
 "AUTO_REPLY_DELAY_ONE_HOUR" = "ساعة";
 
-"AUTO_REPLY_ON_LABEL" = "تفعيل الرد";
-"AUTO_REPLY_TIME_RANGE_LABEL" = "مدى الوقت";
-"AUTO_REPLY_ENABLE_TIME_RANGE_LABEL" = "تفعيل مدى الوقت";
-"AUTO_REPLY_TIME_RANGE_DESC" = "قم بارسال الرد التقائي فقط في مدى الوقت المحدد";
-"AUTO_REPLY_TIME_RANGE_START_TIME" = "من";
-"AUTO_REPLY_TIME_RANGE_END_TIME" = "الى";
+"AUTO_REPLY_ON_LABEL" = "تحديد المدى الزمني";
+"AUTO_REPLY_TIME_RANGE_LABEL" = "المدى الزمني";
+"AUTO_REPLY_ENABLE_TIME_RANGE_LABEL" = "تفعيل المدى الزمني المحدد";
+"AUTO_REPLY_TIME_RANGE_DESC" = "سيتم ارسال الردود التلقائية خلال المدى الزمني المحدد فقط.";
+"AUTO_REPLY_TIME_RANGE_START_TIME" = "وقت البداية";
+"AUTO_REPLY_TIME_RANGE_END_TIME" = "وقت النهاية";
 "AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "ايام الاسبوع";
 "AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "كل ايام الاسبوع";
 
 "AUTO_REPLY_TO_LABEL" = "رد على";
-"AUTO_REPLY_TO_GROUPS_LABEL" = "رد على مجموعات";
-"AUTO_REPLY_FILTER_LABEL" = "فلترات الرد";
-"AUTO_REPLY_FILTERED_CONTACTS" = "جهات الاتصال المفلترة";
-"AUTO_REPLY_FILTER_WHITELIST" = "القائة البيضاء";
+"AUTO_REPLY_TO_GROUPS_LABEL" = "رد على المجموعات";
+"AUTO_REPLY_FILTER_LABEL" = "نوع التمييز";
+"AUTO_REPLY_FILTERED_CONTACTS" = "جهات الاتصال المميزة";
+"AUTO_REPLY_FILTER_WHITELIST" = "القائمة البيضاء";
 "AUTO_REPLY_FILTER_BLACKLIST" = "القائمة السوداء";
-"AUTO_REPLY_FILTER_DESC" = "حدد فلتر القائمة السوداء إذا كنت ترغب في استبعاد بعض جهات الاتصال من الرد التلقائي أو القائمة البيضاء لتمكين الرد التلقائي فقط لجهات الاتصال المحددة.";
+"AUTO_REPLY_FILTER_DESC" = "اختر القائمة السوداء اذا كنت ترغب في استثناء بعض جهات الاتصال من الرد التلقائي، او اختر القائمة البيضاء اذا كنت ترغب في تفعيل الرد التلقائي لجهات اتصال معينة فقط.";
 
 
 /* Scheduled Messages */
 
-"MESSAGE_SCHEDULER_LABEL" = "مجدول الرسائل";
+"MESSAGE_SCHEDULER_LABEL" = "جدولة الرسائل";
 "MESSAGE_SCHEDULER_ENABLE_LABEL" = "تفعيل";
 
-"MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض و عمل رسائل مجدولة";
+"MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض واضافة رسائل مجدولة.";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "الرسائل المجدولة";
-"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "جدول أحمر يعني أنه قد تم معالجتها وليست تعمل  بعد الآن";
-"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "التاريخ و الوقت";
-"MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "المتسقبلين";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "الخط الأحمر يعني انه قد تمت المعالجة، ولن يتم العمل به بعد الآن.";
+"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "التاريخ والوقت";
+"MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "المستلمون";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "الرسالة";
-"MESSAGE_SCHEDULER_CREATE_IMAGE" = "صورة";
+"MESSAGE_SCHEDULER_CREATE_IMAGE" = "الصورة";
 
-"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض إشعار عند إرسال الرسالة إلى مستلمي الجدول الزمني.";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض اشعار عندما يتم ارسال الرسالة الى المستلمين المحددين في الجدولة.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "عرض اشعار";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "جاري ارسال الرسالة المجدولة";
 
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "تمكين الضغظ عل زر ارسال الرسالة على الشات بشكل مطول لاظهار خيارات جدولة الرسائل";
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة طويلة على زر الارسال";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "قم بتفعيل ايماءة الضغطة المطولة على زر ارسال الرسالة لجدولة رسالة مباشرة من الدردشات.";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة مطولة على زر الارسال";
 
-"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "بعث الرسالة الان";
-"MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "جدولة رسالة";
-"MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "عرض الرسائل الجدولة";
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "ارسال الرسالة الآن";
+"MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "جدولة الرسالة";
+"MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "عرض الرسائل المجدولة";
 
 "MESSAGE_SCHEDULER_CREATE_EDIT" = "تعديل الجدولة";
-"MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "رسالة جديدة مجدولة";
+"MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "رسالة مجدولة جديدة";
 
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"SUPPORT_SECTION_TITLE" = "الدعم الفني";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"CONTACT_AND_MORE_LABEL" = "التواصل والدعم الفني وحول Watusi";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"CONTACT_SUPPORT_SECTION_TITLE" = "الدعم الفني";
+"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم الفني";
+"VERSIONS_TITLE" = "الاصدارات";
+"UPDATES_SECTION_TITLE" = "التحديثات";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "تحقق تلقائي من وجود تحديثات";
+"CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
+"MORE_TWEAKS_TITLE" = "ادوات اخرى قد تهمك";
 
-"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب و ازالة الاعلانات";
-"ACCOUNT" = "الحاسب";
+"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وازالة الاعلانات";
+"ACCOUNT" = "الحساب";
 "MANAGE_ACCOUNT" = "ادارة الحساب";
-"LOGIN_OR_REGISTER" = "تسجيل الدخول او التسجيل الجديد";
+"LOGIN_OR_REGISTER" = "تسجيل الدخول او تسجيل جديد";
 "LOGOUT" = "تسجيل الخروج";
 "HOW_TO_REMOVE_ADS" = "كيفية ازالة الاعلانات";
-"PURCHASE_WATUSI_LICENSE_BUTTON" = "شراء رخصة Watusi";
-"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "غرد من اجل يومين خاليين من الاعلانات";
-"LOGIN_TO_PURCHASE_MESSAGE" = "يتوجب عليك التسجيل لشراء الرخصة";
+"PURCHASE_WATUSI_LICENSE_BUTTON" = "شراء ترخيص Watusi";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "التغريد للحصول على يومين بدون اعلانات";
+"LOGIN_TO_PURCHASE_MESSAGE" = "قم بتسجيل الدخول لتتمكن من شراء ترخيص Watusi";
 "LOADING" = "جاري التحميل...";
 
 
 /* Promo Code */
 
-"REDEEM_TITLE" = "Redeem";
-"REDEEM_BUTTON" = "Redeem";
-"REDEEM_CODE" = "Redeem Code";
-"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
-"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
-"REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
-"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
-"REDEEM_FAILED_TITLE" = "Redeem Failed";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
+"REDEEM_TITLE" = "استبدال";
+"REDEEM_BUTTON" = "استبدال";
+"REDEEM_CODE" = "استبدال الكود";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "كود غير صالح";
+"ENTER_PROMO_CODE_MESSAGE" = "قم بادخال الكود";
+"REDEEM_SUCCESSFULL_TITLE" = "تم استبدال الكود بنجاح";
+"REDEEM_SUCCESSFULL_MESSAGE" = "تم اضافة ترخيص Watusi الى حسابك";
+"REDEEM_FAILED_TITLE" = "فشل الاستبدال";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "الكود غير صالح";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "كود خاطئ";
 
 
 /* Button */
 
-"GROUPS" = "مجموعات";
+"GROUPS" = "المجموعات";
 "DEFAULT" = "افتراضي";
-"DELETE" = "مسح";
-"CANCEL" = "الغاء الامر";
+"DELETE" = "حذف";
+"CANCEL" = "الغاء";
 "OKAY" = "حسنا";
-"RELAUNCH" = "اعادة فتح";
+"RELAUNCH" = "اعادة تشغيل";
 "LATER" = "لاحقا";
-"SEND" = "ارسل";
-"ADD" = "اضف";
+"SEND" = "ارسال";
+"ADD" = "اضافة";
 "EDIT" = "تعديل";
 "TO" = "الى";
-"DISMISS" = "انبذ";
-"DUPLICATE" = "انسخ";
-"SELECT_ALL" = "اختيار الكل";
-"DESELECT_ALL" = "عدم الاختيار الكل";
+"DISMISS" = "تجاهل";
+"DUPLICATE" = "تكرار";
+"SELECT_ALL" = "تحديد الكل";
+"DESELECT_ALL" = "الغاء تحديد الكل";
 
 
 /* Messages */
 
-"RELAUNCH_MESSAGE" = "واتساب يحتاج لاعدة الفتح لتطبيق التغيرات";
-"RELAUNCH_FEATURE_MESSAGE" = "عليك باعادة فتح الواتساب لتمكين هذه الخاصية او الميزة";
-"OLD_VERSION_ALERT" = "Watusi يدعم اخر اضدار من الواتس اب..الرجاء التحديث من متجر التطبيقات";
+"RELAUNCH_MESSAGE" = "يحتاج واتساب الى اعادة تشغيله لتطبيق التغييرات";
+"RELAUNCH_FEATURE_MESSAGE" = "تحتاج الى اعادة تشغيل واتساب لتفعيل/تعطيل هذه الميزة";
+"OLD_VERSION_ALERT" = "اداة Watusi تدعم فقط آخر اصدار من واتساب، يرجى تحديث واتساب من الـ App Store";

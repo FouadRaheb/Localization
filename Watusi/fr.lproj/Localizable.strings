@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Tapper pour enregistrer";
 "TAP_TO_RECORD_SLIDE_LABEL" = "tapper & glisser pour annuler";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Masquer l'indicateur des messages transferés";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Masquer l'indicateur 'Transferé' lorsque vous transferez un message à vos contacts";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmer l'appel dans les récents";
 "START_VIDEO_CALL_WITH" = "Démarrer l'appel vidéo avec";
 "START_VOICE_CALL_WITH" = "Démarrer l'appel vocal avec";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp appel vidéo";
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp appel vocaux";
 "CARRIER_CALL_BUTTON" = "Appel réseau";
@@ -164,7 +169,7 @@
 "CALL_RECORDER_DESC" = "Enregistrez tous vos appels entrants et sortants de WhatsApp.";
 "CALL_RECORDER_LABEL" = "Enregistrer les appels";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Enregistrements";
-"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE _%@" = "Cette action supprime tous les enregistrements pour %@";
+"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Cette action supprime tous les enregistrements pour %@";
 "CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "Supprimer %zd enregistrement";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Supprimer l'enregistrement actuel";
 
@@ -291,7 +296,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Partagez l'image depuis le Web";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
 
-"BLOC" = "Bloquer";
+"BLOCK" = "Bloquer";
 "UNBLOCK" = "Débloquer";
 "BLOCK_CONTACT" = "Bloquer le contact";
 "UNBLOCK_CONTACT" = "Débloquer le contact";
@@ -427,7 +432,7 @@
 
 "INCOMING_BUBBLE_BG_COLOR_LABEL" = "Bulle de réception BG Couleur";
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Bulle sortante couleur BG";
-"COULEUR" = "Couleur";
+"COLOR" = "Couleur";
 
 "ENABLE_BUBBLE_OPACITY_LABEL" = "Activer l'opacité des bulles";
 "INCOMING_BUBBLE_OPACITY_LABEL" = "Opacité de la bulle entrante";
@@ -522,20 +527,6 @@
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Nouveau message planifié";
 
 
-/* Comptes et suppression annonces */
-
-"ACCOUNT_AD_REMOVAL_LABEL" = "Suppression du compte et des pubs";
-"COMPTE" = "Compte";
-"MANAGE_ACCOUNT" = "Gérer le compte";
-"LOGIN_OR_REGISTER" = "Connectez-vous ou Enregistrez-vous";
-"LOGOUT" = "Déconnexion";
-"HOW_TO_REMOVE_ADS" = "Comment supprimer les publicités";
-"PURCHASE_WATUSI_LICENSE_BUTTON" = "Acheter la licence Watusi";
-"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet pour 2 jours sans publicité";
-"LOGIN_TO_PURCHASE_MESSAGE" = "Vous devez vous connecter avec votre compte afin d'acheter Watusi.";
-"CHARGEMENT" = "Chargement...";
-
-
 /* Section soutien*/
 
 "SUPPORT_SECTION_TITLE" = "Support";
@@ -549,6 +540,20 @@
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Vérifié automatiquement les mises à jour";
 "CHECK_FOR_UPDATES_BUTTON" = "Vérifié mise à jour";
 "MORE_TWEAKS_TITLE" = "Plus de Tweaks";
+
+"ACCOUNT_AD_REMOVAL_LABEL" = "Suppression du compte et des pubs";
+"ACCOUNT" = "Compte";
+"MANAGE_ACCOUNT" = "Gérer le compte";
+"LOGIN_OR_REGISTER" = "Connectez-vous ou Enregistrez-vous";
+"LOGOUT" = "Déconnexion";
+"HOW_TO_REMOVE_ADS" = "Comment supprimer les publicités";
+"PURCHASE_WATUSI_LICENSE_BUTTON" = "Acheter la licence Watusi";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet pour 2 jours sans publicité";
+"LOGIN_TO_PURCHASE_MESSAGE" = "Vous devez vous connecter avec votre compte afin d'acheter Watusi.";
+"LOADING" = "Chargement...";
+
+
+/* Comptes et suppression annonces */
 
 "REDEEM_TITLE" = "Racheter";
 "REDEEM_BUTTON" = "Racheter";
@@ -567,11 +572,11 @@
 "GROUPS" = "Groupes";
 "DEFAULT" = "Par défaut";
 "DELETE" = "Supprimer";
-"ANNULER" = "Annuler";
-"OK" = "Ok";
+"CANCEL" = "Annuler";
+"OKAY" = "Ok";
 "RELAUNCH" = "Relancer";
 "LATER" = "Plus tard";
-"ENVOYER" = "Envoyer";
+"SEND" = "Envoyer";
 "ADD" = "Ajouter";
 "EDIT" = "Modifier";
 "TO" = "à";

@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Tippen für Aufnahme";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tippen & wischen zum Abbrechen";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deaktiviert das weitergeleitet Kennzeichen";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Deaktiviert das Anzeigen des weitergeleitet Kennzeichen, wenn du eine Nachricht an deine Kontakte weiterleitest";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Anruf im Anrufs Tab bestätigen";
 "START_VIDEO_CALL_WITH" = "Starte Videoanruf mit";
 "START_VOICE_CALL_WITH" = "Starte Sprachanruf mit";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Videoanruf";
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sprachanruf";
 "CARRIER_CALL_BUTTON" = "Mobilfunk Anruf";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Anrufaufzeichner";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Aufnahmen";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Diese Aktion wird alle Aufnahmen von %@ löschen";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "%d Aufnahme löschen";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "%zd Aufnahme löschen";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Aktuelle Aufnahme löschen";
 
 "CONTACT_ABOUT_DATE_DESC" = "Fügt die Option, das Datum der Statusnachricht deiner Kontakte zu sehen, wieder hinzu. Diese wurde in einem aktuellen WhatsApp Update entfernt.";

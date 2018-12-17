@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Toque para grabar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque y deslice para cancelar";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deshabilitar indicador de reenviado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Desactivar la visualización del indicador de reenviado al reenviar un mensaje a tus contactos";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamada al tocar en recientes";
 "START_VIDEO_CALL_WITH" = "Iniciar videollamada con";
 "START_VOICE_CALL_WITH" = "Iniciar llamada de voz con";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Videollamada de WhatsApp";
 "WHATSAPP_VOICE_CALL_BUTTON" = "Llamada de voz de WhatsApp";
 "CARRIER_CALL_BUTTON" = "Llamada de operador";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Grabador de llamadas";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Grabaciones";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Esta acción borrara todas las grabaciones para %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "Borrar %d Grabar";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "Borrar %zd Grabar";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Borrar grabación actual";
 
 "CONTACT_ABOUT_DATE_DESC" = "Vuelva a agregar la opción para ver la fecha de sus contactos en la página de información del contacto que fue eliminada por WhatsApp en su actualización reciente.";
@@ -408,7 +413,7 @@
 "BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamaño del nombre del contacto";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Color del texto de chat entrante";
-"OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Color del texto de chat saliente";
+"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Color del texto de chat saliente";
 
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora de chat entrante";
 "OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora de chat saliente";

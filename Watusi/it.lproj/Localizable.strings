@@ -116,6 +116,9 @@
 "TAP_TO_RECORD_LABEL" = "Tocca per registrare";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tocca e scorri per cancellare";
 
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disattiva indicatore di inoltro";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disattiva la visualizzazione dell'indicatore di inoltro quando si inoltra un messaggio ad un contatto.";
 
@@ -124,6 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Conferma chiamata in 'Chiamate'";
 "START_VIDEO_CALL_WITH" = "Inizia videochiamata con";
 "START_VOICE_CALL_WITH" = "Inizia chiamata vocale con";
+"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
+"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Videochiamata WhatsApp";
 "WHATSAPP_VOICE_CALL_BUTTON" = "Chiamata vocale WhatsApp";
 "CARRIER_CALL_BUTTON" = "Chiamata tramite operatore";
@@ -165,7 +170,7 @@
 "CALL_RECORDER_LABEL" = "Registratore chiamate";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Registrazioni";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Questa azione eliminerà tutte le registrazioni per %@";
-"CALL_RECORDER_DELETE_%d_RECORDINGS_MESSAGE" = "Elimina %d registrazioni";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "Elimina %zd registrazioni";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Elimina registrazione attuale";
 
 "CONTACT_ABOUT_DATE_DESC" = "Aggiungi l'opzione per visualizzare l'info dei tuoi contatti nella loro sezione info contatto che è stato rimossa da WhatsApp nei loro aggiornamenti recenti.";
@@ -429,6 +434,7 @@
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Colore BG della nuvoletta in uscita";
 "COLOR" = "Colore";
 
+"ENABLE_BUBBLE_OPACITY_LABEL" = "Enable Bubbles Opacity";
 "INCOMING_BUBBLE_OPACITY_LABEL" = "Opacità della nuvoletta in entrata";
 "OUTGOING_BUBBLE_OPACITY_LABEL" = "Opacità della nuvoletta in uscita";
 
@@ -437,7 +443,6 @@
 "KEYBOARD_STYLE_DEFAULT" = "Default";
 "KEYBOARD_STYLE_DARK" = "Scuro";
 "KEYBOARD_STYLE_DARK_BLUE" = "Scuro e blu";
-"THEME_LABEL" = "Tema";
 
 
 /* Contacts Blacklist */
