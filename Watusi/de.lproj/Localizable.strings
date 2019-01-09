@@ -45,8 +45,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Meine Kontakte Privatsphäre";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Geblacklistete Kontakte";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "Ihre Kontakte wissen nicht, dass Sie das Mikrofon während eines Anrufs stummgeschaltet haben.";
+"HIDE_CALL_MUTE_LABEL" = "Stummgeschalteten Anruf ausblenden";
 
 "DISABLE_VOIP_DESC" = "Deaktivert das VOIP Interface und blockiert alle eingehenden Anrufe.";
 "DISABLE_VOIP_LABEL" = "VOIP deaktiveren";
@@ -116,8 +116,8 @@
 "TAP_TO_RECORD_LABEL" = "Tippen für Aufnahme";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tippen & wischen zum Abbrechen";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Deaktivieren Sie die kontinuierliche Wiedergabe";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stoppen Sie, dass WhatsApp die nächste Audio-Nachricht automatisch wiedergibt";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deaktiviert das weitergeleitet Kennzeichen";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Deaktiviert das Anzeigen des weitergeleitet Kennzeichen, wenn du eine Nachricht an deine Kontakte weiterleitest";
@@ -127,8 +127,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Anruf im Anrufs Tab bestätigen";
 "START_VIDEO_CALL_WITH" = "Starte Videoanruf mit";
 "START_VOICE_CALL_WITH" = "Starte Sprachanruf mit";
-"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
-"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
+"START_GROUP_VIDEO_CALL_WITH" = "Starte Video- Gruppenanruf";
+"START_GROUP_VOICE_CALL_WITH" = "Starte Audio- Gruppenanruf";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Videoanruf";
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sprachanruf";
 "CARRIER_CALL_BUTTON" = "Mobilfunk Anruf";
