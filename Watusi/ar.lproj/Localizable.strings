@@ -365,6 +365,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "اخفاء ازرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "اخفاء زر الاتصال الصوتي";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "اخفاز زر اتصال الفيديو";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "اخفاء البار العلوي داخل تطبيق واتساب.";
 "FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة";

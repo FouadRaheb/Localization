@@ -190,8 +190,8 @@
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Dieser Chat ist im Archiv gesperrt\nWillst du ihn entsperren und unarchivieren?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Entsperren & Unarchivieren";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "Unbegrenzte gepinnte Chats";
-"UNLIMITED_PINNED_CHATS_DESC" = "Pinne mehr als 3 Chats";
+"UNLIMITED_PINNED_CHATS_DESC" = "Unbegrenzte gepinnte Chats";
+"UNLIMITED_PINNED_CHATS_LABEL" = "Pinne mehr als 3 Chats";
 
 "GROUPS_LIST_DESC" = "Fügt einen Button in der Navigationsleiste hinzu, welcher eine Liste aller Gruppen öffnet.";
 "GROUPS_LIST_LABEL" = "Gruppenliste";
@@ -365,6 +365,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Versteckt die Anruf Buttons in Chats.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sprachanruf Button verstecken";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Videoanruf Button verstecken";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "Versteckt die Statusleiste in WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Vollbildmodus";

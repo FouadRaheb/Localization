@@ -365,6 +365,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Nascondi i tasti di chiamata nella chat";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Nascondi il tasto chiamata vocale";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Nascondi il tasto videochiamata";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "Nascondi la barra di stato dentro WhatsApp";
 "FULLSCREEN_MODE_LABEL" = "Modalità a tutto schermo";

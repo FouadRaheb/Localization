@@ -365,6 +365,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "החבא את אפשרות הוידאו והשיחה בצ'אט.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "החבא את כפתור השיחה בצ'אט";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "החבא את כפתור הוידאו בצ'אט";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "החבא את הסטטוס בר בצ'אט.";
 "FULLSCREEN_MODE_LABEL" = "מסך מלא";

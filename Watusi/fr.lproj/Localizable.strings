@@ -365,6 +365,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Cacher les boutons d'appel des discussion.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vocal";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vidéo";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "Masquer la barre de satut à l'intérieur de WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Mode plein écran";
