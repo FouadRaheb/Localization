@@ -542,6 +542,15 @@
 "UPDATES_SECTION_TITLE" = "Updates";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
 "CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
+"SETTINGS_SECTION_TITLE" = "Settings";
+"RESET_SETTINGS_LABEL" = "Reset Settings";
+"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
+"RESET_SETTINGS_BUTTON" = "Reset";
+"HIDE_SETTINGS_LABEL" = "Hide Settings";
+"HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
+"TWEAK_LANGUAGE_LABEL" = "Language";
+"TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
 "MORE_TWEAKS_TITLE" = "More Tweaks";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "חשבון & הסרת מודעות";
