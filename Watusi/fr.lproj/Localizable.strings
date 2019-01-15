@@ -242,12 +242,14 @@
 "APP_PROTECTION_LABEL" = "Protection de l'Application";
 "DELETE_APP_PASSCODE" = "Supprimer le code d'accès de l'application";
 "SET_APP_PASSCODE" = "Définir le code d'accès de l'application";
-"USE_TOUCH_ID" = "Utiliser Touch ID ou Face ID";
+"USE_TOUCH_ID" = "Utiliser Touch ID";
+"USE_FACE_ID" = "Utiliser Face ID";
 
 "CHAT_PROTECTION_LABEL" = "Protection des discussions";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Convs verrouillés";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Verrouiller tous les convs";
 "CHAT_PROTECTION_USE_TOUCH_ID" = "Utiliser Touch ID";
+"CHAT_PROTECTION_USE_FACE_ID" = "Utiliser Face ID";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "Ouvrir";
 "CHAT_PROTECTION_LOCK_BUTTON" = "Fermer";
 

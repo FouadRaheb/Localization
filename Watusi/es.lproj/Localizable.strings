@@ -243,11 +243,13 @@
 "DELETE_APP_PASSCODE" = "Borrar el código de acceso a la aplicación";
 "SET_APP_PASSCODE" = "Establecer código de acceso de la aplicación";
 "USE_TOUCH_ID" = "Usar Touch ID";
+"USE_FACE_ID" = "Usar Face ID";
 
 "CHAT_PROTECTION_LABEL" = "Proteccion del chat";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Bloquear chats";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Bloquear todos los chats";
 "CHAT_PROTECTION_USE_TOUCH_ID" = "Usar Touch ID";
+"CHAT_PROTECTION_USE_FACE_ID" = "Usar Face ID";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "Desbloquear";
 "CHAT_PROTECTION_LOCK_BUTTON" = "Bloquear";
 

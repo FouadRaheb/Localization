@@ -243,11 +243,13 @@
 "DELETE_APP_PASSCODE" = "Uygulama Şifre Kodunu Sil";
 "SET_APP_PASSCODE" = "Uygulama Şifre Kodunu Ayarlayın";
 "USE_TOUCH_ID" = "Touch ID Kullan";
+"USE_FACE_ID" = "Face ID kullan";
 
 "CHAT_PROTECTION_LABEL" = "Mesaj Korumayı Atla";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Kilitli Sohbetler";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "Tüm Sohbetleri Kilitle";
 "CHAT_PROTECTION_USE_TOUCH_ID" = "Touch ID kullan";
+"CHAT_PROTECTION_USE_FACE_ID" = "Face ID kullan";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "Kilidini aç";
 "CHAT_PROTECTION_LOCK_BUTTON" = "Kilitle";
 

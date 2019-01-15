@@ -242,12 +242,14 @@
 "APP_PROTECTION_LABEL" = "حماية التطبيق";
 "DELETE_APP_PASSCODE" = "حذف كلمة مرور التطبيق";
 "SET_APP_PASSCODE" = "تعيين كلمة مرور للتطبيق";
-"USE_TOUCH_ID" = "استخدام بصمة الاصبع/الوجه";
+"USE_TOUCH_ID" = "استخدام بصمة الوجه";
+"USE_FACE_ID" = "استخدام بصمة الاصبع";
 
 "CHAT_PROTECTION_LABEL" = "حماية الدردشة";
 "CHAT_PROTECTION_LOCKED_CHATS" = "الدردشات المقفلة";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "قفل جميع الدردشات";
-"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الاصبع او الوجه";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الاصبع";
+"CHAT_PROTECTION_USE_FACE_ID" = "استخدام بصمة الوجه";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "فتح القفل";
 "CHAT_PROTECTION_LOCK_BUTTON" = "قفل";
 
