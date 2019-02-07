@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Sadece kiþilere okundu bilgisi gönderir.Okundu bilgisini kiþilerin profillerinden asla/zorla olarak aç/kapa yapabilirsiniz.";
 "NEVER_SEND_RECEIPTS_TO" = "Asla Okundu Bilgisi Gönderme...";
 "FORCE_SEND_RECEIPTS_TO" = "Zorla Okundu Bilgisi Gönder...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Zorla Ses Alýndý Bilgisi Gönder ";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Zorla Ses Alýndý Bilgisi Gönder";
 "FORCE_RECEIPTS_ON" = "Alýndý Bilgisini Zorla...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message Sent";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Yazýyor";
@@ -45,7 +45,7 @@
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarý! Bu özelliði etkinleþtirmek gelen mesajlarý WhatsApp sunucusunda iletilmedi gözükeceðinden dolayý bekletecektir.Bekleyen çok mesajýnýz varsa uygulama açýlýncaya kadar bildirimler gelmez. Server kaynaklý olduðundan düzeltilmesi imkansýzdýr.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plandayken son görülmeyi herkese kapatýr,WhatsApp'a giriþ yapýldýðýnda tekrar Kiþilerim e açar";
-"LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu ";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu";
 
 "MY_CONTACTS_PRIVACY_DESC" = "Whatsapp sunucusuna gönderilmeyecek kiþileri listeye ekleyin. Sunucuya yollanmayan kiþiler fotoðraf/durum/songörülmenizi göremeycektir. Bu ayar Whatsapp gizliliði sadece bu ayarda çalýþýr. 'Kiþilerim'.\n\nNOTE:\n1) Eðer bu özellik aktifse karalistedeki kiþileri düzneleyemez/silemezsiniz.\n2)Engellenen kiþilerin' profil fotoðraflarý siz fotoðrafa basana kadar deðiþmeyecktir. \n3) Karalistedeki kiþilerden durum hikayesi alamayacaksýnýz. \n4) Eðer 'Stalky' yüklüyse karalistedeki kiþiler için Stalky güncellemelerini alamayacaksýnýz.";
 "MY_CONTACTS_PRIVACY_LABEL" = "Kiþilerim'in Gizliliði";
@@ -150,7 +150,7 @@
 "MESSAGE_FORWARD_LABEL" = "Mesaj Ýletme";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Hiçbir Kiþi Seçilmedi";
 "MESSAGE_FORWARD_BUTTON_TITLE" = "Ýlet";
-"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = " %zd mesajýný %zd kiþisine ilet.";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "%zd mesajýný %zd kiþisine ilet.";
 
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Kiþilerden yayýnla gelen mesajlarýn yanýna bir ikon ekler. Bu özellik sadece size gelen mesajlarý ayýrt etmenizi saðlar.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Mesaj Göstergesini Yayýnla";
@@ -176,7 +176,7 @@
 "CALL_RECORDER_LABEL" = "Çaðrý Kaydedici";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Kayýtlar";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Bu iþlem bütün kayýtlarý %@ için silecektir";
-"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = " %zd Kaydýný Sil";
+"CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "%zd Kaydýný Sil";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "Anlýk Kaydý Sil";
 
 "CONTACT_ABOUT_DATE_DESC" = "WhatsApp tarafýndan kaldýrýlan kiþiler hakkýndaki tarih bilgisini kiþi bilgisine tekrar ekler.";
@@ -510,7 +510,7 @@
 
 /* Scheduled Messages */
 
-"MESSAGE_SCHEDULER_LABEL" = "Zamanlanan Mesajlar ";
+"MESSAGE_SCHEDULER_LABEL" = "Zamanlanan Mesajlar";
 "MESSAGE_SCHEDULER_ENABLE_LABEL" = "Aktifleþtir";
 
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Zamanlý mesajlarý görüntüle ve oluþtur";
