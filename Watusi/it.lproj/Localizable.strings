@@ -18,18 +18,24 @@
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "Forza conferme su...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Messaggio inviato";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Sta scrivendo";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Digitando o Registrando";
 "FORCE_RECEIPTS_ON_NEVER" = "Mai";
-
-"WHITELIST" = "Lista bianca";
-"BLACKLIST" = "Lista nera";
-"SEND_TYPING_INDICATOR_BUTTON" = "Invia indicatore di digitazione";
-"SEND_READ_RECEIPTS_BUTTON" = "Invia conferme di lettura";
 
 "DISABLE_TYPING_LABEL" = "Disattiva indicatore di digitazione";
 "DISABLE_TYPING_DESC" = "I tuoi contatti non vedranno che stai digitando";
 "NEVER_SEND_TYPING_TO" = "Non inviare mai notifica di digitazione a...";
 "FORCE_SEND_TYPING_TO" = "Forza l'invio della notifica di digitazione a...";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+
+"WHITELIST" = "Lista bianca";
+"BLACKLIST" = "Lista nera";
+"SEND_READ_RECEIPTS_BUTTON" = "Invia conferme di lettura";
+"SEND_TYPING_INDICATOR_BUTTON" = "Invia indicatore di digitazione";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostra le opzioni di conferme di lettura e di indicatore di digitazione nelle info contatto per attivarle/disattivarle per quel contatto.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostra opzioni in info contatto";

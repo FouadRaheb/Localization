@@ -18,18 +18,24 @@
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "Forcer les reçus pour...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message envoyé";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Ecrit";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Ecrit ou Enregistrement";
 "FORCE_RECEIPTS_ON_NEVER" = "Jamais";
-
-"WHITELIST" = "Liste blanche";
-"BLACKLIST" = "Liste noire";
-"SEND_TYPING_INDICATOR_BUTTON" = "Montrer l'indicateur de saisie";
-"SEND_READ_RECEIPTS_BUTTON" = "Envoyer les reçus de lecture";
 
 "DISABLE_TYPING_LABEL" = "Désactiver l'indicateur de saisie";
 "DISABLE_TYPING_DESC" = "Vos contacts ne vous verront pas en tapant";
 "NEVER_SEND_TYPING_TO" = "Ne jamais envoyer de saisie à...";
 "FORCE_SEND_TYPING_TO" = "Forcer l'envoie de saisie à...";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+
+"WHITELIST" = "Liste blanche";
+"BLACKLIST" = "Liste noire";
+"SEND_READ_RECEIPTS_BUTTON" = "Envoyer les reçus de lecture";
+"SEND_TYPING_INDICATOR_BUTTON" = "Montrer l'indicateur de saisie";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Afficher les contrôles de lecture et les commandes de l'indicateur de saisie sur votre page d'information de contact afin d'activer/désactiver directement pour ce contact.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Contrôles sur la page d'information";

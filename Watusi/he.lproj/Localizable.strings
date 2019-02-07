@@ -17,19 +17,25 @@
 "FORCE_SEND_RECEIPTS_TO" = "...שלח/י וי כחול ל";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "...שלח/י וי כחול ל";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = ".ההודעה נשלחה";
-"FORCE_RECEIPTS_ON_START_TYPING" = "/המקליד";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message Sent";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Typing or Recording";
 "FORCE_RECEIPTS_ON_NEVER" = "בחיים לא";
-
-"WHITELIST" = "רשימה לבנה";
-"BLACKLIST" = "רשימה שחורה";
-"SEND_TYPING_INDICATOR_BUTTON" = "הצג לאחרים אותי כמקליד/ה";
-"SEND_READ_RECEIPTS_BUTTON" = "שלח/י לאחרים וי כחול";
 
 "DISABLE_TYPING_LABEL" = "ביטול המקליד/ה בשורת הסטטוס";
 "DISABLE_TYPING_DESC" = "אנשי הקשר לעולם לא יראו אותך בסטטוס מקליד/ה";
 "NEVER_SEND_TYPING_TO" = "...בחיים לא לשלוח מקליד/ה אל";
 "FORCE_SEND_TYPING_TO" = "...לשלוח מקליד/ה אל";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+
+"WHITELIST" = "רשימה לבנה";
+"BLACKLIST" = "רשימה שחורה";
+"SEND_READ_RECEIPTS_BUTTON" = "שלח/י לאחרים וי כחול";
+"SEND_TYPING_INDICATOR_BUTTON" = "הצג לאחרים אותי כמקליד/ה";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "הצג אפשרויות אלו גם בפרטי איש הקשר";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "הצגת אפשרויות אלו בפרטי איש קשר";

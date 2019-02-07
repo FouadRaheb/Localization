@@ -18,18 +18,24 @@
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
 "FORCE_RECEIPTS_ON" = "Force Receipts on...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message Sent";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Typing";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Typing or Recording";
 "FORCE_RECEIPTS_ON_NEVER" = "Never";
+
+"DISABLE_TYPING_LABEL" = "Disable Typing Indicator";
+"DISABLE_TYPING_DESC" = "Your contacts will not see you as typing";
+"NEVER_SEND_TYPING_TO" = "Never Send Typing to...";
+"FORCE_SEND_TYPING_TO" = "Force Send Typing to...";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
 
 "WHITELIST" = "Whitelist";
 "BLACKLIST" = "Blacklist";
-"SEND_TYPING_INDICATOR_BUTTON" = "Send Typing Indicator";
 "SEND_READ_RECEIPTS_BUTTON" = "Send Read Receipts";
-
-"DISABLE_TYPING_LABEL" = "Disable Typing Indicator";
-"DISABLE_TYPING_DESC" = "Your contacts will not see you as typing or recording";
-"NEVER_SEND_TYPING_TO" = "Never Send Typing to...";
-"FORCE_SEND_TYPING_TO" = "Force Send Typing to...";
+"SEND_TYPING_INDICATOR_BUTTON" = "Send Typing Indicator";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Show Read Receipts and Typing Indicator controls on your contact info page in order to directly enable/disable it for that contact.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Show Controls on Info Page";

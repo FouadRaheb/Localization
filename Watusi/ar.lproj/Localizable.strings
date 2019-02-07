@@ -18,18 +18,24 @@
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "اظهار 'جاري تسجيل مقطع صوتي...'";
 "FORCE_RECEIPTS_ON" = "اظهار العلامات على...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
-"FORCE_RECEIPTS_ON_START_TYPING" = "جاري الكتابة";
+"FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
 "FORCE_RECEIPTS_ON_NEVER" = "أبدا";
-
-"WHITELIST" = "القائمة البيضاء";
-"BLACKLIST" = "القائمة السوداء";
-"SEND_TYPING_INDICATOR_BUTTON" = "اظهار جاري الكتابة...";
-"SEND_READ_RECEIPTS_BUTTON" = "إظهار علامة قراءة الرسالة";
 
 "DISABLE_TYPING_LABEL" = "تعطيل جاري الكتابة...";
 "DISABLE_TYPING_DESC" = "لن ترى جهات اتصالك انك تقوم بكتابة شيء او انك تقوم بتسجيل شيء";
 "NEVER_SEND_TYPING_TO" = "عدم اظهار جاري الكتابة لـ";
 "FORCE_SEND_TYPING_TO" = "اظهار علامة \"جاري الكتابة...\" لـ";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+
+"WHITELIST" = "القائمة البيضاء";
+"BLACKLIST" = "القائمة السوداء";
+"SEND_READ_RECEIPTS_BUTTON" = "إظهار علامة قراءة الرسالة";
+"SEND_TYPING_INDICATOR_BUTTON" = "اظهار جاري الكتابة...";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = ".اظهار ادوات التحكم لـ علامة قراءة الرسائل و 'جاري الكتابة...' في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "اظهار ادوات التحكم في صفحة معلومات جهة الاتصال";

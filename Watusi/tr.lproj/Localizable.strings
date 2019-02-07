@@ -18,18 +18,24 @@
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Alındı Bilgisini Yinede Gönder...";
 "FORCE_RECEIPTS_ON" = "Yinede Aldındı Bilgisi Açık...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mesaj Gönder";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Yazıyor";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Yazarak veya Kayıt";
 "FORCE_RECEIPTS_ON_NEVER" = "Asla";
-
-"WHITELIST" = "Beyaz Liste";
-"BLACKLIST" = "Kara Liste";
-"SEND_TYPING_INDICATOR_BUTTON" = "Yazıyor göstergesini gönder";
-"SEND_READ_RECEIPTS_BUTTON" = "Okundu Bilgisini Gönder";
 
 "DISABLE_TYPING_LABEL" = "Yazıyor Bilgisini Kapat";
 "DISABLE_TYPING_DESC" = "Kişilerinin yazıyor bildirimi görmelerini kapat";
 "NEVER_SEND_TYPING_TO" = "Kişiye Özel Yazıyor Bilgisi Gönderme...";
 "FORCE_SEND_TYPING_TO" = "Yazıyor Bilgisini Yinede Gönder...";
+
+"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
+"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
+"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
+"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+
+"WHITELIST" = "Beyaz Liste";
+"BLACKLIST" = "Kara Liste";
+"SEND_READ_RECEIPTS_BUTTON" = "Okundu Bilgisini Gönder";
+"SEND_TYPING_INDICATOR_BUTTON" = "Yazıyor göstergesini gönder";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "İlgili kişi için doğrudan etkinleştirmek / devre dışı bırakmak için iletişim bilgileri sayfanızdaki Okundu Bilgileri ve Yazma Göstergesi kontrollerini gösterin.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Bilgi Ekranında Kontrolleri Göster";
