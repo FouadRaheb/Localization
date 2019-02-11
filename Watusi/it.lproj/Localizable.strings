@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Disattiva le conferme di lettura ma visualizza quelle degli altri. Potrai attivare/disattivare le conferme di lettura per determinati contatti dalla lista o selezionando l'opzione nelle Info Contatto.";
 "NEVER_SEND_RECEIPTS_TO" = "Non inviare mai conferme di lettura a...";
 "FORCE_SEND_RECEIPTS_TO" = "Forza l'invio delle conferme di lettura a...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forza l'invio delle conferme dei messaggi vocali";
 "FORCE_RECEIPTS_ON" = "Forza conferme su...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Messaggio inviato";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Digitando o Registrando";
@@ -26,16 +26,16 @@
 "NEVER_SEND_TYPING_TO" = "Non inviare mai notifica di digitazione a...";
 "FORCE_SEND_TYPING_TO" = "Forza l'invio della notifica di digitazione a...";
 
-"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
-"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
-"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
-"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+"DISABLE_RECORDING_LABEL" = "Disabilita indicatore di registrazione";
+"DISABLE_RECORDING_DESC" = "I tuoi contatti non vedranno che stai registrando";
+"NEVER_SEND_RECORDING_TO" = "Non inviare mai notifica di registrazione a...";
+"FORCE_SEND_RECORDING_TO" = "Forza l'invio della notifica di registrazione a...";
 
 "WHITELIST" = "Lista bianca";
 "BLACKLIST" = "Lista nera";
 "SEND_READ_RECEIPTS_BUTTON" = "Invia conferme di lettura";
 "SEND_TYPING_INDICATOR_BUTTON" = "Invia indicatore di digitazione";
-"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Invia indicatore di registrazione";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostra le opzioni di conferme di lettura e di indicatore di digitazione nelle info contatto per attivarle/disattivarle per quel contatto.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostra opzioni in info contatto";
@@ -51,8 +51,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Privacy dei miei contatti";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Contatti in lista nera";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "I tuoi contatti non sapranno che hai disattivato il microfono durante la chiamata.";
+"HIDE_CALL_MUTE_LABEL" = "Non mostrare che il microfono è stato disattivato";
 
 "DISABLE_VOIP_DESC" = "Disattiva l'interfaccia delle chiamate VoIP e blocca tutte le chiamate VoIP in arrivo.";
 "DISABLE_VOIP_LABEL" = "Disattiva VOIP";
@@ -112,7 +112,7 @@
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypassa limite cancellazione";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypassa il limite di 7 minuti di WhatsApp per eliminare i messaggi";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantieni messaggi eliminati dai contatti";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantieni i messaggi eliminati dai contatti";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "I messaggi eliminati dai contatti non verranno eliminati sul telefono, e presenteranno un'icona per indicare che il contatto li ha cancellati.";
 
 "ABOUT_ON_CHATS_DESC" = "Mostra l'info del contatto su una piccola barra in alto nella schermata chat";
@@ -122,8 +122,8 @@
 "TAP_TO_RECORD_LABEL" = "Tocca per registrare";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tocca e scorri per cancellare";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disabilita l'ascolto dei messaggi vocali automatico";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Impedisci a Whatsapp di farti ascoltare automaticamente il messaggio audio successivo";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disattiva indicatore di inoltro";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disattiva la visualizzazione dell'indicatore di inoltro quando si inoltra un messaggio ad un contatto.";
@@ -152,7 +152,7 @@
 "MESSAGE_FORWARD_BUTTON_TITLE" = "Inoltra";
 "FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Inoltra %zd messaggi a %zd contatti.";
 
-"BROADCAST_MESSAGE_INDICATOR_DESC" = "Aggiunge un icona accanto ai messaggi dei tuoi contatti che sono stati inviati a te tramite una lista broadcast, per aiutarti a differenziarli dai messaggi che sono stati inviati direttamente a te.";
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "Aggiunge un'icona accanto ai messaggi dei tuoi contatti che sono stati inviati a te tramite una lista broadcast, per aiutarti a differenziarli dai messaggi che sono stati inviati direttamente a te.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicatore dei messaggi broadcast";
 
 "IN_APP_BROWSER_DESC" = "Apri i link dentro WhatsApp invece di aprire Safari.";
@@ -249,7 +249,7 @@
 "DELETE_APP_PASSCODE" = "Elimina password dell'app";
 "SET_APP_PASSCODE" = "Imposta password dell'app";
 "USE_TOUCH_ID" = "Usa Touch ID";
-"USE_FACE_ID" = "Use Face ID";
+"USE_FACE_ID" = "Usa Face ID";
 
 "CHAT_PROTECTION_LABEL" = "Protezione delle chat";
 "CHAT_PROTECTION_LOCKED_CHATS" = "Chat bloccate";
@@ -265,7 +265,7 @@
 "HIDE_LAST_MESSAGE_ALL" = "Tutti";
 
 "BYPASS_PROTECTION_LABEL" = "Bypassa protezione";
-"BYPASS_PROTECTION_DESC" = "Inserisci il nome della rete WiFi: quando sarai connessa ad essa, bypasserai la protezione.";
+"BYPASS_PROTECTION_DESC" = "Inserisci il nome della rete WiFi: quando sarai connesso ad essa, bypasserai la protezione.";
 "BYPASS_APP_PROTECTION_LABEL" = "Bypassa la protezione dell'app";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Bypassa la protezione delle chat";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Nomi delle reti WiFi sicure";
@@ -548,14 +548,14 @@
 "UPDATES_SECTION_TITLE" = "Aggiornamenti";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Controlla automaticamente aggiornamenti";
 "CHECK_FOR_UPDATES_BUTTON" = "Controlla aggiornamenti";
-"SETTINGS_SECTION_TITLE" = "Settings";
-"RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
-"RESET_SETTINGS_BUTTON" = "Reset";
-"HIDE_SETTINGS_LABEL" = "Hide Settings";
-"HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
-"TWEAK_LANGUAGE_LABEL" = "Language";
+"SETTINGS_SECTION_TITLE" = "Impostazioni";
+"RESET_SETTINGS_LABEL" = "Resetta Impostazioni";
+"RESET_SETTINGS_ALERT_MESSAGE" = "Attivando quest'opzione cancellerai tutte le tue impostazioni di Watusi e torneranno quelle di default.";
+"RESET_SETTINGS_BUTTON" = "Resetta";
+"HIDE_SETTINGS_LABEL" = "Nascondi Impostazioni";
+"HIDE_SETTINGS_ALERT_TITLE" = "ATTENZIONE!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Attivando quest'opzione nasconderai le Impostazioni di Watusi dalla lista Impostazioni di Whatsapp e saranno accessibili solo attraverso un tasto trasparente (invisibile) a destra della barra di navigazione delle impostazioni di Whatsapp";
+"TWEAK_LANGUAGE_LABEL" = "Lingua";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
 "MORE_TWEAKS_TITLE" = "Altri Tweaks";
 
