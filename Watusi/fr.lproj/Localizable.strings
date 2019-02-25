@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Désactiver les reçus de lecture, mais encore voir vos reçus de contacts. Vous pouvez toujours activer/désactiver les reçus de lecture pour les contacts spécifiques de la force / jamais listé ou en le sélectionnant sur leur profil.";
 "NEVER_SEND_RECEIPTS_TO" = "Ne jamais envoyer de reçus à...";
 "FORCE_SEND_RECEIPTS_TO" = "Forcer l'envoyer des reçus à...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forcer le reçu d'envoi vocaux";
 "FORCE_RECEIPTS_ON" = "Forcer les reçus pour...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message envoyé";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Ecrit ou Enregistrement";
@@ -26,16 +26,16 @@
 "NEVER_SEND_TYPING_TO" = "Ne jamais envoyer de saisie à...";
 "FORCE_SEND_TYPING_TO" = "Forcer l'envoie de saisie à...";
 
-"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
-"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
-"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
-"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+"DISABLE_RECORDING_LABEL" = "Désactiver l'indicateur d'enregistrement";
+"DISABLE_RECORDING_DESC" = "Vos contacts ne vous verront pas faire un enregistrement";
+"NEVER_SEND_RECORDING_TO" = "N'envoyez jamais d'enregistrement à ...";
+"FORCE_SEND_RECORDING_TO" = "Forcer l'envoi de d'enregistrement à ...";
 
 "WHITELIST" = "Liste blanche";
 "BLACKLIST" = "Liste noire";
 "SEND_READ_RECEIPTS_BUTTON" = "Envoyer les reçus de lecture";
 "SEND_TYPING_INDICATOR_BUTTON" = "Montrer l'indicateur de saisie";
-"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Envoyer l'indicateur d'enregistrement";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Afficher les contrôles de lecture et les commandes de l'indicateur de saisie sur votre page d'information de contact afin d'activer/désactiver directement pour ce contact.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Contrôles sur la page d'information";
@@ -51,8 +51,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Confidentialité des contacts";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Contacts liste noire";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "Vos contacts ne sauront pas que vous avez désactivé le microphone pendant un appel.";
+"HIDE_CALL_MUTE_LABEL" = "Masquer le bouton sourdine";
 
 "DISABLE_VOIP_DESC" = "Désactiver l'interface VOIP et bloquer tous les appels VOIP entrants";
 "DISABLE_VOIP_LABEL" = "Désactiver VOIP";
@@ -112,7 +112,7 @@
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Enlever la limite";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Enlever la limte des messages de 7 minutes";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conserver les messages supprimés des contacts";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conserver les msg supprimés des contacts";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Les messages que vos contacts supprime ne seront pas supprimés et afficheront une icône pour indiquer que votre contact l'a supprimé.";
 
 "ABOUT_ON_CHATS_DESC" = "Montre l'actu des contacts sur une petite bannière en dessous de la barre des dernière visite";
@@ -122,10 +122,10 @@
 "TAP_TO_RECORD_LABEL" = "Tapper pour enregistrer";
 "TAP_TO_RECORD_SLIDE_LABEL" = "tapper & glisser pour annuler";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Désactiver la lecture continue";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Empêcher WhatsApp de lire en continu le message audio suivant automatiquement";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "Masquer l'indicateur des messages transferés";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Masquer l'indicateur des msg transferés";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Masquer l'indicateur 'Transferé' lorsque vous transferez un message à vos contacts";
 
 "CALL_CONFIRM_DESC" = "Obtenez une alerte de confirmation lorsque vous appuyez sur les boutons d'appel vocal ou vidéo, vous pouvez également choisir entre un appel WhatsApp ou un appel réseaux.";
@@ -302,7 +302,7 @@
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Bloquer le contact";
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Débloquer le contact";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Partagez l'image depuis le Web";
-"SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Envoyer le paiement";
 
 "BLOCK" = "Bloquer";
 "UNBLOCK" = "Débloquer";
@@ -334,7 +334,7 @@
 "USER_INTERFACE_LABEL" = "Réglages utilisateur";
 
 "REPLACE_CAMERA_TAB_DESC" = "Remplacez l'onglet caméra par Contacts ou Favoris.";
-"REPLACE_CAMERA_TAB_LABEL" = "Onglet Cam";
+"REPLACE_CAMERA_TAB_LABEL" = "Onglet Caméra";
 "REPLACE_CAMERA_TAB_DEFAULT" = "Par défaut";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Contacts";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoris";
@@ -373,7 +373,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Cacher les boutons d'appel des discussion.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vocal";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vidéo";
-"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel sur groupe";
 
 "FULLSCREEN_MODE_DESC" = "Masquer la barre de satut à l'intérieur de WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Mode plein écran";
@@ -386,7 +386,7 @@
 
 "NOTIFICATIONS_LABEL" = "Notifications";
 
-"PRIVATE_NOTIFICATION_DESC" = "Replace all WhatsApp notifications content with a specific message to protect your privacy.\n\nYou can use the original notification by using:\n%[title] to get the notification title\n%[message] to get the notification message";
+"PRIVATE_NOTIFICATION_DESC" = "Remplacez tout le contenu des notifications WhatsApp par un message spécifique protégeant votre confidentialité.\n\nVous pouvez utiliser la notification d'origine en utilisant:\n%[titre] pour obtenir le titre de la notification:\n%[message] pour obtenir le message de notification.";
 "PRIVATE_NOTIFICATION_LABEL" = "Notifications privées";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Message";
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Message de notification";
@@ -433,8 +433,8 @@
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Couleur de l'indicateur de message étoilé";
 
-"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Revoked Message Indicator Color";
-"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icon for messages revoked by your contacts";
+"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Couleur de l'indicateur de message révoqué";
+"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi's icône pour les messages révoqués par vos contacts";
 
 "CHAT_URL_COLOR_LABEL" = "Couleur de l'URL des convs";
 "TEXT_INPUT_COLOR_LABEL" = "Couleur d'entrée de texte";
@@ -548,14 +548,14 @@
 "UPDATES_SECTION_TITLE" = "Mise à jour";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Vérifié automatiquement les mises à jour";
 "CHECK_FOR_UPDATES_BUTTON" = "Vérifié mise à jour";
-"SETTINGS_SECTION_TITLE" = "Settings";
-"RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
-"RESET_SETTINGS_BUTTON" = "Reset";
-"HIDE_SETTINGS_LABEL" = "Hide Settings";
-"HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
-"TWEAK_LANGUAGE_LABEL" = "Language";
+"SETTINGS_SECTION_TITLE" = "Réglages";
+"RESET_SETTINGS_LABEL" = "Réinitialiser les réglages";
+"RESET_SETTINGS_ALERT_MESSAGE" = "Cela supprimera toutes vos régages Watusi et le réinitialisera à ses valeurs par défaut.";
+"RESET_SETTINGS_BUTTON" = "Réinitialiser";
+"HIDE_SETTINGS_LABEL" = "Masquer les paramètres";
+"HIDE_SETTINGS_ALERT_TITLE" = "ATTENTION!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Cela masquera la ligne des paramètres Watusi des paramètres WhatsApp et la rendra accessible via un bouton transparent à droite de la barre de navigation des paramètres WhatsApp.";
+"TWEAK_LANGUAGE_LABEL" = "Langue";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
 "MORE_TWEAKS_TITLE" = "Plus de Tweaks";
 

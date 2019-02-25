@@ -11,9 +11,9 @@
 "FREEZE_LASTSEEN_LABEL" = "Zuletzt online sperren";
 "FREEZE_LASTSEEN_DESC" = "Du wirst nicht als online angezeigt, außerdem wird der 'zuletzt online' Status nicht aktualisiert, wenn du WhatsApp öffnest.";
 
-"DISABLE_READ_RECEIPTS_LABEL" = "Lesebestätigungen deaktiveren";
+"DISABLE_READ_RECEIPTS_LABEL" = "Lesebestätigungen deaktivieren";
 "READ_RECEIPTS_DESC" = "Deaktivert Lesebestätigungen und lässt sie dich trotzdem bei deinen Kontakten sehen. Du kannst sie dennoch Kontaktspezifisch aktiveren/deaktivieren, indem du die Lesebestätigungen bei dem jeweiligen Kontakt auf nie/erzwingen stellst.";
-"NEVER_SEND_RECEIPTS_TO" = "Lesebestätigungen deaktiveren für...";
+"NEVER_SEND_RECEIPTS_TO" = "Lesebestätigungen deaktivieren für...";
 "FORCE_SEND_RECEIPTS_TO" = "Lesebestätigungen erzwingen für...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Hörbestätigungen erzwingen";
 "FORCE_RECEIPTS_ON" = "Lesebestätigungen erzwingen bei...";
@@ -21,9 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Tippen oder Aufnehmen";
 "FORCE_RECEIPTS_ON_NEVER" = "Nie";
 
-"DISABLE_TYPING_LABEL" = "Schreibeindikator deaktiveren";
+"DISABLE_TYPING_LABEL" = "Schreibeindikator deaktivieren";
 "DISABLE_TYPING_DESC" = "Deine Kontakte werden dich nicht schreiben sehen.";
-"NEVER_SEND_TYPING_TO" = "Schreibeindikator deaktiveren bei...";
+"NEVER_SEND_TYPING_TO" = "Schreibeindikator deaktivieren bei...";
 "FORCE_SEND_TYPING_TO" = "Schreibeindikator erzwingen bei...";
 
 "DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
@@ -41,7 +41,7 @@
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Steuerung bei Kontakten anzeigen";
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Deine Kontakte werden nicht sehen, dass die Nachricht zugestellt wurde. Sie werden nur einen Haken sehen.";
-"DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktiveren";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktivieren";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warnung! Die Aktivierung dieser Funktion führt zu einer Verzögerung der Nachrichten, da der WhatsApp-Server keine neuen Nachrichten mehr sendet, wenn auf dem Server viele ausstehende Nachrichten auf die Zustellung warten. Es ist nicht möglich, dies zu beheben, da es serverseitig ist.";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
@@ -55,7 +55,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Stummgeschalteten Anruf ausblenden";
 
 "DISABLE_VOIP_DESC" = "Deaktivert das VOIP Interface und blockiert alle eingehenden Anrufe.";
-"DISABLE_VOIP_LABEL" = "VOIP deaktiveren";
+"DISABLE_VOIP_LABEL" = "VOIP deaktivieren";
 
 
 /* Status Addons */
@@ -100,7 +100,7 @@
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Verwalten";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Deaktiviert das automatische Wechseln zum nächsten Status.";
-"STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Automatisches Wechseln deaktiveren";
+"STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Automatisches Wechseln deaktivieren";
 
 "STATUS_HIDE_TABBAR_BADGES_DESC" = "Blenden Sie das blaue Punkt-Abzeichen auf der Status-Registerkarte aus, wenn ein neuer Status verfügbar ist";
 "STATUS_HIDE_TABBAR_BADGES_LABEL" = "Status Abzeichen ausblenden";
@@ -327,7 +327,7 @@
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Medien zum Kontakt %zd weiterleiten";
 
 "MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Deaktiviert das automatische Speichern in die Fotos App von Medien, die mit der WhatsApp Kamera aufgenommen wurden.";
-"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Speichern ausgehender Medien deaktiveren";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Speichern ausgehender Medien deaktivieren";
 
 /* User Interface */
 
@@ -347,7 +347,7 @@
 "%zd_CONTACTS" = "%zd Kontakte";
 
 "DISABLE_LARGE_EMOJI_DESC" = "Verhindert, dass einzeln versendete Emojis größer dargestellt werden.";
-"DISABLE_LARGE_EMOJI_LABEL" = "Große Emojis deaktiveren";
+"DISABLE_LARGE_EMOJI_LABEL" = "Große Emojis deaktivieren";
 
 "SHOW_SECONDS_DESC" = "Fügt Sekunden zum 'zuletzt online' Status, zu Nachrichten und zu anderen Daten in WhatsApp hinzu.";
 "SHOW_SECONDS_LABEL" = "Sekunden anzeigen";
@@ -356,7 +356,7 @@
 "AUTO_SHOW_KEYBOARD_LABEL" = "Tastatur zeigen";
 
 "DISABLE_LANDSCAPE_DESC" = "Verhindert, dass WhatsApp ins Querformat rotiert.";
-"DISABLE_LANDSCAPE_LABEL" = "Querformat deaktiveren";
+"DISABLE_LANDSCAPE_LABEL" = "Querformat deaktivieren";
 
 "MUTE_SOUND_DESC" = "Schaltet den WhatsApp Sound von gesendeten/empfangenen Nachrichten und/oder Tastatur Klicks stumm.";
 "MUTE_SOUND_LABEL" = "Sound stummschalten";
