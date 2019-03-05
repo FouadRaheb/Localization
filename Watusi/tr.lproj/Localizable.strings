@@ -122,8 +122,8 @@
 "TAP_TO_RECORD_LABEL" = "Kayýt Yapmak Ýçin Bas";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Ýptal Ýçin Dokun&Kaydýr";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Devamlý Oynatmayý Devre Dýþý Býrak";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "WhatsApp'ýn Sonraki Ses Mesajýný Oynatmasýný Devre Dýþý Býrak";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Devamlý Oynatmayý Devre Dýþý Býrak";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "WhatsApp'ýn Sonraki Ses Mesajýný Oynatmasýný Devre Dýþý Býrak";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Ýletildi Ýþaretini Devre Dýþý Býrak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kiþilerden birine mesaj atarken iletildi iþaretini devre dýþý býrak";

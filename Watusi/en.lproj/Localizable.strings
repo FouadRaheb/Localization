@@ -122,8 +122,8 @@
 "TAP_TO_RECORD_LABEL" = "Tap To Record";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tap & Slide to Cancel";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Disable Continous Playback";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Stop WhatsApp from continously playing the next audio message automatically";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
