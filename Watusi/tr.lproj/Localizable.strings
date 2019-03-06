@@ -11,7 +11,7 @@
 "FREEZE_LASTSEEN_LABEL" = "Son Görülmeyi Dondur";
 "FREEZE_LASTSEEN_DESC" = "Online gözükmeyeceksin ve Whatsapp'ı açtığında son görülmen güncellenmeyecek.";
 
-"DISABLE_READ_RECEIPTS_LABEL" = "Okundu bilgisini kapat.";
+"DISABLE_READ_RECEIPTS_LABEL" = "Okundu bilgisini kapat";
 "READ_RECEIPTS_DESC" = "Sadece kişilere okundu bilgisi gönderir. Okundu bilgisini kişilerin profillerinden aç/kapa yapabilirsiniz.";
 "NEVER_SEND_RECEIPTS_TO" = "Asla Okundu Bilgisi Gönderme...";
 "FORCE_SEND_RECEIPTS_TO" = "Zorla Okundu Bilgisi Gönder...";
@@ -311,8 +311,8 @@
 "UNBLOCK" = "Engeli Kaldır";
 "BLOCK_CONTACT" = "Kişiyi Engelle";
 "UNBLOCK_CONTACT" = "Kişinin Engelini Kaldır";
-"BLOCK_CONTACT_MESSAGE" = "'Engelle' tuşuna basarak bu kişiden mesaj almayı kapat.";
-"UNBLOCK_CONTACT_MESSAGE" = "'Engeli Kaldır' tuşuna basarak bu kişiden mesaj almayı aç.";
+"BLOCK_CONTACT_MESSAGE" = "'Engelle' tuşuna basarak bu kişiden mesaj almayı kapat";
+"UNBLOCK_CONTACT_MESSAGE" = "'Engeli Kaldır' tuşuna basarak bu kişiden mesaj almayı aç";
 
 "SHARE_DEVICE_FILES_DESC" = "Belge Paylaş sayfasından cihazdaki her türden seçtiğiniz dosyaları paylaşmanızı sağlayacak bir tuş ekler.";
 "SHARE_DEVICE_FILES_LABEL" = "Cihaz Dosyalarını Paylaş";
@@ -381,7 +381,7 @@
 "FULLSCREEN_MODE_DESC" = "WhatsApp içindeki statüs çubuğunu gizle.";
 "FULLSCREEN_MODE_LABEL" = "Tam ekran Modu";
 
-"IPAD_FULLSCREEN_MODE_DESC" = "WhatsApp tam ekran modunu herhangi bir iPad uyumlu uygulama gibi aç.";
+"IPAD_FULLSCREEN_MODE_DESC" = "WhatsApp tam ekran modunu herhangi bir iPad uyumlu uygulama gibi aç";
 "IPAD_FULLSCREEN_MODE_LABEL" = "iPad Tam Ekran";
 
 
@@ -531,7 +531,7 @@
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Sohbet gönderme butonuna uzun basarak sohbet içinden  zamanlı mesaj ayarlayabilirsiniz.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Göndere uzun bas";
 
-"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "Mesajı Þimdi Gönder";
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "Mesajı Şimdi Gönder";
 "MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "Mesaj Zamanla";
 "MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "Zamanlanan Mesajları Göster";
 
@@ -557,7 +557,7 @@
 "RESET_SETTINGS_BUTTON" = "Sıfırla";
 "HIDE_SETTINGS_LABEL" = "Ayarları Gizle";
 "HIDE_SETTINGS_ALERT_TITLE" = "UYARI!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "BU ayar Watusi ayarlarını Whatsapp ayarlarının sağ üst kısmında transparan bir buton ile erişilebilir bir hale getirecektir.This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Bu ayar Watusi ayar satırını gizleyecek ve Whatsapp ayarlarının sağ üst kısmında transparan bir buton ile erişilebilir hale getirecektir.";
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 "MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";
@@ -567,9 +567,9 @@
 "MANAGE_ACCOUNT" = "Hesabı Düzenle";
 "LOGIN_OR_REGISTER" = "Giriş yap veya Kayıt ol";
 "LOGOUT" = "Çıkış";
-"HOW_TO_REMOVE_ADS" = "Reklamları nasıl kaldırırım";
+"HOW_TO_REMOVE_ADS" = "Reklamları nasıl kaldırırım?";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Watusi Lisansı Satın Al";
-"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Reklamsız 2 gün için satın al";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Reklamsız 2 gün için tweet at";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Watusi'yi satın almak için hesabınıza giriş yapın.";
 "LOADING" = "Yükleniyor...";
 
@@ -582,7 +582,7 @@
 "BAD_PROMO_CODE_FORMAT_MESSAGE" = "Geçersiz Promosyon Kodu";
 "ENTER_PROMO_CODE_MESSAGE" = "Promosyon kodunuzu girin";
 "REDEEM_SUCCESSFULL_TITLE" = "Kod Onaylandı";
-"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi Lisansınız hesabınıza eklendi";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Watusi lisansınız hesabınıza eklendi";
 "REDEEM_FAILED_TITLE" = "Kod Kullanımı Başarısız";
 "REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Geçersiz Promosyon Kodu";
 "REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Geçersiz Bilgi";
@@ -610,5 +610,5 @@
 /* Messages */
 
 "RELAUNCH_MESSAGE" = "Değişiklikleri etkinleştirmek için WhatsApp'ı yeniden başlat";
-"RELAUNCH_FEATURE_MESSAGE" = "Bu özelliği etkinleştirmek için Whatsapp'ı yeniden başlatılmalı.";
-"OLD_VERSION_ALERT" = "Watusi sadece WhatsApp'ın son sürümünü destekler, lütfen AppStore'dan WhatsApp ı güncelleyin.";
+"RELAUNCH_FEATURE_MESSAGE" = "Bu özelliği etkinleştirmek için Whatsapp yeniden başlatılmalı.";
+"OLD_VERSION_ALERT" = "Watusi sadece WhatsApp'ın son sürümünü destekler, lütfen AppStore'dan WhatsApp'ı güncelleyin.";
