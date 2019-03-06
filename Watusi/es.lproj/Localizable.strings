@@ -128,6 +128,9 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deshabilitar indicador de reenviado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Desactivar la visualización del indicador de reenviado al reenviar un mensaje a tus contactos";
 
+"UNLIMITED_FORWARD_LABEL" = "Unlimited Forward";
+"UNLIMITED_FORWARD_DESC" = "Forward a message to unlimited number of contacts";
+
 "CALL_CONFIRM_DESC" = "Obtén un alerta de confirmación al pulsar los botones de llamada de voz o video, también puedes elegir entre una llamada de WhatsApp o una llamada normal de operador.";
 "CALL_CONFIRM_LABEL" = "Confirmar llamada";
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamada al tocar en recientes";
