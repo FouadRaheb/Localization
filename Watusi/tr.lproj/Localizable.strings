@@ -128,8 +128,8 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "İletildi İşaretini Devre Dışı Bırak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kişilerden birine mesaj atarken iletildi işaretini devre dışı bırak";
 
-"UNLIMITED_FORWARD_LABEL" = "Unlimited Forward";
-"UNLIMITED_FORWARD_DESC" = "Forward a message to unlimited number of contacts";
+"UNLIMITED_FORWARD_LABEL" = "Sınırsız Mesaj İletimi";
+"UNLIMITED_FORWARD_DESC" = "Kişi sınırı olmadan mesajı ilet";
 
 "CALL_CONFIRM_DESC" = "Görüntülü veya sesli arama tuşunua basınca onaylama uyarısı alırsınız, WhatsApp araması ya da normal operatör araması seçimi yapabilirsiniz.";
 "CALL_CONFIRM_LABEL" = "Aramayı Onayla";
