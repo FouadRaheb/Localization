@@ -405,56 +405,76 @@
 "ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Yerel Bildirimleri Aktifleştir";
 "ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Bu seçenek WhatsApp'ı bildirimleri almak için arkaplanda çalışır durumda bırakır ama pil kullanımını artırır";
 
+
 /* Theme */
 
 "THEME_LABEL" = "Tema";
 
-"ENABLE_APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonunu Aktifleştir";
-"APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonu";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "Create New Theme";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "Import Theme from Files";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "Invalid Theme File";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "The file must be a valid plist";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Mesaj Yazı Rengi";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Mesaj Arkaplan Rengi";
-"MESSAGES_STATUS_COLORS_TITLE" = "Mesaj Durum Eşyaları";
+"NEW_THEME_ALERT_TITLE" = "New Theme";
+"NEW_THEME_ALERT_MESSAGE" = "Enter your theme name";
+"NEW_THEME_ALERT_PLACEHOLDER" = "Theme";
 
-"ENABLE_FONT_STYLE_LABEL" = "Font Stilini Aktifleştir";
+"THEMES_SECTION_HEADER" = "Themes";
+"THEMES_SECTION_FOOTER" = "Use the + button to create a new theme\nSwipe left or long press on a theme to edit\nSelect a theme to set as active";
+"THEMES_STORE_LABEL" = "Themes Store";
 
-"CHAT_FONTNAME_LABEL" = "Sohbet Font Adı";
-"FONTS_LABEL" = "Fontlar";
+"EDIT_THEME" = "Edit Theme";
+"THEME_NAME" = "Theme Name";
 
-"BUBBLE_TEXT_SIZE_LABEL" = "Baloncuk Yazı Boyutu";
-"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Baloncuk Kişi Adı Boyutu";
+"THEME_GENERAL_SECTION_TITLE" = "General";
+"APP_TINTCOLOR_LABEL" = "App Tint Color";
+"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Internal Dark Mode";
+"KEYBOARD_STYLE_LABEL" = "Keyboard style";
+"KEYBOARD_STYLE_DEFAULT" = "Default";
+"KEYBOARD_STYLE_DARK" = "Dark";
+"KEYBOARD_STYLE_DARK_BLUE" = "Dark & Blue";
+"BARS_BACKGROUND_COLOR_LABEL" = "Bars Background Color";
 
-"INCOMING_CHAT_TEXT_COLOR_LABEL" = "Gelen Sohbet Yazı Rengi";
-"OUTGOING_CHAT_TEXT_COLOR_LABEL" = "Giden Sohbet Yazı Rengi";
+"THEME_CHATS_SECTION_TITLE" = "Chats";
 
-"INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Gelen Sohbet Zamanı Rengi";
-"OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Giden Sohbet Zamanı Rengi";
+"CHATS_TEXT_STYLE_LABEL" = "Text Style";
+"FONT_NAME_LABEL" = "Font Name";
+"TEXT_SIZE_LABEL" = "Text Size";
+"CONTACT_NAME_SIZE_LABEL" = "Contact Name Size";
+"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
+"RECEIVED_MESSAGE_COLOR_LABEL" = "Received Message Color";
+"SENT_MESSAGE_COLOR_LABEL" = "Sent Message Color";
+"URL_COLOR_LABEL" = "URL Color";
+"GROUP_EVENT_COLOR_LABEL" = "Group Event Color";
+"SYSTEM_EVENT_COLOR_LABEL" = "System Event Color";
+"DATE_BUBBLE_COLOR_LABEL" = "Date Bubble Color";
+"TEXT_INPUT_COLOR_LABEL" = "Text Input Color";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Mesaj Durumu Gönderildi Rengi";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Mesaj Durumu İletildi Rengi";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Mesaj Durumu Okundu Rengi";
+"CHATS_BACKGROUND_COLOR_LABEL" = "Background Colors";
+"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Received Bubble Background";
+"SENT_BUBBLE_BACKGROUND_LABEL" = "Sent Bubble Background";
+"OPACITY_LABEL" = "Opacity";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "Received Bubble Opacity";
+"SENT_BUBBLE_OPACITY_LABEL" = "Sent Bubble Opacity";
+"DATE_BUBBLE_BACKGROUND_LABEL" = "Date Bubble Background";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Yıldızlı Mesaj Gösterge Rengi";
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Message Status Items";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Message Status Checkmarks";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Message Timestamp";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Message Status Footer";
+"SENT_COLOR_LABEL" = "Sent Color";
+"DELIVERED_COLOR_LABEL" = "Delivered Color";
+"READ_COLOR_LABEL" = "Read Color";
+"RECEIVED_COLOR_LABEL" = "Received Color";
+"STARRED_INDICATOR_COLOR_LABEL" = "Starred Indicator Color";
+"REVOKED_INDICATOR_COLOR_LABEL" = "Revoked Indicator Color";
+"REVOKED_INDICATOR_COLOR_DESC" = "Watusi's icon next to revoked messages";
 
-"REVOKED_MESSAGE_INDICATOR_COLOR_LABEL" = "Mesaj Gösterge Rengi İptal Edildi";
-"REVOKED_MESSAGE_INDICATOR_COLOR_DESC" = "Watusi'nin ikonu kişi mesajları için iptal edildiWatusi's icon for messages revoked by your contacts";
-
-"CHAT_URL_COLOR_LABEL" = "Sohbet URL Rengi";
-"TEXT_INPUT_COLOR_LABEL" = "Yazı Giriş Rengi";
-
-"INCOMING_BUBBLE_BG_COLOR_LABEL" = "Gelen Baloncuk BG Rengi";
-"OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Giden Baloncuk BG Rengi";
-"COLOR" = "Color";
-
-"ENABLE_BUBBLE_OPACITY_LABEL" = "Baloncukların Opaklığını Aktifleştir";
-"INCOMING_BUBBLE_OPACITY_LABEL" = "Gelen Baloncuk Opaklığı";
-"OUTGOING_BUBBLE_OPACITY_LABEL" = "Giden Baloncuk Opaklığı";
-
-"KEYBOARD_STYLE_DESC" = "Klavye Stili";
-"KEYBOARD_STYLE_LABEL" = "Klavye";
-"KEYBOARD_STYLE_DEFAULT" = "Varsayılan";
-"KEYBOARD_STYLE_DARK" = "Siyah";
-"KEYBOARD_STYLE_DARK_BLUE" = "Siyah & Mavi";
+"THEME_TABLES_SECTION_TITLE" = "Tables";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
+"TABLES_SEPARATORS_LABEL" = "Separators";
+"SEPARATOR_COLOR_LABEL" = "Separator Color";
+"HIDE_SEPARATOR_LABEL" = "Hide Separators";
 
 
 /* Contacts Blacklist */
@@ -539,6 +559,23 @@
 "MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Yeni Zamanlı Mesaj";
 
 
+/* Stickers */
+
+"STICKERS_MANAGER_LABEL" = "Stickers Manager";
+"STICKERS_LABEL" = "Stickers";
+
+"STICKER_PACKS_PAGE_TITLE" = "Sticker Packs";
+"STICKER_PACKS_DEFAULT_TAB" = "Default";
+"STICKER_PACKS_CUSTOM_TAB" = "Custom";
+"LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
+
+"ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Import ZIP from Files";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Import ZIP from Device Files";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Import ZIP from URL";
+
+
 /* Support Section */
 
 "SUPPORT_SECTION_TITLE" = "Destek";
@@ -595,11 +632,16 @@
 "DELETE" = "Sil";
 "CANCEL" = "İptal";
 "OKAY" = "OK";
+"ENABLE" = "Enable";
+"MORE" = "More";
 "RELAUNCH" = "Yeniden Başlat";
 "LATER" = "Sonra";
 "SEND" = "Gönder";
 "ADD" = "Ekle";
 "EDIT" = "Düzenle";
+"DUPLICATE" = "Duplicate";
+"EXPORT" = "Export";
+"PUBLISH" = "Publish";
 "TO" = "alıcı";
 "DISMISS" = "Kapat";
 "DUPLICATE" = "Kopyalayarak Çoğalt";
