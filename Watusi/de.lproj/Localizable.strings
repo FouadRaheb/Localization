@@ -443,7 +443,6 @@
 "CONTACT_NAME_SIZE_LABEL" = "Kontakt Name Größe";
 "ENABLE_FONT_STYLE_LABEL" = "Aktiviere den Schriftstil";
 "RECEIVED_MESSAGE_COLOR_LABEL" = "Farbe der empfangenen Nachricht";
-
 "SENT_MESSAGE_COLOR_LABEL" = "Farbe der gesendeten Nachricht";
 "URL_COLOR_LABEL" = "URL Farbe";
 "GROUP_EVENT_COLOR_LABEL" = "Gruppenereignisfarbe";
