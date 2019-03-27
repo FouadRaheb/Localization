@@ -26,16 +26,16 @@
 "NEVER_SEND_TYPING_TO" = "Nunca enviar Escribiendo a...";
 "FORCE_SEND_TYPING_TO" = "Forzar envío de Escribiendo a...";
 
-"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
-"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
-"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
-"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+"DISABLE_RECORDING_LABEL" = "Deshabilitar el Indicador de Grabación";
+"DISABLE_RECORDING_DESC" = "Tus contactos no te verán como grabando";
+"NEVER_SEND_RECORDING_TO" = "Nunca Enviar Grabación a ...";
+"FORCE_SEND_RECORDING_TO" = "Forzar Envío de Grabación a ...";
 
 "WHITELIST" = "Lista blanca";
 "BLACKLIST" = "Lista negra";
 "SEND_READ_RECEIPTS_BUTTON" = "Enviar Confirmación de Lectura";
 "SEND_TYPING_INDICATOR_BUTTON" = "Enviar Indicador de Escribiendo";
-"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Enviar Indicador de Grabación";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar los controles de Enviar Confirmación de Lectura y de Enviar Indicador de Escribiendo en la página de información de tus contactos para poder activarlos/descativarlos directamente en ese contacto.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostrar controles en la página de información";
@@ -51,8 +51,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Mis contactos privados";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Lista negra de contactos";
 
-"HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
-"HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
+"HIDE_CALL_MUTE_DESC" = "Sus contactos no sabrán que ha silenciado el micrófono durante una llamada.";
+"HIDE_CALL_MUTE_LABEL" = "Ocultar Llamada Silenciada";
 
 "DISABLE_VOIP_DESC" = "Desactivar la interfaz VOIP y bloquear todas las llamadas VOIP entrantes.";
 "DISABLE_VOIP_LABEL" = "Desactivar VOIP";
@@ -122,26 +122,26 @@
 "TAP_TO_RECORD_LABEL" = "Toque para grabar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque y deslice para cancelar";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Desactivar Reproducción Continua";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Evita que WhatsApp reproduzca continuamente el siguiente mensaje de audio automáticamente";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deshabilitar indicador de reenviado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Desactivar la visualización del indicador de reenviado al reenviar un mensaje a tus contactos";
 
-"UNLIMITED_FORWARD_LABEL" = "Unlimited Forward";
-"UNLIMITED_FORWARD_DESC" = "Forward a message to unlimited number of contacts";
+"UNLIMITED_FORWARD_LABEL" = "Avance Ilimitado";
+"UNLIMITED_FORWARD_DESC" = "Reenviar un mensaje a un número ilimitado de contactos";
 
 "CALL_CONFIRM_DESC" = "Obtén un alerta de confirmación al pulsar los botones de llamada de voz o video, también puedes elegir entre una llamada de WhatsApp o una llamada normal de operador.";
 "CALL_CONFIRM_LABEL" = "Confirmar llamada";
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar llamada al tocar en recientes";
 "START_VIDEO_CALL_WITH" = "Iniciar videollamada con";
-"START_VOICE_CALL_WITH" = "Iniciar llamada de voz con";
-"START_GROUP_VIDEO_CALL_WITH" = "Start group video call";
-"START_GROUP_VOICE_CALL_WITH" = "Start group voice call";
+"START_VOICE_CALL_WITH" = "Iniciar llamada con";
+"START_GROUP_VIDEO_CALL_WITH" = "Iniciar una videollamada grupal";
+"START_GROUP_VOICE_CALL_WITH" = "Iniciar llamada de voz de grupo";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Videollamada de WhatsApp";
-"WHATSAPP_VOICE_CALL_BUTTON" = "Llamada de voz de WhatsApp";
-"CARRIER_CALL_BUTTON" = "Llamada de operador";
-"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Llamada de operador no disponible!";
+"WHATSAPP_VOICE_CALL_BUTTON" = "Llamada por WhatsApp";
+"CARRIER_CALL_BUTTON" = "Llamada por operador";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Llamada por operador no disponible!";
 
 "GROUP_MEMBERS_PICTURE_DESC" = "Mostrar la imagen de perfil del miembro del grupo junto a sus mensajes en el chat de grupo. También puedes tocar para ver la vista previa de la imagen.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "Imagen de los miembros del grupo";
@@ -376,7 +376,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar los botones de llamada en los chats.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de voz";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de videollamada";
-"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de grupo";
 
 "FULLSCREEN_MODE_DESC" = "Ocultar la barra de estado dentro de WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Modo pantalla completa";
@@ -410,71 +410,71 @@
 
 "THEME_LABEL" = "Apariencia";
 
-"CREATE_NEW_THEME_ACTION_BUTTON" = "Create New Theme";
-"IMPORT_NEW_THEME_ACTION_BUTTON" = "Import Theme from Files";
-"THEME_FILE_IMPORT_FAILED_TITLE" = "Invalid Theme File";
-"THEME_FILE_IMPORT_FAILED_MESSAGE" = "The file must be a valid plist";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "Crear Nuevo Tema";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "Importar Tema Desde Archivos";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "Archivo de Tema no válido";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "El archivo debe ser un plist válido";
 
-"NEW_THEME_ALERT_TITLE" = "New Theme";
-"NEW_THEME_ALERT_MESSAGE" = "Enter your theme name";
-"NEW_THEME_ALERT_PLACEHOLDER" = "Theme";
+"NEW_THEME_ALERT_TITLE" = "Nuevo Tema";
+"NEW_THEME_ALERT_MESSAGE" = "Ingrese el nombre de su tema";
+"NEW_THEME_ALERT_PLACEHOLDER" = "Tema";
 
-"THEMES_SECTION_HEADER" = "Themes";
-"THEMES_SECTION_FOOTER" = "Use the + button to create a new theme\nSwipe left or long press on a theme to edit\nSelect a theme to set as active";
-"THEMES_STORE_LABEL" = "Themes Store";
+"THEMES_SECTION_HEADER" = "Temas";
+"THEMES_SECTION_FOOTER" = "Use el botón + para crear un nuevo tema \ nPresione hacia la izquierda o mantenga presionado un tema para editar \ nSeleccione un tema para establecer como activo";
+"THEMES_STORE_LABEL" = "Tienda de Temas";
 
-"EDIT_THEME" = "Edit Theme";
-"THEME_NAME" = "Theme Name";
+"EDIT_THEME" = "Editar Tema";
+"THEME_NAME" = "Nombre del Tema";
 
 "THEME_GENERAL_SECTION_TITLE" = "General";
-"APP_TINTCOLOR_LABEL" = "App Tint Color";
-"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Internal Dark Mode";
-"KEYBOARD_STYLE_LABEL" = "Keyboard style";
-"KEYBOARD_STYLE_DEFAULT" = "Default";
-"KEYBOARD_STYLE_DARK" = "Dark";
-"KEYBOARD_STYLE_DARK_BLUE" = "Dark & Blue";
-"BARS_BACKGROUND_COLOR_LABEL" = "Bars Background Color";
+"APP_TINTCOLOR_LABEL" = "Color de Tinte de la Aplicación";
+"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Modo Oscuro Interno";
+"KEYBOARD_STYLE_LABEL" = "Estilo de Teclado;
+"KEYBOARD_STYLE_DEFAULT" = "Por Defecto";
+"KEYBOARD_STYLE_DARK" = "Oscuro";
+"KEYBOARD_STYLE_DARK_BLUE" = "Oscuro & Azul";
+"BARS_BACKGROUND_COLOR_LABEL" = "Color de Fondo de las Barras";
 
 "THEME_CHATS_SECTION_TITLE" = "Chats";
 
-"CHATS_TEXT_STYLE_LABEL" = "Text Style";
-"FONT_NAME_LABEL" = "Font Name";
-"TEXT_SIZE_LABEL" = "Text Size";
-"CONTACT_NAME_SIZE_LABEL" = "Contact Name Size";
-"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
-"RECEIVED_MESSAGE_COLOR_LABEL" = "Received Message Color";
-"SENT_MESSAGE_COLOR_LABEL" = "Sent Message Color";
-"URL_COLOR_LABEL" = "URL Color";
-"GROUP_EVENT_COLOR_LABEL" = "Group Event Color";
-"SYSTEM_EVENT_COLOR_LABEL" = "System Event Color";
-"DATE_BUBBLE_COLOR_LABEL" = "Date Bubble Color";
-"TEXT_INPUT_COLOR_LABEL" = "Text Input Color";
+"CHATS_TEXT_STYLE_LABEL" = "Estilo de Teclado";
+"FONT_NAME_LABEL" = "Nombre de la Fuente";
+"TEXT_SIZE_LABEL" = "Tamaño del Texto";
+"CONTACT_NAME_SIZE_LABEL" = "Tamaño del Nombre de Contacto";
+"ENABLE_FONT_STYLE_LABEL" = "Habilitar Estilo de Fuente";
+"RECEIVED_MESSAGE_COLOR_LABEL" = "Color del Mensaje Recibido";
+"SENT_MESSAGE_COLOR_LABEL" = "Color del Mensaje Enviado";
+"URL_COLOR_LABEL" = "Color de URL";
+"GROUP_EVENT_COLOR_LABEL" = "Color Evento de grupo";
+"SYSTEM_EVENT_COLOR_LABEL" = "SColor Evento del Sistema";
+"DATE_BUBBLE_COLOR_LABEL" = "Color Burbuja de Fecha";
+"TEXT_INPUT_COLOR_LABEL" = "Color Entrada de Texto";
 
-"CHATS_BACKGROUND_COLOR_LABEL" = "Background Colors";
-"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Received Bubble Background";
-"SENT_BUBBLE_BACKGROUND_LABEL" = "Sent Bubble Background";
+"CHATS_BACKGROUND_COLOR_LABEL" = "Colores de Fondo";
+"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Fondo de Burbuja Recibido";
+"SENT_BUBBLE_BACKGROUND_LABEL" = "Fondo de Burbuja Enviado";
 "OPACITY_LABEL" = "Opacity";
-"RECEIVED_BUBBLE_OPACITY_LABEL" = "Received Bubble Opacity";
-"SENT_BUBBLE_OPACITY_LABEL" = "Sent Bubble Opacity";
-"DATE_BUBBLE_BACKGROUND_LABEL" = "Date Bubble Background";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "Opacidad de Burbuja Recibida";
+"SENT_BUBBLE_OPACITY_LABEL" = "Opacidad de Burbuja Enviada";
+"DATE_BUBBLE_BACKGROUND_LABEL" = "Fondo de Burbuja Fecha";
 
-"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Message Status Items";
-"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Message Status Checkmarks";
-"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Message Timestamp";
-"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Message Status Footer";
-"SENT_COLOR_LABEL" = "Sent Color";
-"DELIVERED_COLOR_LABEL" = "Delivered Color";
-"READ_COLOR_LABEL" = "Read Color";
-"RECEIVED_COLOR_LABEL" = "Received Color";
-"STARRED_INDICATOR_COLOR_LABEL" = "Starred Indicator Color";
-"REVOKED_INDICATOR_COLOR_LABEL" = "Revoked Indicator Color";
-"REVOKED_INDICATOR_COLOR_DESC" = "Watusi's icon next to revoked messages";
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Elementos Estado del Mensaje";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Marcas Estado del Mensaje";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Mensaje de Fecha y Hora";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Estado Mensaje Pie de Página";
+"SENT_COLOR_LABEL" = "Color Enviado";
+"DELIVERED_COLOR_LABEL" = "Color Entregado";
+"READ_COLOR_LABEL" = "Color Visto";
+"RECEIVED_COLOR_LABEL" = "Color Recibido";
+"STARRED_INDICATOR_COLOR_LABEL" = "Color del Indicador Destacado";
+"REVOKED_INDICATOR_COLOR_LABEL" = "Color Indicador Revocado";
+"REVOKED_INDICATOR_COLOR_DESC" = "Ícono de Watusi junto a los mensajes revocados";
 
-"THEME_TABLES_SECTION_TITLE" = "Tables";
-"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
-"TABLES_SEPARATORS_LABEL" = "Separators";
-"SEPARATOR_COLOR_LABEL" = "Separator Color";
-"HIDE_SEPARATOR_LABEL" = "Hide Separators";
+"THEME_TABLES_SECTION_TITLE" = "Clasificación";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Color de Fondo Agrupado";
+"TABLES_SEPARATORS_LABEL" = "Separadores";
+"SEPARATOR_COLOR_LABEL" = "Color Separador";
+"HIDE_SEPARATOR_LABEL" = "Ocultar separadores";
 
 
 /* Contacts Blacklist */
@@ -561,19 +561,19 @@
 
 /* Stickers */
 
-"STICKERS_MANAGER_LABEL" = "Stickers Manager";
-"STICKERS_LABEL" = "Stickers";
+"STICKERS_MANAGER_LABEL" = "Administrador de Pegantinas";
+"STICKERS_LABEL" = "Pegantinas";
 
-"STICKER_PACKS_PAGE_TITLE" = "Sticker Packs";
-"STICKER_PACKS_DEFAULT_TAB" = "Default";
-"STICKER_PACKS_CUSTOM_TAB" = "Custom";
-"LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
+"STICKER_PACKS_PAGE_TITLE" = "Paquetes de Pegatinas";
+"STICKER_PACKS_DEFAULT_TAB" = "Por Defecto";
+"STICKER_PACKS_CUSTOM_TAB" = "Personalizado";
+"LOADING_STICKER_PACKS_LABEL" = "Cargando Paquetes de Pegatinas...";
 
-"ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
-"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
-"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Import ZIP from Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Import ZIP from Device Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Import ZIP from URL";
+"ADD_STICKERS_ALERT_TITLE" = "Añadir Paquete de Pegatinas";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Crear Paquete de Pegatinas";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Importar ZIP desde Archivos";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Importar ZIP desde Archivos de Dispositivo";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Importar ZIP desde URL";
 
 
 /* Support Section */
@@ -588,14 +588,14 @@
 "UPDATES_SECTION_TITLE" = "Actualizaciones";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Chequear automáticamente nuevas actualizaciones";
 "CHECK_FOR_UPDATES_BUTTON" = "Chequear nuevas actualizaciones";
-"SETTINGS_SECTION_TITLE" = "Settings";
-"RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
-"RESET_SETTINGS_BUTTON" = "Reset";
-"HIDE_SETTINGS_LABEL" = "Hide Settings";
-"HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
-"TWEAK_LANGUAGE_LABEL" = "Language";
+"SETTINGS_SECTION_TITLE" = "Ajustes";
+"RESET_SETTINGS_LABEL" = "Reiniciar Ajustes";
+"RESET_SETTINGS_ALERT_MESSAGE" = "Esto eliminará todas tus preferencias de Watusi y las restablecerá a las predeterminadas.";
+"RESET_SETTINGS_BUTTON" = "Reiniciar";
+"HIDE_SETTINGS_LABEL" = "Ocultar Ajustes";
+"HIDE_SETTINGS_ALERT_TITLE" = "ADVERTENCIA!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Esto ocultará la fila de configuración de Watusi de la configuración de WhatsApp y la hará accesible a través de un botón transparente a la derecha de la barra de navegación de configuración de WhatsApp";
+"TWEAK_LANGUAGE_LABEL" = "Idioma";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
 "MORE_TWEAKS_TITLE" = "Más Trucos";
 
@@ -633,15 +633,15 @@
 "CANCEL" = "Cancelar";
 "OKAY" = "OK";
 "ENABLE" = "Enable";
-"MORE" = "More";
+"MORE" = "Más";
 "RELAUNCH" = "Relanzar";
 "LATER" = "Despues";
 "SEND" = "Enviar";
 "ADD" = "Agregar";
 "EDIT" = "Editar";
-"DUPLICATE" = "Duplicate";
-"EXPORT" = "Export";
-"PUBLISH" = "Publish";
+"DUPLICATE" = "Duplicar";
+"EXPORT" = "Exportar";
+"PUBLISH" = "publicar";
 "TO" = "a";
 "DISMISS" = "Descartar";
 "DUPLICATE" = "Duplicar";
