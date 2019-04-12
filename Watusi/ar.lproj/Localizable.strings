@@ -175,73 +175,73 @@
 
 "OTHER_ADDONS_LABEL" = "إضافات اخرى";
 
-"CALL_RECORDER_DESC" = "سجِّل جميع مكالماتك الواردة والصادرة على واتساب.\nيمكنك مراجعة مكالماتك المسجلة من علامة التبويب الاخيرة في قسم السجلات.";
+"CALL_RECORDER_DESC" = "سجِّل جميع مكالماتك الواردة والصادرة على واتساب.\nيمكنك مراجعة مكالماتك المسجلة من علامة التبويب الأخيرة في قسم السجلات.";
 "CALL_RECORDER_LABEL" = "تسجيل المكالمات";
-"CALL_RECRODER_RECORDINGS_BUTTON" = "جاري التسجيل";
-"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "سيؤدي هذا الاجراء الى حذف جميع سجلات المكالمات لـ %@";
+"CALL_RECRODER_RECORDINGS_BUTTON" = "جارِ التسجيل";
+"CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "سيؤدي هذا الإجراء إلى حذف جميع سجلات المكالمات لـ %@";
 "CALL_RECORDER_DELETE_%zd_RECORDINGS_MESSAGE" = "حذف %zd من التسجيلات";
 "CALL_RECORDER_DELETE_CURRENT_RECORDING" = "حذف التسجيل الحالي";
 
-"CONTACT_ABOUT_DATE_DESC" = "اعادة اضافة خيار عرض الحالة لجهات الاتصال الخاصة بك والتي ازالتها واتساب في التحديثات الاخيرة.";
+"CONTACT_ABOUT_DATE_DESC" = "إعادة إضافة خيار عرض الحالة لجهات الاتصال الخاصة بك والتي أزالتها واتساب في التحديثات الأخيرة.";
 "CONTACT_ABOUT_DATE_LABEL" = "تاريخ حالة جهات الاتصال";
 "CONTACT_ABOUT_DATE_FORMAT" = "صيغة التاريخ";
 
-"ARCHIVE_LOCK_DESC" = "اضغط مطولا على اي محادثة موجودة في الأرشيف لطلب قفلها، واي محادثة سيتم قفلها لن تعود لقائمة المحادثات بعد ذلك عند تلقي رسالة جديدة، ويمكنك ادارة دردشاتك المقفلة في الأرشيف عن طريق ايقونة القفل الموجودة في اعلى اليسار في نفس الصفحة.";
+"ARCHIVE_LOCK_DESC" = "اضغط مطولا على أي محادثة موجودة في الأرشيف لطلب قفلها، وأي محادثة سيتم قفلها لن تعود لقائمة المحادثات بعد ذلك عند تلقي رسالة جديدة، ويمكنك إدارة دردشاتك المقفلة في الأرشيف عن طريق أيقونة القفل الموجودة في أعلى اليسار في نفس الصفحة.";
 "ARCHIVE_LOCK_LABEL" = "قفل محادثات الأرشيف";
 "ARCHIVE_LOCKED_CHATS" = "الدردشات المقفلة";
 "ARCHIVE_LOCK_UNLOCK_TITLE" = "فتح قفل الدردشة";
 "ARCHIVE_LOCK_LOCK_TITLE" = "قفل المحادثة";
 "ARCHIVE_LOCK_UNLOCK_MESSAGE" = "عند استلام رسالة جديدة، ستنتقل الدردشة مرة أخرى إلى قائمة الدردشات.";
-"ARCHIVE_LOCK_LOCK_MESSGAE" = "عند تلقي رسالة جديدة من جهة الاتصال هذه، ستنتقل دردشتها الى قائمة المحادثات.";
+"ARCHIVE_LOCK_LOCK_MESSGAE" = "عند تلقي رسالة جديدة من جهة الاتصال هذه، ستنتقل دردشتها إلى قائمة المحادثات.";
 "ARCHIVE_LOCK_LOCK_BUTTON" = "قفل";
 "ARCHIVE_LOCK_UNLOCK_BUTTON" = "فتح القفل";
 "ARCHIVE_LOCK_TABLE_TITLE" = "مقفلة في الأرشيف";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "هذه الدردشة مغلقة في الأرشيف.\nهل تريد فتح قفل هذه الدردشة والغاء ارشفتها؟";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل والغاء الأرشفة";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "هذه الدردشة مغلقة في الأرشيف.\nهل تريد فتح قفل هذه الدردشة وإلغاء أرشفتها؟";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل وإلغاء الأرشفة";
 
-"UNLIMITED_PINNED_CHATS_LABEL" = "تثبيت اكثر من 3 دردشات";
+"UNLIMITED_PINNED_CHATS_LABEL" = "تثبيت أكثر من 3 دردشات";
 "UNLIMITED_PINNED_CHATS_DESC" = "ستتمكن من تثبيت عدد لا نهائي من الدردشات.";
 
-"GROUPS_LIST_DESC" = "اضافة زر شريط متنقل يمكنك من خلاله فتح قائمة تحتوي على جميع مجموعاتك.";
+"GROUPS_LIST_DESC" = "إضافة زر شريط متنقل يمكنك من خلاله فتح قائمة تحتوي على جميع مجموعاتك.";
 "GROUPS_LIST_LABEL" = "قائمة المجموعات";
 "GROUPS_LIST_DEFAULT_PAGE_LABEL" = "الصفحة الرئيسية";
 "GROUPS_LIST_GROUP_LABEL" = "المجموعات";
 "GROUPS_LIST_BROADCAST_LABEL" = "قوائم الرسائل الجماعية";
 
-"OPEN_PICTURE_ON_TAP_DESC" = "سيؤدي ذلك الى امكانية عرض الصورة الشخصية لجهات اتصالك عن طريق النقر على صورهم الشخصية المصغرة في قائمة الدردشة او المفضلة.";
+"OPEN_PICTURE_ON_TAP_DESC" = "سيؤدي ذلك إلى إمكانية عرض الصورة الشخصية لجهات اتصالك عن طريق النقر على صورهم الشخصية المصغرة في قائمة الدردشة أو المفضلة.";
 "OPEN_PICTURE_ON_TAP_LABEL" = "عرض الصورة عن طريق النقر";
 
 "NEW_CHAT_OPTIONS_DESC" = "سيُظهر النقر على زر الدردشة الجديدة نافذة تنبيه مع خيار لإدخال رقم هاتف للإرسال على واتساب بدون الحاجة لحفظ الرقم وتعيينه كجهة اتصال لديك.";
 "NEW_CHAT_OPTIONS_LABEL" = "خيارات الدردشة الجديدة";
 "NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "بدء دردشة جديدة";
 "NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "اختيار جهة اتصال";
-"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "ادخل الرقم";
-"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "ادخل رقم الهاتف عن طريق اضافة رمز الدولة متبوعا بالرقم بدون كتابة اي رموز اضافية.";
+"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "أدخل الرقم";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "أدخل رقم الهاتف عن طريق إضافة رمز الدولة متبوعًا بالرقم بدون كتابة أي رموز إضافية.";
 "NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "فتح الدردشة";
 
-"SWIPE_TO_DELETE_DESC" = "مرر اي دردشة في قائمة الدردشات الى اقصى اليمين لحذفها.";
+"SWIPE_TO_DELETE_DESC" = "اسحب أي دردشة في قائمة الدردشات إلى أقصى اليمين لحذفها.";
 "SWIPE_TO_DELETE_LABEL" = "التمرير لحذف الدردشة";
 "SWIPE_TO_DELETE_BUTTON" = "التمرير لحذف الدردشة";
 "SWIPE_TO_DELETE_MESSAGE" = "حذف الدردشة";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "استبدال تمرير الدرشة الى اليسار لجعلها غير مقروءة بالتمرير الى اليسار لعرض معلومات جهة الاتصال التي تم تمرير دردشتها.";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "استبدال تمرير الدرشة إلى اليسار لجعلها غير مقروءة بالتمرير إلى اليسار لعرض معلومات جهة الاتصال التي تم تمرير دردشتها.";
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "التمرير لعرض معلومات جهة الاتصال";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "حول";
 
-"CLEAR_CHATS_BUTTON_DESC" = "اضافة زر ازالة في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
-"CLEAR_CHATS_BUTTON_LABEL" = "زر ازالة الدردشات";
-"CLEAR_CHATS_CLEAR_BUTTON" = "ازالة";
-"CLEAR_SELECTED_CHATS_BUTTON" = "ازالة الدردشات المحددة";
-"CLEAR_ALL_CHATS_BUTTON" = "ازالة كل الدردشات";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "ازالة كل الدردشات بما في ذلك المؤرشفة.";
+"CLEAR_CHATS_BUTTON_DESC" = "إضافة زر إزالة في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
+"CLEAR_CHATS_BUTTON_LABEL" = "زر إزالة الدردشات";
+"CLEAR_CHATS_CLEAR_BUTTON" = "إزالة";
+"CLEAR_SELECTED_CHATS_BUTTON" = "إزالة الدردشات المحددة";
+"CLEAR_ALL_CHATS_BUTTON" = "إزالة كل الدردشات";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "إزالة كل الدردشات بما في ذلك المؤرشفة.";
 
-"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "اضافة زر جديد عند انشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/الغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا ايضا الى امكانية تجاوز حد 256 جهة اتصال.\nملاحظة: قد لا يكون من الممكن ان تضيف اكثر من 256 جهة اتصال ولكن لم لا تجرب ذلك (*_^)";
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد 256 جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من 256 جهة اتصال ولكن لم لا تجرب ذلك (*_^)";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "الكل";
-"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "لا احد";
+"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "لا أحد";
 
-"INCREASE_ABOUT_LENGHT_DESC" = "زيادة عدد احرف الحالة من 139 حرف الى 256 حرف.";
-"INCREASE_ABOUT_LENGHT_LABEL" = "زيادة احرف الحالة";
+"INCREASE_ABOUT_LENGHT_DESC" = "زيادة عدد أحرف الحالة من 139 حرف إلى 256 حرف.";
+"INCREASE_ABOUT_LENGHT_LABEL" = "زيادة أحرف الحالة";
 
 
 /* Protection */
@@ -252,12 +252,12 @@
 "DELETE_APP_PASSCODE" = "حذف كلمة مرور التطبيق";
 "SET_APP_PASSCODE" = "تعيين كلمة مرور للتطبيق";
 "USE_TOUCH_ID" = "استخدام بصمة الوجه";
-"USE_FACE_ID" = "استخدام بصمة الاصبع";
+"USE_FACE_ID" = "استخدام بصمة الإصبع";
 
 "CHAT_PROTECTION_LABEL" = "حماية الدردشة";
 "CHAT_PROTECTION_LOCKED_CHATS" = "الدردشات المقفلة";
 "CHAT_PROTECTION_LOCK_ALL_CHATS" = "قفل جميع الدردشات";
-"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الاصبع";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الإصبع";
 "CHAT_PROTECTION_USE_FACE_ID" = "استخدام بصمة الوجه";
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "فتح القفل";
 "CHAT_PROTECTION_LOCK_BUTTON" = "قفل";
@@ -271,27 +271,27 @@
 "BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";
 "BYPASS_APP_PROTECTION_LABEL" = "تخطي حماية التطبيق";
 "BYPASS_CHAT_PROTECTION_LABEL" = "تخطي حماية الدردشة";
-"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "اسماء شبكات الـ WiFi";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "أسماء شبكات الـ WiFi";
 
 
 /* Media */
 
 "MEDIA_LABEL" = "الوسائط";
 
-"SHARE_SHEET_DESC" = "اضافة المزيد من الخيارات الى قائمة ازرار المشاركة مثل ارسال آخر صورة في البوم الكاميرا، مشاركة الموسيقى، حظر/الغاء حظر جهة الاتصال، وغيرها...";
-"SHARE_SHEET_LABEL" = "ازرار المشاركة";
-"SHARE_SHEET_ACTIVE_BUTTONS" = "تفعيل الازرار";
+"SHARE_SHEET_DESC" = "إضافة المزيد من الخيارات إلى قائمة أزرار المشاركة مثل إرسال آخر صورة في ألبوم الكاميرا، مشاركة الموسيقى، حظر/إلغاء حظر جهة الاتصال، وغيرها...";
+"SHARE_SHEET_LABEL" = "أزرار المشاركة";
+"SHARE_SHEET_ACTIVE_BUTTONS" = "تفعيل الأزرار";
 "SHARE_SHEET_STYLE" = "الشكل";
 "SHARE_SHEET_STYLE_DEFAULT" = "افتراضي";
 "SHARE_SHEET_STYLE_IMAGE_PICKER" = "قائمة الصور";
-"SHARE_SHEET_STYLE_DARK" = "اسود";
-"SHARE_SHEET_STYLE_WHITE" = "ابيض";
+"SHARE_SHEET_STYLE_DARK" = "أسود";
+"SHARE_SHEET_STYLE_WHITE" = "أبيض";
 
-"SHARE_SHEET_BUTTONS_LABEL" = "ازرار المشاركة";
-"SHARE_SHEET_ENABLED_LABEL" = "الازرار المفعلة";
-"SHARE_SHEET_DISABLED_LABEL" = "الازرار المعطلة";
+"SHARE_SHEET_BUTTONS_LABEL" = "أزرار المشاركة";
+"SHARE_SHEET_ENABLED_LABEL" = "الأزرار المفعلة";
+"SHARE_SHEET_DISABLED_LABEL" = "الأزرار المعطلة";
 
-"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "أخذ صورة او فيديو";
+"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "أخذ صورة أو فيديو";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "مكتبة الصور/الفيديوهات";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "مكتبة الصور";
 "SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "مكتبة الفيديوهات";
@@ -301,33 +301,33 @@
 "SHARE_SHEET_SHARE_LOCATION_BUTTON" = "مشاركة الموقع";
 "SHARE_SHEET_SHARE_CONTACT_BUTTON" = "مشاركة جهة اتصال";
 "SHARE_SHEET_SHARE_MUSIC_BUTTON" = "مشاركة الموسيقى";
-"SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "حظر/الغاء حظر جهة الاتصال";
+"SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "حظر/إلغاء حظر جهة الاتصال";
 "SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "حظر جهة الاتصال";
-"SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "الغاء حظر جهة الاتصال";
+"SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "إلغاء حظر جهة الاتصال";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
-"SHARE_SHEET_PAYMENT_BUTTON" = "ارسال الدفع";
+"SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
 
 "BLOCK" = "حظر";
-"UNBLOCK" = "الغاء الحظر";
+"UNBLOCK" = "إلغاء الحظر";
 "BLOCK_CONTACT" = "حظر جهة الاتصال";
-"UNBLOCK_CONTACT" = "الغاء حظر جهة الاتصال";
+"UNBLOCK_CONTACT" = "إلغاء حظر جهة الاتصال";
 "BLOCK_CONTACT_MESSAGE" = "اضغط على \"حظر\" للتوقف عن تلقي الرسائل من جهة الاتصال هذه";
-"UNBLOCK_CONTACT_MESSAGE" = "انقر على \"الغاء الحظر\" لبدء تلقي الرسائل من جهة الاتصال هذه";
+"UNBLOCK_CONTACT_MESSAGE" = "انقر على \"إلغاء الحظر\" لبدء تلقي الرسائل من جهة الاتصال هذه";
 
-"SHARE_DEVICE_FILES_DESC" = "اضافة زر جديد لمشاركة المستندات والذي يتيح لك مشاركة اي ملف من جهازك.";
+"SHARE_DEVICE_FILES_DESC" = "إضافة زر جديد لمشاركة المستندات والذي يتيح لك مشاركة أي ملف من جهازك.";
 "SHARE_DEVICE_FILES_LABEL" = "مشاركة ملفات الجهاز";
 "SHARE_DEVICE_FILES_BUTTON" = "ملفات الجهاز";
 
-"SELECT_UNLIMITED_PHOTOS_DESC" = "تحديد عدد لا نهائي من الصور لارسالها دفعة واحدة.";
+"SELECT_UNLIMITED_PHOTOS_DESC" = "تحديد عدد لا نهائي من الصور لإرسالها دفعة واحدة.";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "عدد لانهائي من الصور";
 
-"MEDIA_DELETE_BUTTON_DESC" = "اضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
+"MEDIA_DELETE_BUTTON_DESC" = "إضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
 "MEDIA_DELETE_BUTTON_LABEL" = "زر حذف الوسائط";
 "MEDIA_DELETE_ALERT_MESSAGE" = "حذف جميع الوسائط";
 
-"MEDIA_FORWARD_BUTTON_DESC" = "اضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط الى اكثر من جهة اتصال في آن واحد.";
+"MEDIA_FORWARD_BUTTON_DESC" = "إضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط إلى أكثر من جهة اتصال في آنٍ واحد.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "زر تحويل الوسائط";
-"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "تحويل الوسائط الى %zd جهة اتصال";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "تحويل الوسائط إلى %zd جهة اتصال";
 
 "MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "تعطيل حفظ الوسائط المرسلة بواسطة كاميرا واتساب في تطبيق الصور لديك.";
 "MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "تعطيل حفظ صور كاميرا واتساب";
