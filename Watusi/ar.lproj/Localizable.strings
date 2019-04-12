@@ -470,7 +470,7 @@
 "REVOKED_INDICATOR_COLOR_LABEL" = "لون مؤشر الحذف";
 "REVOKED_INDICATOR_COLOR_DESC" = "أيقونة Watusi التي تكون بجانب الرسائل المحذوفة.";
 
-"THEME_TABLES_SECTION_TITLE" = "Tables";
+"THEME_TABLES_SECTION_TITLE" = "الجداول";
 "TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
 "TABLES_SEPARATORS_LABEL" = "Separators";
 "SEPARATOR_COLOR_LABEL" = "Separator Color";
