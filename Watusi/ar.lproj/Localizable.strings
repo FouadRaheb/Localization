@@ -640,8 +640,8 @@
 "ADD" = "إضافة";
 "EDIT" = "تعديل";
 "DUPLICATE" = "Duplicate";
-"EXPORT" = "Export";
-"PUBLISH" = "Publish";
+"EXPORT" = "تصدير";
+"PUBLISH" = "نشر";
 "TO" = "إلى";
 "DISMISS" = "تجاهل";
 "DUPLICATE" = "تكرار";
@@ -651,6 +651,6 @@
 
 /* Messages */
 
-"RELAUNCH_MESSAGE" = "يحتاج واتساب الى اعادة تشغيله لتطبيق التغييرات";
-"RELAUNCH_FEATURE_MESSAGE" = "تحتاج الى اعادة تشغيل واتساب لتفعيل/تعطيل هذه الميزة";
-"OLD_VERSION_ALERT" = "اداة Watusi تدعم فقط آخر اصدار من واتساب، يرجى تحديث واتساب من الـ App Store";
+"RELAUNCH_MESSAGE" = "يتطلب إعادة تشغيل واتساب لتطبيق التغييرات";
+"RELAUNCH_FEATURE_MESSAGE" = "تحتاج إلى إعادة تشغيل واتساب لتفعيل/تعطيل هذه الميزة";
+"OLD_VERSION_ALERT" = "أداة Watusi تدعم فقط آخر إصدار من واتساب، يرجى تحديث واتساب من الـ App Store";
