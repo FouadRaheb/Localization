@@ -480,30 +480,30 @@
 /* Contacts Blacklist */
 
 "CONTACTS_BLACKLIST_LABEL" = "القائمة السوداء";
-"CONTACTS_BLACKLIST_DESC" = "ستخفي القائمة السوداء دردشة جهة الاتصال المُدرجة من قائمة المحادثات، وستعرض محتدثة فارغة اذا تم فتح الدردشة من مكان آخر، يمكنك عرض محتويات دردشات جهات اتصالك المدرجة في القائمة السوداء عن طريق هذه الصفحة فقط، ولن تتلقى اي اشعارات جديدة من جهات اتصالك المدرجة في القائمة السوداء.";
+"CONTACTS_BLACKLIST_DESC" = "ستخفي القائمة السوداء دردشة جهة الاتصال المُدرجة من قائمة المحادثات، وستعرض محادثة فارغة إذا تم فتح الدردشة من مكان آخر، يمكنك عرض محتويات دردشات جهات اتصالك المدرجة في القائمة السوداء عن طريق هذه الصفحة فقط، ولن تتلقى أي اشعارات جديدة من جهات اتصالك المدرجة في القائمة السوداء.";
 "BLACKLISTED_CONTACTS" = "جهات الاتصال المدرجة على القائمة السوداء";
 "BLACKLISTED_CHATS_MESSAGES" = "دردشات جهات الاتصال المدرجة على القائمة السوداء";
-"PROTECT_BLACKLIST_SETTINGS" = "اعدادات حماية القائمة السوداء";
+"PROTECT_BLACKLIST_SETTINGS" = "إعدادات حماية القائمة السوداء";
 "ENABLE_BLACKLIST_LABEL" = "تفعيل";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "لا يمكنك ارسال الرسائل في دردشة مدرجة في القائمة السوداء";
+"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "لا يمكنك إرسال الرسائل في دردشة مدرجة على القائمة السوداء";
 
 
 /* Auto Reply */
 
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
 "AUTO_REPLY_ENABLE_LABEL" = "تفعيل";
-"AUTO_REPLY_DESC" = "عند التفعيل، سيقوم Watusi بالرد تلقائيا بالرسالة التي اخترتها على جميع جهات الاتصال التي تتلقى منها رسائل.";
+"AUTO_REPLY_DESC" = "عند التفعيل، سيقوم Watusi بالرد تلقائيًا بالرسالة التي اخترتها على جميع جهات الاتصال التي تتلقى منها رسائل.";
 
-"AUTO_REPLY_CONFIGURATION_LABEL" = "الاعداد";
+"AUTO_REPLY_CONFIGURATION_LABEL" = "الإعداد";
 
 "AUTO_REPLY_MESSAGE_LABEL" = "رسالة الرد";
 "AUTO_REPLY_SELECT_MESSAGE" = "اختيار رسالة";
 "AUTO_REPLY_MESSAGES_TITLE" = "الرسائل";
-"AUTO_REPLY_NO_MESSAGES_FOOTER" = "لا توجد لديك اي رسائل للرد التلقائي، اضغط على علامة + في الاعلى لانشاء رسالة جديدة.";
-"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "اسحب الى اليمين او اضغط مطولا للتعديل على الرسالة";
+"AUTO_REPLY_NO_MESSAGES_FOOTER" = "لا توجد لديك أي رسائل للرد التلقائي، اضغط على زر + في الأعلى لإنشاء رسالة جديدة.";
+"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "اسحب إلى اليمين أو اضغط مطولًا للتعديل على الرسالة";
 "AUTO_REPLY_MESSAGES_EDIT_MESSAGE" = "تعديل الرسالة";
 "AUTO_REPLY_MESSAGES_NEW_MESSAGE" = "رسالة جديدة";
-"AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "لا يمكن ان تكون الرسالة فارغة";
+"AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "لا يمكن أن تكون الرسالة فارغة";
 "AUTO_REPLY_LAST_MODIFIED" = "آخر تعديل";
 
 "AUTO_REPLY_DELAY_LABEL" = "مدة التأخير بين الردود";
@@ -516,11 +516,11 @@
 "AUTO_REPLY_ON_LABEL" = "تحديد المدى الزمني";
 "AUTO_REPLY_TIME_RANGE_LABEL" = "المدى الزمني";
 "AUTO_REPLY_ENABLE_TIME_RANGE_LABEL" = "تفعيل المدى الزمني المحدد";
-"AUTO_REPLY_TIME_RANGE_DESC" = "سيتم ارسال الردود التلقائية خلال المدى الزمني المحدد فقط.";
+"AUTO_REPLY_TIME_RANGE_DESC" = "سيتم إرسال الردود التلقائية خلال المدى الزمني المحدد فقط.";
 "AUTO_REPLY_TIME_RANGE_START_TIME" = "وقت البداية";
 "AUTO_REPLY_TIME_RANGE_END_TIME" = "وقت النهاية";
-"AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "ايام الاسبوع";
-"AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "كل ايام الاسبوع";
+"AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "أيام الأسبوع";
+"AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "كل أيام الأسبوع";
 
 "AUTO_REPLY_TO_LABEL" = "رد على";
 "AUTO_REPLY_TO_GROUPS_LABEL" = "رد على المجموعات";
@@ -528,7 +528,7 @@
 "AUTO_REPLY_FILTERED_CONTACTS" = "جهات الاتصال المميزة";
 "AUTO_REPLY_FILTER_WHITELIST" = "القائمة البيضاء";
 "AUTO_REPLY_FILTER_BLACKLIST" = "القائمة السوداء";
-"AUTO_REPLY_FILTER_DESC" = "اختر القائمة السوداء اذا كنت ترغب في استثناء بعض جهات الاتصال من الرد التلقائي، او اختر القائمة البيضاء اذا كنت ترغب في تفعيل الرد التلقائي لجهات اتصال معينة فقط.";
+"AUTO_REPLY_FILTER_DESC" = "اختر القائمة السوداء إذا كنت ترغب في استثناء بعض جهات الاتصال من الرد التلقائي، أو اختر القائمة البيضاء إذا كنت ترغب في تفعيل الرد التلقائي لجهات اتصال معينة فقط.";
 
 
 /* Scheduled Messages */
@@ -536,22 +536,22 @@
 "MESSAGE_SCHEDULER_LABEL" = "جدولة الرسائل";
 "MESSAGE_SCHEDULER_ENABLE_LABEL" = "تفعيل";
 
-"MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض واضافة رسائل مجدولة.";
+"MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض وإضافة رسائل مجدولة.";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "الرسائل المجدولة";
-"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "الخط الأحمر يعني انه قد تمت المعالجة، ولن يتم العمل به بعد الآن.";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "الخط الأحمر يعني أنه قد تمت المعالجة، ولن يتم العمل به بعد الآن.";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "التاريخ والوقت";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "المستلمون";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "الرسالة";
 "MESSAGE_SCHEDULER_CREATE_IMAGE" = "الصورة";
 
-"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض اشعار عندما يتم ارسال الرسالة الى المستلمين المحددين في الجدولة.";
-"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "عرض اشعار";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "جاري ارسال الرسالة المجدولة";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض إشعار عندما يتم إرسال الرسالة إلى المستلمين المحددين في الجدولة.";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "عرض إشعار";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "جارِ إرسال الرسالة المجدولة";
 
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "قم بتفعيل ايماءة الضغطة المطولة على زر ارسال الرسالة لجدولة رسالة مباشرة من الدردشات.";
-"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة مطولة على زر الارسال";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "قم بتفعيل إيماءة الضغطة المطولة على زر إرسال الرسالة لجدولة رسالة مباشرة من الدردشات.";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة مطولة على زر الإرسال";
 
-"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "ارسال الرسالة الآن";
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "إرسال الرسالة الآن";
 "MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "جدولة الرسالة";
 "MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "عرض الرسائل المجدولة";
 
@@ -561,12 +561,12 @@
 
 /* Stickers */
 
-"STICKERS_MANAGER_LABEL" = "Stickers Manager";
-"STICKERS_LABEL" = "Stickers";
+"STICKERS_MANAGER_LABEL" = "إدارة الملصقات";
+"STICKERS_LABEL" = "الملصقات";
 
-"STICKER_PACKS_PAGE_TITLE" = "Sticker Packs";
-"STICKER_PACKS_DEFAULT_TAB" = "Default";
-"STICKER_PACKS_CUSTOM_TAB" = "Custom";
+"STICKER_PACKS_PAGE_TITLE" = "حزم الملصق";
+"STICKER_PACKS_DEFAULT_TAB" = "افتراضي";
+"STICKER_PACKS_CUSTOM_TAB" = "مخصص";
 "LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
 
 "ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
