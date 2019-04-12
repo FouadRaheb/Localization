@@ -564,10 +564,10 @@
 "STICKERS_MANAGER_LABEL" = "إدارة الملصقات";
 "STICKERS_LABEL" = "الملصقات";
 
-"STICKER_PACKS_PAGE_TITLE" = "حزم الملصق";
+"STICKER_PACKS_PAGE_TITLE" = "حزم الملصقات";
 "STICKER_PACKS_DEFAULT_TAB" = "افتراضي";
 "STICKER_PACKS_CUSTOM_TAB" = "مخصص";
-"LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
+"LOADING_STICKER_PACKS_LABEL" = "جارِ تحميل حزم الملصقات...";
 
 "ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
