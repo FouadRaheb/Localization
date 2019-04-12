@@ -458,17 +458,17 @@
 "SENT_BUBBLE_OPACITY_LABEL" = "شفافية الفقاعة المرسلة";
 "DATE_BUBBLE_BACKGROUND_LABEL" = "خلفية فقاعة التاريخ";
 
-"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Message Status Items";
-"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Message Status Checkmarks";
-"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Message Timestamp";
-"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Message Status Footer";
-"SENT_COLOR_LABEL" = "Sent Color";
-"DELIVERED_COLOR_LABEL" = "Delivered Color";
-"READ_COLOR_LABEL" = "Read Color";
-"RECEIVED_COLOR_LABEL" = "Received Color";
-"STARRED_INDICATOR_COLOR_LABEL" = "Starred Indicator Color";
-"REVOKED_INDICATOR_COLOR_LABEL" = "Revoked Indicator Color";
-"REVOKED_INDICATOR_COLOR_DESC" = "Watusi's icon next to revoked messages";
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "عناصر حالة الرسالة";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "علامات تحقق حالة الرسالة";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "وقت الرسالة";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "ذيل حالة الرسالة";
+"SENT_COLOR_LABEL" = "لون المرسل";
+"DELIVERED_COLOR_LABEL" = "لون المستلم";
+"READ_COLOR_LABEL" = "لون المقروء";
+"RECEIVED_COLOR_LABEL" = "لون المستلم";
+"STARRED_INDICATOR_COLOR_LABEL" = "لون إشارة المميز بنجمة";
+"REVOKED_INDICATOR_COLOR_LABEL" = "لون مؤشر الحذف";
+"REVOKED_INDICATOR_COLOR_DESC" = "أيقونة Watusi التي تكون بجانب الرسائل المحذوفة.";
 
 "THEME_TABLES_SECTION_TITLE" = "Tables";
 "TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
