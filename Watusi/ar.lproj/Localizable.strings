@@ -1,6 +1,6 @@
 /* Preferences */
 
-"WATUSI_PREFERENCES_LABEL" = "اعدادات Watusi";
+"WATUSI_PREFERENCES_LABEL" = "إعدادات Watusi";
 "DEBUG_MENU" = "قائمة التصحيح";
 
 
@@ -9,50 +9,50 @@
 "PRIVACY_LABEL" = "الخصوصية";
 
 "FREEZE_LASTSEEN_LABEL" = "تجميد آخر ظهور";
-"FREEZE_LASTSEEN_DESC" = "لن يعرف جهات اتصالك انك 'متصل الآن' ولن يعلموا آخر مرة قمت فيها بفتح واتساب ايضا";
+"FREEZE_LASTSEEN_DESC" = "لن تعلم جهات اتصالك أنك 'متصل الآن' ولن يعلموا آخر مرة قمت فيها بفتح واتساب أيضًا";
 
-"DISABLE_READ_RECEIPTS_LABEL" = "اخفاء علامة قراءة الرسائل (علامتيْ 'الصح' الزرقاء)";
-"READ_RECEIPTS_DESC" = "بعد تعطيل علامة قراءة الرسائل، سترى انت علامة قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا علامة قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل علامة قراءة الرسائل لجهات اتصال محددة عن طريق خيارات اظهار/عدم اظهار او من خلال معلومات جهة الاتصال نفسها.";
-"NEVER_SEND_RECEIPTS_TO" = "عدم اظهار علامة قراءة الرسائل لـ";
-"FORCE_SEND_RECEIPTS_TO" = "اظهار علامة قراءة الرسائل لـ";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "اظهار 'جاري تسجيل مقطع صوتي...'";
-"FORCE_RECEIPTS_ON" = "اظهار العلامات على...";
+"DISABLE_READ_RECEIPTS_LABEL" = "إخفاء مؤشر قراءة الرسائل";
+"READ_RECEIPTS_DESC" = "بعد تعطيل مؤشر قراءة الرسائل، سترى أنت مؤشر قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا مؤشر قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل مؤشر قراءة الرسائل لجهات اتصال محددة عن طريق خيارات إظهار/عدم إظهار أو من خلال معلومات جهة الاتصال نفسها.";
+"NEVER_SEND_RECEIPTS_TO" = "عدم إظهار مؤشر قراءة الرسائل لـ";
+"FORCE_SEND_RECEIPTS_TO" = "إظهار مؤشر قراءة الرسائل لـ";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "إظهار مؤشر تسجيل المقطع الصوتي'";
+"FORCE_RECEIPTS_ON" = "إظهار المؤشرار على...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
 "FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
-"FORCE_RECEIPTS_ON_NEVER" = "أبدا";
+"FORCE_RECEIPTS_ON_NEVER" = "أبدًا";
 
-"DISABLE_TYPING_LABEL" = "تعطيل جاري الكتابة...";
-"DISABLE_TYPING_DESC" = "لن ترى جهات اتصالك انك تقوم بكتابة شيء او انك تقوم بتسجيل شيء";
-"NEVER_SEND_TYPING_TO" = "عدم اظهار جاري الكتابة لـ";
-"FORCE_SEND_TYPING_TO" = "اظهار علامة \"جاري الكتابة...\" لـ";
+"DISABLE_TYPING_LABEL" = "تعطيل مؤشر الكتابة";
+"DISABLE_TYPING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بكتابة شيء.";
+"NEVER_SEND_TYPING_TO" = "عدم إظهار مؤشر الكتابة لـ";
+"FORCE_SEND_TYPING_TO" = "إظهار مؤشر الكتابة لـ";
 
-"DISABLE_RECORDING_LABEL" = "Disable Recording Indicator";
-"DISABLE_RECORDING_DESC" = "Your contacts will not see you as recording";
-"NEVER_SEND_RECORDING_TO" = "Never Send Recording to...";
-"FORCE_SEND_RECORDING_TO" = "Force Send Recording to...";
+"DISABLE_RECORDING_LABEL" = "تعطيل مؤشر التسجيل";
+"DISABLE_RECORDING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بتسجيل مقطع صوتي.";
+"NEVER_SEND_RECORDING_TO" = "عدم إظهار مؤشر التسجيل لـ";
+"FORCE_SEND_RECORDING_TO" = "إظهار مؤشر التسجيل لـ";
 
 "WHITELIST" = "القائمة البيضاء";
 "BLACKLIST" = "القائمة السوداء";
-"SEND_READ_RECEIPTS_BUTTON" = "إظهار علامة قراءة الرسالة";
-"SEND_TYPING_INDICATOR_BUTTON" = "اظهار جاري الكتابة...";
-"SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"SEND_READ_RECEIPTS_BUTTON" = "إظهار مؤشر قراءة الرسالة";
+"SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
+"SEND_RECORDING_INDICATOR_BUTTON" = "إظهار مؤشر التسجيل";
 
-"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = ".اظهار ادوات التحكم لـ علامة قراءة الرسائل و 'جاري الكتابة...' في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال";
-"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "اظهار ادوات التحكم في صفحة معلومات جهة الاتصال";
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = ".إظهار أدوات التحكم لمؤشرات قراءة الرسائل والكتابة في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "إظهار أدوات التحكم في صفحة معلومات جهة الاتصال";
 
-"DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن تعلم انك تلقيت رسائلهم، حيث انه لن يظهر سوى علامة 'صح' واحدة فقط لديهم.";
-"DISABLE_DELIVERY_RECEIPTS_LABEL" = "اخفاء علامة وصول الرسائل (علامتيْ 'الصح' الرمادية)";
-"DISABLE_DELIVERY_RECEIPTS_WARNING" = "تنبيه! سيؤدي تفعيل هذه الميزة الى وصول الرسائل بشكل متأخر، والسبب ان سيرفرات واتساب ستتوقف عن ارسال رسائل جديدة اليك نظرا لكثرة الرسائل المعلقة لديهم والتي يُنْتظر ان يتم وضع علامة عليها بأنها قد وصلت اليك، ولا يمكن اصلاح هذه المشكلة لانها تعتمد على سيرفرات واتساب.";
+"DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن تعلم أنك تلقيت رسائلهم، حيث أنه لن يظهر سوى علامة 'صح' واحدة فقط لديهم.";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "إخفاء مؤشر وصول الرسائل";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "تنبيه! سيؤدي تفعيل هذه الميزة إلى وصول الرسائل بشكل متأخر، والسبب أن خوادم واتساب ستتوقف عن إرسال رسائل جديدة إليك نظرًا لكثرة الرسائل المعلقة لديهم والتي يُنْتظر أن يتم وضع علامة عليها بأنها قد وصلت إليك، ولا يمكن إصلاح هذه المشكلة لأنها تعتمد على خوادم واتساب.";
 
-"LASTSEEN_AUTO_SWITCH_DESC" = "ضبط تلقائي لخصوصية آخر ظهور بحيث لا يراها احد عندما يكون واتساب في الخلفية، ويراها جهات اتصالك فقط عندما يصبح واتساب قيد الاستخدام.";
+"LASTSEEN_AUTO_SWITCH_DESC" = "ضبط تلقائي لخصوصية آخر ظهور بحيث لا يراها أحد عندما يكون واتساب في الخلفية، ويراها جهات اتصالك فقط عندما يصبح واتساب قيد الاستخدام.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "ضبط تلقائي لخصوصية آخر ظهور";
 
-"MY_CONTACTS_PRIVACY_DESC" = "اختر جهات الاتصال التي ترغب في استبعادها من قائمة جهات الاتصال المرسلة الى سيرفرات واتساب.\n\nملاحظات:\n١- لن تتمكن من تعديل/حذف جهات اتصالك المدرجة في القائمة السوداء بعد تفعيل هذه الميزة.\n٢- لن تتغير الصور الشخصية المصغرة لجهات اتصالك المحظورة الا بعد النقر عليها.\n٣- لن تتلقى وسائط الحالة من جهات اتصالك المدرجة في القائمة السوداء.\n٤- اذا كانت لديك اداة Stalky، فلن تتلقى تغييرات جهات اتصالك المدرجة في القائمة السوداء (التغييرات الخاصة بأداة Stalky).";
+"MY_CONTACTS_PRIVACY_DESC" = "اختر جهات الاتصال التي ترغب في استبعادها من قائمة جهات الاتصال المرسلة إلى خوادم واتساب.\n\nملاحظات:\n١- لن تتمكن من تعديل/حذف جهات اتصالك المدرجة في القائمة السوداء بعد تفعيل هذه الميزة.\n٢- لن تتغير الصور الشخصية المصغرة لجهات اتصالك المحظورة إلا بعد النقر عليها.\n٣- لن تتلقى وسائط الحالة من جهات اتصالك المدرجة في القائمة السوداء.\n٤- إذا كانت لديك أداة Stalky، فلن تتلقى تغييرات جهات اتصالك المدرجة في القائمة السوداء (التغييرات الخاصة بأداة Stalky).";
 "MY_CONTACTS_PRIVACY_LABEL" = "خصوصية جهات اتصالي";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "جهات الاتصال المدرجة في القائمة السوداء";
 
-"HIDE_CALL_MUTE_DESC" = "لن تعلم جهات اتصالك انك قمت بكتم الميكروفون اثناء المكالمة.";
-"HIDE_CALL_MUTE_LABEL" = "اخفاء كتم المكالمة";
+"HIDE_CALL_MUTE_DESC" = "لن تعلم جهات اتصالك أنك قمت بكتم الميكروفون أثناء المكالمة.";
+"HIDE_CALL_MUTE_LABEL" = "إخفاء كتم المكالمة";
 
 "DISABLE_VOIP_DESC" = "تعطيل واجهة الاتصال الصوتي وحجب جميع المكالمات الصوتية الواردة.";
 "DISABLE_VOIP_LABEL" = "تعطيل الاتصال الصوتي";
@@ -60,73 +60,73 @@
 
 /* Status Addons */
 
-"STATUS_ADDONS_LABEL" = "اضافات الحالة";
+"STATUS_ADDONS_LABEL" = "إضافات الحالة";
 
-"STATUS_DOWNLOAD_BUTTON_LABEL" = "اظهار زر التحميل";
-"STATUS_DOWNLOAD_BUTTON_DESC" = "اضافة زر في الجزء السفلي الايمن في الحالة لتنزيلها.";
+"STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
+"STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
 
-"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور الى المكتبة";
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور إلى المكتبة";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "مشاركة الصورة";
-"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الصورة الى المكتبة";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الصورة إلى المكتبة";
 
-"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "حفظ الفيديو الى المكتبة";
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "حفظ الفيديو إلى المكتبة";
 "STATUS_DOWNLOAD_VIDEO_SHARE" = "مشاركة الفيديو";
-"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الفيديو الى المكتبة";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الفيديو إلى المكتبة";
 
 "STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "حفظ كـ فيديو";
 "STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "حفظ كـ GIF";
 "STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "مشاركة كـ فيديو";
 "STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "مشاركة كـ GIF";
-"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الـ GIF الى المكتبة";
+"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الـ GIF إلى المكتبة";
 
-"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "حفظ الصورة الى المكتبة";
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "حفظ الصورة إلى المكتبة";
 "STATUS_TEXT_SHARE_IMAGE" = "مشاركة الصورة";
 "STATUS_TEXT_SHARE_TEXT" = "مشاركة النص";
 "STATUS_TEXT_COPY_TEXT" = "نسخ النص";
-"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "تم نسخ النص الى الحافظة";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "تم نسخ النص إلى الحافظة";
 
-"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل اظهار رؤية الحالة";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها الى اسفل";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل اظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على رمز العين الذي سيصبح موجودا اسفل كل حالة بجوار زر التحميل";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل إظهار رؤية الحالة";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها إلى أسفل";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل إظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على أيقونة الصح التي ستصبح موجودة في الجهة السفلية اليسرى لكل حالة.";
 
-"STATUS_CONTACT_GROUPS_DESC" = "اضافة خيار لإنشاء مجموعات و تحديد/الغاء تحديد جهات اتصالك بسهولة.";
-"STATUS_CONTACT_GROUPS_LABEL" = "اظهار مجموعات جهات الاتصال";
+"STATUS_CONTACT_GROUPS_DESC" = "إضافة خيار لإنشاء مجموعات و تحديد/إلغاء تحديد جهات اتصالك بسهولة.";
+"STATUS_CONTACT_GROUPS_LABEL" = "إظهار مجموعات جهات الاتصال";
 "STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "لا يوجد لديك مجموعات حتى الآن، استخدم زر + لإنشاء واحدة";
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "مجموعة جديدة";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "ادخل اسم المجموعة";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
-"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "ادارة";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "اخفاء شارة النقطة الزرقاء التي تظهر على ايقونة زر الحالة في البار السفلي للتطبيق عندما تكون هناك حالات جديدة.";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "اخفاء شارات شريط الحالة";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "إخفاء شارة النقطة الزرقاء التي تظهر على أيقونة زر الحالة في الشريط السفلي للتطبيق عندما تكون هناك حالات جديدة.";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "إخفاء شارات شريط الحالة";
 
 /* Chats Addons */
 
-"CHATS_ADDONS_LABEL" = "اضافات الدردشات";
+"CHATS_ADDONS_LABEL" = "إضافات الدردشات";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد الـ7 دقائق الذي تضعه واتساب كحد اقصى لحذف رسائلك.";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد الـ7 دقائق الذي تضعه واتساب كحد أقصى لحذف رسائلك.";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر ايقونة ايضا بجانب الرسالة المحذوفة لتبين ان جهة اتصالك قد قامت بحذف الرسالة.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
 
-"ABOUT_ON_CHATS_DESC" = "اظهار الحالة الخاصة بجهة الاتصال اسفل اسمه في شريط صغير داخل المحادثة.";
+"ABOUT_ON_CHATS_DESC" = "إظهار الحالة الخاصة بجهة الاتصال أسفل اسمه في شريط صغير داخل المحادثة.";
 "ABOUT_ON_CHATS_LABEL" = "الحالة في المحادثة";
 
-"TAP_TO_RECORD_DESC" = "انقر مرة واحدة لبدء تسجيل صوتي وانقر مرة اخرى لارسال هذا التسجيل او انقر مع السحب الى اليسار لحذف هذا التسجيل.";
+"TAP_TO_RECORD_DESC" = "انقر مرة واحدة لبدء تسجيل مقطع صوتي وانقر مرة أخرى لإرسال هذا التسجيل أو انقر مع السحب إلى اليسار لحذف هذا التسجيل.";
 "TAP_TO_RECORD_LABEL" = "انقر للتسجيل";
-"TAP_TO_RECORD_SLIDE_LABEL" = "انقر واسحب الى اليسار للالغاء";
+"TAP_TO_RECORD_SLIDE_LABEL" = "انقر واسحب إلى اليسار للإلغاء";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "تعطيل التشغيل التلقائي للصوتيات";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "ايقاف واتساب من تشغيل الرسالة الصوتية التالية تلقائيا.";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "إيقاف واتساب من تشغيل الرسالة الصوتية التالية تلقائيًا.";
 
-"DISABLE_FORWARD_INDICATOR_LABEL" = "اخفاء علامة 'رسالة محولة'";
-"DISABLE_FORWARD_INDICATOR_DESC" = "اخفاء علامة 'رسالة محولة' عند تحويل اي رسائل الى جهات الاتصال الخاصة بك.";
+"DISABLE_FORWARD_INDICATOR_LABEL" = "إخفاء علامة 'رسالة محولة'";
+"DISABLE_FORWARD_INDICATOR_DESC" = "إخفاء علامة 'رسالة محولة' عند تحويل أي رسائل إلى جهات الاتصال الخاصة بك.";
 
 "UNLIMITED_FORWARD_LABEL" = "Unlimited Forward";
 "UNLIMITED_FORWARD_DESC" = "Forward a message to unlimited number of contacts";
@@ -175,7 +175,7 @@
 
 "OTHER_ADDONS_LABEL" = "اضافات اخرى";
 
-"CALL_RECORDER_DESC" = "سجِّل جميع مكالماتك الواردة والصادرة على واتساب.\nيمكنك مراجعة مكالماتك المسجلة من علامة التبويب الاخيرة في قسم السجلات.";
+"CALL_RECORDER_DESC" = "سجِّل جميع مكالماتك الواردة والصادرة على واتساب.\nيمكنك مراجعة مكالماتك المسجلة من علامة التبويب الاخيرة في قسم السجلات.";
 "CALL_RECORDER_LABEL" = "تسجيل المكالمات";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "جاري التسجيل";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "سيؤدي هذا الاجراء الى حذف جميع سجلات المكالمات لـ %@";
