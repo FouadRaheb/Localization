@@ -471,10 +471,10 @@
 "REVOKED_INDICATOR_COLOR_DESC" = "أيقونة Watusi التي تكون بجانب الرسائل المحذوفة.";
 
 "THEME_TABLES_SECTION_TITLE" = "الجداول";
-"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
-"TABLES_SEPARATORS_LABEL" = "Separators";
-"SEPARATOR_COLOR_LABEL" = "Separator Color";
-"HIDE_SEPARATOR_LABEL" = "Hide Separators";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "لون خلفية الفراغ";
+"TABLES_SEPARATORS_LABEL" = "الخطوط الفاصلة";
+"SEPARATOR_COLOR_LABEL" = "لون الخطوط الفاصلة";
+"HIDE_SEPARATOR_LABEL" = "إخفاء الخطوط الفاصلة";
 
 
 /* Contacts Blacklist */
