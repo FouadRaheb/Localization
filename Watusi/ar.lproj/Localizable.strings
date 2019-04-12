@@ -336,90 +336,90 @@
 
 "USER_INTERFACE_LABEL" = "واجهة المستخدم";
 
-"REPLACE_CAMERA_TAB_DESC" = "استبدال زر الكاميرا الموجود في اسفل منتصف البار السفلي للتطبيق بصفحة المفضلة.";
+"REPLACE_CAMERA_TAB_DESC" = "استبدال زر الكاميرا الموجود في أسفل منتصف الشريط السفلي للتطبيق بصفحة المفضلة.";
 "REPLACE_CAMERA_TAB_LABEL" = "زر الكاميرا";
 "REPLACE_CAMERA_TAB_DEFAULT" = "الافتراضي";
 "REPLACE_CAMERA_TAB_CONTACTS" = "جهات الاتصال";
 "REPLACE_CAMERA_TAB_FAVORITES" = "المفضلة";
 "REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_MESSAGE" = "حذف كل جهات اتصالك المفضلة";
 "REPLACE_CAMERA_TAB_FAVORITES_DELETE_ALL_BUTTON" = "حذف الكل";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "اضافة كل جهات اتصالك المفضلة";
-"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "اضافة الكل";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_MESSAGE" = "إضافة كل جهات اتصالك المفضلة";
+"REPLACE_CAMERA_TAB_FAVORITES_ADD_ALL_BUTTON" = "إضافة الكل";
 
 "MY_NUMBER" = "رقمي:";
 "%zd_CONTACTS" = "%zd جهات الاتصال";
 
-"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الايموجي الكبير الذي يظهر عندما تحتوي الرسالة على ايموجي واحد فقط او اثنين فقط او ثلاثة فقط.";
-"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الايموجي الكبير";
+"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الإيموجي الكبير الذي يظهر عندما تحتوي الرسالة على إيموجي واحد فقط أو اثنين فقط أو ثلاثة فقط.";
+"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الإيموجي الكبير";
 
-"SHOW_SECONDS_DESC" = "اضافة عدّاد الثواني في آخر ظهور/الرسائل وأي شيء يظهر فيه الوقت داخل تطبيق واتساب.";
-"SHOW_SECONDS_LABEL" = "اظهار الثواني";
+"SHOW_SECONDS_DESC" = "إضافة عدّاد الثواني في آخر ظهور/الرسائل وأي شيء يظهر فيه الوقت داخل تطبيق واتساب.";
+"SHOW_SECONDS_LABEL" = "إظهار الثواني";
 
-"AUTO_SHOW_KEYBOARD_DESC" = "اظهار الكيبورد مباشرة عند الدخول الى المحادثة.";
-"AUTO_SHOW_KEYBOARD_LABEL" = "اظهار الكيبورد";
+"AUTO_SHOW_KEYBOARD_DESC" = "إظهار لوحة المفاتيح مباشرة عند الدخول إلى المحادثة.";
+"AUTO_SHOW_KEYBOARD_LABEL" = "إظهار لوحة المفاتيح";
 
-"DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب الى الوضع الافقي.";
-"DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الافقي";
+"DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب إلى الوضع الأفقي.";
+"DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الأفقي";
 
-"MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات الكيبورد.";
-"MUTE_SOUND_LABEL" = "كتم الاصوات";
-"MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات الكيبورد";
+"MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات لوحة المفاتيح.";
+"MUTE_SOUND_LABEL" = "كتم الأصوات";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات لوحة المفاتيح";
 
-"HIDE_CHAT_BUTTONS_DESC" = "اخفاء ازرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
-"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "اخفاء زر الكاميرا";
-"HIDE_CHAT_MIC_BUTTON_LABEL" = "اخفاء زر الميكروفون";
+"HIDE_CHAT_BUTTONS_DESC" = "إخفاء أزرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
+"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "إخفاء زر الكاميرا";
+"HIDE_CHAT_MIC_BUTTON_LABEL" = "إخفاء زر الميكروفون";
 "HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "اخفاء الصورة الشخصية لجهة الاتصال داخل المحادثة.";
-"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "اخفاء الصورة الشخصية";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "إخفاء الصورة الشخصية لجهة الاتصال داخل المحادثة.";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "إخفاء الصورة الشخصية";
 
-"HIDE_CHAT_CALL_BUTTONS_DESC" = "اخفاء ازرار الاتصال داخل الدردشات.";
-"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "اخفاء زر الاتصال الصوتي";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "اخفاز زر اتصال الفيديو";
-"HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
+"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "إخفاز زر اتصال الفيديو";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال في المجموعة";
 
-"FULLSCREEN_MODE_DESC" = "اخفاء البار العلوي داخل تطبيق واتساب.";
+"FULLSCREEN_MODE_DESC" = "إخفاء شريط الحالة داخل تطبيق واتساب.";
 "FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة";
 
-"IPAD_FULLSCREEN_MODE_DESC" = "فتح واتساب في وضع ملء الشاشة مثل اي تطبيق آخر متوافق مع شاشة الـ iPad.";
+"IPAD_FULLSCREEN_MODE_DESC" = "فتح واتساب في وضع ملء الشاشة مثل أي تطبيق آخر متوافق مع شاشة الـ iPad.";
 "IPAD_FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة للـ iPad";
 
 
 /* Notifications */
 
-"NOTIFICATIONS_LABEL" = "الاشعارات";
+"NOTIFICATIONS_LABEL" = "الإشعارات";
 
-"PRIVATE_NOTIFICATION_DESC" = "استبدل جميع محتويات اشعارات واتساب بمحتوى معين تخصصه انت من اجل حماية خصوصيتك.\n\nيمكنك استخدام الاشعار الاصلي باستخدام:\n%[عنوان] للحصول على عنوان الاشعار.\n%[رسالة] للحصول على رسالة الاشعار.";
-"PRIVATE_NOTIFICATION_LABEL" = "الاشعارات الخاصة";
+"PRIVATE_NOTIFICATION_DESC" = "استبدل جميع محتويات إشعارات واتساب بمحتوى معين تخصصه أنت من أجل حماية خصوصيتك.\n\nيمكنك استخدام الإشعار الأصلي باستخدام:\n%[عنوان] للحصول على عنوان الإشعار.\n%[رسالة] للحصول على رسالة الإشعار.";
+"PRIVATE_NOTIFICATION_LABEL" = "الإشعارات الخاصة";
 "PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "الرسالة";
-"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "رسالة الاشعار";
+"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "رسالة الإشعار";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "العنوان";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "اسم جهة الاتصال";
 
-"HIDE_MUTED_BADGES_DESC" = "اخفاء شارات واتساب للدردشات والمجموعات التي تم كتمها.";
-"HIDE_MUTED_BADGES_LABEL" = "اخفاء شارات الكتم";
+"HIDE_MUTED_BADGES_DESC" = "إخفاء شارات واتساب للدردشات والمجموعات التي تم كتمها.";
+"HIDE_MUTED_BADGES_LABEL" = "إخفاء شارات الكتم";
 
-"CONTACT_ICON_NOTIFICATIONS_DESC" = "استبدال ايقونة واتساب على الاشعارات بصورة البروفايل الخاصة بجهة الاتصال.";
-"CONTACT_ICON_NOTIFICATION_LABEL" = "ايقونة الاشعارات";
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "استبدال أيقونة واتساب على الإشعارات بصورة ملف التعريف الخاصة بجهة الاتصال.";
+"CONTACT_ICON_NOTIFICATION_LABEL" = "أيقونة الإشعارات";
 
-"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "تفعيل الاشعارات الداخلية";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "سيعمل هذا الخيار على ابقاء واتساب نشطا في الخلفية دائما، ولكنه سيزيد من استهلاك البطارية.";
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "تفعيل الإشعارات الداخلية";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "سيعمل هذا الخيار على إبقاء واتساب نشطًا في الخلفية دائمًا، ولكنه سيزيد من استهلاك البطارية.";
 
 
 /* Theme */
 
-"THEME_LABEL" = "تخصيص الوان التطبيق";
+"THEME_LABEL" = "الثيمات";
 
-"CREATE_NEW_THEME_ACTION_BUTTON" = "Create New Theme";
-"IMPORT_NEW_THEME_ACTION_BUTTON" = "Import Theme from Files";
-"THEME_FILE_IMPORT_FAILED_TITLE" = "Invalid Theme File";
-"THEME_FILE_IMPORT_FAILED_MESSAGE" = "The file must be a valid plist";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "إنشاء ثيم جديد";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "استيراد ثيم من الملفات";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "ملف ثيم غير صالح";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "يجب أن يكون الملف من نوع plist وأن يكون ملفًا صالحًا كذلك";
 
-"NEW_THEME_ALERT_TITLE" = "New Theme";
-"NEW_THEME_ALERT_MESSAGE" = "Enter your theme name";
-"NEW_THEME_ALERT_PLACEHOLDER" = "Theme";
+"NEW_THEME_ALERT_TITLE" = "ثيم جديد";
+"NEW_THEME_ALERT_MESSAGE" = "أدخل اسم الثيم الجديد الخاص بك";
+"NEW_THEME_ALERT_PLACEHOLDER" = "ثيم";
 
-"THEMES_SECTION_HEADER" = "Themes";
+"THEMES_SECTION_HEADER" = "الثيمات";
 "THEMES_SECTION_FOOTER" = "Use the + button to create a new theme\nSwipe left or long press on a theme to edit\nSelect a theme to set as active";
 "THEMES_STORE_LABEL" = "Themes Store";
 
