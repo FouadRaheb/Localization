@@ -471,7 +471,7 @@
 "REVOKED_INDICATOR_COLOR_DESC" = "أيقونة Watusi التي تكون بجانب الرسائل المحذوفة.";
 
 "THEME_TABLES_SECTION_TITLE" = "الجداول";
-"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "لون خلفية الفراغ";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "لون خلفية المساحة الفاصلة";
 "TABLES_SEPARATORS_LABEL" = "الخطوط الفاصلة";
 "SEPARATOR_COLOR_LABEL" = "لون الخطوط الفاصلة";
 "HIDE_SEPARATOR_LABEL" = "إخفاء الخطوط الفاصلة";
@@ -569,46 +569,46 @@
 "STICKER_PACKS_CUSTOM_TAB" = "مخصص";
 "LOADING_STICKER_PACKS_LABEL" = "جارِ تحميل حزم الملصقات...";
 
-"ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
-"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
-"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Import ZIP from Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Import ZIP from Device Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Import ZIP from URL";
+"ADD_STICKERS_ALERT_TITLE" = "إضافة حزمة ملصقات";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "إنشاء حزمة ملصقات";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "استيراد ZIP من الملفات";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "استيراد ZIP من ملفات الجهاز";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "استيراد ZIP من عنوان URL";
 
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "الدعم الفني";
+"SUPPORT_SECTION_TITLE" = "الدعم";
 
-"CONTACT_AND_MORE_LABEL" = "التواصل والدعم الفني وحول Watusi";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "الدعم الفني";
-"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم الفني";
-"VERSIONS_TITLE" = "الاصدارات";
+"CONTACT_AND_MORE_LABEL" = "التواصل والدعم وحول Watusi";
+"CONTACT_AND_MORE_PAGE_TITLE" = "الدعم";
+"CONTACT_SUPPORT_SECTION_TITLE" = "الدعم";
+"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
+"VERSIONS_TITLE" = "الإصدارات";
 "UPDATES_SECTION_TITLE" = "التحديثات";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "تحقق تلقائي من وجود تحديثات";
 "CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
-"SETTINGS_SECTION_TITLE" = "Settings";
-"RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
+"SETTINGS_SECTION_TITLE" = "الإعدادات";
+"RESET_SETTINGS_LABEL" = "إعادة تعيين الإعدادات";
+"RESET_SETTINGS_ALERT_MESSAGE" = "سيؤدي هذا إلى حذف جميع إعدادات Watusi الحالية الخاصة بك والعودة إلى الإعدادات الافتراضية.";
 "RESET_SETTINGS_BUTTON" = "Reset";
-"HIDE_SETTINGS_LABEL" = "Hide Settings";
-"HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
-"TWEAK_LANGUAGE_LABEL" = "Language";
-"TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
-"MORE_TWEAKS_TITLE" = "ادوات اخرى قد تهمك";
+"HIDE_SETTINGS_LABEL" = "إخفاء الإعدادات";
+"HIDE_SETTINGS_ALERT_TITLE" = "تحذير!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "سيؤدي هذا إلى إخفاء إعدادات Watusi من قائمة إعدادات واتساب، لكن سيظل بإمكانك الوصول إلى إعدادات Watusi عن طريق النقر على أعلى اليسار في إعدادات واتساب.";
+"TWEAK_LANGUAGE_LABEL" = "اللغة";
+"TWEAK_LANGUAGE_AUTO_OPTION" = "تلقائي";
+"MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
 
-"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وازالة الاعلانات";
+"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وإزالة الاعلانات";
 "ACCOUNT" = "الحساب";
-"MANAGE_ACCOUNT" = "ادارة الحساب";
-"LOGIN_OR_REGISTER" = "تسجيل الدخول او تسجيل جديد";
+"MANAGE_ACCOUNT" = "إدارة الحساب";
+"LOGIN_OR_REGISTER" = "تسجيل الدخول أو تسجيل جديد";
 "LOGOUT" = "تسجيل الخروج";
-"HOW_TO_REMOVE_ADS" = "كيفية ازالة الاعلانات";
+"HOW_TO_REMOVE_ADS" = "كيفية إزالة الاعلانات";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "شراء ترخيص Watusi";
-"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "التغريد للحصول على يومين بدون اعلانات";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "التغريد للحصول على يومين بدون إعلانات";
 "LOGIN_TO_PURCHASE_MESSAGE" = "قم بتسجيل الدخول لتتمكن من شراء ترخيص Watusi";
-"LOADING" = "جاري التحميل...";
+"LOADING" = "جارِ التحميل...";
 
 
 /* Promo Code */
@@ -617,9 +617,9 @@
 "REDEEM_BUTTON" = "استبدال";
 "REDEEM_CODE" = "استبدال الكود";
 "BAD_PROMO_CODE_FORMAT_MESSAGE" = "كود غير صالح";
-"ENTER_PROMO_CODE_MESSAGE" = "قم بادخال الكود";
+"ENTER_PROMO_CODE_MESSAGE" = "قم بإدخال الكود";
 "REDEEM_SUCCESSFULL_TITLE" = "تم استبدال الكود بنجاح";
-"REDEEM_SUCCESSFULL_MESSAGE" = "تم اضافة ترخيص Watusi الى حسابك";
+"REDEEM_SUCCESSFULL_MESSAGE" = "تم اضافة ترخيص Watusi إلى حسابك";
 "REDEEM_FAILED_TITLE" = "فشل الاستبدال";
 "REDEEM_FAILED_WRONG_CODE_MESSAGE" = "الكود غير صالح";
 "REDEEM_FAILED_INVALID_DATA_MESSAGE" = "كود خاطئ";
@@ -630,23 +630,23 @@
 "GROUPS" = "المجموعات";
 "DEFAULT" = "افتراضي";
 "DELETE" = "حذف";
-"CANCEL" = "الغاء";
+"CANCEL" = "إلغاء";
 "OKAY" = "حسنا";
 "ENABLE" = "تفعيل";
-"MORE" = "More";
-"RELAUNCH" = "اعادة تشغيل";
-"LATER" = "لاحقا";
-"SEND" = "ارسال";
-"ADD" = "اضافة";
+"MORE" = "أكثر";
+"RELAUNCH" = "إعادة تشغيل";
+"LATER" = "لاحقًا";
+"SEND" = "إرسال";
+"ADD" = "إضافة";
 "EDIT" = "تعديل";
 "DUPLICATE" = "Duplicate";
 "EXPORT" = "Export";
 "PUBLISH" = "Publish";
-"TO" = "الى";
+"TO" = "إلى";
 "DISMISS" = "تجاهل";
 "DUPLICATE" = "تكرار";
 "SELECT_ALL" = "تحديد الكل";
-"DESELECT_ALL" = "الغاء تحديد الكل";
+"DESELECT_ALL" = "إلغاء تحديد الكل";
 
 
 /* Messages */
