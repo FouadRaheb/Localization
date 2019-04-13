@@ -35,7 +35,7 @@
 "BLACKLIST" = "Lista Negra";
 "SEND_READ_RECEIPTS_BUTTON" = "Enviar confirmações de leitura";
 "SEND_TYPING_INDICATOR_BUTTON" = "Enviar indicador de digitação";
-"SEND_RECORDING_INDICATOR_BUTTON" = " Enviar indicador de gravação ";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Enviar indicador de gravação";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar os recibos de leitura e os indicadores de digitação na sua página de informações de contato para ativá-la/desativá-la diretamente para esse contato.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Controles na página de informações";
@@ -51,8 +51,8 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Privacidade de Meus Contatos";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Contatos na lista negra";
 
-"HIDE_CALL_MUTE_DESC" = " Seus contatos não saberão que você desativou o microfone durante uma chamada.";
-"HIDE_CALL_MUTE_LABEL" = " Ocultar chamada silenciada ";
+"HIDE_CALL_MUTE_DESC" = "Seus contatos não saberão que você desativou o microfone durante uma chamada.";
+"HIDE_CALL_MUTE_LABEL" = "Ocultar chamada silenciada";
 
 "DISABLE_VOIP_DESC" = "Desativar a interface VOIP e bloquear todas as chamadas VOIP recebidas.";
 "DISABLE_VOIP_LABEL" = "Desativar VOIP";
@@ -122,8 +122,8 @@
 "TAP_TO_RECORD_LABEL" = "Toque para gravar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque e deslize para cancelar";
 
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = " Desativar a reprodução contínua";
-"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = " Pare o WhatsApp de reproduzir continuamente a próxima mensagem de áudio automaticamente";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Desativar a reprodução contínua";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Pare o WhatsApp de reproduzir continuamente a próxima mensagem de áudio automaticamente";
 
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Desativar indicador de Encaminhado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Não mostra o indicador de Encaminhado quando se encaminha uma mensagem para seus contatos";
@@ -136,8 +136,8 @@
 "CALL_CONFIRM_RECENTS_LABEL" = "Confirmar chamada Toque em Recentes";
 "START_VIDEO_CALL_WITH" = "Inicie a chamada de vídeo com";
 "START_VOICE_CALL_WITH" = "Inicie a chamada de voz com";
-"START_GROUP_VIDEO_CALL_WITH" = " Iniciar videochamada em grupo";
-"START_GROUP_VOICE_CALL_WITH" = " Iniciar chamada de voz em grupo";
+"START_GROUP_VIDEO_CALL_WITH" = "Iniciar videochamada em grupo";
+"START_GROUP_VOICE_CALL_WITH" = "Iniciar chamada de voz em grupo";
 "WHATSAPP_VIDEO_CALL_BUTTON" = "Ligação de vídeo do WhatsApp";
 "WHATSAPP_VOICE_CALL_BUTTON" = "Ligação de voz do WhatsApp";
 "CARRIER_CALL_BUTTON" = "Ligação usando a operadora";
@@ -376,7 +376,7 @@
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar botões de chamada dos chats.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botão de ligação de voz";
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botão de ligação de vídeo";
-"HIDE_GROUP_CALL_BUTTON_LABEL" = " Ocultar o botão de chamada em grupo";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Ocultar o botão de chamada em grupo";
 
 "FULLSCREEN_MODE_DESC" = "Ocultar a barra de status dentro do WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Modo de Tela Cheia";
@@ -590,11 +590,11 @@
 "CHECK_FOR_UPDATES_BUTTON" = "Verificar atualizações";
 "SETTINGS_SECTION_TITLE" = "Ajustes";
 "RESET_SETTINGS_LABEL" = "Resetar Ajustes";
-"RESET_SETTINGS_ALERT_MESSAGE" = " Isso excluirá todas as suas preferências do Watusi e as redefinirá para o padrão.";
+"RESET_SETTINGS_ALERT_MESSAGE" = "Isso excluirá todas as suas preferências do Watusi e as redefinirá para o padrão.";
 "RESET_SETTINGS_BUTTON" = "Resetar";
 "HIDE_SETTINGS_LABEL" = "Ocultar Ajustes";
 "HIDE_SETTINGS_ALERT_TITLE" = "ATENÇÃO!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = " Isto irá esconder a linha de configurações Watusi das configurações do WhatsApp e torná-lo acessível através de um botão transparente à direita da barra de navegação das configurações do WhatsApp";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Isto irá esconder a linha de configurações Watusi das configurações do WhatsApp e torná-lo acessível através de um botão transparente à direita da barra de navegação das configurações do WhatsApp";
 "TWEAK_LANGUAGE_LABEL" = "Idioma";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Automático";
 "MORE_TWEAKS_TITLE" = "Mais Tweaks";
