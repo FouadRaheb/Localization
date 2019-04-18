@@ -19,17 +19,17 @@
 
 /* Download */
 
-"SAVE_AND_DOWNLOAD_TITLE" = "Save & Auto-Download";
+"SAVE_AND_DOWNLOAD_TITLE" = "الحفظ والتنزيل التلقائي";
 
-"SAVE_TITLE" = "Saved Updates";
-"SAVE_DESCRIPTION" = "Disable updates that you do not wish to save. The media of unsaved updates will not be downloaded.";
-"SAVE_PICTURES_LABEL" = "Save Profile Pictures Updates";
-"SAVE_ABOUT_LABEL" = "Save About Updates";
-"SAVE_GROUP_LABEL" = "Save Group Updates";
-"SAVE_STATUS_LABEL" = "Save Status Updates";
+"SAVE_TITLE" = "تحديثات الحفظ";
+"SAVE_DESCRIPTION" = "قم بتعطيل التحديثات التي لا تريد حفظها. لن يتم تنزيل الوسائط للتحديثات غير المحفوظة.";
+"SAVE_PICTURES_LABEL" = "حفظ تحديثات الصور الشخصية";
+"SAVE_ABOUT_LABEL" = "حفظ تحديثات الخبر";
+"SAVE_GROUP_LABEL" = "حفظ تحديثات المجموعة";
+"SAVE_STATUS_LABEL" = "حفظ تحديثات الحالة";
 
-"AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "Auto-Download Pictures";
-"AUTO_DOWNLOAD_STATUSES_LABEL" = "Auto-Download Statuses";
+"AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "تنزيل الصور تلقائيًا";
+"AUTO_DOWNLOAD_STATUSES_LABEL" = "تنزيل الحالات تلقائيًا";
 "AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Automatically download your contacts profile pictures. You can still manually download the picture if possible by tapping on it in the updates table.";
 "AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Automatically download your contacts status media. When disabled, stalky will attempt to download the media by tapping on the update only if its still available in your statuses.";
 "AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi & Cellular";
