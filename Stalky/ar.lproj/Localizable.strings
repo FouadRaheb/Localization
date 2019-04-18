@@ -1,20 +1,20 @@
 /* Preferences */
 
-"STALKY_PREFERENCES_LABEL" = "Stalky Preferences";
+"STALKY_PREFERENCES_LABEL" = "إعدادات Stalky";
 
 
 /* Updates Table */
 
-"UPDATES_TABLE_TITLE" = "Updates Table";
+"UPDATES_TABLE_TITLE" = "جدول التحديثات";
 
-"DEFAULT_UPDATES_PAGE_LABEL" = "Default Page";
-"DEFAULT_UPDATES_PAGE_DESC" = "Choose which page to open by default, badge number will be for the default page.";
+"DEFAULT_UPDATES_PAGE_LABEL" = "الصفحة الافتراضية";
+"DEFAULT_UPDATES_PAGE_DESC" = "اختر الصفحة التي تريدها أن تفتح افتراضيًا، رقم الشارة سيكون للصفحة الافتراضية.";
 
-"COLORIZE_UPDATES_TABLE" = "Colorize Updates";
-"COLORIZE_UPDATES_DESC" = "Colorzing updates will add a background color for each update type (ProfilePictures/Red, Statuses/Blue, About/Yellow, Group/Green).";
+"COLORIZE_UPDATES_TABLE" = "تلوين التحديثات";
+"COLORIZE_UPDATES_DESC" = "ستضيف تلوين التحديثات لونًا خلفيًا لكل نوع تحديث (الصور الشخصية/أحمر، الحالات/أزرق، الخبر/أصفر، المجموعة/أخضر).";
 
-"BLACKLISTED_CONTACTS" = "Blacklisted Contacts";
-"BLACKLISTED_CONTACTS_DESCRIPTION" = "Add contacts to blacklist in order to stop receiving their updates.";
+"BLACKLISTED_CONTACTS" = "جهات الاتصال المدرجة في القائمة السوداء";
+"BLACKLISTED_CONTACTS_DESCRIPTION" = "أضف جهات اتصال إلى القائمة السوداء لإيقاف تلقي التحديثات الخاصة بهم.";
 
 
 /* Download */
