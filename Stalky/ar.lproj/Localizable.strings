@@ -92,25 +92,25 @@
 "DELETE_ALL_IMAGES_DESCRIPTION" = "سيؤدي حذف الصور إلى إزالة جميع ملفات JPG مع الاحتفاظ بالصور المصغرة التي تُستخدم لإظهار صور جهات اتصالك في واتساب.";
 "DELETE_SELECTED_CONTACTS_MEDIA_NO_CONTACTS_SELECTED_MESSAGE" = "تحتاج إلى تحديد جهة اتصال واحدة على الأقل لحذف الحالات";
 
-"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "You can either delete all profile pictures or keep those of your favorite contacts.";
-"DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Delete All";
-"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "All Except Favorites";
-"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Select Contacts to Delete";
+"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الصور الشخصية أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك. ";
+"DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "حذف الجميع";
+"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "الجميع ماعدا المفضلة";
+"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "تحديد جهات اتصال للحذف";
 
-"DELETE_STATUSES_ALERT_MESSAGE" = "You can either delete all statuses or keep those of your favorite contacts.";
-"DELETE_ALL_STATUSES_ALERT_BUTTON" = "Delete All";
-"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "All Except Favorites";
-"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Select Contacts to Delete";
+"DELETE_STATUSES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الحالات أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك.";
+"DELETE_ALL_STATUSES_ALERT_BUTTON" = "حذف الجميع";
+"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "الجميع ماعدا المفضلة";
+"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "تحديد جهات اتصال للحذف";
 
-"SAVED_PICTURES_LABEL" = "Saved Pictures";
-"SAVED_STATUSES_LABEL" = "Saved Statuses";
+"SAVED_PICTURES_LABEL" = "الصور المحفوظة";
+"SAVED_STATUSES_LABEL" = "الحالات المحفوظة";
 
-"MEDIA_BACKUP_HEADER" = "Backup";
-"MEDIA_BACKUP_EXPORT_TITLE" = "Export Contacts Media";
-"MEDIA_BACKUP_IMPORT_TITLE" = "Import Contacts Media";
-"MEDIA_BACKUP_FOOTER" = "Export your contacts saved updates to your PC and import it back anytime.";
+"MEDIA_BACKUP_HEADER" = "النسخ الاحتياطي";
+"MEDIA_BACKUP_EXPORT_TITLE" = "تصدير وسائط جهات الاتصال";
+"MEDIA_BACKUP_IMPORT_TITLE" = "استيراد وسائط جهات الاتصال";
+"MEDIA_BACKUP_FOOTER" = "قم بتصدير تحديثات جهات اتصالك المحفوظة إلى جهاز الكمبيوتر الخاص بك واستردها بعد ذلك في أي وقت لاحقًا.";
 
-"BACKUP_IMPORT_ALERT_TITLE" = "Import Media";
+"BACKUP_IMPORT_ALERT_TITLE" = "استيراد الوسائط";
 "BACKUP_IMPORT_ALERT_MESSAGE" = "Import a zip file in order to restore your media. Your zip file should be in the same structure as the exported zip files.\nIt can contain 2 folders (Profiles) and/or (Statuses) with each containing a folder for every user by his WhatsApp ID, also the file names should have the correct format)";
 "BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Import from WebServer";
 "BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Import from Files";
