@@ -62,17 +62,17 @@
 
 /* Disk Usage */
 
-"DISK_USAGE_TITLE" = "Disk Usage";
+"DISK_USAGE_TITLE" = "استخدام التخزين";
 
-"PROFILE_PICTURES_USAGE_TITLE" = "Profile Pictures";
-"PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "View Saved Pictures";
-"PROFILE_PICTURES_VIEW_ALL_BUTTON" = "All Pictures";
-"PROFILE_PICTURES_VIEW_FOR_FAVORITES" = "Favorites Pictures";
-"PROFILE_PICTURES_VIEW_FOR_SELECTED_BUTTON" = "Select Contacts";
-"PROFILE_PICTURES_DIRECTORY" = "Profile Pictures Directory";
-"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "Pictures Directory";
-"PROFILE_PICTURES_DIRECTORY_ALERT_MESSAGE" = "Profile pictures are located in";
-"PROFILE_PICTURES_DELETE_SAVED_PICTURES" = "Delete Saved Profile Pictures";
+"PROFILE_PICTURES_USAGE_TITLE" = "الصور الشخصية";
+"PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "عرض الصور المحفوظة";
+"PROFILE_PICTURES_VIEW_ALL_BUTTON" = "جميع الصور";
+"PROFILE_PICTURES_VIEW_FOR_FAVORITES" = "الصور المفضلة";
+"PROFILE_PICTURES_VIEW_FOR_SELECTED_BUTTON" = "جهات اتصال محددة";
+"PROFILE_PICTURES_DIRECTORY" = "مسار الصور الشخصية";
+"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "نسار الصور";
+"PROFILE_PICTURES_DIRECTORY_ALERT_MESSAGE" = "تقع الصور الشخصية في";
+"PROFILE_PICTURES_DELETE_SAVED_PICTURES" = "حذف الصور الشخصية المحفوظة";
 
 "STATUSES_USAGE_TITLE" = "Statuses";
 "STATUSES_VIEW_SAVED_MEDIA" = "View Saved Statuses";
