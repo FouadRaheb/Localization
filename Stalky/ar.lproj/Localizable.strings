@@ -30,16 +30,16 @@
 
 "AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "تنزيل الصور تلقائيًا";
 "AUTO_DOWNLOAD_STATUSES_LABEL" = "تنزيل الحالات تلقائيًا";
-"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Automatically download your contacts profile pictures. You can still manually download the picture if possible by tapping on it in the updates table.";
-"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Automatically download your contacts status media. When disabled, stalky will attempt to download the media by tapping on the update only if its still available in your statuses.";
-"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi & Cellular";
+"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "تنزيل تلقائي للصور الشخصية لجهات اتصالك. سيظل بإمكانك تنزيل الصور بشكل يدوي إن أمكن بواسطة النقر عليها في جدول التحديثات.";
+"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "تنزيل تلقائي لجميع وسائط حالات جهات اتصالك. عند التعطيل، سيحاول Stalky تنزيل الوسائط بواسطة النقر على التحديث فقط إذا كانت لا تزال متاحة في حالاتك.";
+"AUTO_DOWNLOAD_WIFI_CELLULAR" = "الـ Wi-Fi والبيانات الخلوية";
 "AUTO_DOWNLOAD_WIFI" = "Wi-Fi";
-"AUTO_DOWNLOAD_NEVER" = "Never";
+"AUTO_DOWNLOAD_NEVER" = "مطلقًا";
 
-"BACKGROUND_FETCH" = "Background Fetch";
-"BACKGROUND_FETCH_DESC" = "This option is used when a contact change its profile picture multiple times while you are offline. Since WhatsApp server will replace your contact old image with his new one, this option will keep WhatsApp active in background in order to download the images directly when your contact changes it.";
-"BG_FETCH_TURN_OFF_ALERT" = "Turning off background fetch will stop fetching new updates in background and therefore you'll not receive outside notifications.";
-"BG_FETCH_ALERT" = "In order to enable background fetch, Stalky will keep WhatsApp active in background and will maintain your wifi conncetion when you lock your device. This will slightly increase your battery consumption.";
+"BACKGROUND_FETCH" = "جلب في الخلفية";
+"BACKGROUND_FETCH_DESC" = "يتم استخدام هدا الخيار عندما تقوم إحدى جهات الاتصال بتغيير صورتها الشخصية عدة مرات متتالية وأنت غير متصل. نظرًا لأن خوادم واتساب ستستبدل الصورة القديمة لجهة اتصالك بصورتها الجديدة، سيبقي هذا الخيار واتساب نشطًا في الخلفية دائمًا وذلك لجلب الصور مباشرة عندما تقوم جهة الاتصال بتغييرها.";
+"BG_FETCH_TURN_OFF_ALERT" = "إيقاف تشغيل الجلب في الخلفية سيؤدي إلى إيقاف جلب التحديثات الجديدة في الخلفية وبالتالي لن تتلقى إشعارات خارجية.";
+"BG_FETCH_ALERT" = "من أجل تفعيل الجلب في الخلفية، سيُبقي Stalky تطبيق واتساب نشطًا في الخلفية وسيحافظ على اتصال WiFi أيضًا بعد قفل جهازك. سيزيد هذا من استهلاك البطارية قليلًا.";
 
 
 /* Notifications */
