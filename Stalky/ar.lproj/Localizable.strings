@@ -111,18 +111,18 @@
 "MEDIA_BACKUP_FOOTER" = "قم بتصدير تحديثات جهات اتصالك المحفوظة إلى جهاز الكمبيوتر الخاص بك واستردها بعد ذلك في أي وقت لاحقًا.";
 
 "BACKUP_IMPORT_ALERT_TITLE" = "استيراد الوسائط";
-"BACKUP_IMPORT_ALERT_MESSAGE" = "Import a zip file in order to restore your media. Your zip file should be in the same structure as the exported zip files.\nIt can contain 2 folders (Profiles) and/or (Statuses) with each containing a folder for every user by his WhatsApp ID, also the file names should have the correct format)";
-"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Import from WebServer";
-"BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Import from Files";
-"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Visit %@ on your PC and upload the .zip file.\nThe file will be detected automatically once uploaded.";
-"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "Waiting ZIP";
+"BACKUP_IMPORT_ALERT_MESSAGE" = "قم باستيراد ملف ZIP من أجل استعادة الوسائط الخاصة بك. يجب أن يكون ملف الـ ZIP في نفس بنية ملفات الـ ZIP التي تم تصديرها.\nيمكن أن تحتوي على مجلدين وهما (الملفات الشخصية) و/أو (الحالات) ويأتي مع كل منهما مجلد يحتوي على معرفات واتساب الخاصة بجهات اتصالك، كما يجب أن تحتوي أسماء الملفات على التنسيق الصحيح.";
+"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "استيراد من خادم الويب";
+"BACKUP_IMPORT_ALERT_FILES_BUTTON" = "استيراد من الملفات";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "قم بزيارة %@ على جهاز الكمبيوتر الخاص بك وقم بتحميل ملف ZIP.\nسيتم اكتشاف الملف تلقائيًا بمجرد تحميله.";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "انتظار ZIP";
 
-"BACKUP_IMPORT_PROCESS_MESSAGE" = "Processing Uploaded ZIP";
-"BACKUP_IMPORT_PROCESS_UNZIPPING_FAILED_MESSAGE" = "Unzippnig Failed";
-"BACKUP_IMPORT_PROCESS_INVALID_ZIP_MESSAGE" = "Zip file does not contain any profile or status media.";
-"BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "Import Completed";
+"BACKUP_IMPORT_PROCESS_MESSAGE" = "جارِ معالجة تحميل ZIP";
+"BACKUP_IMPORT_PROCESS_UNZIPPING_FAILED_MESSAGE" = "فشل فك الضغط";
+"BACKUP_IMPORT_PROCESS_INVALID_ZIP_MESSAGE" = "ملف الـ ZIP لا يحتوي على أي ملفات شخصية أو وسائط حالة.";
+"BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "اكتمل الاستيراد";
 
-"BACKUP_EXPORT_ALERT_TITLE" = "Export Media";
+"BACKUP_EXPORT_ALERT_TITLE" = "تصدير الوسائط";
 "BACKUP_EXPORT_ALERT_MESSAGE" = "Create a backup ZIP of your contacts saved profile pictures and statuses. This will not export Stalky database which contains your contacts updates list.";
 "BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "All Media";
 "BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "Favorites Media";
