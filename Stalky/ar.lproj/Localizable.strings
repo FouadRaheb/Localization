@@ -70,27 +70,27 @@
 "PROFILE_PICTURES_VIEW_FOR_FAVORITES" = "الصور المفضلة";
 "PROFILE_PICTURES_VIEW_FOR_SELECTED_BUTTON" = "جهات اتصال محددة";
 "PROFILE_PICTURES_DIRECTORY" = "مسار الصور الشخصية";
-"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "نسار الصور";
+"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "مسار الصور";
 "PROFILE_PICTURES_DIRECTORY_ALERT_MESSAGE" = "تقع الصور الشخصية في";
 "PROFILE_PICTURES_DELETE_SAVED_PICTURES" = "حذف الصور الشخصية المحفوظة";
 
-"STATUSES_USAGE_TITLE" = "Statuses";
-"STATUSES_VIEW_SAVED_MEDIA" = "View Saved Statuses";
-"STATUSES_VIEW_ALL_BUTTON" = "All Statuses";
-"STATUSES_VIEW_FOR_FAVORITES" = "Favorites Statuses";
-"STATUSES_VIEW_FOR_SELECTED_BUTTON" = "Select Contacts";
-"STATUSES_DIRECTORY" = "Statuses Directory";
-"STATUSES_DIRECTORY_ALERT_TITLE" = "Statuses Directory";
-"STATUSES_DIRECTORY_ALERT_MESSAGE" = "Statuses media are located in";
-"STATUSES_DELETE_SAVED_MEDIA" = "Delete Saved Statuses";
+"STATUSES_USAGE_TITLE" = "الحالات";
+"STATUSES_VIEW_SAVED_MEDIA" = "عرض الحالات المحفوظة";
+"STATUSES_VIEW_ALL_BUTTON" = "جميع الحالات";
+"STATUSES_VIEW_FOR_FAVORITES" = "الحالات المفضلة";
+"STATUSES_VIEW_FOR_SELECTED_BUTTON" = "جهات اتصال محددة";
+"STATUSES_DIRECTORY" = "مسار الحالات";
+"STATUSES_DIRECTORY_ALERT_TITLE" = "مسار الحالات";
+"STATUSES_DIRECTORY_ALERT_MESSAGE" = "وسائط الحالات تقع في";
+"STATUSES_DELETE_SAVED_MEDIA" = "حذف الحالات المحفوظة";
 
-"OPEN_IN_FILZA_BUTTON" = "Open in Filza";
-"OPEN_IN_IFILE_BUTTON" = "Open in iFile";
-"DID_NOT_SELECT_CONTACTS_MESSAGE" = "You did not select any contacts";
-"NO_FAVORITE_CONTACTS_MESSAGE" = "You don't have any contacts in favorites";
+"OPEN_IN_FILZA_BUTTON" = "فتح في Filza";
+"OPEN_IN_IFILE_BUTTON" = "فتح في iFile";
+"DID_NOT_SELECT_CONTACTS_MESSAGE" = "لم تقم بتحديد أي جهات اتصال";
+"NO_FAVORITE_CONTACTS_MESSAGE" = "لا يوجد لديك أي جهات اتصال في المفضلة";
 
-"DELETE_ALL_IMAGES_DESCRIPTION" = "Deleting images will remove all the JPG files but keep the thumbnails which is used to show your contacts pictures in WhatsApp.";
-"DELETE_SELECTED_CONTACTS_MEDIA_NO_CONTACTS_SELECTED_MESSAGE" = "You need to select at least 1 contact in order to delete statuses";
+"DELETE_ALL_IMAGES_DESCRIPTION" = "سيؤدي حذف الصور إلى إزالة جميع ملفات JPG مع الاحتفاظ بالصور المصغرة التي تُستخدم لإظهار صور جهات اتصالك في واتساب.";
+"DELETE_SELECTED_CONTACTS_MEDIA_NO_CONTACTS_SELECTED_MESSAGE" = "تحتاج إلى تحديد جهة اتصال واحدة على الأقل لحذف الحالات";
 
 "DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "You can either delete all profile pictures or keep those of your favorite contacts.";
 "DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Delete All";
