@@ -44,20 +44,20 @@
 
 /* Notifications */
 
-"NOTIFICATIONS_TITLE" = "Notifications";
+"NOTIFICATIONS_TITLE" = "الإشعارات";
 
-"INSIDE_NOTIFICATIONS" = "Inside Notifications";
-"INSIDE_NOTIFICATIONS_DESC" = "Display notifications for new updates inside WhatsApp.";
+"INSIDE_NOTIFICATIONS" = "الإشعارات الداخلية";
+"INSIDE_NOTIFICATIONS_DESC" = "عرض الإشعارات للتحديثات الجديدة داخل واتساب.";
 
-"OUTSIDE_NOTIFICATIONS" = "Outside Notifications";
-"OUTSIDE_NOTIFICATIONS_DESC" = "Get new updates notifications outside WhatsApp. It requires background fetch to be enabled.";
-"OUTSIDE_NOTIFICATIONS_ALERT" = "Background fetch should be enabled in order to fetch latest updates in background and display outside notifications.";
+"OUTSIDE_NOTIFICATIONS" = "الإشعارات الخارجية";
+"OUTSIDE_NOTIFICATIONS_DESC" = "الحصول على إشعارات التحديثات الجديدة خارج واتساب. سيتطلب هذا تفعيل الجلب في الخلفية.";
+"OUTSIDE_NOTIFICATIONS_ALERT" = "الجلب في الخلفية يجب أن يكون مفعل لجلب آخر التحديثات في الخلفية وعرض الإشعارات الخارجية.";
 
-"NOTIFICATIONS_TYPE_LABEL" = "Contacts Notifications";
-"NOTIFICATIONS_TYPE_DESC" = "Choose for which contacts you wish to receive notifications.";
+"NOTIFICATIONS_TYPE_LABEL" = "إشعارات جهات الاتصال";
+"NOTIFICATIONS_TYPE_DESC" = "اختر جهات الاتصال التي ترغب في تلقي إشعاراتها.";
 
-"NOTIFICATION_SOUND" = "Notification Sound";
-"NOTIFICATION_SOUND_DESC" = "Choose the sound of the inside and outside notifications.";
+"NOTIFICATION_SOUND" = "صوت الإشعار";
+"NOTIFICATION_SOUND_DESC" = "اختر صوت الإشعارات الداخلية والخارجية.";
 
 
 /* Disk Usage */
