@@ -173,34 +173,34 @@
 
 /* License Settings */
 
-"HOW_TO_REMOVE_ADS_LABEL" = "How to Remove Ads";
-"PURCHASE_LICENSE_BUTTON" = "Purchase License";
-"TWEET_FOR_2DAYS_ADFREE_BUTTON" = "Tweet for 2 days ad-free";
-"PURCHASE_LICENSE_MESSAGE" = "You have to login with your account in order to purchase Stalky";
-"FETCHING_LICENSE_MESSAGE" = "Fetching License...";
-"DELETE_SAVED_LICENSE_MESSAGE" = "Delete Saved License?";
-"LICENSE_DELETED_MESSAGE" = "License Deleted";
-"FETCHING_LICENSE_FAILED_MESSAGE" = "Fetching Failed";
-"INVALID_DEVICE_UDID_MESSAGE" = "Unable to fetch device UDID";
-"LICENSE_PURCHASED_LABEL" = "License Purchased";
-"YOU_TWEETED_MESSAGE" = "You Tweeted";
-"LICENSED_MESSAGE" = "Licensed";
-"TWEETED_MESSAGE" = "Thanks for tweeting!";
-"NO_LICENSE_FOUND_MESSAGE" = "No License Found";
-"RESTORE_LICENSE_MESSAGE" = "Restore License";
-"PURCHASE" = "Purchase";
+"HOW_TO_REMOVE_ADS_LABEL" = "كيفية إزالة الإعلانات";
+"PURCHASE_LICENSE_BUTTON" = "شراء ترخيص";
+"TWEET_FOR_2DAYS_ADFREE_BUTTON" = "التغريد للحصول على يومين بدون إعلانات";
+"PURCHASE_LICENSE_MESSAGE" = "يجب عليك تسجيل الدخول بحسابك لتتمكن من شراء Stalky";
+"FETCHING_LICENSE_MESSAGE" = "جارِ جلب الترخيص...";
+"DELETE_SAVED_LICENSE_MESSAGE" = "حذف الترخيص المحفوظ؟";
+"LICENSE_DELETED_MESSAGE" = "تم حذف الترخيص";
+"FETCHING_LICENSE_FAILED_MESSAGE" = "فشل الجلب";
+"INVALID_DEVICE_UDID_MESSAGE" = "غير قادر على جلب UDID الجهاز";
+"LICENSE_PURCHASED_LABEL" = "تم شراء الترخيص";
+"YOU_TWEETED_MESSAGE" = "لقد قمت بالتغريد";
+"LICENSED_MESSAGE" = "مرخص";
+"TWEETED_MESSAGE" = "شكرًا للتغريد!";
+"NO_LICENSE_FOUND_MESSAGE" = "لم يتم العثور على ترخيص";
+"RESTORE_LICENSE_MESSAGE" = "استعادة الترخيص";
+"PURCHASE" = "شراء";
 
 
 /* Updates Table */
 
-"ALL_UPDATES_FILTER" = "All Updates";
-"ABOUT_UPDATES_FILTER" = "About Updates";
-"PICTURE_UPDATES_FILTER" = "Profile Pictures Updates";
-"STATUS_UPDATES_FILTER" = "Status Updates";
-"GROUP_UPDATES_FILTER" = "Group Updates";
+"ALL_UPDATES_FILTER" = "جميع التحديثات";
+"ABOUT_UPDATES_FILTER" = "تحديثات الخبر";
+"PICTURE_UPDATES_FILTER" = "تحديثات الصورة الشخصية";
+"STATUS_UPDATES_FILTER" = "تحديثات الحالة";
+"GROUP_UPDATES_FILTER" = "تحديثات المجموعة";
 
-"SHOWING_%zd_OF_%zd_UPDATES_BUTTON" = "Showing %zd of %zd updates, show more...";
-"DELETE_ALL_UPDATE_WARNING" = "This action will delete all updates.";
+"SHOWING_%zd_OF_%zd_UPDATES_BUTTON" = "يتم عرض %zd من أصل %zd من التحديثات، عرض المزيد...";
+"DELETE_ALL_UPDATE_WARNING" = "سيقوم هذا الإجراء بحذف جميع تحديثاتك.";
 
 
 /* Action Buttons */
