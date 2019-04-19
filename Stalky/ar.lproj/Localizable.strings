@@ -66,7 +66,7 @@
 
 "PROFILE_PICTURES_USAGE_TITLE" = "الصور الشخصية";
 "PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "عرض الصور المحفوظة";
-"PROFILE_PICTURES_VIEW_ALL_BUTTON" = "جميع الصور";
+"PROFILE_PICTURES_VIEW_ALL_BUTTON" = "كل الصور";
 "PROFILE_PICTURES_VIEW_FOR_FAVORITES" = "الصور المفضلة";
 "PROFILE_PICTURES_VIEW_FOR_SELECTED_BUTTON" = "جهات اتصال محددة";
 "PROFILE_PICTURES_DIRECTORY" = "مسار الصور الشخصية";
@@ -76,7 +76,7 @@
 
 "STATUSES_USAGE_TITLE" = "الحالات";
 "STATUSES_VIEW_SAVED_MEDIA" = "عرض الحالات المحفوظة";
-"STATUSES_VIEW_ALL_BUTTON" = "جميع الحالات";
+"STATUSES_VIEW_ALL_BUTTON" = "كل الحالات";
 "STATUSES_VIEW_FOR_FAVORITES" = "الحالات المفضلة";
 "STATUSES_VIEW_FOR_SELECTED_BUTTON" = "جهات اتصال محددة";
 "STATUSES_DIRECTORY" = "مسار الحالات";
@@ -94,12 +94,12 @@
 
 "DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الصور الشخصية أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك. ";
 "DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "حذف الجميع";
-"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "الجميع ماعدا المفضلة";
+"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "الكل ماعدا المفضلة";
 "DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "تحديد جهات اتصال للحذف";
 
-"DELETE_STATUSES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الحالات أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك.";
-"DELETE_ALL_STATUSES_ALERT_BUTTON" = "حذف الجميع";
-"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "الجميع ماعدا المفضلة";
+"DELETE_STATUSES_ALERT_MESSAGE" = "يمكنك إما حذف كل الحالات أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك.";
+"DELETE_ALL_STATUSES_ALERT_BUTTON" = "حذف الكل";
+"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "الكل ماعدا المفضلة";
 "DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "تحديد جهات اتصال للحذف";
 
 "SAVED_PICTURES_LABEL" = "الصور المحفوظة";
@@ -124,7 +124,7 @@
 
 "BACKUP_EXPORT_ALERT_TITLE" = "تصدير الوسائط";
 "BACKUP_EXPORT_ALERT_MESSAGE" = "إنشاء نسخة احتياطية ZIP من الصور الشخصية والحالات المحفوظة لجهات اتصالك. لن يؤدي هذا إلى تصدير أي شيء يخصك إلى قاعدة بيانات Stalky.";
-"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "جميع الوسائط";
+"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "كل الوسائط";
 "BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "الوسائط المفضلة";
 "BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "قائمتك المفضلة لا تحتوي على أي جهات اتصال.";
 "BACKUP_EXPORT_ALERT_SELECT_CONTACTS_BUTTON" = "تحديد جهات الاتصال";
@@ -157,7 +157,7 @@
 "FORWARD" = "تحويل";
 
 "FAVORITE_CONTACTS" = "جهات الاتصال المفضلة";
-"ALL" = "الجميع";
+"ALL" = "الكل";
 "FAVORITES" = "المفضلة";
 "SELECT_ALL" = "تحديد الكل";
 "DESELECT_ALL" = "إلغاء تحديد الكل";
@@ -193,7 +193,7 @@
 
 /* Updates Table */
 
-"ALL_UPDATES_FILTER" = "جميع التحديثات";
+"ALL_UPDATES_FILTER" = "كل التحديثات";
 "ABOUT_UPDATES_FILTER" = "تحديثات الخبر";
 "PICTURE_UPDATES_FILTER" = "تحديثات الصورة الشخصية";
 "STATUS_UPDATES_FILTER" = "تحديثات الحالة";
@@ -213,8 +213,8 @@
 "SAVE_SHARE_TEXT" = "حفظ/مشاركة النص";
 "MESSAGE_GROUP" = "رسالة المجموعة";
 "MESSAGE_CONTACT" = "مراسلة جهة الاتصال";
-"ALL_SAVED_PICTURES_AND_STATUSES" = "جميع الوسائط المحفوظة";
-"ALL_ABOUT_UPDATES" = "جميع تحديثات الخبر";
+"ALL_SAVED_PICTURES_AND_STATUSES" = "كل الوسائط المحفوظة";
+"ALL_ABOUT_UPDATES" = "كل تحديثات الخبر";
 "ADD_TO_BLACKLIST" = "إضافة إلى القائمة السوداء";
 
 
