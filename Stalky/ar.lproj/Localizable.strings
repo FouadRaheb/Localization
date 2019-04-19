@@ -165,10 +165,10 @@
 
 /* Tweet */
 
-"CONTRIBUTE" = "Contribute";
-"TWEET_ABOUT_TWEAK" = "Tweet about Stalky";
-"DONATE_CUP_COFFEE" = "Buy me a cup of coffee";
-"NO_TWITTER_ACCOUNT_WARNING" = "You don't have any linked twitter account, add one from your device settings.";
+"CONTRIBUTE" = "المساهمة";
+"TWEET_ABOUT_TWEAK" = "التغريد عن Stalky";
+"DONATE_CUP_COFFEE" = "اشترِ لي كوب قهوة";
+"NO_TWITTER_ACCOUNT_WARNING" = "ليس لديك أي حساب تويتر مربوط، أضف واحدًا من إعدادات جهازك.";
 
 
 /* License Settings */
