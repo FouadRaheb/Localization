@@ -112,7 +112,7 @@
 
 "BACKUP_IMPORT_ALERT_TITLE" = "استيراد الوسائط";
 "BACKUP_IMPORT_ALERT_MESSAGE" = "قم باستيراد ملف ZIP من أجل استعادة الوسائط الخاصة بك. يجب أن يكون ملف الـ ZIP في نفس بنية ملفات الـ ZIP التي تم تصديرها.\nيمكن أن تحتوي على مجلدين وهما (الملفات الشخصية) و/أو (الحالات) ويأتي مع كل منهما مجلد يحتوي على معرفات واتساب الخاصة بجهات اتصالك، كما يجب أن تحتوي أسماء الملفات على التنسيق الصحيح.";
-"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "استيراد من خادم الويب";
+"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "استيراد من خادم ويب";
 "BACKUP_IMPORT_ALERT_FILES_BUTTON" = "استيراد من الملفات";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "قم بزيارة %@ على جهاز الكمبيوتر الخاص بك وقم بتحميل ملف ZIP.\nسيتم اكتشاف الملف تلقائيًا بمجرد تحميله.";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "انتظار ZIP";
@@ -123,23 +123,23 @@
 "BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "اكتمل الاستيراد";
 
 "BACKUP_EXPORT_ALERT_TITLE" = "تصدير الوسائط";
-"BACKUP_EXPORT_ALERT_MESSAGE" = "Create a backup ZIP of your contacts saved profile pictures and statuses. This will not export Stalky database which contains your contacts updates list.";
-"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "All Media";
-"BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "Favorites Media";
-"BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "Your favorite list does not contain any contact";
-"BACKUP_EXPORT_ALERT_SELECT_CONTACTS_BUTTON" = "Select Contacts";
-"BACKUP_EXPORT_SELECT_CONTACTS_NONE_SELECTED_MESSAGE" = "You need to select at least 1 contact in order to export the media.";
-"BACKUP_EXPORT_FAILED_ALERT_MESSAGE" = "Media export failed";
-"BACKUP_EXPORT_SHARE_BY_ACTIVITY_BUTTON" = "Share ZIP";
-"BACKUP_EXPORT_SHARE_BY_WEBSERVER_BUTTON" = "Export by WebServer";
-"BACKUP_EXPORT_SHARE_WEBSERVER_MESSAGE" = "Visit %@ on your PC and download the .zip file.";
-"BACKUP_EXPORT_SHARE_WEBSERVER_TITLE" = "Download ZIP";
+"BACKUP_EXPORT_ALERT_MESSAGE" = "إنشاء نسخة احتياطية ZIP من الصور الشخصية والحالات المحفوظة لجهات اتصالك. لن يؤدي هذا إلى تصدير أي شيء يخصك إلى قاعدة بيانات Stalky.";
+"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "جميع الوسائط";
+"BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "الوسائط المفضلة";
+"BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "قائمتك المفضلة لا تحتوي على أي جهات اتصال.";
+"BACKUP_EXPORT_ALERT_SELECT_CONTACTS_BUTTON" = "تحديد جهات الاتصال";
+"BACKUP_EXPORT_SELECT_CONTACTS_NONE_SELECTED_MESSAGE" = "تحتاج إلى تحديد جهة اتصال واحدة على الأقل لتصدير الوسائط.";
+"BACKUP_EXPORT_FAILED_ALERT_MESSAGE" = "فشل تصدير الوسائط";
+"BACKUP_EXPORT_SHARE_BY_ACTIVITY_BUTTON" = "مشاركة ZIP";
+"BACKUP_EXPORT_SHARE_BY_WEBSERVER_BUTTON" = "تصدير بواسطة خادم ويب";
+"BACKUP_EXPORT_SHARE_WEBSERVER_MESSAGE" = "قم بزيارة %@ على جهاز الكمبيوتر الخاص بك وقم بتنزيل ملف ZIP.";
+"BACKUP_EXPORT_SHARE_WEBSERVER_TITLE" = "تنزيل ZIP";
 
-"BACKUP_EXPORT_PROCESS_EXPORTING_STATUSES" = "Exporting Statuses";
-"BACKUP_EXPORT_PROCESS_EXPORTING_PROFILE_PICTURES" = "Exporting Profile Pictures";
+"BACKUP_EXPORT_PROCESS_EXPORTING_STATUSES" = "جارِ تصدير الحالات";
+"BACKUP_EXPORT_PROCESS_EXPORTING_PROFILE_PICTURES" = "جارِ تصدير الصور الشخصية";
 
-"BACKUP_WEBSERVER_STARTING_ERROR_MESSAGE" = "Error starting webserver";
-"BACKUP_WEBSERVER_STOP_BUTTON" = "Stop WebServer";
+"BACKUP_WEBSERVER_STARTING_ERROR_MESSAGE" = "خطأ في بدء خادم ويب";
+"BACKUP_WEBSERVER_STOP_BUTTON" = "إيقاف خادم ويب";
 
 
 /* Messages */
