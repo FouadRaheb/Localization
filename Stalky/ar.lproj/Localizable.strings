@@ -256,24 +256,24 @@
 
 /* Contact Info / Group Info Buttons */
 
-"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Statuses & Profile Pictures";
-"CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "About Messages";
-"CONTACT_INFO_GROUP_PICTURES_BUTTON" = "Group Pictures";
-"CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "Group Subjects";
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "الحالات والصور الشخصية";
+"CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "رسائل الخبر";
+"CONTACT_INFO_GROUP_PICTURES_BUTTON" = "صور المجموعة";
+"CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "أوصاف المجموعة";
 
 
 /* Messages */
 
-"PROFILE_IMAGE_NOT_FOUND" = "Image Not Found";
-"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "This is because you either deleted the saved images or your contact has changed the picture more than once while you were offline and we are unable to get this image since it has been replaced by the new one on WhatsApp server.";
+"PROFILE_IMAGE_NOT_FOUND" = "لم يتم العثور على صورة";
+"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "سبب هذا إما أنك قمت بحذف الصور المحفوظة أو أن جهة اتصالك غيرت الصورة أكثر من مرة بينما كنت غير متصل ولا يمكننا الحصول على هذه الصورة حيث تم استبدالها بالصورة الجديدة على خوادم واتساب.";
 
-"STATUS_MESSAGE_NOT_FOUND" = "Status Not Found";
-"STATUS_MESSAGE_NOT_FOUND_MESSAGE" = "The status message has either been removed or expired.";
+"STATUS_MESSAGE_NOT_FOUND" = "لم يتم العثور على حالة";
+"STATUS_MESSAGE_NOT_FOUND_MESSAGE" = "رسالة الحالة إما أنه قد تم إزالتها أو أن صلاحيتها انتهت.";
 
-"STATUS_MEDIA_DOWNLOAD_FAILED" = "Download Failed";
-"STATUS_MEDIA_DOWNLOAD_FAILED_MESSAGE" = "An error occured wihle downloading status media.";
+"STATUS_MEDIA_DOWNLOAD_FAILED" = "فشل التنزيل";
+"STATUS_MEDIA_DOWNLOAD_FAILED_MESSAGE" = "حدث خطأ أثناء تنزيل وسائط الحالة.";
 
-"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "Text Status";
+"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "حالات النص";
 "STATUS_TEXT_IMAGE_GENERATION_FAILED_MESSAGE" = "An error occured while generating an image from text status.";
 
 "STATUS_MEDIA_EXPIRED" = "Status Expired";
