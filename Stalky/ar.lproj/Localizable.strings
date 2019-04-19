@@ -287,8 +287,8 @@
 
 /* Date */
 
-"JUST_NOW" = "Just now";
-"M" = "m"; // Minute
-"H" = "h"; // Hour
-"AGO" = "ago";
+"JUST_NOW" = "الآن";
+"M" = "د"; // Minute
+"H" = "س"; // Hour
+"AGO" = "منذ";
 
