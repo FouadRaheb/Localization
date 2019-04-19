@@ -273,16 +273,16 @@
 "STATUS_MEDIA_DOWNLOAD_FAILED" = "فشل التنزيل";
 "STATUS_MEDIA_DOWNLOAD_FAILED_MESSAGE" = "حدث خطأ أثناء تنزيل وسائط الحالة.";
 
-"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "حالات النص";
-"STATUS_TEXT_IMAGE_GENERATION_FAILED_MESSAGE" = "An error occured while generating an image from text status.";
+"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "حالة النص";
+"STATUS_TEXT_IMAGE_GENERATION_FAILED_MESSAGE" = "حدث خطأ أثناء إنشاء صورة من حالة النص";
 
-"STATUS_MEDIA_EXPIRED" = "Status Expired";
-"STATUS_MEDIA_EXPIRED_MESSAGE" = "The status has either been expired or deleted.";
+"STATUS_MEDIA_EXPIRED" = "حالة منتهية الصلاحية";
+"STATUS_MEDIA_EXPIRED_MESSAGE" = "الحالة إما انتهت صلاحيتها أو تم حذفها.";
 
-"DELETE_CONTACT_UPDATES_AND_ADD_TO_BLACKLIST_MESSAGE" = "This will delete all available updates for %@ and will add it to blacklist in order stop receiving new updates. You can still access the previously saved media.";
-"REMOVE_CONTACT_FROM_BLACKLIST_MESSAGE" = "Start receiving updates from %@?";
+"DELETE_CONTACT_UPDATES_AND_ADD_TO_BLACKLIST_MESSAGE" = "سيؤدي هذا إلى حذف جميع التحديثات المتاحة لـ %@ وإضافته إلى القائمة السوداء لإيقاف تلقي التحديثات الجديدة. سيظل بإمكانك الوصول إلى وسائط الحالة المحفوظة مسبقًا.";
+"REMOVE_CONTACT_FROM_BLACKLIST_MESSAGE" = "بدء تلقي التحديثات من %@؟";
 
-"WELCOME_MESSAGE" = "Thanks for installing!\nStalky is a free tweak with a little ads banner at the bottom of updates table.\nAds can be removed by purchasing a license from inside its settings page.\nIf you already purchased Stalky, you have to restore your license from settings.\nYou can also tweet from the app for 2 days ad-free.";
+"WELCOME_MESSAGE" = "شكرًا للتثبيت!\nStalky عبارة عن أداة مجانية مع القليل من شعارات الإعلانات الموجودة أسفل جدول التحديثات.\nيمكن إزالة الإعلانات بواسطة شراء ترخيص من صفحة الإعدادات الداخلية.\nإذا كنت قد اشتريت Stalky بالفعل، فقم باستعادة ترخيصك من الإعدادات.\nيمكن أيضًا التغريد من التطبيق للحصول على يومين بدون إعلانات.";
 
 
 /* Date */
