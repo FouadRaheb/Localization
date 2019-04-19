@@ -220,16 +220,16 @@
 
 /* Updates Table Messages */
 
-"DELETED_PROFILE_PICTURE_UPDATE" = "Deleted profile picture";
-"CHANGED_PROFILE_PICTURE_UPDATE" = "Changed profile picture";
+"DELETED_PROFILE_PICTURE_UPDATE" = "تم حذف الصورة الشخصية";
+"CHANGED_PROFILE_PICTURE_UPDATE" = "تم تغيير الصورة الشخصية";
 
-"CONTACT_JOINED_WHATSAPP_UPDATE" = "Joined WhatsApp";
-"CONTACT_DELETED_WHATSAPP_UPDATE" = "Deleted WhatsApp account";
+"CONTACT_JOINED_WHATSAPP_UPDATE" = "انضم إلى واتساب";
+"CONTACT_DELETED_WHATSAPP_UPDATE" = "تم حذف حساب واتساب";
 
-"ADDED_NEW_IMAGE_STATUS_UPDATE" = "Added a new image status";
-"ADDED_NEW_VIDEO_STATUS_UPDATE" = "Added a new video status";
-"ADDED_NEW_GIF_STATUS_UPDATE" = "Added a new GIF status";
-"ADDED_NEW_TEXT_STATUS_UPDATE" = "Added a new text status";
+"ADDED_NEW_IMAGE_STATUS_UPDATE" = "تم إضافة صورة حالة جديدة";
+"ADDED_NEW_VIDEO_STATUS_UPDATE" = "تم إضافة فيديو حالة جديد";
+"ADDED_NEW_GIF_STATUS_UPDATE" = "تم إضافة GIF حالة جديد";
+"ADDED_NEW_TEXT_STATUS_UPDATE" = "تم إضافة نص حالة جديد";
 
 
 /* Notification Messages */
