@@ -234,24 +234,24 @@
 
 /* Notification Messages */
 
-"DELETE_PROFILE_PICTURE_NOTIFICATION" = "deleted profile picture";
-"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "changed profile picture";
-"CHANGED_ABOUT_NOTIFICATION" = "changed about to";
+"DELETE_PROFILE_PICTURE_NOTIFICATION" = "قام بحذف الصورة الشخصية";
+"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "قام بتغيير صورته الشخصية";
+"CHANGED_ABOUT_NOTIFICATION" = "قام بتغيير خبره إلى";
 
-"CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "joined WhatsApp";
-"CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "deleted WhatsApp account";
+"CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "انضم إلى واتساب";
+"CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "قام بحذف حساب واتساب";
 
-"ADDED_NEW_IMAGE_STATUS_NOTIFICATION" = "added a new image status";
-"ADDED_NEW_VIDEO_STATUS_NOTIFICATION" = "added a new video status";
-"ADDED_NEW_GIF_STATUS_NOTIFICATION" = "added a new GIF status";
-"ADDED_NEW_TEXT_STATUS_NOTIFICATION" = "added a new text status";
+"ADDED_NEW_IMAGE_STATUS_NOTIFICATION" = "قام بإضافة صورة حالة جديدة";
+"ADDED_NEW_VIDEO_STATUS_NOTIFICATION" = "قام بإضافة فيديو حالة جديد";
+"ADDED_NEW_GIF_STATUS_NOTIFICATION" = "قام بإضافة GIF حالة جديد";
+"ADDED_NEW_TEXT_STATUS_NOTIFICATION" = "قام بإضافة نص حالة جديد";
 
-"DELETED_GROUP_PICTURE_NOTIFICATION" = "deleted group profile picture";
-"CHANGED_GROUP_PICTURE_NOTIFICATION" = "changed group profile picture";
-"CHANGED_GROUP_SUBJECT_NOTIFICATION" = "changed group subject to";
+"DELETED_GROUP_PICTURE_NOTIFICATION" = "قام بحذف صورة المجموعة الشخصية";
+"CHANGED_GROUP_PICTURE_NOTIFICATION" = "قام بتغيير صورة المجموعة الشخصية";
+"CHANGED_GROUP_SUBJECT_NOTIFICATION" = "قام بتغيير وصف المحموعة إلى";
 
-"CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "is added to the group";
-"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "is removed from the group";
+"CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "تم إضافته إلى المجموعة";
+"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "تم إزالته من المجموعة";
 
 
 /* Contact Info / Group Info Buttons */
