@@ -62,7 +62,7 @@
 
 /* Disk Usage */
 
-"DISK_USAGE_TITLE" = "استخدام التخزين";
+"DISK_USAGE_TITLE" = "التخزين المستخدم";
 
 "PROFILE_PICTURES_USAGE_TITLE" = "الصور الشخصية";
 "PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "عرض الصور المحفوظة";
@@ -144,23 +144,23 @@
 
 /* Messages */
 
-"RELAUNCH_APP_MESSAGE" = "You need to relaunch WhatsApp in order to apply changes";
+"RELAUNCH_APP_MESSAGE" = "تحتاج إلى إعادة تشغيل واتساب لتطبيق التغييرات";
 
-"RELAUNCH" = "Relaunch";
-"CANCEL" = "Cancel";
-"OKAY" = "Okay";
-"DELETE" = "Delete";
-"DELETING" = "Deleting...";
-"LOADING" = "Loading...";
-"ENABLE" = "Enable";
-"LATER" = "Later";
-"FORWARD" = "Forward";
+"RELAUNCH" = "إعادة تشغيل";
+"CANCEL" = "إلغاء";
+"OKAY" = "حسنًا";
+"DELETE" = "حذف";
+"DELETING" = "جارِ الحذف";
+"LOADING" = "جارِ التحميل...";
+"ENABLE" = "تفعيل";
+"LATER" = "لاحقًا";
+"FORWARD" = "تحويل";
 
-"FAVORITE_CONTACTS" = "Favorite Contacts";
-"ALL" = "All";
-"FAVORITES" = "Favorites";
-"SELECT_ALL" = "Select All";
-"DESELECT_ALL" = "Deselect All";
+"FAVORITE_CONTACTS" = "جهات الاتصال المفضلة";
+"ALL" = "الجميع";
+"FAVORITES" = "المفضلة";
+"SELECT_ALL" = "تحديد الكل";
+"DESELECT_ALL" = "إلغاء تحديد الكل";
 
 
 /* Tweet */
