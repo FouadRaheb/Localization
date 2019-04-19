@@ -205,17 +205,17 @@
 
 /* Action Buttons */
 
-"COPY_SHARE_SUBJECT" = "Copy/Share Subject";
-"COPY_SHARE_ABOUT" = "Copy/Share About";
-"SAVE_SHARE_IMAGE" = "Save/Share Image";
-"SAVE_SHARE_VIDEO" = "Save/Share Video";
-"SAVE_SHARE_GIF" = "Save/Share GIF";
-"SAVE_SHARE_TEXT" = "Save/Share Text";
-"MESSAGE_GROUP" = "Message Group";
-"MESSAGE_CONTACT" = "Message Contact";
-"ALL_SAVED_PICTURES_AND_STATUSES" = "All Saved Media";
-"ALL_ABOUT_UPDATES" = "All About Updates";
-"ADD_TO_BLACKLIST" = "Add to Blacklist";
+"COPY_SHARE_SUBJECT" = "نسخ/مشاركة الوصف";
+"COPY_SHARE_ABOUT" = "نسخ/مشاركة الخبر";
+"SAVE_SHARE_IMAGE" = "حفظ/مشاركة الصورة";
+"SAVE_SHARE_VIDEO" = "حفظ/مشاركة الفيديو";
+"SAVE_SHARE_GIF" = "حفظ/مشاركة الـ GIF";
+"SAVE_SHARE_TEXT" = "حفظ/مشاركة النص";
+"MESSAGE_GROUP" = "رسالة المجموعة";
+"MESSAGE_CONTACT" = "مراسلة جهة الاتصال";
+"ALL_SAVED_PICTURES_AND_STATUSES" = "جميع الوسائط المحفوظة";
+"ALL_ABOUT_UPDATES" = "جميه تحديثات الخبر";
+"ADD_TO_BLACKLIST" = "إضافة إلى القائمة السوداء";
 
 
 /* Updates Table Messages */
