@@ -92,7 +92,7 @@
 "DELETE_ALL_IMAGES_DESCRIPTION" = "سيؤدي حذف الصور إلى إزالة جميع ملفات JPG مع الاحتفاظ بالصور المصغرة التي تُستخدم لإظهار صور جهات اتصالك في واتساب.";
 "DELETE_SELECTED_CONTACTS_MEDIA_NO_CONTACTS_SELECTED_MESSAGE" = "تحتاج إلى تحديد جهة اتصال واحدة على الأقل لحذف الحالات";
 
-"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الصور الشخصية أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك. ";
+"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "يمكنك إما حذف جميع الصور الشخصية أو الاحتفاظ بتلك الخاصة بجهات الاتصال المفضلة لديك.";
 "DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "حذف الجميع";
 "DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "الكل ماعدا المفضلة";
 "DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "تحديد جهات اتصال للحذف";
