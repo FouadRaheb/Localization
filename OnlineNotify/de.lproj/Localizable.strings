@@ -75,7 +75,7 @@
 "DELETE_ALL_LOGS_FOR_WARNING" = "Dies löscht alle Logs für";
 "DELETE_ALL_LOGS_WARNING" = "Dies löscht ALLE Logs.";
 
-"RELAUNCH_MESSAGE" = "WhatsApp muss einmal neu starten, damit die Änderungen wirksam werden.";
+"RELAUNCH_MESSAGE" = "WhatsApp muss neu gestartet werden, damit die Änderungen wirksam werden.";
 
 /* Notifications */
 "ONLINE" = "Online";
