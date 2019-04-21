@@ -94,11 +94,11 @@
 
 "DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "Lösche entweder alle Profilbilder oder behalte die Favoriten der bevorzugten Kontakte bei.";
 "DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Alles löschen";
-"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = Alle außer Favoriten";
+"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "Alle außer Favoriten";
 "DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Wähle Kontakte zum löschen";
 
 "DELETE_STATUSES_ALERT_MESSAGE" = "Lösche entweder alle Status oder behalte Status bevorzugter Kontakte bei.";
-"DELETE_ALL_STATUSES_ALERT_BUTTON" = Alles löschen";
+"DELETE_ALL_STATUSES_ALERT_BUTTON" = "Alles löschen";
 "DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "Alle außer Favoriten";
 "DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Kontakte zum löschen auswählen";
 
@@ -265,8 +265,7 @@
 /* Messages */
 
 "PROFILE_IMAGE_NOT_FOUND" = "Bild nicht gefunden";
-"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "
-Dies liegt daran, dass die gespeicherten Bilder entweder gelöscht wurden oder Ihr Kontakt das Bild mehrmals geändert hat, als Sie offline waren. Das Bild kann nicht erhalten werden, da es durch das neue auf dem WhatsApp-Server ersetzt wurde.";
+"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "Dies liegt daran, dass die gespeicherten Bilder entweder gelöscht wurden oder Ihr Kontakt das Bild mehrmals geändert hat, als Sie offline waren. Das Bild kann nicht erhalten werden, da es durch das neue auf dem WhatsApp-Server ersetzt wurde.";
 
 "STATUS_MESSAGE_NOT_FOUND" = "Status nicht gefunden";
 "STATUS_MESSAGE_NOT_FOUND_MESSAGE" = "Die Statusmeldung wurde entweder entfernt oder ist abgelaufen.";
