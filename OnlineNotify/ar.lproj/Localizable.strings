@@ -12,10 +12,10 @@
 
 "ONLINE_NOTIFICATION_LABEL" = "إشعارت متصل الآن";
 "OFFLINE_NOTIFICATION_LABEL" = "إشعارت غير متصل";
-"TYPING_NOTIFICATION_LABEL" = "إشعارات جارِ الكتابة";
+"TYPING_NOTIFICATION_LABEL" = "إشعارات الكتابة";
 "RECORDING_NOTIFICATION_LABEL" = "إشعارات تسجيل المقطع الصوتي";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "إشعارات قراءة الرسائل";
-"NOTIFICATIONS_DESCRIPTION" = "";
+"NOTIFICATIONS_DESCRIPTION" = "- احصل على إشعارات متصل الآن/غير متصل لمستخدمين محددين. (أضف مستخدمين من جدول التتبع)\n- احصل على إشعار عندما يبدأ شخص ما من جهات اتصالك بكتابة رسالة في دردشتك.\n- احصل على إشعار عندما تقرأ جهة اتصالك رسائلك المرسلة.";
 "LOG_NOTIFCATIONS_LABEL" = "سجلات الإشعارات";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "تسجيل الإشعارات متصل الآن  / غير متصل / جاري الكتابة كل جهة الاتصال التي تتلقاها، يمكنك التحقق من جدول التتبع و سجلات جهة الاتصال";
 
