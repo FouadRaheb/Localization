@@ -71,6 +71,7 @@
 "EXPORT" = "Esporta";
 
 /* Messages */
+
 "ZIP_AND_EXPORT_LOGS" = "Comprimi ed esporta tutti i log";
 "DELETE_ALL_LOGS_WARNING" = "Questa azione eliminerà tutti i log.";
 "DELETE_ALL_LOGS_FOR_WARNING" = "Questa azione eliminerà tutti i log per.";
@@ -78,6 +79,7 @@
 "RELAUNCH_MESSAGE" = "Whatsapp deve essere riavviato per rendere effettive le modifiche";
 
 /* Notifications */
+
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "sta scrivendo...";
@@ -88,3 +90,14 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha letto il tuo messaggio nel gruppo";
 "HAS_RECEIVED_YOUR_MESSAGES" = "ha ricevuto il tuo messaggio";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha ricevuto il tuo messaggio nel gruppo";
+
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_SECTION_HEADER" = "Versions";

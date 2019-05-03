@@ -71,6 +71,7 @@
 "EXPORT" = "Exportieren";
 
 /* Messages */
+
 "ZIP_AND_EXPORT_LOGS" = "Log-Dateien packen und exportieren";
 "DELETE_ALL_LOGS_FOR_WARNING" = "Dies löscht alle Logs für";
 "DELETE_ALL_LOGS_WARNING" = "Dies löscht ALLE Logs.";
@@ -78,6 +79,7 @@
 "RELAUNCH_MESSAGE" = "WhatsApp muss neu gestartet werden, damit die Änderungen wirksam werden.";
 
 /* Notifications */
+
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "schreibt...";
@@ -88,3 +90,14 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "hat deine Nachrichten in der Gruppe gelesen";
 "HAS_RECEIVED_YOUR_MESSAGES" = "hat deine Nachrichten erhalten";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "hat deine Nachrichten in der Gruppe erhalten";
+
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_SECTION_HEADER" = "Versions";

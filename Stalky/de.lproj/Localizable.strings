@@ -3,7 +3,7 @@
 "STALKY_PREFERENCES_LABEL" = "Stalky Einstellungen";
 
 
-/* Updates Table */
+/* Updates Table Settings */
 
 "UPDATES_TABLE_TITLE" = "Update Tabelle";
 
@@ -203,6 +203,12 @@
 "DELETE_ALL_UPDATE_WARNING" = "Diese Aktion löscht alle Updates.";
 
 
+/* Gallery */
+
+"STATUSES_SEGMENT_ITEM" = "Statuses";
+"PROFILE_PICTURES_SEGMENT_ITEM" = "Profile Pictures";
+
+
 /* Action Buttons */
 
 "COPY_SHARE_SUBJECT" = "Betreff kopieren/teilen";
@@ -283,6 +289,18 @@
 "REMOVE_CONTACT_FROM_BLACKLIST_MESSAGE" = "Erhalten Sie Updates von %@?";
 
 "WELCOME_MESSAGE" = "Danke für's installieren!\nStalky ist ein kostenloser Tweak mit einem kleinen Werbebanner am unteren Rand der Aktualisierungstabelle.\nAnzeigen können durch den Kauf einer Lizenz auf der Einstellungsseite entfernt werden.\nWenn Sie Stalky bereits gekauft haben, müssen Sie Ihre Lizenz bei den Einstellungen wiederherstellen.\nSie können auch für 2 Tage ohne Werbung von der App aus twittern.";
+
+
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_SECTION_HEADER" = "Versions";
 
 
 /* Date */

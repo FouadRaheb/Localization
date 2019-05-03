@@ -3,7 +3,7 @@
 "STALKY_PREFERENCES_LABEL" = "Stalky Preferences";
 
 
-/* Updates Table */
+/* Updates Table Settings */
 
 "UPDATES_TABLE_TITLE" = "Updates Table";
 
@@ -203,6 +203,12 @@
 "DELETE_ALL_UPDATE_WARNING" = "This action will delete all updates.";
 
 
+/* Gallery */
+
+"STATUSES_SEGMENT_ITEM" = "الحالات";
+"PROFILE_PICTURES_SEGMENT_ITEM" = "Profile Pictures";
+
+
 /* Action Buttons */
 
 "COPY_SHARE_SUBJECT" = "Copy/Share Subject";
@@ -285,10 +291,21 @@
 "WELCOME_MESSAGE" = "Thanks for installing!\nStalky is a free tweak with a little ads banner at the bottom of updates table.\nAds can be removed by purchasing a license from inside its settings page.\nIf you already purchased Stalky, you have to restore your license from settings.\nYou can also tweet from the app for 2 days ad-free.";
 
 
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_SECTION_HEADER" = "Versions";
+
+
 /* Date */
 
 "JUST_NOW" = "Just now";
 "M" = "m"; // Minute
 "H" = "h"; // Hour
 "AGO" = "ago";
-

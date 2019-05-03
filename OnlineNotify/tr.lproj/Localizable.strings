@@ -71,6 +71,7 @@
 "EXPORT" = "Dışa aktar";
 
 /* Messages */
+
 "ZIP_AND_EXPORT_LOGS" = "Günlükleri zipleyip dışa aktarır.";
 "DELETE_ALL_LOGS_WARNING" = "TÜM günlükleri siler.";
 "DELETE_ALL_LOGS_FOR_WARNING" = "Şu kişi için tüm günlükleri siler";
@@ -78,6 +79,7 @@
 "RELAUNCH_MESSAGE" = "Değişiklerin olması için WhatsApp'ı yeniden başlat.";
 
 /* Notifications */
+
 "ONLINE" = "Çevrimiçi";
 "OFFLINE" = "Çevrimdışı";
 "IS_TYPING" = "yazıyor...";
@@ -88,3 +90,14 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "grup mesajınızı okudu";
 "HAS_RECEIVED_YOUR_MESSAGES" = "mesajınızı aldı";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "grup mesajınızı aldı";
+
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Contact & More";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
+"CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSIONS_SECTION_HEADER" = "Versions";
