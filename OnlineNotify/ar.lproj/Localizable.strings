@@ -4,19 +4,18 @@
 
 "ONLINE_CONTACTS" = "جهات الاتصال المتصلة";
 
-"TRACKING_TABLE" = "جدول التتبع";
-"CONTACT_LOGS" = "سجلات جهات الاتصال";
+"TRACKING_TABLE" = "قائمة التتبع";
+"CONTACT_LOGS" = "سجلات جهة الاتصال";
 
-"ENABLE_DESCRIPTION" = "التمكين من بدء تلقي الإشعارات";
-"ENABEL_LABEL" = "تمكين الإشعارات";
+"ENABLE_DESCRIPTION" = "تفعيل لبدء تلقي الإشعارات";
+"ENABEL_LABEL" = "تفعيل الإشعارات";
 
-"ONLINE_NOTIFICATION_LABEL" = "تمكين إشعارت متصل الآن";
-"OFFLINE_NOTIFICATION_LABEL" = "تمكين إشعارت غير متصل";
-"TYPING_NOTIFICATION_LABEL" = "تمكين إشعارات جاري الكتابة";
-"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
-"READ_MESSAGE_NOTIFICATION_LABEL" = "تمكين إشعارات قراءة الرسالة";
-"NOTIFICATIONS_DESCRIPTION" = "- احصل على إشعار متصل الآن / غير متصل.. للمستخدمين ولتحديد جهات إتصال يجب إضافة مستخدمين من جدول التتبع\n- الحصول على إشعار عند أي شخص من جهات الاتصال الخاصة بك يبدأ الكتابة في الدردشة\n- الحصول على إشعار عندما يقرأ جهة الاتصال الرسائل المرسلة";
-
+"ONLINE_NOTIFICATION_LABEL" = "إشعارت متصل الآن";
+"OFFLINE_NOTIFICATION_LABEL" = "إشعارت غير متصل";
+"TYPING_NOTIFICATION_LABEL" = "إشعارات جارِ الكتابة";
+"RECORDING_NOTIFICATION_LABEL" = "إشعارات تسجيل المقطع الصوتي";
+"READ_MESSAGE_NOTIFICATION_LABEL" = "إشعارات قراءة الرسائل";
+"NOTIFICATIONS_DESCRIPTION" = "";
 "LOG_NOTIFCATIONS_LABEL" = "سجلات الإشعارات";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "تسجيل الإشعارات متصل الآن  / غير متصل / جاري الكتابة كل جهة الاتصال التي تتلقاها، يمكنك التحقق من جدول التتبع و سجلات جهة الاتصال";
 
