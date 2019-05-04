@@ -86,14 +86,14 @@
 "IS_NOW_ONLINE" = "متصل الآن";
 "HAS_GONE_OFFLINE_AT" = "ترك واتساب في";
 "HAS_READ_YOUR_MESSAGES" = "قرأ رسائلك";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "لقد قرأ رسالتك في مجموعتك";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "قرأ رسائلك في المجموعة";
 "HAS_RECEIVED_YOUR_MESSAGES" = "تلقى رسائلك";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "تلقى رسائل مجموعتك";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "تلقى رسائلك في المجموعة";
 
 /* Developer & Support Section */
 
 "DEVELOPER_SECTION_HEADER" = "المطور";
-"CONTRIBUTE_LABEL" = "الدعم";
+"CONTRIBUTE_LABEL" = "المساهمة";
 
 "SUPPORT_SECTION_HEADER" = "الدعم";
 "CONTACT_AND_MORE_LABEL" = "التواصل والمزيد";
