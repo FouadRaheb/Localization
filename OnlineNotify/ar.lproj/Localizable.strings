@@ -71,9 +71,9 @@
 
 /* Messages */
 
-"ZIP_AND_EXPORT_LOGS" = "حزم السجالات وارسالها";
-"DELETE_ALL_LOGS_WARNING" = "حذف جميع السجلات";
-"DELETE_ALL_LOGS_FOR_WARNING" = "حذف جميع السجلات ل";
+"ZIP_AND_EXPORT_LOGS" = "ضغط وتصدير كل السجلات";
+"DELETE_ALL_LOGS_WARNING" = "هذا الإجراء سيقوم بحذف كل السجلات";
+"DELETE_ALL_LOGS_FOR_WARNING" = "هذا الإجراء سيقوم بحذف كل السجلات لـ";
 
 "RELAUNCH_MESSAGE" = "تحتاج إلى إعادة تشغيل WhatsApp من أجل تطبيق التغييرات";
 
