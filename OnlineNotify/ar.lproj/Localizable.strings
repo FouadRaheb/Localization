@@ -42,15 +42,15 @@
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "إضافة صف أعلى قائمة دردشات للتحقق من جهات الاتصال المتصلة الأن";
 "ONLINE_CONTACTS_LIST_LABEL" = "جهات الاتصال المتصلة";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "ميزة جهات الاتصال المتصلة كانت دائمًا سببًا في الحصول على الحظر من إمكانية طلب رؤية آخر ظهور لجهات اتصالك وعادة ما يتم الإصلاح بعد بضع ساعات. وسبب هذا الحظر يعود إلى العدد الكبير جدًا من الطلبات لأنك تجلب آخر ظهور قائمة جهات اتصالك بأكملها.\n\nولذلك، قررت جعل هذه القائمة تُظهر فقط جهات الاتصال التي تختار متابعتها وليس جهات اتصالك بأكملها.";
-"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "List Settings";
-"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Selected Contacts";
-"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Show Offline Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Show Lastseen of Offline Contacts";
+"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "إعدادات القائمة";
+"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "جهات الاتصال المحددة";
+"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "جهات الاتصال";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "إظهار جهات الاتصال غير المتصلة";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "إظهار آخر طهور لجهات الاتصال غير المتصلة";
 
-"ENABLE_NOTIFICATIONS_ALERT" = "يحتاج إلى إعادة تشغيل ال WhatsApp لتمكين الإشعارات";
-"DISABLE_NOTIFICATIONS_ALERT" = "يحتاج إلى إعادة تشغيل ال WhatsApp من أجل تعطيل الإشعارات";
-"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "عند تفعيل الإشعارات خارج التطبيق سوف تكون متصلا على واي فاي الخاص بك بعد أن يتم قفل الجهاز وسوف تظهر دائما أون لاين وحتى عندما يكون الـ WhatsApp في الخلفية";
+"ENABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتفعيل الإشعارات";
+"DISABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتعطيل الإشعارات";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "";
 
 "CHATS_LIST_LABEL" = "قائمة الدردشات";
 "CHATS_LIST_DESCRIPTION" = "يضيف المؤشر الأخضر بجوار المستخدمون المتصلين في قائمة الدردشات";
