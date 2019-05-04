@@ -50,23 +50,23 @@
 
 "ENABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتفعيل الإشعارات";
 "DISABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتعطيل الإشعارات";
-"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "سيؤدي تفعيل الإشعارات الخارجية إلى إبقاء الـ WiFi لديك نشطًا بعد قفل الجهاز وستظهر أنت كمتصل الآن حتى عندما يكون واتساب في الخلفية";
 
 "CHATS_LIST_LABEL" = "قائمة الدردشات";
-"CHATS_LIST_DESCRIPTION" = "يضيف المؤشر الأخضر بجوار المستخدمون المتصلين في قائمة الدردشات";
+"CHATS_LIST_DESCRIPTION" = "إضافة مؤشر أخضر بجوار المستخدمين المتصلين الآن في قائمة الدردشات.";
 
-"ONLINE_INDICATOR" = "المؤشر متصل الآن";
-"LAST_SEEN" = "اخر ظهور";
+"ONLINE_INDICATOR" = "مؤشر متصل الآن";
+"LAST_SEEN" = "آخر ظهور";
 
 "ADD_CONTACT" = "إضافة جهة اتصال";
-"CONTACT_ALREADY_EXISTS" = "جهة الاتصال موجود بالفعل";
+"CONTACT_ALREADY_EXISTS" = "جهة الاتصال موجودة بالفعل";
 
-"RELAUNCH" = "اعادة التشغيل";
-"LATER" = "لاحقاً";
+"RELAUNCH" = "إعادة التشغيل";
+"LATER" = "لاحقًا";
 "CANCEL" = "إلغاء";
-"OKAY" = "تم";
+"OKAY" = "حسنًا";
 "DELETE" = "حذف";
-"ENABLE" = "تمكين";
+"ENABLE" = "تفعيل";
 "EXPORT" = "تصدير";
 
 /* Messages */
