@@ -41,7 +41,7 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "إضافة صف أعلى قائمة دردشات للتحقق من جهات الاتصال المتصلة الأن";
 "ONLINE_CONTACTS_LIST_LABEL" = "جهات الاتصال المتصلة";
-"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Online Contacts feature has always been a reason for getting blocked from requesting your contacts lastseen which usually gets fixed after few hours. The reason of this block is due to the large number of requests because you are fetching the lastseen of your whole contacts list.\n\nTherefore, I have decided to make this list an online list of the contacts you choose to follow and not of all your contacts list.";
+"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "ميزة جهات الاتصال المتصلة كانت دائمًا سببًا في الحصول على الحظر من إمكانية طلب رؤية آخر ظهور لجهات اتصالك وعادة ما يتم الإصلاح بعد بضع ساعات. وسبب هذا الحظر يعود إلى العدد الكبير جدًا من الطلبات لأنك تجلب آخر ظهور قائمة جهات اتصالك بأكملها.\n\nولذلك، قررت جعل هذه القائمة تُظهر فقط جهات الاتصال التي تختار متابعتها وليس جهات اتصالك بأكملها.";
 "ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "List Settings";
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Selected Contacts";
 "ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
