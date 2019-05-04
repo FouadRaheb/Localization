@@ -22,15 +22,15 @@
 "SELECTED_TYPING_LABEL" = "الكتابة للمفضلة";
 "SELECTED_RECORDING_LABEL" = "التسجيل للمفضلة";
 "SELECTED_READ_MESSAGE_LABEL" = "قراءة الرسائل للمفضلة";
-"SELECTED_NOTIFICATION_DESCRIPTION" = "- احصل على إشعارات متصل الآن/غير متصل لمستخدمين محددين. (أضف مستخدمين من جدول التتبع)\n- احصل على إشعار عندما يبدأ شخص ما من جهات اتصالك بكتابة رسالة في دردشتك.\n- احصل على إشعار عندما تقرأ جهة اتصالك رسائلك المرسلة.";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "تلقي إشعارات الكتابة وقراءة الرسائل فقط لجهات الاتصال المفضلة التي حددتها في جدول التتبع.";
 
-"SHOW_TEST_NOTIFICATION" = "عرض إشعار كتجربة";
-"TEST_NOTIFICATION_MESSAGE" = "نموذج عن اشعارات";
+"SHOW_TEST_NOTIFICATION" = "عرض إشعار كمثال";
+"TEST_NOTIFICATION_MESSAGE" = "مثال على رسالة الإشعار";
 
 "NOTIFICATION_SOUND_LABEL" = "صوت الإشعارات";
-"NOTIFICATION_SOUND_DESCRIPTION" = "أختر صوت للإشعارات";
+"NOTIFICATION_SOUND_DESCRIPTION" = "اختر صوت للإشعارات";
 
-"OUTSIDE_NOTIFICATIONS" = "الإشعارات في الخارج";
+"OUTSIDE_NOTIFICATIONS" = "الإشعارات الخارجية";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "الحصول على الإشعارات خارج ال واتساب. انتبه أن ال WhatsApp يحتاج إلى أن تكون نشطة في الخلفية، وسوف تظهر دائما أون لاين.";
 
 "FAVORITES_LIST_LABEL" = "قائمة المفضلة";
