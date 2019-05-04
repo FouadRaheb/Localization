@@ -46,7 +46,7 @@
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "جهات الاتصال المحددة";
 "ONLINE_CONTACTS_LIST_PICKER_TITLE" = "جهات الاتصال";
 "ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "إظهار جهات الاتصال غير المتصلة";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "إظهار آخر طهور لجهات الاتصال غير المتصلة";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "إظهار آخر ظهور لجهات الاتصال غير المتصلة";
 
 "ENABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتفعيل الإشعارات";
 "DISABLE_NOTIFICATIONS_ALERT" = "تحتاج إلى إعادة تشغيل واتساب لتعطيل الإشعارات";
@@ -84,7 +84,7 @@
 "IS_TYPING" = "يكتب...";
 "IS_RECORDING" = "يسجل مقطع صوتي...";
 "IS_NOW_ONLINE" = "متصل الآن";
-"HAS_GONE_OFFLINE_AT" = "ترك واتساب في";
+"HAS_GONE_OFFLINE_AT" = "غادر واتساب في";
 "HAS_READ_YOUR_MESSAGES" = "قرأ رسائلك";
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "قرأ رسائلك في المجموعة";
 "HAS_RECEIVED_YOUR_MESSAGES" = "تلقى رسائلك";
