@@ -75,17 +75,17 @@
 "DELETE_ALL_LOGS_WARNING" = "هذا الإجراء سيقوم بحذف كل السجلات";
 "DELETE_ALL_LOGS_FOR_WARNING" = "هذا الإجراء سيقوم بحذف كل السجلات لـ";
 
-"RELAUNCH_MESSAGE" = "تحتاج إلى إعادة تشغيل WhatsApp من أجل تطبيق التغييرات";
+"RELAUNCH_MESSAGE" = "تحتاج إلى إعادة تشغيل واتساب لتطبيق التغييرات";
 
 /* Notifications */
 
 "ONLINE" = "متصل الآن";
 "OFFLINE" = "غير متصل";
-"IS_TYPING" = "يكتب الأن...";
-"IS_RECORDING" = "يسجل الآن ...";
+"IS_TYPING" = "يكتب...";
+"IS_RECORDING" = "يسجل مقطع صوتي...";
 "IS_NOW_ONLINE" = "متصل الآن";
-"HAS_GONE_OFFLINE_AT" = "لقد غادر الوتساب وغير متصل منذ";
-"HAS_READ_YOUR_MESSAGES" = "لقد قرأ رسائلك";
+"HAS_GONE_OFFLINE_AT" = "ترك واتساب في";
+"HAS_READ_YOUR_MESSAGES" = "قرأ رسائلك";
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "لقد قرأ رسالتك في مجموعتك";
 "HAS_RECEIVED_YOUR_MESSAGES" = "تلقى رسائلك";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "تلقى رسائل مجموعتك";
