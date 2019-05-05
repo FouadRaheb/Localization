@@ -99,7 +99,7 @@
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
 
-"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات";
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
 
 "STATUS_HIDE_TABBAR_BADGES_DESC" = "إخفاء شارة النقطة الزرقاء التي تظهر على أيقونة زر الحالة في الشريط السفلي للتطبيق عندما تكون هناك حالات جديدة.";
