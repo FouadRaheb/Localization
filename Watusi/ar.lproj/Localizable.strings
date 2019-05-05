@@ -262,7 +262,7 @@
 "CHAT_PROTECTION_UNLOCK_BUTTON" = "فتح القفل";
 "CHAT_PROTECTION_LOCK_BUTTON" = "قفل";
 
-"HIDE_LAST_MESSAGE_LABEL" = "اخفاء آخر رسالة";
+"HIDE_LAST_MESSAGE_LABEL" = "إخفاء آخر رسالة";
 "HIDE_LAST_MESSAGE_NONE" = "لا شيء";
 "HIDE_LAST_MESSAGE_LOCKED" = "مقفل";
 "HIDE_LAST_MESSAGE_ALL" = "الكل";
