@@ -613,16 +613,16 @@
 
 /* Promo Code */
 
-"REDEEM_TITLE" = "استبدال";
-"REDEEM_BUTTON" = "استبدال";
-"REDEEM_CODE" = "استبدال الكود";
-"BAD_PROMO_CODE_FORMAT_MESSAGE" = "كود غير صالح";
-"ENTER_PROMO_CODE_MESSAGE" = "قم بإدخال الكود";
-"REDEEM_SUCCESSFULL_TITLE" = "تم استبدال الكود بنجاح";
+"REDEEM_TITLE" = "تحصيل";
+"REDEEM_BUTTON" = "تحصيل";
+"REDEEM_CODE" = "تحصيل الرمز";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "رمز غير صالح";
+"ENTER_PROMO_CODE_MESSAGE" = "قم بإدخال الرمز";
+"REDEEM_SUCCESSFULL_TITLE" = "تم تحصيل الرمز بنجاح";
 "REDEEM_SUCCESSFULL_MESSAGE" = "تم اضافة ترخيص Watusi إلى حسابك";
-"REDEEM_FAILED_TITLE" = "فشل الاستبدال";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "الكود غير صالح";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "كود خاطئ";
+"REDEEM_FAILED_TITLE" = "فشل التحصيل";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "الرمز غير صالح";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "رمز خاطئ";
 
 
 /* Button */
@@ -633,7 +633,7 @@
 "CANCEL" = "إلغاء";
 "OKAY" = "حسنا";
 "ENABLE" = "تفعيل";
-"MORE" = "أكثر";
+"MORE" = "المزيد";
 "RELAUNCH" = "إعادة تشغيل";
 "LATER" = "لاحقًا";
 "SEND" = "إرسال";
