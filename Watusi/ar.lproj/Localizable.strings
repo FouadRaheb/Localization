@@ -110,7 +110,7 @@
 "CHATS_ADDONS_LABEL" = "إضافات الدردشات";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد الـ7 دقائق الذي تضعه واتساب كحد أقصى لحذف رسائلك.";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد الـ٧ دقائق الذي تضعه واتساب كحد أقصى لحذف رسائلك.";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
@@ -143,7 +143,7 @@
 "CARRIER_CALL_BUTTON" = "اتصال عادي";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "الاتصال العادي غير متاح!";
 
-"GROUP_MEMBERS_PICTURE_DESC" = "إظهار الصورة الشخصية لكل عضو في المجموعة بجانب رسائله.\n يمكن أيضًا النقر على الصورة لعرضها.";
+"GROUP_MEMBERS_PICTURE_DESC" = "إظهار الصورة الشخصية لكل عضو في المجموعة بجانب رسائله.\nيمكن أيضًا النقر على الصورة لعرضها.";
 "GROUP_MEMBERS_PICTURE_LABEL" = "صور أعضاء المجموعة";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
