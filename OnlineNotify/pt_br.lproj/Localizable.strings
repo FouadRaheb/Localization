@@ -42,6 +42,8 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos on-line.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista de Contatos Online";
+"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
+"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "O recurso de Contatos online sempre foi um motivo para ser bloqueado pelo WhatsApp por solicitar o último visto dos seus contatos, o que geralmente é corrigido após algumas horas. O motivo deste bloqueio é devido ao grande número de solicitações, porque você está buscando o último visto de toda a sua lista de contatos.\n\nPortanto, decidi fazer desta lista uma lista online dos contatos que você escolheu seguir e não de todos os seus contatos..";
 "ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Configurações da lista";
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Contatos Selecionados";

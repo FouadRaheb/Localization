@@ -42,6 +42,8 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Fügt eine Reihe über deiner Chat-Liste hinzu, die alle Kontakte anzeigt die grade online sind.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Liste der Online-Kontakte";
+"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
+"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Die Funktion 'Online-Kontakte' war schon immer ein Grund dafür, dass deine letzten Kontakte nicht mehr angefragt wurden, was normalerweise nach einigen Stunden behoben wird. Der Grund für diese Blockierung liegt in der großen Anzahl von Anfragen, weil du die zuletzt gesehen Liste deiner gesamten Kontakte abrufst.\n\nDeshalb habe ich beschlossen, diese Liste zu einer Online-Liste der Kontakte zu machen, denen du folgen möchtest, und nicht deiner gesamten Kontaktliste.";
 "ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Listeneinstellungen";
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Ausgewählte Kontakte";

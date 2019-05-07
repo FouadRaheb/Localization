@@ -42,6 +42,8 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Çevrimiçi kişilerinizi kontrol etmek için Sohbet Listesinin üstüne bir satır ekleyin.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Çevrimiçi Kişiler Listesi";
+"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
+"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Çevrimiçi Kişiler özelliği her zaman, birkaç saat sonra genellikle giderilen kişilerinizi talep etmekten engellendi. Bu engellemenin nedeni, tüm kişi listenizin son görülmesini getirmekte olduğunuzdan dolayı çok sayıda istekte bulunmanız. \ N \ nBu nedenle, bu listeyi takip etmeyi seçtiğiniz kişilerin çevrimiçi bir listesi haline getirmeye karar verdim.";
 "ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Liste Ayarları";
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Seçili Kişiler";

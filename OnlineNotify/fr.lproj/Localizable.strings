@@ -42,6 +42,8 @@
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Ajoutez une ligne en haut de Chats List pour vérifier vos contacts en ligne.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Liste de contacts en ligne";
+"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
+"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
 "ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "La fonction de contacts en ligne a toujours été une raison pour laquelle vous avez bloqué la demande de vos contacts qui dure habituellement après quelques heures. La raison de ce blocage est due au grand nombre de requêtes car vous récupérez le long-temps de votre liste de contacts.\n\nPar conséquent, j'ai décidé de faire de cette liste une liste en ligne des contacts que vous choisissez de suivre et non de toute votre liste de contacts.";
 "ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Paramètres de la liste";
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Contacts sélectionnés";
