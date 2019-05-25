@@ -65,6 +65,9 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Afficher le bouton de téléchargement";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Ajoutez un bouton en bas à droite des statuts afin de le télécharger.";
 
+"STATUS_CAPTION_COPY" = "Copy Caption";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Enregistrer l'image dans la bibliothèque";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Partager l'image";
 "STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Image enregistrée dans la bibliothèque";
@@ -479,13 +482,15 @@
 
 /* Contacts Liste noire */
 
-"CONTACTS_BLACKLIST_LABEL" = "Contacts liste noire";
-"CONTACTS_BLACKLIST_DESC" = "Les contacts de liste noire cacheront leur conversation à partir de la liste des discussion et montreront une conversation vide en l'ouvrant à partir d'un autre endroit. Vous ne pouvez afficher que votre contenu des conversations sur la liste noire de cette page. Vous ne recevrez pas de nouvelles notifications de messages de liste noire.";
-"BLACKLISTED_CONTACTS" = "Liste noir";
-"BLACKLISTED_CHATS_MESSAGES" = "Messages sur les listes noires";
-"PROTECT_BLACKLIST_SETTINGS" = "Protéger les réglages de la liste noire";
-"ENABLE_BLACKLIST_LABEL" = "Activer";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "Vous ne pouvez pas envoyer de messages dans une discussion en liste noire";
+"ENABLE_HIDE_CHATS" = "Enable";
+"HIDE_CHATS_LABEL" = "Hide Chats";
+"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
+"HIDDEN_CHATS" = "Hidden Chats";
+"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
+"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
 
 
 /* Réponse automatique */
@@ -576,10 +581,12 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Import ZIP from URL";
 
 
-/* Section soutien*/
+/* Section soutien */
+
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
 
 "SUPPORT_SECTION_TITLE" = "Support";
-
 "CONTACT_AND_MORE_LABEL" = "Contact & Plus";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Support";

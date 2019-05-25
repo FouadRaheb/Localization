@@ -65,6 +65,9 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "İndirme Butonunu Göster";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Durumları indirmek için sağ alta indirme tuşu ekle.";
 
+"STATUS_CAPTION_COPY" = "Copy Caption";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Fotoğrafı Galeriye İndir";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Fotoğrafı Paylaş";
 "STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Fotoğraf Galeriye Kaydedildi";
@@ -479,13 +482,15 @@
 
 /* Contacts Blacklist */
 
-"CONTACTS_BLACKLIST_LABEL" = "Kişi Karalistesi";
-"CONTACTS_BLACKLIST_DESC" = "Karalistedeki kişilerin sohbetleri sohbet listesinde gizlenecektir ve başka bir yerdn mesajlar açılsa dahi boş sayfa gözükecek.Karalistedeki sohbetleri sadece buradan görebilirsiniz.Karalistedeki sohbetlerden yeni mesaj alamazsınız.";
-"BLACKLISTED_CONTACTS" = "Karalistedeki Kişiler";
-"BLACKLISTED_CHATS_MESSAGES" = "Karalistedeki Sohbet Mesajları";
-"PROTECT_BLACKLIST_SETTINGS" = "Karaliste Ayarlarını Koru";
-"ENABLE_BLACKLIST_LABEL" = "Aktifleştir";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "Karalistedeki sohbete yeni mesaj gönderemezsiniz.";
+"ENABLE_HIDE_CHATS" = "Enable";
+"HIDE_CHATS_LABEL" = "Hide Chats";
+"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
+"HIDDEN_CHATS" = "Hidden Chats";
+"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
+"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
 
 
 /* Auto Reply */
@@ -578,8 +583,10 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Destek";
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
 
+"SUPPORT_SECTION_TITLE" = "Destek";
 "CONTACT_AND_MORE_LABEL" = "İletişim ve Fazlası";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Destek";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Destek";

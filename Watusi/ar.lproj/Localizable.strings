@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "بعد تعطيل مؤشر قراءة الرسائل، سترى أنت مؤشر قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا مؤشر قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل مؤشر قراءة الرسائل لجهات اتصال محددة عن طريق خيارات إظهار/عدم إظهار أو من خلال معلومات جهة الاتصال نفسها.";
 "NEVER_SEND_RECEIPTS_TO" = "عدم إظهار مؤشر قراءة الرسائل لـ";
 "FORCE_SEND_RECEIPTS_TO" = "إظهار مؤشر قراءة الرسائل لـ";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "إظهار مؤشر تسجيل المقطع الصوتي";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال إيصالات المقطع الصوتي";
 "FORCE_RECEIPTS_ON" = "إظهار المؤشرات على...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
 "FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
@@ -64,6 +64,9 @@
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
+
+"STATUS_CAPTION_COPY" = "نسخ النص";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "تم نسخ النص إلى الحافظة";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور إلى المكتبة";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "مشاركة الصورة";
@@ -138,7 +141,7 @@
 "START_VOICE_CALL_WITH" = "بدء مكالمة صوتية مع";
 "START_GROUP_VIDEO_CALL_WITH" = "بدء مكالمة جماعية صوتية";
 "START_GROUP_VOICE_CALL_WITH" = "بدء مكالمة فيديو جماعية";
-"WHATSAPP_VIDEO_CALL_BUTTON" = "مكالم واتساب فيديو";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "مكالمة واتساب فيديو";
 "WHATSAPP_VOICE_CALL_BUTTON" = "مكالمة واتساب صوتية";
 "CARRIER_CALL_BUTTON" = "اتصال عادي";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "الاتصال العادي غير متاح!";
@@ -479,13 +482,15 @@
 
 /* Contacts Blacklist */
 
-"CONTACTS_BLACKLIST_LABEL" = "القائمة السوداء";
-"CONTACTS_BLACKLIST_DESC" = "ستخفي القائمة السوداء دردشة جهة الاتصال المُدرجة من قائمة المحادثات، وستعرض محادثة فارغة إذا تم فتح الدردشة من مكان آخر، يمكنك عرض محتويات دردشات جهات اتصالك المدرجة في القائمة السوداء عن طريق هذه الصفحة فقط، ولن تتلقى أي اشعارات جديدة من جهات اتصالك المدرجة في القائمة السوداء.";
-"BLACKLISTED_CONTACTS" = "جهات الاتصال المدرجة على القائمة السوداء";
-"BLACKLISTED_CHATS_MESSAGES" = "دردشات جهات الاتصال المدرجة على القائمة السوداء";
-"PROTECT_BLACKLIST_SETTINGS" = "إعدادات حماية القائمة السوداء";
-"ENABLE_BLACKLIST_LABEL" = "تفعيل";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "لا يمكنك إرسال الرسائل في دردشة مدرجة على القائمة السوداء";
+"ENABLE_HIDE_CHATS" = "تفعيل";
+"HIDE_CHATS_LABEL" = "إخفاء الدردشات";
+"HIDE_CHATS_DESC" = "ستختفي الدردشات المخفية من قائمة الدردشات وستظهر المحادثة فارغة عند فتحها من مكان آخر. يمكنك عرض رسائل دردشاتك المخفية من هذه الصفحة فقط.";
+"HIDDEN_CHATS" = "الدردشات المخفية";
+"HIDDEN_CHATS_MESSAGES" = "رسائل الدردشات المخفية";
+"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "إخفاء إشعارات الدردشات";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "لن تُظهر الدردشات المخفية إشعارات الرسائل الجديدة";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "إعدادات حماية الدردشات المخفية";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل لدردشة مخفية.";
 
 
 /* Auto Reply */
@@ -578,8 +583,10 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "الدعم";
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
 
+"SUPPORT_SECTION_TITLE" = "الدعم";
 "CONTACT_AND_MORE_LABEL" = "التواصل والدعم وحول Watusi";
 "CONTACT_AND_MORE_PAGE_TITLE" = "الدعم";
 "CONTACT_SUPPORT_SECTION_TITLE" = "الدعم";

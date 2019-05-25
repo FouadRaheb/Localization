@@ -65,6 +65,9 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Show Download Button";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Add a button on bottom right of statuses in order to download it.";
 
+"STATUS_CAPTION_COPY" = "Copy Caption";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Save Image to Library";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Share Image";
 "STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Image Saved to Library";
@@ -112,8 +115,8 @@
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypass Revoke Time Limit";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypass WhatsApp messages revoking time limit";
 
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Revoked Messages";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts revoke will not be deleted and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Deleted Messages";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts delete for everyone will not be deleted from your device and will show an icon to indicate that your contact has revoked it.";
 
 "ABOUT_ON_CHATS_DESC" = "Show your contact about message on a little bar at the top of chat view";
 "ABOUT_ON_CHATS_LABEL" = "About On Chat";
@@ -479,13 +482,15 @@
 
 /* Contacts Blacklist */
 
-"CONTACTS_BLACKLIST_LABEL" = "Contacts Blacklist";
-"CONTACTS_BLACKLIST_DESC" = "Blacklisting contacts will hide their chat from the chats list and show an empty chat when opening it from somewhere else. You can only view your blacklisted chats content from this page. You'll not receive new messages notifications from blacklisted chats.";
-"BLACKLISTED_CONTACTS" = "Blacklisted Contacts";
-"BLACKLISTED_CHATS_MESSAGES" = "Blacklisted Chats Messages";
-"PROTECT_BLACKLIST_SETTINGS" = "Protect Blacklist Settings";
-"ENABLE_BLACKLIST_LABEL" = "Enable";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "You can not send messages in a blacklisted chat.";
+"ENABLE_HIDE_CHATS" = "Enable";
+"HIDE_CHATS_LABEL" = "Hide Chats";
+"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
+"HIDDEN_CHATS" = "Hidden Chats";
+"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
+"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
 
 
 /* Auto Reply */
@@ -578,8 +583,10 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
 
+"SUPPORT_SECTION_TITLE" = "Support";
 "CONTACT_AND_MORE_LABEL" = "Contact & More";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Support";

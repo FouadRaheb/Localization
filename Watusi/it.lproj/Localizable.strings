@@ -65,6 +65,9 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostra tasto download";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Aggiunge un tasto in basso a destra per scaricare gli aggiornamento allo stato.";
 
+"STATUS_CAPTION_COPY" = "Copy Caption";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Salva immagine nella libreria";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Condividi immagine";
 "STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Immagine salvata nella libreria";
@@ -479,14 +482,15 @@
 
 /* Contacts Blacklist */
 
-"CONTACTS_BLACKLIST_LABEL" = "Contatti in lista nera";
-"CONTACTS_BLACKLIST_DESC" = "Le chat dei contatti in lista nera saranno nascosti della lista delle chat e verrà mostrata una chat vuota aprendola da qualsiasi altra sezione. Potrai visualizzare il contenuto delle chat in lista nera solamente da questa pagina. Non riceverai le notifiche dei messaggi in lista nera.";
-"BLACKLISTED_CONTACTS" = "Contatt in lista nera";
-"BLACKLISTED_CHATS_MESSAGES" = "Messaggi dei contatti in lista nera";
-"PROTECT_BLACKLIST_SETTINGS" = "Proteggi impostazioni lista nera";
-"ENABLE_BLACKLIST_LABEL" = "Attiva";
-"CANNOT_SEND_MESSAGES_TO_BLACKLISTED_CHATS_MESSAGE" = "Non puoi inviare messaggi in una lista nera.";
-
+"ENABLE_HIDE_CHATS" = "Enable";
+"HIDE_CHATS_LABEL" = "Hide Chats";
+"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
+"HIDDEN_CHATS" = "Hidden Chats";
+"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
+"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
 
 /* Auto Reply */
 
@@ -578,8 +582,10 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Supporto";
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Contribute";
 
+"SUPPORT_SECTION_TITLE" = "Supporto";
 "CONTACT_AND_MORE_LABEL" = "Contatti e altro";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Aiuto";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Supporto";
