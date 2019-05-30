@@ -480,7 +480,7 @@
 "HIDE_SEPARATOR_LABEL" = "Ocultar separadores";
 
 
-/* Contacts Blacklist */
+/* Hide Chats */
 
 "ENABLE_HIDE_CHATS" = "Enable";
 "HIDE_CHATS_LABEL" = "Hide Chats";
