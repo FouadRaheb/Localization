@@ -102,6 +102,10 @@
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nom du groupe";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gérer";
 
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Statuses that your contacts delete will not be removed from the statuses list until they expire in 24h. Deleted statuses will show a message in the header containing the time it was deleted.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Keep Contacts Deleted Statuses";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Deleted at";
+
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Désactiver l'avance automatique vers le statut suivant";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Désactiver l'avancement automatique";
 
@@ -309,6 +313,9 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Débloquer le contact";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Partagez l'image depuis le Web";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Envoyer le paiement";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "Save Profile Photos";
+"SAVE_PROFILE_PHOTOS_DESC" = "Long press on profile photos to save them after WhatsApp removed their save button";
 
 "BLOCK" = "Bloquer";
 "UNBLOCK" = "Débloquer";

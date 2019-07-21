@@ -102,6 +102,10 @@
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
 
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "لن تتم إزالة الحالات التي تحذفها جهات اتصالك من قائمة الحالات حتى تنتهي صلاحيتها الافتراضية ٢٤ ساعة. ستظهر رسالة أعلى الحالات المحذوفة تحتوي على وقت حذفها.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "إبقاء حالات جهات الاتصال المحذوفة";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
+
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
 
@@ -309,6 +313,9 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "إلغاء حظر جهة الاتصال";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
 "SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
+"SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
 
 "BLOCK" = "حظر";
 "UNBLOCK" = "إلغاء الحظر";
