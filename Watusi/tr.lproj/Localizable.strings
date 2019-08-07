@@ -298,6 +298,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Aktifleştir";
 "SHARE_SHEET_DISABLED_LABEL" = "Devre Dışı Bırak";
 
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Fotoğraf veya Video Çek";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Fotoğraf/Video Galerisi";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Fotoğraf Galerisi";

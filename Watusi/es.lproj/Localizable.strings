@@ -298,6 +298,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Habilitado";
 "SHARE_SHEET_DISABLED_LABEL" = "Deshabilitado";
 
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Tomar foto o video";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Librería foto/video";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Librería de fotos";
