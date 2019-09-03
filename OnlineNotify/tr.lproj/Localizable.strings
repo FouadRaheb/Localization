@@ -85,7 +85,7 @@
 "ONLINE" = "Çevrimiçi";
 "OFFLINE" = "Çevrimdışı";
 "IS_TYPING" = "yazıyor...";
-"IS_RECORDING" = "is recording...";
+"IS_RECORDING" = "Ses Kaydediyor...";
 "IS_NOW_ONLINE" = "şimdi çevrimiçi";
 "HAS_GONE_OFFLINE_AT" = "şu zamanda çevrimdışı oldu";
 "HAS_READ_YOUR_MESSAGES" = "mesajınızı okudu";
@@ -95,11 +95,11 @@
 
 /* Developer & Support Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Geliştirici";
+"CONTRIBUTE_LABEL" = "Bağış";
 
-"SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_SECTION_HEADER" = "Versions";
+"SUPPORT_SECTION_HEADER" = "Destek";
+"CONTACT_AND_MORE_LABEL" = "İletişim ve Fazlası";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
+"CONTACT_SUPPORT_LABEL" = "Destekle İletişime Geç";
+"VERSIONS_SECTION_HEADER" = "Versiyon";
