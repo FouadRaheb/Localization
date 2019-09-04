@@ -298,7 +298,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "الأزرار المفعلة";
 "SHARE_SHEET_DISABLED_LABEL" = "الأزرار المعطلة";
 
-"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "إرسال الصور المحددة";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "أخذ صورة أو فيديو";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "مكتبة الصور/الفيديوهات";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "مكتبة الصور";
