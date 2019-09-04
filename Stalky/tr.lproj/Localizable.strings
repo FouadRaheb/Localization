@@ -1,0 +1,311 @@
+/* Preferences */
+
+"STALKY_PREFERENCES_LABEL" = "Stalky Tercihleri";
+
+
+/* Updates Table Settings */
+
+"UPDATES_TABLE_TITLE" = "Tablo Ayarları";
+
+"DEFAULT_UPDATES_PAGE_LABEL" = "Ana Sayfa";
+"DEFAULT_UPDATES_PAGE_DESC" = "Listede herkesin mi yoksa Seçilmiş favorilerinizin mi çıkacağını seçin.";
+
+"COLORIZE_UPDATES_TABLE" = "Güncellemeleri Renklendirme";
+"COLORIZE_UPDATES_DESC" = "Güncellemeleri renklendirmek her farklı güncellenme için farklı renk getirir (ProfilFotoğrafı/Kırmızı, Hikaye/Mavi, Durum/Sarı, Grup/Yeşil).";
+
+"BLACKLISTED_CONTACTS" = "Karaliste";
+"BLACKLISTED_CONTACTS_DESCRIPTION" = "Güncellemelerini görmek istemediklerinizi Karalisteye alabilirsiniz.";
+
+
+/* Download */
+
+"SAVE_AND_DOWNLOAD_TITLE" = "Kaydet ve Otomatik İndir";
+
+"SAVE_TITLE" = "Kayıtlı Güncellemeler";
+"SAVE_DESCRIPTION" = "Kaydetmek istemediklerinizin seçeneğini kapatın. Kaydedilmeyen medya indirilmeyecektir.";
+"SAVE_PICTURES_LABEL" = "Profil Fotoğrafları Kaydı";
+"SAVE_ABOUT_LABEL" = "Durum Bilgisi Kaydı";
+"SAVE_GROUP_LABEL" = "Grup kayıtları";
+"SAVE_STATUS_LABEL" = "Hikaye Bilgisi Kaydı";
+
+"AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "Resimleri Otomatik İndir";
+"AUTO_DOWNLOAD_STATUSES_LABEL" = "Hikayeleri Otomatik İndir";
+"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Kişilerin profil fotoğraflarını otomatik indirir. Eğer isterseniz kişinin fotoğrafını tablodan tıklayıp manual olarak indirebilirsiniz.";
+"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Hikayeleri otomatik olarak indirir. Deaktif olduğunda, stalky hikaye yok olana kadar sadece hikaye izlerken kenardaki hikaye indir tuşundan indirmenize izin verir.";
+"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi ve Hücresel veri";
+"AUTO_DOWNLOAD_WIFI" = "Wi-Fi";
+"AUTO_DOWNLOAD_NEVER" = "Asla";
+
+"BACKGROUND_FETCH" = "Arkaplanda Devam";
+"BACKGROUND_FETCH_DESC" = "Bu seçenek kişileriniz siz çevrimdışı iken fotoğrafını üst üste değiştiriyorsa kullanılır . WhatsApp eski fotoğrafları yenisiyle değiştirir, Yani bu ayar WhatsApp'ınızı arkaplanda çalıştırarak kişi resmini değiştirmeden kaydetmesini sağlar.(Bu seçeneği çalışması için sizinde WhatsApp'ı arka planda kapatmamanız gerekir)";
+"BG_FETCH_TURN_OFF_ALERT" = "Bu seçeneği kapatmanız arkaplanda yapılan güncellemeleri durdurur ve değişimlerle ilgili kilit ekranınıza bildirim gelmez.";
+"BG_FETCH_ALERT" = "Eğer arkaplanda devamı açarsanız, Stalky WhatsApp'ı arka planda açık tutacaktır ve cihaz kilitliyken wi-fi bağlantınızı ayarlicaktır. Bu şarjınızı hızlı bitirebilir.";
+
+
+/* Notifications */
+
+"NOTIFICATIONS_TITLE" = "Bildirimler";
+
+"INSIDE_NOTIFICATIONS" = "İç Bildirimler";
+"INSIDE_NOTIFICATIONS_DESC" = "Yeni bildirimleri WhatsApp içinde gösterir.";
+
+"OUTSIDE_NOTIFICATIONS" = "Dışarı Bildirimler";
+"OUTSIDE_NOTIFICATIONS_DESC" = "Yeni bildirimleri cihazın normal bildirim penceresine düşürür. Bunun için Arkaplanda Devam seçeneğinin açık olması gerekir.";
+"OUTSIDE_NOTIFICATIONS_ALERT" = "Dışarıdan bildirim almak için Arkaplanda Devam'ın açık olması gerekiyor.";
+
+"NOTIFICATIONS_TYPE_LABEL" = "Kişilerin Bildirimleri";
+"NOTIFICATIONS_TYPE_DESC" = "Kimden bildirim almak istediğinizi seçin.";
+
+"NOTIFICATION_SOUND" = "Bildirim Sesi";
+"NOTIFICATION_SOUND_DESC" = "İç Ve Dış Bildirimlerin sesini seçin.";
+
+
+/* Disk Usage */
+
+"DISK_USAGE_TITLE" = "Hafıza Kullanımı";
+
+"PROFILE_PICTURES_USAGE_TITLE" = "Profil Fotoğrafları";
+"PROFILE_PICTURES_VIEW_SAVED_PICTURES" = "Kaydedilmiş Fotoğrafları Göster";
+"PROFILE_PICTURES_VIEW_ALL_BUTTON" = "Bütün Fotoğraflar";
+"PROFILE_PICTURES_VIEW_FOR_FAVORITES" = "Favorilerin Fotoğrafları";
+"PROFILE_PICTURES_VIEW_FOR_SELECTED_BUTTON" = "Kişi Seç";
+"PROFILE_PICTURES_DIRECTORY" = "Profil Fotoğraflarının Konumu";
+"PROFILE_PICTURES_DIRECTORY_ALERT_TITLE" = "Fotoğrafların Konumu";
+"PROFILE_PICTURES_DIRECTORY_ALERT_MESSAGE" = "Profil Fotoğrafları Şu Konumda";
+"PROFILE_PICTURES_DELETE_SAVED_PICTURES" = "Silinmiş Profil Fotoğrafları";
+
+"STATUSES_USAGE_TITLE" = "Durumlar";
+"STATUSES_VIEW_SAVED_MEDIA" = "Kayıtlı Durumları Göster";
+"STATUSES_VIEW_ALL_BUTTON" = "Bütün Durumlar";
+"STATUSES_VIEW_FOR_FAVORITES" = "Favorilerin HHikayeleri";
+"STATUSES_VIEW_FOR_SELECTED_BUTTON" = "Kişi Seç";
+"STATUSES_DIRECTORY" = "Hikayelerin Konumu";
+"STATUSES_DIRECTORY_ALERT_TITLE" = "Hikayelerin Konumu";
+"STATUSES_DIRECTORY_ALERT_MESSAGE" = "Hikayeler Şurada Kilitli";
+"STATUSES_DELETE_SAVED_MEDIA" = "Kayıtlı Hikayeleri Sil";
+
+"OPEN_IN_FILZA_BUTTON" = "Filza'yı Aç";
+"OPEN_IN_IFILE_BUTTON" = "İFile'ı Aç";
+"DID_NOT_SELECT_CONTACTS_MESSAGE" = "Kimseyi Seçmediniz";
+"NO_FAVORITE_CONTACTS_MESSAGE" = "Favorilerinizde kimse yok";
+
+"DELETE_ALL_IMAGES_DESCRIPTION" = "Resimeleri silmek sadece küçük resimleri silmez onlar WhatsApp'da herzaman kişi bilgilerinde kayıtlıdır.";
+"DELETE_SELECTED_CONTACTS_MEDIA_NO_CONTACTS_SELECTED_MESSAGE" = "Hikayeleri silmek için en az 1 kişi seçmelisiniz";
+
+"DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "Bütün profil fotoğraflarını silmek yerine sadece favorileriniz hariç fotoğrafları silebilirsiniz.";
+"DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Hepsini Sil";
+"DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "Favoriler Hariç Hepsi";
+"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Silmek İçin Kişi Seçin";
+
+"DELETE_STATUSES_ALERT_MESSAGE" = "Bütün hikayeleri silmek yerine sadeve favorileriniz hariç hikayeleri silebilirsiniz.";
+"DELETE_ALL_STATUSES_ALERT_BUTTON" = "Hepsini Sil";
+"DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "Favoriler Hariç Hepsi";
+"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Silmek İçin Kişi Seçin";
+
+"SAVED_PICTURES_LABEL" = "Kayıtlı Fotoğraflar";
+"SAVED_STATUSES_LABEL" = "Kayıtlı Hikayeler";
+
+"MEDIA_BACKUP_HEADER" = "Yedek";
+"MEDIA_BACKUP_EXPORT_TITLE" = "Kişilerin Medyalarını Dışa aktar";
+"MEDIA_BACKUP_IMPORT_TITLE" = "Kişilerin Medyalarını İçe aktar";
+"MEDIA_BACKUP_FOOTER" = "Kişilerinizin Güncellemelerini bilgisayarınıza yedekleyin, sonra geri yükleyebilirsiniz.";
+
+"BACKUP_IMPORT_ALERT_TITLE" = "Medyayı İçe Aktar";
+"BACKUP_IMPORT_ALERT_MESSAGE" = "Medyayı geri yüklemek için .ZİP dosyası içe aktarın. ZİP dosyanız dışa aktarılanlar ile aynı mimariye sahip olmalıdır files.\nIt konumu 2 dosya içerir (Profiles) ve/yada (Statuses) adında kişilerin WhatsApp kullanıcı adlarını bulunduğu dosyalardır, dosya isimleride doğru formatta olmalıdır)";
+"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "WebSunucusundan İçe Aktar";
+"BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Dosyalardan İçe Aktar";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Bilgisayarınızdan şu adrese gidin %@ ve yedeğinizi .zip olarak karşıya yüklediğinizde file.\nThe dosyası otomatik algılacaktır.";
+"BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "ZİP Bekleniyor";
+
+"BACKUP_IMPORT_PROCESS_MESSAGE" = "Algılanan ZİP İşleniyor";
+"BACKUP_IMPORT_PROCESS_UNZIPPING_FAILED_MESSAGE" = "ZİP Açma Başarısız";
+"BACKUP_IMPORT_PROCESS_INVALID_ZIP_MESSAGE" = "ZİP dosyası profil yada medya içermiyor.";
+"BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "İçe Aktarma Tamamlandı";
+
+"BACKUP_EXPORT_ALERT_TITLE" = "Medyayı Dışa Aktar";
+"BACKUP_EXPORT_ALERT_MESSAGE" = "Yedek almak için bir ZİP oluşturur. Bu yedek Stalky'in tablo listesini içermez.";
+"BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "Bütün Medya";
+"BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "Favorilerin Medyası";
+"BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "Bu favoriler medyası boş";
+"BACKUP_EXPORT_ALERT_SELECT_CONTACTS_BUTTON" = "Kişi Seçin";
+"BACKUP_EXPORT_SELECT_CONTACTS_NONE_SELECTED_MESSAGE" = "Medya dışa aktarmak için en az 1 kişi seçmelisiniz.";
+"BACKUP_EXPORT_FAILED_ALERT_MESSAGE" = "Dışa medya aktarımı başarısız oldu";
+"BACKUP_EXPORT_SHARE_BY_ACTIVITY_BUTTON" = "ZİP'i Paylaş";
+"BACKUP_EXPORT_SHARE_BY_WEBSERVER_BUTTON" = "WebSunucusu'dan Dışa Aktar";
+"BACKUP_EXPORT_SHARE_WEBSERVER_MESSAGE" = "Bilgisayardan şu adrese girin %@ ve ZİP yedeğinizi indirin.";
+"BACKUP_EXPORT_SHARE_WEBSERVER_TITLE" = "ZİP İndir";
+
+"BACKUP_EXPORT_PROCESS_EXPORTING_STATUSES" = "Durumlar Dışa Aktarılıyor";
+"BACKUP_EXPORT_PROCESS_EXPORTING_PROFILE_PICTURES" = "Profil Fotoğrafları Dışa Aktarılıyor";
+
+"BACKUP_WEBSERVER_STARTING_ERROR_MESSAGE" = "WebSunucusu başlatılamadı";
+"BACKUP_WEBSERVER_STOP_BUTTON" = "WebSunucusu'nu Durdur";
+
+
+/* Messages */
+
+"RELAUNCH_APP_MESSAGE" = "Seçeneklerin Uygulanması İçin WhatsApp Yeniden Başlatılıyor";
+
+"RELAUNCH" = "Yeniden Başlat";
+"CANCEL" = "İptal";
+"OKAY" = "Okay";
+"DELETE" = "Sil";
+"DELETING" = "Siliniyor...";
+"LOADING" = "Yükleniyor...";
+"ENABLE" = "Aktif";
+"LATER" = "Later";
+"FORWARD" = "İleri";
+
+"FAVORITE_CONTACTS" = "Favori Kişiler";
+"ALL" = "All";
+"FAVORITES" = "Favoriler";
+"SELECT_ALL" = "Hepsini Seç";
+"DESELECT_ALL" = "Seçimleri Sıfırla";
+
+
+/* Tweet */
+
+"CONTRIBUTE" = "İletişim";
+"TWEET_ABOUT_TWEAK" = "Stalky ile ilgili tweetle";
+"DONATE_CUP_COFFEE" = "Bana bir fincan kahve al";
+"NO_TWITTER_ACCOUNT_WARNING" = "Bağlı twitter hesabın yok, ayarlardan birtane ekle.";
+
+
+/* License Settings */
+
+"HOW_TO_REMOVE_ADS_LABEL" = "Reklamlar nasıl kaldırılır";
+"PURCHASE_LICENSE_BUTTON" = "Lisans Satın Al";
+"TWEET_FOR_2DAYS_ADFREE_BUTTON" = "2 Gün reklam kaldırmak için tweet at";
+"PURCHASE_LICENSE_MESSAGE" = "Stalky lisansı satın almak için giriş yapmalısınz";
+"FETCHING_LICENSE_MESSAGE" = "Lisans İşleniyor...";
+"DELETE_SAVED_LICENSE_MESSAGE" = "Kayıtlı lisans silinsin mi?";
+"LICENSE_DELETED_MESSAGE" = "Lisans Silindi";
+"FETCHING_LICENSE_FAILED_MESSAGE" = "İşlem Başarısız";
+"INVALID_DEVICE_UDID_MESSAGE" = "Cihaz UDID İşlenemiyor";
+"LICENSE_PURCHASED_LABEL" = "Lisans Satın Alındı";
+"YOU_TWEETED_MESSAGE" = "Tweet'ledin";
+"LICENSED_MESSAGE" = "Lisanslandı";
+"TWEETED_MESSAGE" = "Tweetin için teşekkürler!";
+"NO_LICENSE_FOUND_MESSAGE" = "Lisans Bulunamadı";
+"RESTORE_LICENSE_MESSAGE" = "Lisans Yenilendi";
+"PURCHASE" = "Satın Al";
+
+
+/* Updates Table */
+
+"ALL_UPDATES_FILTER" = "Bütün Güncellemeler";
+"ABOUT_UPDATES_FILTER" = "Güncellemelerle İlgili";
+"PICTURE_UPDATES_FILTER" = "Profil Fotoğrafı Güncellemeleri";
+"STATUS_UPDATES_FILTER" = "Hikaye Güncellemeleri";
+"GROUP_UPDATES_FILTER" = "Grup Güncellemeleri";
+
+"SHOWING_%zd_OF_%zd_UPDATES_BUTTON" = "%zd için %zd güncellemeler gösteriliyor, daha çok göster...";
+"DELETE_ALL_UPDATE_WARNING" = "Bu seçenek bütün güncellemeleri silecek.";
+
+
+/* Gallery */
+
+"STATUSES_SEGMENT_ITEM" = "Hikayeler";
+"PROFILE_PICTURES_SEGMENT_ITEM" = "Profil Fotoğrafları";
+
+
+/* Action Buttons */
+
+"COPY_SHARE_SUBJECT" = "Tanıyı Kopyala/Paylaş";
+"COPY_SHARE_ABOUT" = "Kopyala/Paylaş Hakkında";
+"SAVE_SHARE_IMAGE" = "Kaydet/Paylaş Fotoğraf";
+"SAVE_SHARE_VIDEO" = "Kaydet/Paylaş Video";
+"SAVE_SHARE_GIF" = "Kaydet/Paylaş GIF";
+"SAVE_SHARE_TEXT" = "Kaydet/Paylaş Yazı";
+"MESSAGE_GROUP" = "Mesaj Grubu";
+"MESSAGE_CONTACT" = "Kişiye Mesaj At";
+"ALL_SAVED_PICTURES_AND_STATUSES" = "Bütün Kaydedilmiş Medyalar";
+"ALL_ABOUT_UPDATES" = "Güncellemeleri ile ilgili herşey";
+"ADD_TO_BLACKLIST" = "Karalisteye Ekle";
+
+
+/* Updates Table Messages */
+
+"DELETED_PROFILE_PICTURE_UPDATE" = "Profil Fotoğrafını Sildi";
+"CHANGED_PROFILE_PICTURE_UPDATE" = "Profil Fotoğrafını Değiştirdi";
+
+"CONTACT_JOINED_WHATSAPP_UPDATE" = "WhatsApp'a Katıldı";
+"CONTACT_DELETED_WHATSAPP_UPDATE" = "WhatsApp Hesabını Sildi";
+
+"ADDED_NEW_IMAGE_STATUS_UPDATE" = "Yeni Fotoğraf Hikayesi Paylaştı";
+"ADDED_NEW_VIDEO_STATUS_UPDATE" = "Yeni Video Hikayesi Paylaştı";
+"ADDED_NEW_GIF_STATUS_UPDATE" = "Yeni GİF Hikayesi Paylaştı";
+"ADDED_NEW_TEXT_STATUS_UPDATE" = "Durumunu Güncelledi";
+
+
+/* Notification Messages */
+
+"DELETE_PROFILE_PICTURE_NOTIFICATION" = "Profil Fotoğrafını Sildi";
+"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "Profil Fotoğrafını Değiştirdi";
+"CHANGED_ABOUT_NOTIFICATION" = "Durumunu Değiştirdi";
+
+"CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "WhatsApp'a Katıldı";
+"CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "WhatsApp Hesabını Sildi";
+
+"ADDED_NEW_IMAGE_STATUS_NOTIFICATION" = "Yeni Fotoğraf Hikayesi Paylaştı";
+"ADDED_NEW_VIDEO_STATUS_NOTIFICATION" = "Yeni Video Hikayesi Paylaştı";
+"ADDED_NEW_GIF_STATUS_NOTIFICATION" = "Yeni GİF Hikayesi Paylaştı";
+"ADDED_NEW_TEXT_STATUS_NOTIFICATION" = "Durumunu Güncelledi";
+
+"DELETED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı silindi";
+"CHANGED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı değiştirildi";
+"CHANGED_GROUP_SUBJECT_NOTIFICATION" = "Grup tanısı değiştirildi";
+
+"CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "Gruba eklendi";
+"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "Gruptan atıldı";
+
+
+/* Contact Info / Group Info Buttons */
+
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Hikayeler ve Profil Fotoğrafı";
+"CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "Hakkında Mesajları";
+"CONTACT_INFO_GROUP_PICTURES_BUTTON" = "Grup Profil Fotoğrafları";
+"CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "Grup Tanıları";
+
+
+/* Messages */
+
+"PROFILE_IMAGE_NOT_FOUND" = "Fotoğraf Bulunamadı";
+"PROFILE_IMAGE_NOT_FOUND_MESSAGE" = "Sebepleri Ya fotoğrafı sildiniz ya kaydetmediniz yada kişi fotoğrafını üst üste değiştirdiği sırada WhatsApp kapalı olduğundan kaydedilmedi.";
+
+"STATUS_MESSAGE_NOT_FOUND" = "Mesaj Hikayesi Kaydedilmedi";
+"STATUS_MESSAGE_NOT_FOUND_MESSAGE" = "Hikaye mesajı silindi yada süresi doldu.";
+
+"STATUS_MEDIA_DOWNLOAD_FAILED" = "İndirme Başarısız";
+"STATUS_MEDIA_DOWNLOAD_FAILED_MESSAGE" = "Hikaye medyası indirilemedi.";
+
+"STATUS_TEXT_IMAGE_GENERATION_FAILED" = "Yazı Hikayesi Oluşturulamadı";
+"STATUS_TEXT_IMAGE_GENERATION_FAILED_MESSAGE" = "Yazı hikayesi oluşturulurken bir hata oluştu.";
+
+"STATUS_MEDIA_EXPIRED" = "Hikayenin Süresi Bitti";
+"STATUS_MEDIA_EXPIRED_MESSAGE" = "Hikayenin süresi bitti yada silindi.";
+
+"DELETE_CONTACT_UPDATES_AND_ADD_TO_BLACKLIST_MESSAGE" = "Bu konumdaki bütün güncellemeleri siler %@ ve karalistendeki kişilerden güncelleme alman durucak. Daha önce kaydedilmiş medyaya ulaşabileceksiniz.";
+"REMOVE_CONTACT_FROM_BLACKLIST_MESSAGE" = "Güncellemeler şurdan alınmaya başlandı %@?";
+
+"WELCOME_MESSAGE" = "Yüklediğiniz için teşekkürler!\nStalky altta küçük bir reklamıyla bedava bir tweak'dir.\nReklamlar ayarlardan Lisans Satın alarak kaldırılabilir.\nEğer daha önce Stalky Lisansı Satın almışsanız, ayarlardan Lisansınızı tekrar aktive edebilirsiniz.\nYada tweet atarak 2 günlüğüne reklamları kaldırabilirsiniz.";
+
+
+/* Developer & Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Geliştirici";
+"CONTRIBUTE_LABEL" = "Bağış";
+
+"SUPPORT_SECTION_HEADER" = "Destek";
+"CONTACT_AND_MORE_LABEL" = "İletişim ve daha fazlası";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
+"CONTACT_SUPPORT_LABEL" = "Destekle İletişim";
+"VERSIONS_SECTION_HEADER" = "Versiyon";
+
+
+/* Date */
+
+"JUST_NOW" = "Şu anda";
+"M" = "d"; // Minute
+"H" = "s"; // Hour
+"AGO" = "önce";
