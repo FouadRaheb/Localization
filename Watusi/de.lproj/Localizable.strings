@@ -135,8 +135,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deaktiviert das weitergeleitet Kennzeichen";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Deaktiviert das Anzeigen des weitergeleitet Kennzeichen, wenn du eine Nachricht an deine Kontakte weiterleitest";
 
-"UNLIMITED_FORWARD_LABEL" = "Unendlich oft weiterleiten";
-"UNLIMITED_FORWARD_DESC" = "Leite eine Nachricht an unendlich viele Kontakte weiter.";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Erhalte eine Bestätigung, wenn du auf den Sprach-/Videoanruf Button tippst, außerdem kannst du dort zwischen Mobilfunk und WhatsApp Anruf auswählen.";
 "CALL_CONFIRM_LABEL" = "Anrufsbestätigung";
@@ -372,6 +375,9 @@
 "DISABLE_LANDSCAPE_DESC" = "Verhindert, dass WhatsApp ins Querformat rotiert.";
 "DISABLE_LANDSCAPE_LABEL" = "Querformat deaktivieren";
 
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+
 "MUTE_SOUND_DESC" = "Schaltet den WhatsApp Sound von gesendeten/empfangenen Nachrichten und/oder Tastatur Klicks stumm.";
 "MUTE_SOUND_LABEL" = "Sound stummschalten";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Tastatur Klicks stummschalten";
@@ -406,6 +412,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Nachricht bei Benachrichtigung";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Titel";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kontaktname";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "Deaktivert WhatsApp Kennzeichen für stummgeschaltete Chats & Gruppen.";
 "HIDE_MUTED_BADGES_LABEL" = "Stummgeschaltete Kennzeichen verstecken";
@@ -439,7 +450,7 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "Allgemeines";
 "APP_TINTCOLOR_LABEL" = "Farbton der App";
-"WHATSAPP_INTERNAL_DARK_MODE" = "Interner WhatsApp-Darkmode";
+"DARK_MODE_LABEL" = "Dark Mode";
 "KEYBOARD_STYLE_LABEL" = "Tastaturstil";
 "KEYBOARD_STYLE_DEFAULT" = "Standard";
 "KEYBOARD_STYLE_DARK" = "Schwarz";

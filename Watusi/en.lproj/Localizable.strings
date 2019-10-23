@@ -135,8 +135,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Disable Forwarded Indicator";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Disable showing forwarded indicator when forwarding a message to your contacts";
 
-"UNLIMITED_FORWARD_LABEL" = "Unlimited Forward";
-"UNLIMITED_FORWARD_DESC" = "Forward a message to unlimited number of contacts";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.";
 "CALL_CONFIRM_LABEL" = "Call Confirm";
@@ -372,6 +375,9 @@
 "DISABLE_LANDSCAPE_DESC" = "Disable WhatsApp from rotating to landscape.";
 "DISABLE_LANDSCAPE_LABEL" = "Disable Landscape";
 
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+
 "MUTE_SOUND_DESC" = "Mute WhatsApp sound of sent/received messages and/or mute keyboard clicks.";
 "MUTE_SOUND_LABEL" = "Mute Sound";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Mute Key Clicks";
@@ -406,6 +412,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Notification Message";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Title";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Contact Name";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "Hide WhatsApp badges for muted chats & groups.";
 "HIDE_MUTED_BADGES_LABEL" = "Hide Muted Badges";
@@ -439,8 +450,8 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "General";
 "APP_TINTCOLOR_LABEL" = "App Tint Color";
-"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Internal Dark Mode";
-"KEYBOARD_STYLE_LABEL" = "Keyboard style";
+"DARK_MODE_LABEL" = "Dark Mode";
+"KEYBOARD_STYLE_LABEL" = "Keyboard Style";
 "KEYBOARD_STYLE_DEFAULT" = "Default";
 "KEYBOARD_STYLE_DARK" = "Dark";
 "KEYBOARD_STYLE_DARK_BLUE" = "Dark & Blue";

@@ -135,8 +135,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "İletildi İşaretini Devre Dışı Bırak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kişilerden birine mesaj atarken iletildi işaretini devre dışı bırak";
 
-"UNLIMITED_FORWARD_LABEL" = "Sınırsız Mesaj İletimi";
-"UNLIMITED_FORWARD_DESC" = "Kişi sınırı olmadan mesajı ilet";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Görüntülü veya sesli arama tuşunua basınca onaylama uyarısı alırsınız, WhatsApp araması ya da normal operatör araması seçimi yapabilirsiniz.";
 "CALL_CONFIRM_LABEL" = "Aramayı Onayla";
@@ -372,6 +375,9 @@
 "DISABLE_LANDSCAPE_DESC" = "WhatsApp'ın ekran çevirmesini devre dışı bırakır.";
 "DISABLE_LANDSCAPE_LABEL" = "Ekran Çevirmeyi Devre Dışı Bırak";
 
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+
 "MUTE_SOUND_DESC" = "WhatsApp alınan/gönderilen mesajlar ve/veya klavye sesini devre dışı bırakır..";
 "MUTE_SOUND_LABEL" = "Sesi Kes";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Klavye Sesini Kes";
@@ -406,6 +412,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Bildirim Mesajı";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Başlık";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kişi Adı";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "WhatsApp'ta susturulan sohbet ve gruplarının mesaj sayılarını gizle.";
 "HIDE_MUTED_BADGES_LABEL" = "Susturulan Mesaj Sayılarını Gizle";
@@ -439,7 +450,7 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "Genel";
 "APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonu";
-"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Dahili Karanlık Modu";
+"DARK_MODE_LABEL" = "Karanlık Modu";
 "KEYBOARD_STYLE_LABEL" = "Klavye Stili";
 "KEYBOARD_STYLE_DEFAULT" = "Varsayılan";
 "KEYBOARD_STYLE_DARK" = "Koyu";

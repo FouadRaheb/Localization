@@ -135,8 +135,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deshabilitar indicador de reenviado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Desactivar la visualización del indicador de reenviado al reenviar un mensaje a tus contactos";
 
-"UNLIMITED_FORWARD_LABEL" = "Avance Ilimitado";
-"UNLIMITED_FORWARD_DESC" = "Reenviar un mensaje a un número ilimitado de contactos";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Obtén un alerta de confirmación al pulsar los botones de llamada de voz o video, también puedes elegir entre una llamada de WhatsApp o una llamada normal de operador.";
 "CALL_CONFIRM_LABEL" = "Confirmar llamada";
@@ -372,6 +375,9 @@
 "DISABLE_LANDSCAPE_DESC" = "Deshabilitar rotación de WhatsApp a pantalla horizontal.";
 "DISABLE_LANDSCAPE_LABEL" = "Desactivar pantalla horizontal";
 
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+
 "MUTE_SOUND_DESC" = "Silenciar el sonido WhatsApp de los mensajes enviados/recibidos y/o silenciar los clics del teclado.";
 "MUTE_SOUND_LABEL" = "Silenciar sonidos";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Silenciar clics del teclado";
@@ -406,6 +412,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensaje de notificación";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Título";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Nombre de contacto";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "Ocultar badges de WhatsApp para chats y grupos silenciados.";
 "HIDE_MUTED_BADGES_LABEL" = "Ocultar badges Silenciados";
@@ -439,7 +450,7 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "General";
 "APP_TINTCOLOR_LABEL" = "Color de Tinte de la Aplicación";
-"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Modo Oscuro Interno";
+"DARK_MODE_LABEL" = "Modo Oscuro";
 "KEYBOARD_STYLE_LABEL" = "Estilo de Teclado";
 "KEYBOARD_STYLE_DEFAULT" = "Por Defecto";
 "KEYBOARD_STYLE_DARK" = "Oscuro";

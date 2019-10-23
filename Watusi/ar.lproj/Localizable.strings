@@ -135,8 +135,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "إخفاء علامة 'رسالة محولة'";
 "DISABLE_FORWARD_INDICATOR_DESC" = "إخفاء علامة 'رسالة محولة' عند تحويل أي رسائل إلى جهات الاتصال الخاصة بك.";
 
-"UNLIMITED_FORWARD_LABEL" = "تحويل لا محدود";
-"UNLIMITED_FORWARD_DESC" = "تحويل الرسائل لعدد لا نهائي من جهات الاتصال.";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "زيادة حد التحويل";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "زيادة حد عدد جهات الاتصال المسموح به في تحويل الرسالة من ٥ إلى ٢٠. هذا الخيار كان يستخدم للسماح بتحويل الرسالة إلى عدد غير محدود من جهات الاتصال، ولكن واتساب الآن بدأت في التحقق من هذا الأمر على الخادم الخاص بهم، ولذلك قمت بتخفيضه إلى ٢٠ لحماية حسابك.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "تأكيد إرسال الملصقات";
+"CONFIRM_SENDING_STICKER_DESC" = "إظهار تنبيه بتأكيد إرسال الملصق قبل إرساله.";
 
 "CALL_CONFIRM_DESC" = "الحصول على تنبيه بالتأكيد عند الضغط على أزرار الاتصال (الصوتي أو الفيديو)، كما يمكنك الاختيار بين مكالمة واتساب ومكالمة عادية.";
 "CALL_CONFIRM_LABEL" = "تأكيد الاتصال";
@@ -372,6 +375,9 @@
 "DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب إلى الوضع الأفقي.";
 "DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الأفقي";
 
+"DISABLE_LARGE_TITLES_DESC" = "تعطيل العناوين الكبيرة الموجودة في iOS 11 وأعلى على الأشرطة العلوية لتبويبات واتساب.";
+"DISABLE_LARGE_TITLES_LABEL" = "تعطيل العناوين الكبيرة";
+
 "MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات لوحة المفاتيح.";
 "MUTE_SOUND_LABEL" = "كتم الأصوات";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات لوحة المفاتيح";
@@ -406,6 +412,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "رسالة الإشعار";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "العنوان";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "اسم جهة الاتصال";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "فلترة";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "لا شيء";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "القائمة البيضاء";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "القائمة السوداء";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "قائمة الفلترة";
 
 "HIDE_MUTED_BADGES_DESC" = "إخفاء شارات واتساب للدردشات والمجموعات التي تم كتمها.";
 "HIDE_MUTED_BADGES_LABEL" = "إخفاء شارات الكتم";
@@ -439,7 +450,7 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "عام";
 "APP_TINTCOLOR_LABEL" = "لون أزرار وعناصر التطبيق";
-"WHATSAPP_INTERNAL_DARK_MODE" = "الوضع الليلي الرسمي الخاص بـ واتساب";
+"DARK_MODE_LABEL" = "الوضع اليلي";
 "KEYBOARD_STYLE_LABEL" = "شكل لوحة المفاتيح";
 "KEYBOARD_STYLE_DEFAULT" = "افتراضي";
 "KEYBOARD_STYLE_DARK" = "ليلي";
