@@ -212,6 +212,7 @@
 /* Action Buttons */
 
 "COPY_SHARE_SUBJECT" = "Tanıyı Kopyala/Paylaş";
+"COPY_SHARE_DESCRIPTION" = "Kopyala/Paylaş Description";
 "COPY_SHARE_ABOUT" = "Kopyala/Paylaş Hakkında";
 "SAVE_SHARE_IMAGE" = "Kaydet/Paylaş Fotoğraf";
 "SAVE_SHARE_VIDEO" = "Kaydet/Paylaş Video";
@@ -255,6 +256,7 @@
 "DELETED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı silindi";
 "CHANGED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı değiştirildi";
 "CHANGED_GROUP_SUBJECT_NOTIFICATION" = "Grup tanısı değiştirildi";
+"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "changed group description to";
 
 "CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "Gruba eklendi";
 "CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "Gruptan atıldı";

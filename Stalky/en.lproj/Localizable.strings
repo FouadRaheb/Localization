@@ -212,6 +212,7 @@
 /* Action Buttons */
 
 "COPY_SHARE_SUBJECT" = "Copy/Share Subject";
+"COPY_SHARE_DESCRIPTION" = "Copy/Share Description";
 "COPY_SHARE_ABOUT" = "Copy/Share About";
 "SAVE_SHARE_IMAGE" = "Save/Share Image";
 "SAVE_SHARE_VIDEO" = "Save/Share Video";
@@ -255,6 +256,7 @@
 "DELETED_GROUP_PICTURE_NOTIFICATION" = "deleted group profile picture";
 "CHANGED_GROUP_PICTURE_NOTIFICATION" = "changed group profile picture";
 "CHANGED_GROUP_SUBJECT_NOTIFICATION" = "changed group subject to";
+"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "changed group description to";
 
 "CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "is added to the group";
 "CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "is removed from the group";
