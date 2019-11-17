@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desativar recibos de entrega";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Atenção! A ativação desse recurso causará um atraso nas mensagens, porque o servidor WhatsApp deixará de enviar novas mensagens se você tiver muitas mensagens pendentes no servidor esperando para ser marcado como entregue. Não é possível consertar isso, pois o servidor é de um lado só";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "Auto configurar o Último Visto para 'Ninguém' quando o WhatsApp estiver em plano de fundo e configurar de volta para 'Meus Contatos' quando você abrir o WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Auto troca do Último Visto";
 

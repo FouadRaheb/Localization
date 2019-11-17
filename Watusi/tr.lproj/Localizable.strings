@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "İletildi Bilgisini(Çift Tik) Kapat";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarı! Bu özelliği etkinleştirmek gelen mesajları WhatsApp sunucusunda iletilmedi gözükeceğinden dolayı bekletecektir. Bekleyen çok mesajınız varsa uygulama açılıncaya kadar bildirimler gelmez. Server kaynaklı olduğundan düzeltilmesi imkansızdır.";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plandayken son görülmeyi herkese kapatır. WhatsApp'a giriş yapıldığında tekrar Kişilerim'e açar";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu";
 

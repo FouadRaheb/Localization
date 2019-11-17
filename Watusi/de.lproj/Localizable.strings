@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktivieren";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warnung! Die Aktivierung dieser Funktion führt zu einer Verzögerung der Nachrichten, da der WhatsApp-Server keine neuen Nachrichten mehr sendet, wenn auf dem Server viele ausstehende Nachrichten auf die Zustellung warten. Es ist nicht möglich, dies zu beheben, da es serverseitig ist.";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Zuletzt online automatisch wechseln";
 

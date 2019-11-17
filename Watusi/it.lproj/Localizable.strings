@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Disattiva conferme di consegna.";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Attenzione! Attivando questa funzione ci saranno dei ritardi nella consegna dei messaggi, perché WhatsApp smetterà di inviare messaggi se sul server ci sarà una lunga coda di messaggi in atteasa di essere marcati come consegnati. Non c'è modo di correggere questo comportamento in quanto dipende dal server.";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "Imposta automaticamente la privacy dell'ultimo accesso su 'Nessuno' quando WhatsApp entra in background ed reimpostarlo su 'I miei contatti' quando riapri WhatsApp";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Cambia privacy dell'ultimo accesso";
 
