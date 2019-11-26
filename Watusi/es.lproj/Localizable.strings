@@ -454,6 +454,8 @@
 "THEME_GENERAL_SECTION_TITLE" = "General";
 "APP_TINTCOLOR_LABEL" = "Color de Tinte de la Aplicación";
 "DARK_MODE_LABEL" = "Modo Oscuro";
+"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
+"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
 "KEYBOARD_STYLE_LABEL" = "Estilo de Teclado";
 "KEYBOARD_STYLE_DEFAULT" = "Por Defecto";
 "KEYBOARD_STYLE_DARK" = "Oscuro";

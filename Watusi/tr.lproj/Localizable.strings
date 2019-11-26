@@ -454,6 +454,8 @@
 "THEME_GENERAL_SECTION_TITLE" = "Genel";
 "APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonu";
 "DARK_MODE_LABEL" = "Karanlık Modu";
+"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
+"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
 "KEYBOARD_STYLE_LABEL" = "Klavye Stili";
 "KEYBOARD_STYLE_DEFAULT" = "Varsayılan";
 "KEYBOARD_STYLE_DARK" = "Koyu";
