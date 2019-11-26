@@ -1,6 +1,6 @@
 /* Settings */
 
-"PREFERENCES" = "OnlineNotify Preferências";
+"PREFERENCES" = "Preferências do OnlineNotify ";
 
 "ONLINE_CONTACTS" = "Contatos Online";
 
@@ -13,15 +13,15 @@
 "ONLINE_NOTIFICATION_LABEL" = "Notificações Online";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
-"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"RECORDING_NOTIFICATION_LABEL" = "Notificações de Gravação";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
-"NOTIFICATIONS_DESCRIPTION" = "- Receba notificações on-line / off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
+"NOTIFICATIONS_DESCRIPTION" = "- Receba notificações on-line/off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
 
 "LOG_NOTIFCATIONS_LABEL" = "Registro de Notificações";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre todas as notificações de Online/Offline/Digitando que você receber,  você pode checar na aba ‘Registro de Contatos’.";
 
 "SELECTED_TYPING_LABEL" = "Digitando para favoritos";
-"SELECTED_RECORDING_LABEL" = "Recording for favorites";
+"SELECTED_RECORDING_LABEL" = "Gravando para favoritos";
 "SELECTED_READ_MESSAGE_LABEL" = "Mensagem Lida para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Receba notificação de digitaçao e leitura apenas dos contatos favoritos que você selecionou na ‘Lista de Rastreamento’.";
 
@@ -75,8 +75,8 @@
 /* Messages */
 
 "ZIP_AND_EXPORT_LOGS" = "Zipar e exportar os registros";
-"DELETE_ALL_LOGS_WARNING" = "Essa ação apagara TODOS os registros.";
-"DELETE_ALL_LOGS_FOR_WARNING" = "Essa ação apagara registros de";
+"DELETE_ALL_LOGS_WARNING" = "Essa ação apagará TODOS os registros.";
+"DELETE_ALL_LOGS_FOR_WARNING" = "Essa ação apagará registros de";
 
 "RELAUNCH_MESSAGE" = "Você precisa re-abrir o WhatsApp para aplicar as alterações";
 
@@ -85,7 +85,7 @@
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
 "IS_TYPING" = "digitando...";
-"IS_RECORDING" = "is recording...";
+"IS_RECORDING" = "está gravando...";
 "IS_NOW_ONLINE" = "está online agora";
 "HAS_GONE_OFFLINE_AT" = "ficou off-line às";
 "HAS_READ_YOUR_MESSAGES" = "leu suas mensagens";
@@ -95,11 +95,11 @@
 
 /* Developer & Support Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Desenvolvedor";
+"CONTRIBUTE_LABEL" = "Contribuir";
 
-"SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_SECTION_HEADER" = "Versions";
+"SUPPORT_SECTION_HEADER" = "Suporte";
+"CONTACT_AND_MORE_LABEL" = "Contato e Mais";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Conta e Remoção de Anúncios";
+"CONTACT_SUPPORT_LABEL" = "Entre em contato com o suporte";
+"VERSIONS_SECTION_HEADER" = "Versões";
