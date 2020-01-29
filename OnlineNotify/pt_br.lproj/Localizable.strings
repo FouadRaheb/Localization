@@ -1,6 +1,6 @@
 /* Settings */
 
-"PREFERENCES" = "Preferências do OnlineNotify ";
+"PREFERENCES" = "Preferências do OnlineNotify";
 
 "ONLINE_CONTACTS" = "Contatos Online";
 
@@ -10,12 +10,19 @@
 "ENABLE_DESCRIPTION" = "Ativar para começar a receber notificações";
 "ENABEL_LABEL" = "Ativar para começar a receber notificações";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Receba notificações on-line/off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
 "ONLINE_NOTIFICATION_LABEL" = "Notificações Online";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
 "RECORDING_NOTIFICATION_LABEL" = "Notificações de Gravação";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
-"NOTIFICATIONS_DESCRIPTION" = "- Receba notificações on-line/off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Registro de Notificações";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre todas as notificações de Online/Offline/Digitando que você receber,  você pode checar na aba ‘Registro de Contatos’.";
@@ -34,12 +41,6 @@
 "OUTSIDE_NOTIFICATIONS" = "Notificações Externas";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obter notificações do  OnlineNotify fora do WhatsApp.\n Observe que o WhatsApp precisa estar ativo em segundo plano e você será mostrado como Online.";
 
-"FAVORITES_LIST_LABEL" = "Lista de Favoritos";
-"FAVORITES_LIST_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de favoritos do Watusi que substitui a guia da câmera.\n - Substitua o status dos contatos com o último visto na lista de favoritos do Watusi.";
-
-"GROUP_MEMBERS_LABEL" = "Participantes de Grupos";
-"GROUP_MEMBERS_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de participantes do grupo.\n - Substituir o status dos contatos pela última vez vistos na lista de membros do grupo.";
-
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos on-line.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista de Contatos Online";
 "ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
@@ -55,11 +56,31 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para desativar as notificações";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "A ativação de notificações externas manterá seu Wi-Fi ativo após o bloqueio do dispositivo e você será sempre exibido como Online mesmo quando o WhatsApp estiver em segundo plano";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Lista de Favoritos";
+"FAVORITES_LIST_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de favoritos do Watusi que substitui a guia da câmera.\n - Substitua o status dos contatos com o último visto na lista de favoritos do Watusi.";
+
+"GROUP_MEMBERS_LABEL" = "Participantes de Grupos";
+"GROUP_MEMBERS_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de participantes do grupo.\n - Substituir o status dos contatos pela última vez vistos na lista de membros do grupo.";
+
 "CHATS_LIST_LABEL" = "Lista de Chats";
 "CHATS_LIST_DESCRIPTION" = "Adiciona um indicador verde ao lado de Usuários Online na lista de bate-papo.";
 
 "ONLINE_INDICATOR" = "Indicador online";
 "LAST_SEEN" = "Último visto";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Adicionar Contato";
 "CONTACT_ALREADY_EXISTS" = "Contato já existe";
@@ -86,12 +107,14 @@
 "OFFLINE" = "Offline";
 "IS_TYPING" = "digitando...";
 "IS_RECORDING" = "está gravando...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "está online agora";
 "HAS_GONE_OFFLINE_AT" = "ficou off-line às";
 "HAS_READ_YOUR_MESSAGES" = "leu suas mensagens";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "leu suas mensagens no grupo";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "leu suas mensagens no";
 "HAS_RECEIVED_YOUR_MESSAGES" = "recebeu sua mensagem";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "recebeu suas mensagens do grupo";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "recebeu suas mensagens do";
 
 /* Developer & Support Section */
 

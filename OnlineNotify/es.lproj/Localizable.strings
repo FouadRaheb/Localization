@@ -10,12 +10,19 @@
 "ENABLE_DESCRIPTION" = "Habilitar para comenzar a recibir notificaciones";
 "ENABEL_LABEL" = "Habilitar notificaciones";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Obtener notificaciones en línea/sin conexión para los usuarios seleccionados. (Añadir usuarios de la tabla de seguimiento).\n- Recibe una notificación cuando alguno de tus contactos empieza a escribir en tu chat.\n- Obtener notificación cuando un contacto lee los mensajes enviados.";
 "ONLINE_NOTIFICATION_LABEL" = "Notificaciones en línea";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificaciones sin conexión";
 "TYPING_NOTIFICATION_LABEL" = "Notificaciones de escribiendo";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Leer notificaciones de mensajes";
-"NOTIFICATIONS_DESCRIPTION" = "- Obtener notificaciones en línea/sin conexión para los usuarios seleccionados. (Añadir usuarios de la tabla de seguimiento).\n- Recibe una notificación cuando alguno de tus contactos empieza a escribir en tu chat.\n- Obtener notificación cuando un contacto lee los mensajes enviados.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Registros de notificaciones";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre la notificación en línea/sin conexión/escribiendo que usted recibe de cada contacto, puede comprobar los registros en lista de los registros.";
@@ -34,12 +41,6 @@
 "OUTSIDE_NOTIFICATIONS" = "Notificaciones exteriores";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obtenga notificaciones de OnlineNotify fuera de WhatsApp.\nTenga en cuenta que WhatsApp debe estar activo en segundo plano y mostrara en línea.";
 
-"FAVORITES_LIST_LABEL" = "Lista de favoritos";
-"FAVORITES_LIST_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de favoritos de Watusi, que sustituye a la tarjeta de la cámara..\n- Reemplaza el estado de los contactos con su última entrada en la lista de favoritos de Watusi.";
-
-"GROUP_MEMBERS_LABEL" = "Miembros del grupo";
-"GROUP_MEMBERS_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de miembros del grupo.\n- Reemplazar el estado de sus contactos con su última entrada en la lista de miembros del grupo.";
-
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Agrega una fila en la parte superior de la lista de chats para ver tus contactos en línea.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista de contactos en línea";
 "ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
@@ -55,11 +56,31 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp necesita ser relanzado para desactivar las notificaciones";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Habilitar las notificaciones externas mantendrá tu WiFi activo después de que el dispositivo haya sido bloqueado y siempre aparecerás como Online incluso cuando WhatsApp esté en segundo plano";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Lista de favoritos";
+"FAVORITES_LIST_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de favoritos de Watusi, que sustituye a la tarjeta de la cámara..\n- Reemplaza el estado de los contactos con su última entrada en la lista de favoritos de Watusi.";
+
+"GROUP_MEMBERS_LABEL" = "Miembros del grupo";
+"GROUP_MEMBERS_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de miembros del grupo.\n- Reemplazar el estado de sus contactos con su última entrada en la lista de miembros del grupo.";
+
 "CHATS_LIST_LABEL" = "Lista de chats";
 "CHATS_LIST_DESCRIPTION" = "Agrega un indicador verde junto a usuarios en línea en la lista de chats.";
 
 "ONLINE_INDICATOR" = "Indicador en línea";
 "LAST_SEEN" = "Ultima vista";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Agregar contacto";
 "CONTACT_ALREADY_EXISTS" = "El contacto ya existe";
@@ -86,12 +107,14 @@
 "OFFLINE" = "desconectado";
 "IS_TYPING" = "esta escribiendo...";
 "IS_RECORDING" = "is recording...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "está ahora en línea";
 "HAS_GONE_OFFLINE_AT" = "se ha desconectado en";
 "HAS_READ_YOUR_MESSAGES" = "ha leído tus mensajes";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha leído los mensajes de su grupo";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha leído los mensajes de en";
 "HAS_RECEIVED_YOUR_MESSAGES" = "ha recibido tus mensajes";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha recibido su mensaje de grupos";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha recibido su mensaje de en";
 
 /* Developer & Support Section */
 

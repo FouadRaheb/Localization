@@ -10,12 +10,19 @@
 "ENABLE_DESCRIPTION" = "Bildirimleri almaya başlamak için etkinleştir";
 "ENABEL_LABEL" = "Bildirimleri Etkinleştir";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Seçilen kullanıcılar için çevrimiçi / çevrimdışı bildirimleri alın. (İzleme Tablosundan kullanıcı ekleyin.\n- Kişilerinizden herhangi biri sohbetinize yazmaya başladığında bildirim alın.\n- Bir kişi gönderdiğiniz iletileri okuduğunda bildirim alın.";
 "ONLINE_NOTIFICATION_LABEL" = "Çevrimiçi Bildirimleri";
 "OFFLINE_NOTIFICATION_LABEL" = "Çevrimdışı Bildirimleri";
 "TYPING_NOTIFICATION_LABEL" = "Yazıyor Bildirimleri";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Mesajınız Okundu Bildirimleri";
-"NOTIFICATIONS_DESCRIPTION" = "- Seçilen kullanıcılar için çevrimiçi / çevrimdışı bildirimleri alın. (İzleme Tablosundan kullanıcı ekleyin.\n- Kişilerinizden herhangi biri sohbetinize yazmaya başladığında bildirim alın.\n- Bir kişi gönderdiğiniz iletileri okuduğunda bildirim alın.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Bildirim Günlükleri";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Aldığınız tüm kişilerin Çevrimiçi / Çevrimdışı / Yazma bildirimlerini, Günlükler Tablosundan günlükleri kontrol edebilirsiniz.";
@@ -34,12 +41,6 @@
 "OUTSIDE_NOTIFICATIONS" = "Dışarı Bildirimleri";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "WhatsApp dışında OnlineNotify bildirimleri al.\nWhatsapp arkaplanda aktif olmalı ve sürekli online gözükürsün.";
 
-"FAVORITES_LIST_LABEL" = "Favoriler Listesi";
-"FAVORITES_LIST_DESCRIPTION" = "- Watusi sık kullanılanlar listesindeki Çevrimiçi Kullanıcıların yanına, kamera sekmesinin yerine yeşil bir gösterge ekler...\n- Watusi favori listesindeki durumu son görülme ile değiştir.";
-
-"GROUP_MEMBERS_LABEL" = "Grup Üyeleri";
-"GROUP_MEMBERS_DESCRIPTION" = "- Online olan grup üyelerinin yanına yeşil bir gösterge ekler.\n- Grup üyelerinin durumlarını son görülme ile değiştir.";
-
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Çevrimiçi kişilerinizi kontrol etmek için Sohbet Listesinin üstüne bir satır ekleyin.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Çevrimiçi Kişiler Listesi";
 "ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
@@ -55,11 +56,31 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "Bildirimleri devre dışı bırakmak için WhatsApp'ın yeniden başlatılması gerekir";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Dışarıda bildirimlerin etkinleştirilmesi, cihaz kilitlendikten sonra Wi-Fi'yi etkin durumda tutar ve WhatsApp arka planda olduğunda bile çevrimiçi olarak her zaman gösterilirsiniz";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Favoriler Listesi";
+"FAVORITES_LIST_DESCRIPTION" = "- Watusi sık kullanılanlar listesindeki Çevrimiçi Kullanıcıların yanına, kamera sekmesinin yerine yeşil bir gösterge ekler...\n- Watusi favori listesindeki durumu son görülme ile değiştir.";
+
+"GROUP_MEMBERS_LABEL" = "Grup Üyeleri";
+"GROUP_MEMBERS_DESCRIPTION" = "- Online olan grup üyelerinin yanına yeşil bir gösterge ekler.\n- Grup üyelerinin durumlarını son görülme ile değiştir.";
+
 "CHATS_LIST_LABEL" = "Sohbet Listesi";
 "CHATS_LIST_DESCRIPTION" = "Sohbet listesindeki Çevrimiçi Kullanıcıların yanına yeşil bir gösterge ekler.";
 
 "ONLINE_INDICATOR" = "Çevrimiçi Göstergesi";
 "LAST_SEEN" = "Son Görülme";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Kişi Ekle";
 "CONTACT_ALREADY_EXISTS" = "Kişi zaten mevcut";
@@ -86,6 +107,8 @@
 "OFFLINE" = "Çevrimdışı";
 "IS_TYPING" = "yazıyor...";
 "IS_RECORDING" = "Ses Kaydediyor...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "şimdi çevrimiçi";
 "HAS_GONE_OFFLINE_AT" = "şu zamanda çevrimdışı oldu";
 "HAS_READ_YOUR_MESSAGES" = "mesajınızı okudu";

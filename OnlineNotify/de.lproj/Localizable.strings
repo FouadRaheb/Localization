@@ -10,12 +10,19 @@
 "ENABLE_DESCRIPTION" = "Aktivieren um Benachrichtigungen zu erhalten.";
 "ENABEL_LABEL" = "Benachrichtigungen aktivieren";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Erhalte für ausgewählte Kontakte 'Ist online'\/'Ist offline'-Benachrichtigungen. (Füge die jeweiligen Kontakte der Liste der verfolgten Kontakte hinzu.)\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte dir eine Nachricht schreibt.\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte deine Nachricht gelesen hat.";
 "ONLINE_NOTIFICATION_LABEL" = "Benachrichtigung wenn online";
 "OFFLINE_NOTIFICATION_LABEL" = "Benachrichtigung wenn offline";
 "TYPING_NOTIFICATION_LABEL" = "'Schreibt...' Benachrichtigungen";
 "RECORDING_NOTIFICATION_LABEL" = "Stimmaufnahme Nachricht";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Benachrichtigung für 'Gelesen'";
-"NOTIFICATIONS_DESCRIPTION" = "- Erhalte für ausgewählte Kontakte 'Ist online'\/'Ist offline'-Benachrichtigungen. (Füge die jeweiligen Kontakte der Liste der verfolgten Kontakte hinzu.)\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte dir eine Nachricht schreibt.\n- Erhalte Benachrichtigungen, wenn einer deiner Kontakte deine Nachricht gelesen hat.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Benachrichtigungs-Logs";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Loggt alle 'Ist online'\/'Ist offline'\/'Schreibt'-Benachrichtigungen, die du erhältst; die Logs sind bei den Benachrichtigungs-Logs gespeichert.";
@@ -34,12 +41,6 @@
 "OUTSIDE_NOTIFICATIONS" = "Benachrichtigungen außerhalb";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Erhalte Benachrichtigungen von OnlineNotify auch außerhalb von WhatsApp.\nMerke dir, dass WhatsApp im Hintergrund weiterlaufen muss und dass du immer als online angezeigt wirst.";
 
-"FAVORITES_LIST_LABEL" = "Favoriten-Liste";
-"FAVORITES_LIST_DESCRIPTION" = "- Fügt einen grünen Indikator neben Kontakten in deiner durch Watusi eingestellten Favoriten-Liste hinzu, die grade online sind.\n- Ersetzt die Info eines Kontaktes in eben dieser Liste mit seinem 'Zuletzt gesehen'-Status.";
-
-"GROUP_MEMBERS_DESCRIPTION" = "- Fügt einen grünen Indikator neben Kontakten in der Mitgliederliste einer Gruppe hinzu, die grade online sind.\n- Ersetzt die Info eines Kontaktes in eben dieser Liste mit seinem 'Zuletzt gesehen'-Status.";
-"GROUP_MEMBERS_LABEL" = "Gruppenmitglieder";
-
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Fügt eine Reihe über deiner Chat-Liste hinzu, die alle Kontakte anzeigt die grade online sind.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Liste der Online-Kontakte";
 "ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
@@ -55,11 +56,31 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "Um Benachrichtigungen zu deaktivieren muss WhatsApp einmal neugestartet werden.";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Wenn du Benachrichtigungen für außerhalb von WhatsApp aktivierst, bleibt dein WiFi eingeschaltet falls du dein Gerät sperrst und du wirst immer als online angezeigt, selbst wenn WhatsApp im Hintergrund läuft.";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Favoriten-Liste";
+"FAVORITES_LIST_DESCRIPTION" = "- Fügt einen grünen Indikator neben Kontakten in deiner durch Watusi eingestellten Favoriten-Liste hinzu, die grade online sind.\n- Ersetzt die Info eines Kontaktes in eben dieser Liste mit seinem 'Zuletzt gesehen'-Status.";
+
+"GROUP_MEMBERS_DESCRIPTION" = "- Fügt einen grünen Indikator neben Kontakten in der Mitgliederliste einer Gruppe hinzu, die grade online sind.\n- Ersetzt die Info eines Kontaktes in eben dieser Liste mit seinem 'Zuletzt gesehen'-Status.";
+"GROUP_MEMBERS_LABEL" = "Gruppenmitglieder";
+
 "CHATS_LIST_LABEL" = "Liste der Chats";
 "CHATS_LIST_DESCRIPTION" = "Fügt einen grünen Indikator neben Kontakten in deiner Chat-Liste hinzu, die grade online sind.";
 
 "ONLINE_INDICATOR" = "Online-Indikator";
 "LAST_SEEN" = "Zuletzt gesehen";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Kontakt hinzufügen";
 "CONTACT_ALREADY_EXISTS" = "Kontakt existiert bereits";
@@ -86,6 +107,8 @@
 "OFFLINE" = "Offline";
 "IS_TYPING" = "schreibt...";
 "IS_RECORDING" = "nimmt auf...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "ist jetzt online";
 "HAS_GONE_OFFLINE_AT" = "ist offline gegangen um";
 "HAS_READ_YOUR_MESSAGES" = "hat deine Nachrichten gelesen";
