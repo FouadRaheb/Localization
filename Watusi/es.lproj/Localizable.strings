@@ -489,6 +489,7 @@
 "MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Marcas Estado del Mensaje";
 "MESSAGE_TIMESTAMP_SECTION_TITLE" = "Mensaje de Fecha y Hora";
 "MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Estado Mensaje Pie de Página";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Text next to timestamp, mainly for document bubble";
 "SENT_COLOR_LABEL" = "Color Enviado";
 "DELIVERED_COLOR_LABEL" = "Color Entregado";
 "READ_COLOR_LABEL" = "Color Visto";

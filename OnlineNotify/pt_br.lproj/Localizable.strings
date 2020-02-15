@@ -5,7 +5,7 @@
 "ONLINE_CONTACTS" = "Contatos Online";
 
 "TRACKING_TABLE" = "Lista de Rastreamento";
-"CONTACT_LOGS" = "Registros de Contatos";
+"NOTIFICATIONS_LOGS" = "Registros de Notificações";
 
 "ENABLE_DESCRIPTION" = "Ativar para começar a receber notificações";
 "ENABEL_LABEL" = "Ativar para começar a receber notificações";
@@ -32,11 +32,21 @@
 "SELECTED_READ_MESSAGE_LABEL" = "Mensagem Lida para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Receba notificação de digitaçao e leitura apenas dos contatos favoritos que você selecionou na ‘Lista de Rastreamento’.";
 
+/* Notifications Settings */
+
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Customize Notifications Style & Sound";
+"NOTIFICATIONS_SETTINGS_LABEL" = "Notifications Settings";
+
 "SHOW_TEST_NOTIFICATION" = "Mostrar exemplo de notificação";
 "TEST_NOTIFICATION_MESSAGE" = "Notificação de exemplo";
 
 "NOTIFICATION_SOUND_LABEL" = "Som de Notificação";
 "NOTIFICATION_SOUND_DESCRIPTION" = "Escolha um som para as notificações.";
+
+"NOTIFICATION_STYLE_LABEL" = "Notifications Style";
+"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Style";
+"NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Status Bar";
+"NOTIFICATION_STYLE_SYSTEM_LABEL" = "System";
 
 "OUTSIDE_NOTIFICATIONS" = "Notificações Externas";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obter notificações do  OnlineNotify fora do WhatsApp.\n Observe que o WhatsApp precisa estar ativo em segundo plano e você será mostrado como Online.";
@@ -59,6 +69,7 @@
 /* Indicators */
 
 "ONLINE_INDICATORS_LABEL" = "Online Indicators";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Adds an Online Indicator next to your contacts in different places.";
 
 "ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
 

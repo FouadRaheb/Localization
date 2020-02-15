@@ -5,12 +5,12 @@
 "ONLINE_CONTACTS" = "جهات الاتصال المتصلة";
 
 "TRACKING_TABLE" = "جدول التتبع";
-"CONTACT_LOGS" = "سجلات جهة الاتصال";
+"NOTIFICATIONS_LOGS" = "سجلات الإشعارات";
 
 "ENABLE_DESCRIPTION" = "تفعيل لبدء تلقي الإشعارات";
 "ENABEL_LABEL" = "تفعيل الإشعارات";
 
-"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "إشعارات جهات الاتصال";
 "CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- احصل على إشعارات متصل الآن/غير متصل لمستخدمين محددين. (أضف مستخدمين من جدول التتبع)\n- احصل على إشعار عندما يبدأ شخص ما من جهات اتصالك بكتابة رسالة في محادثتك.\n- احصل على إشعار عندما تقرأ جهة اتصالك رسائلك المرسلة.";
 "ONLINE_NOTIFICATION_LABEL" = "إشعارت متصل الآن";
 "OFFLINE_NOTIFICATION_LABEL" = "إشعارت غير متصل";
@@ -18,11 +18,11 @@
 "RECORDING_NOTIFICATION_LABEL" = "إشعارات تسجيل المقطع الصوتي";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "إشعارات قراءة الرسائل";
 
-"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
-"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
-"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
-"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
-"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "إشعارات المجموعات";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "تلقي إشعارات الكتابة، التسجيل الصوتي وقراءة الرسائل للأعضاء في المجموعات التي تكون أنت فيها.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "إشعارات الكتابة";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "إشعارات تسجيل المقطع الصوتي";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "إشعارات قراءة الرسائل";
 
 "LOG_NOTIFCATIONS_LABEL" = "سجلات الإشعارات";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "تسجيل كل إشعار متصل الآن/غير متصل/كتابة لجهة اتصال تتلقاه، ويمكنك التحقق من السجلات من جدول السجلات.";
@@ -32,11 +32,21 @@
 "SELECTED_READ_MESSAGE_LABEL" = "قراءة الرسائل للمفضلة";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "تلقي إشعارات الكتابة وقراءة الرسائل فقط لجهات الاتصال المفضلة التي حددتها في جدول التتبع.";
 
+/* Notifications Settings */
+
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Customize Notifications Style & Sound";
+"NOTIFICATIONS_SETTINGS_LABEL" = "Notifications Settings";
+
 "SHOW_TEST_NOTIFICATION" = "عرض إشعار كمثال";
 "TEST_NOTIFICATION_MESSAGE" = "مثال على رسالة الإشعار";
 
 "NOTIFICATION_SOUND_LABEL" = "صوت الإشعارات";
 "NOTIFICATION_SOUND_DESCRIPTION" = "اختر صوت للإشعارات";
+
+"NOTIFICATION_STYLE_LABEL" = "شكل الإشعارات";
+"NOTIFICATION_STYLE_DESCRIPTION" = "شكل شعار الإشعارات داخل التطبيق";
+"NOTIFICATION_STYLE_STATUSBAR_LABEL" = "شريط الحالة";
+"NOTIFICATION_STYLE_SYSTEM_LABEL" = "النظام";
 
 "OUTSIDE_NOTIFICATIONS" = "الإشعارات الخارجية";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "احصل على إشعارات OnlineNotify خارج واتساب.\nلاحظ أن واتساب يحتاج إلى أن يكون نشطًا في الخلفية وستظهر أنت كمتصل الآن.";
@@ -59,6 +69,7 @@
 /* Indicators */
 
 "ONLINE_INDICATORS_LABEL" = "مؤشرات متصل الآن";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "إضافة مؤشر متصل الآن بجوار جهات اتصالك في أماكن مختلفة.";
 
 "ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "الشكل";
 
