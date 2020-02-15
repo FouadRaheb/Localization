@@ -454,8 +454,8 @@
 "THEME_GENERAL_SECTION_TITLE" = "Geral";
 "APP_TINTCOLOR_LABEL" = "Cor Matiz do App";
 "DARK_MODE_LABEL" = "Modo Escuro";
-"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
-"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
+"DARK_MODE_ENABLE_LABEL" = "Habilitar Modo Escuro";
+"BLACK_WALLPAPER_LABEL" = "Fundo Preto nos Chats";
 "KEYBOARD_STYLE_LABEL" = "Estilo de teclado";
 "KEYBOARD_STYLE_DEFAULT" = "Padrão";
 "KEYBOARD_STYLE_DARK" = "Escuro";
@@ -601,8 +601,8 @@
 
 "ADD_STICKERS_ALERT_TITLE" = "Adicionar Pacote de Sticker";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Criar Pacote de Sticker";
-"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Import ZIP dos arquivos";
-"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Import ZIP de arquivos do dispositivo";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Importar ZIP dos arquivos";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Importar arquivo ZIP do dispositivo";
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Importar ZIP da URL";
 
 
