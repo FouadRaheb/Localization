@@ -101,22 +101,22 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Contatos";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Contatos";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Novo Grupo";
-"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Atualizar Grupo";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Insira o nome do grupo";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nome do Grupo";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gerencie";
-"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
-"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
-"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Delete";
-"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Delete Groups";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Exportar";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Importar";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Deletar";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Deletar Grupos";
 
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Os status excluídos por seus contatos não serão removidos da lista de status até que expirem em 24h. Os status excluídos mostrarão uma mensagem no cabeçalho contendo a hora em que foi excluída.";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Manter status excluído dos contatos";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Excluído em";
 
-"STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
-"STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 10 minutes are not supported";
+"STATUS_SPLIT_VIDEO_LABEL" = "Dividir Vídeos Longos";
+"STATUS_SPLIT_VIDEO_DESC" = "Ao enviar um vídeo para o seu status, o WhatsApp permite vídeos de apenas 30 segundos, esse recurso dividirá automaticamente vídeos mais longos em vários status aparados no momento certo para serem reproduzidos consecutivamente.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Vídeos com mais de 10 minutos não são suportados";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desative o avanço automático para o próximo status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desativar Avanço Automático";
@@ -498,7 +498,7 @@
 "MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Verificação do Status da Mensagem";
 "MESSAGE_TIMESTAMP_SECTION_TITLE" = "Data e hora da mensagem";
 "MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Rodapé do status da mensagem";
-"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Text next to timestamp, mainly for document bubble";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Texto próximo ao carimbo de data e hora, principalmente para bolha de documento";
 "SENT_COLOR_LABEL" = "Cor da Enviada";
 "DELIVERED_COLOR_LABEL" = "Cor do Entregue";
 "READ_COLOR_LABEL" = "Cor da Leitura";
@@ -643,7 +643,7 @@
 "ACCOUNT_AD_REMOVAL_LABEL" = "Conta e Remoção de Anúncios";
 "ACCOUNT" = "Conta";
 "MANAGE_ACCOUNT" = "Gerenciar Conta";
-"LOGIN_OR_REGISTER" = "Login ou Registrar";
+"LOGIN_OR_REGISTER" = "Entrar ou Registrar";
 "LOGOUT" = "Logout";
 "HOW_TO_REMOVE_ADS" = "Como remover anúncios";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Comprar licença Watusi";
