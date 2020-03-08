@@ -101,13 +101,22 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Contact";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Contacts";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Nouveau groupe";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Entrez le nom du groupe";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nom du groupe";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gérer";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Delete";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Delete Groups";
 
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Les statuts que vos contacts suppriment ne seront pas supprimés de la liste des statuts jusqu'à ce qu'ils expirent dans 24h. Les statuts supprimés afficheront un message dans l'en-tête contenant l'heure à laquelle il a été supprimé.";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Conserver les statuts supprimés des contacts";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Supprimé à";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
+"STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 10 minutes are not supported";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Désactiver l'avance automatique vers le statut suivant";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Désactiver l'avancement automatique";
@@ -662,6 +671,7 @@
 "GROUPS" = "Groupes";
 "DEFAULT" = "Par défaut";
 "DELETE" = "Supprimer";
+"UPDATE" = "Update";
 "CANCEL" = "Annuler";
 "OKAY" = "Ok";
 "ENABLE" = "Activer";

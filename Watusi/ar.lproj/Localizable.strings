@@ -101,13 +101,22 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "مجموعة جديدة";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "ادخل اسم المجموعة";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "تصدير";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "استيراد";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "حذف";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "حذف المجموعات";
 
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "لن تتم إزالة الحالات التي تحذفها جهات اتصالك من قائمة الحالات حتى تنتهي صلاحيتها الافتراضية ٢٤ ساعة. ستظهر رسالة أعلى الحالات المحذوفة تحتوي على وقت حذفها.";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "إبقاء حالات جهات الاتصال المحذوفة";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
+"STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "الفيديوهات التي تزيد مدتها عن ١٠ دقائق غير مدعومة";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
@@ -662,6 +671,7 @@
 "GROUPS" = "المجموعات";
 "DEFAULT" = "افتراضي";
 "DELETE" = "حذف";
+"UPDATE" = "تحديث";
 "CANCEL" = "إلغاء";
 "OKAY" = "حسنا";
 "ENABLE" = "تفعيل";
