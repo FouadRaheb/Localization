@@ -86,7 +86,7 @@
 
 "OPEN_IN_FILZA_BUTTON" = "Abrir no Filza";
 "OPEN_IN_IFILE_BUTTON" = "Abrir no iFile";
-"DID_NOT_SELECT_CONTACTS_MESSAGE" = "Você não selecionou nenhum contato ";
+"DID_NOT_SELECT_CONTACTS_MESSAGE" = "Você não selecionou nenhum contato";
 "NO_FAVORITE_CONTACTS_MESSAGE" = "Você não possui contatos nos favoritos";
 
 "DELETE_ALL_IMAGES_DESCRIPTION" = "A exclusão de imagens removerá todos os arquivos JPG, mas manterá as miniaturas usadas para mostrar as fotos de seus contatos no WhatsApp.";
@@ -100,7 +100,7 @@
 "DELETE_STATUSES_ALERT_MESSAGE" = "Você pode excluir todos os status ou manter os de seus contatos favoritos.";
 "DELETE_ALL_STATUSES_ALERT_BUTTON" = "Deletar Todos";
 "DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "Todos, exceto dos favoritos";
-"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Selecione os Contatos para deletar;
+"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Selecione os Contatos para deletar";
 
 "SAVED_PICTURES_LABEL" = "Imagens Salvas";
 "SAVED_STATUSES_LABEL" = "Status Salvos";
