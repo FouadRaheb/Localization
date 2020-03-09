@@ -23,8 +23,8 @@
 
 "SAVE_TITLE" = "Atualizações Salvas";
 "SAVE_DESCRIPTION" = "Desative as atualizações que você não deseja salvar. A mídia de atualizações não salvas não será baixada.";
-"SAVE_PICTURES_LABEL" = "Salvar atualizações de fotos do perfil";
-"SAVE_ABOUT_LABEL" = "Salvar sobre atualizações";
+"SAVE_PICTURES_LABEL" = "Salvar atualizações de Fotos do Perfil";
+"SAVE_ABOUT_LABEL" = "Salvar atualizações de Sobre";
 "SAVE_GROUP_LABEL" = "Salvar Atualizações de Grupo";
 "SAVE_STATUS_LABEL" = "Salvar Atualizações de Status";
 
@@ -32,7 +32,7 @@
 "AUTO_DOWNLOAD_STATUSES_LABEL" = "Download automático de Status";
 "AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Baixe automaticamente as fotos do perfil de seus contatos. Você ainda pode fazer o download manual da imagem, se possível, tocando nela na tabela de atualizações.";
 "AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Baixe automaticamente a mídia de status dos contatos. Quando desativado, o stalky tentará fazer o download da mídia tocando na atualização apenas se ela ainda estiver disponível em seus status.";
-"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi & Cellular";
+"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wi-Fi e Celular";
 "AUTO_DOWNLOAD_WIFI" = "Wi-Fi";
 "AUTO_DOWNLOAD_NEVER" = "Nunca";
 
@@ -112,7 +112,7 @@
 
 "BACKUP_IMPORT_ALERT_TITLE" = "Importar Mídia";
 "BACKUP_IMPORT_ALERT_MESSAGE" = "Importe um arquivo zip para restaurar sua mídia. Seu arquivo zip deve estar na mesma estrutura que os arquivos zip exportados.\NPode conter 2 pastas (Perfis) e/ou (Status), cada uma contendo uma pasta para cada usuário pelo seu ID do WhatsApp, também os nomes dos arquivos devem ter o formato correto)";
-"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Importar do Servidor da Web";
+"BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Importar do Servidor Web";
 "BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Importar de Arquivos";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Visite %@ no seu PC e faça o upload do arquivo .zip.\nO arquivo será detectado automaticamente após o upload.";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_TITLE" = "Esperando ZIP";
@@ -148,7 +148,7 @@
 
 "RELAUNCH" = "Reiniciar";
 "CANCEL" = "Cancelar";
-"OKAY" = "Okay";
+"OKAY" = "Ok";
 "DELETE" = "Deletar";
 "DELETING" = "Deletando...";
 "LOADING" = "Carregando...";
@@ -195,7 +195,7 @@
 
 "ALL_UPDATES_FILTER" = "Todas as Atualizações";
 "ABOUT_UPDATES_FILTER" = "Atualizações de Sobre";
-"PICTURE_UPDATES_FILTER" = "Atualizações de Fotos di Perfil";
+"PICTURE_UPDATES_FILTER" = "Atualizações de Fotos do Perfil";
 "STATUS_UPDATES_FILTER" = "Atualizações de Status";
 "GROUP_UPDATES_FILTER" = "Atualizações de Grupo";
 
@@ -214,10 +214,10 @@
 "COPY_SHARE_SUBJECT" = "Copiar/Compartilhar Assunto";
 "COPY_SHARE_DESCRIPTION" = "Copiar/Compartilhar Descrição";
 "COPY_SHARE_ABOUT" = "Copiar/Compartilhar Sobre";
-"SAVE_SHARE_IMAGE" = "Save/Share Image";
-"SAVE_SHARE_VIDEO" = "Copiar/Compartilhar Video";
-"SAVE_SHARE_GIF" = "Copiar/Compartilhar GIF";
-"SAVE_SHARE_TEXT" = "Copiar/Compartilhar Texto";
+"SAVE_SHARE_IMAGE" = "Salvar/Compartilhar Imagem";
+"SAVE_SHARE_VIDEO" = "Salvar/Compartilhar Video";
+"SAVE_SHARE_GIF" = "Salvar/Compartilhar GIF";
+"SAVE_SHARE_TEXT" = "Salvar/Compartilhar Texto";
 "MESSAGE_GROUP" = "Mensagem do Groupo";
 "MESSAGE_CONTACT" = "Mensagem do Contato";
 "ALL_SAVED_PICTURES_AND_STATUSES" = "Todas as mídias salvas";
@@ -242,7 +242,7 @@
 /* Notification Messages */
 
 "DELETE_PROFILE_PICTURE_NOTIFICATION" = "foto do perfil excluída";
-"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "Foto de perfil alterada";
+"CHANGED_PROFILE_PICTURE_NOTIFICATION" = "Foto do perfil alterada";
 "CHANGED_ABOUT_NOTIFICATION" = "mudou para";
 
 "CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "entrou no WhatsApp";
