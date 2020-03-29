@@ -104,7 +104,7 @@
 "STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Atualizar Grupo";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Insira o nome do grupo";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nome do Grupo";
-"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gerencie";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gerenciar";
 "STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Exportar";
 "STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Importar";
 "STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Deletar";
@@ -623,7 +623,7 @@
 "CONTRIBUTE_LABEL" = "Contribuir";
 
 "SUPPORT_SECTION_TITLE" = "Suporte";
-"CONTACT_AND_MORE_LABEL" = "Contatos & Mais";
+"CONTACT_AND_MORE_LABEL" = "Contatos e Mais";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Suporte";
 "CONTACT_SUPPORT_SECTION_TITLE" = "Suporte";
 "CONTACT_SUPPORT_LABEL" = "Contatar Suporte";
@@ -646,7 +646,7 @@
 "ACCOUNT" = "Conta";
 "MANAGE_ACCOUNT" = "Gerenciar Conta";
 "LOGIN_OR_REGISTER" = "Entrar ou Registrar";
-"LOGOUT" = "Logout";
+"LOGOUT" = "Sair";
 "HOW_TO_REMOVE_ADS" = "Como remover anúncios";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Comprar licença Watusi";
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet para ter 2 dias sem anúncios";
@@ -673,7 +673,7 @@
 "GROUPS" = "Grupos";
 "DEFAULT" = "Padrão";
 "DELETE" = "Deletar";
-"UPDATE" = "Update";
+"UPDATE" = "Atualizar";
 "CANCEL" = "Cancelar";
 "OKAY" = "Ok";
 "ENABLE" = "Habilitar";
