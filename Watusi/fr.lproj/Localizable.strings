@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conserver les msg supprimés des contacts";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Les messages que vos contacts supprime ne seront pas supprimés et afficheront une icône pour indiquer que votre contact l'a supprimé.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Montre l'actu des contacts sur une petite bannière en dessous de la barre des dernière visite";
 "ABOUT_ON_CHATS_LABEL" = "Actu dans les discussions";

@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kişilerin Sildiği Mesajları Göster";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir..";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Sohbet Üstündeki Küçük Çizgide Kişi Hakkında Bilgiyi Göster";
 "ABOUT_ON_CHATS_LABEL" = "Sohbet Hakkında";

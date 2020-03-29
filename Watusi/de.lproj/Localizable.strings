@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kontakte für widerrufene Nachrichten behalten";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Nachrichten, die von Ihren Kontakten widerrufen werden, werden nicht gelöscht und zeigen ein Symbol an, das angibt, dass Ihr Kontakt sie widerrufen hat.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";

@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Keep Contacts Deleted Messages";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Messages that your contacts delete for everyone will not be deleted from your device and will show an icon to indicate that your contact has revoked it.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Show your contact about message on a little bar at the top of chat view";
 "ABOUT_ON_CHATS_LABEL" = "About On Chat";

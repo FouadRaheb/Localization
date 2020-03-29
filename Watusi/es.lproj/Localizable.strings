@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conservar mensajes anulados por tus contactos";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que tus contactos anulen no se borrarán y se mostrará un ícono para indicar que tu contacto lo ha anulado.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Muestra el estado de tu contacto en una pequeña barra en la parte superior del chat";
 "ABOUT_ON_CHATS_LABEL" = "Estado en el chat";

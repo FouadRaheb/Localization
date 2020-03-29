@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantieni i messaggi eliminati dai contatti";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "I messaggi eliminati dai contatti non verranno eliminati sul telefono, e presenteranno un'icona per indicare che il contatto li ha cancellati.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Mostra l'info del contatto su una piccola barra in alto nella schermata chat";
 "ABOUT_ON_CHATS_LABEL" = "Info in alto in Chat";

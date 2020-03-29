@@ -133,6 +133,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "رسالة محذوفة";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
 
 "ABOUT_ON_CHATS_DESC" = "إظهار الحالة الخاصة بجهة الاتصال أسفل اسمه في شريط صغير داخل المحادثة.";
 "ABOUT_ON_CHATS_LABEL" = "الحالة في المحادثة";
