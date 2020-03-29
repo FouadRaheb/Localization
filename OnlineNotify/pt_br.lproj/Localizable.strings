@@ -7,11 +7,11 @@
 "TRACKING_TABLE" = "Lista de Rastreamento";
 "NOTIFICATIONS_LOGS" = "Registros de Notificações";
 
-"ENABLE_DESCRIPTION" = "Ativar para começar a receber notificações";
-"ENABEL_LABEL" = "Ativar para começar a receber notificações";
+"ENABLE_DESCRIPTION" = "Ative para começar a receber notificações";
+"ENABEL_LABEL" = "Ative para começar a receber notificações";
 
-"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
-"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Receba notificações on-line/off-line para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n - Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receber notificação quando um contato ler suas mensagens enviadas.";
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Notificações dos contatos";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Receba notificações online/offline para usuários selecionados. (Adicione os usuários na ‘Lista de Rastreamento’).\n- Receba notificação quando qualquer um de seus contatos começar a digitar no bate-papo. \n- Receba notificação quando um contato ler suas mensagens enviadas.";
 "ONLINE_NOTIFICATION_LABEL" = "Notificações Online";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificações Offline";
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
@@ -34,7 +34,7 @@
 
 /* Notifications Settings */
 
-"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Personalizar estilo e som das notificações";
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Personalize o estilo e som das notificações";
 "NOTIFICATIONS_SETTINGS_LABEL" = "Configurações de Notificações";
 
 "SHOW_TEST_NOTIFICATION" = "Mostrar exemplo de notificação";
@@ -49,9 +49,9 @@
 "NOTIFICATION_STYLE_SYSTEM_LABEL" = "Sistema";
 
 "OUTSIDE_NOTIFICATIONS" = "Notificações Externas";
-"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obter notificações do  OnlineNotify fora do WhatsApp.\n Observe que o WhatsApp precisa estar ativo em segundo plano e você será mostrado como Online.";
+"OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obtenha notificações do  OnlineNotify fora do WhatsApp.\nObserve que o WhatsApp precisa estar ativo em segundo plano e você será mostrado como Online.";
 
-"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos on-line.";
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Adicione uma linha no topo da Lista de Chats para verificar seus contatos online.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista de Contatos Online";
 "ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
 "ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
@@ -60,16 +60,16 @@
 "ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Contatos Selecionados";
 "ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contatos";
 "ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Mostrar Contatos Offline";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Mostar último visto dos contatos offline";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Mostar o visto pela última vez dos contatos offline";
 
-"ENABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para ativar as notificações";
-"DISABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser re-aberto para desativar as notificações";
+"ENABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser reaberto para ativar as notificações";
+"DISABLE_NOTIFICATIONS_ALERT" = "O WhatsApp precisa ser reaberto para desativar as notificações";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "A ativação de notificações externas manterá seu Wi-Fi ativo após o bloqueio do dispositivo e você será sempre exibido como Online mesmo quando o WhatsApp estiver em segundo plano";
 
 /* Indicators */
 
 "ONLINE_INDICATORS_LABEL" = "Indicadores Online";
-"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Adiciona um indicador on-line ao lado de seus contatos em locais diferentes.";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Adicione um indicador online ao lado de seus contatos em locais diferentes.";
 
 "ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Estilo";
 
@@ -80,23 +80,23 @@
 "ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Cor do nome do contato";
 
 "FAVORITES_LIST_LABEL" = "Lista de Favoritos";
-"FAVORITES_LIST_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de favoritos do Watusi que substitui a guia da câmera.\n - Substitua o status dos contatos com o último visto na lista de favoritos do Watusi.";
+"FAVORITES_LIST_DESCRIPTION" = "- Adicione um indicador verde ao lado de Usuários Online na lista de favoritos do Watusi que substitui a guia da câmera.\n- Substitui o status dos contatos por visto pela última vez na lista de favoritos do Watusi.";
 
 "GROUP_MEMBERS_LABEL" = "Participantes de Grupos";
-"GROUP_MEMBERS_DESCRIPTION" = "- Adiciona um indicador verde ao lado de Usuários Online na lista de participantes do grupo.\n - Substituir o status dos contatos pela última vez vistos na lista de membros do grupo.";
+"GROUP_MEMBERS_DESCRIPTION" = "- Adicione um indicador verde ao lado de Usuários Online na lista de participantes do grupo.\n- Substitui o status dos contatos por visto pela última vez na lista de membros do grupo.";
 
 "CHATS_LIST_LABEL" = "Lista de Chats";
-"CHATS_LIST_DESCRIPTION" = "Adiciona um indicador verde ao lado de Usuários Online na lista de bate-papo.";
+"CHATS_LIST_DESCRIPTION" = "Adicione um indicador verde ao lado de Usuários Online na lista de bate-papo.";
 
 "ONLINE_INDICATOR" = "Indicador online";
-"LAST_SEEN" = "Último visto";
+"LAST_SEEN" = "Visto pela última vez";
 
 /* Buttons */
 
 "ADD_CONTACT" = "Adicionar Contato";
-"CONTACT_ALREADY_EXISTS" = "Contato já existe";
+"CONTACT_ALREADY_EXISTS" = "O contato já existe";
 
-"RELAUNCH" = "Re-abrir";
+"RELAUNCH" = "Reabrir";
 "LATER" = "Depois";
 "CANCEL" = "Cancelar";
 "OKAY" = "Ok";
@@ -106,22 +106,22 @@
 
 /* Messages */
 
-"ZIP_AND_EXPORT_LOGS" = "Zipar e exportar os registros";
+"ZIP_AND_EXPORT_LOGS" = "Zipar e exportar registros";
 "DELETE_ALL_LOGS_WARNING" = "Essa ação apagará TODOS os registros.";
-"DELETE_ALL_LOGS_FOR_WARNING" = "Essa ação apagará registros de";
+"DELETE_ALL_LOGS_FOR_WARNING" = "Essa ação apagará os registros de";
 
-"RELAUNCH_MESSAGE" = "Você precisa re-abrir o WhatsApp para aplicar as alterações";
+"RELAUNCH_MESSAGE" = "Você precisa reabrir o WhatsApp para aplicar as alterações";
 
 /* Notifications */
 
 "ONLINE" = "Online";
 "OFFLINE" = "Offline";
-"IS_TYPING" = "digitando...";
+"IS_TYPING" = "está digitando...";
 "IS_RECORDING" = "está gravando...";
 "IS_TYPING_IN_GROUP" = "está digitando";
 "IS_RECORDING_IN_GROUP" = "está gravando";
 "IS_NOW_ONLINE" = "está online agora";
-"HAS_GONE_OFFLINE_AT" = "ficou off-line às";
+"HAS_GONE_OFFLINE_AT" = "ficou offline às";
 "HAS_READ_YOUR_MESSAGES" = "leu suas mensagens";
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "leu suas mensagens no";
 "HAS_RECEIVED_YOUR_MESSAGES" = "recebeu sua mensagem";
