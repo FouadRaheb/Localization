@@ -523,7 +523,8 @@
 "HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
 "HIDDEN_CHATS" = "Hidden Chats";
 "HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
@@ -631,13 +632,41 @@
 "UPDATES_SECTION_TITLE" = "Updates";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
 "CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
+
 "SETTINGS_SECTION_TITLE" = "Settings";
+"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+
+"EXPORT_SETTINGS_LABEL" = "Export Settings";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+
+"IMPORT_SETTINGS_LABEL" = "Import Settings";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
+"IMPORT_SETTINGS_BUTTON" = "Import";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+
 "RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALERT_MESSAGE" = "This will delete all your Watusi preferences and reset it back to default.";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
+"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
 "RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+
 "HIDE_SETTINGS_LABEL" = "Hide Settings";
 "HIDE_SETTINGS_ALERT_TITLE" = "WARNING!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on the right of WhatsApp settings navigation bar";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on top right of WhatsApp settings page";
+
 "TWEAK_LANGUAGE_LABEL" = "Language";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
 "MORE_TWEAKS_TITLE" = "More Tweaks";

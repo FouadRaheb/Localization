@@ -523,7 +523,8 @@
 "HIDE_CHATS_DESC" = "Gizli sohbetler sohbet listesinden gizlenir ve başka bir yerden açıldığında boş bir sohbet gösterir. Gizli sohbet mesajlarınızı yalnızca bu sayfadan görüntüleyebilirsiniz..";
 "HIDDEN_CHATS" = "Gizli Sohbetler";
 "HIDDEN_CHATS_MESSAGES" = "Gizli Sohbet Mesajları";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Sohbet Bildirimlerini Gizle";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Gizli sohbetler yeni mesaj bildirimleri göstermez";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Gizli Sohbet Ayarlarını Koru";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Gizli bir sohbete mesaj gönderemezsiniz..";
@@ -631,13 +632,41 @@
 "UPDATES_SECTION_TITLE" = "Güncellemeler";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Güncellemeler için Otomatik Kontrol Et";
 "CHECK_FOR_UPDATES_BUTTON" = "Güncellemeleri Kontrol Et";
-"SETTINGS_SECTION_TITLE" = "Ayarlar";
-"RESET_SETTINGS_LABEL" = "Ayarları Sıfırla";
-"RESET_SETTINGS_ALERT_MESSAGE" = "Bu ayar bütün Watusi seçimlerinizi silip sıfırlayacaktır.";
-"RESET_SETTINGS_BUTTON" = "Sıfırla";
+
+"SETTINGS_SECTION_TITLE" = "Settings";
+"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+
+"EXPORT_SETTINGS_LABEL" = "Export Settings";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+
+"IMPORT_SETTINGS_LABEL" = "Import Settings";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
+"IMPORT_SETTINGS_BUTTON" = "Import";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+
+"RESET_SETTINGS_LABEL" = "Reset Settings";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
+"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
+"RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+
 "HIDE_SETTINGS_LABEL" = "Ayarları Gizle";
 "HIDE_SETTINGS_ALERT_TITLE" = "UYARI!";
 "HIDE_SETTINGS_ALERT_MESSAGE" = "Bu ayar Watusi ayar satırını gizleyecek ve Whatsapp ayarlarının sağ üst kısmında transparan bir buton ile erişilebilir hale getirecektir.";
+
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 "MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";

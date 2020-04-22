@@ -523,7 +523,8 @@
 "HIDE_CHATS_DESC" = "ستختفي الدردشات المخفية من قائمة الدردشات وستظهر المحادثة فارغة عند فتحها من مكان آخر. يمكنك عرض رسائل دردشاتك المخفية من هذه الصفحة فقط.";
 "HIDDEN_CHATS" = "الدردشات المخفية";
 "HIDDEN_CHATS_MESSAGES" = "رسائل الدردشات المخفية";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "إخفاء إشعارات الدردشات";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "إخفاء الإشعارات داخل التطبيق";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "إخفاء الإشعارات خارج التطبيق";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "لن تُظهر الدردشات المخفية إشعارات الرسائل الجديدة";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "إعدادات حماية الدردشات المخفية";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل لدردشة مخفية.";
@@ -631,13 +632,41 @@
 "UPDATES_SECTION_TITLE" = "التحديثات";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "تحقق تلقائي من وجود تحديثات";
 "CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
+
 "SETTINGS_SECTION_TITLE" = "الإعدادات";
+"MANAGE_SETTINGS_LABEL" = "إدارة الإعدادات";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "كل الإعدادات والبيانات";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "إعدادات الأداة";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "الردود التلقائية";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "الرسائل المجدولة";
+"MANAGE_SETTINGS_THEMES_LABEL" = "الموضوعات";
+
+"EXPORT_SETTINGS_LABEL" = "تصدير الإعدادات";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "سيتم تصدير كل الإعدادات أدناه في ملف مضغوط، ويمكنك استيراد ذلك الملف المضغوط لاحقًا في قسم الاستيراد.";
+"EXPORT_SETTINGS_FILES_FOOTER" = "سيتم تصدير الإعدادات في ملف PLIST.";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "لم يتم العثور على ملف الإعدادات أو لم يتم حفظ أي إعدادات حتى الآن.";
+
+"IMPORT_SETTINGS_LABEL" = "استيراد الإعدادات";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "يمكن استيراد ملف مضغوط يحتوي على ملفات PLIST للإعدادات فقط.";
+"IMPORT_SETTINGS_FILES_FOOTER" = "يمكن استيراد ملفات PLIST فقط.";
+"IMPORT_SETTINGS_BUTTON" = "استيراد";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "سيؤدي هذا إلى استبدال إعداداتك الحالية، ولا يمكن التراجع عن هذا الإجراء.";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "ملف غير صالح";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "الملف المحدد ليس ملف PLIST صالح";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "الملف المحدد ليس ملف مضغوط صالح";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "بعض الملفات لم يتم استيرادها بسبب أنها ليست ملفات PLIST صالحة";
+
 "RESET_SETTINGS_LABEL" = "إعادة تعيين الإعدادات";
-"RESET_SETTINGS_ALERT_MESSAGE" = "سيؤدي هذا إلى حذف جميع إعدادات Watusi الحالية الخاصة بك والعودة إلى الإعدادات الافتراضية.";
-"RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "إعادة تعيين كل إعدادات Watusi الخاصة بك.";
+"RESET_SETTINGS_FILES_FOOTER" = "إعادة تعيين إعدادات معينة فقط";
+"RESET_SETTINGS_BUTTON" = "إعادة التعيين";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "سيؤدي هذا إلى حذف إعداداتك الحالية، لا يمكن التراجع عن هذا الإجراء";
+
 "HIDE_SETTINGS_LABEL" = "إخفاء الإعدادات";
 "HIDE_SETTINGS_ALERT_TITLE" = "تحذير!";
 "HIDE_SETTINGS_ALERT_MESSAGE" = "سيؤدي هذا إلى إخفاء إعدادات Watusi من قائمة إعدادات واتساب، لكن سيظل بإمكانك الوصول إلى إعدادات Watusi عن طريق النقر على أعلى اليسار في إعدادات واتساب.";
+
 "TWEAK_LANGUAGE_LABEL" = "اللغة";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "تلقائي";
 "MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";

@@ -523,7 +523,8 @@
 "HIDE_CHATS_DESC" = "Chats ocultos serão ocultados da lista de chats e vai mostrar um chat vazio quando abri-lo em outro lugar. Você só pode ver as suas mensagens de chats ocultos nesta página.";
 "HIDDEN_CHATS" = "Chats Ocultos";
 "HIDDEN_CHATS_MESSAGES" = "Mensagens de Chats Ocultos";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Ocultar notificações dos Chats Ocultos";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Chats ocultos não mostrarão notificações de novas mensagens";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Proteger as configurações dos chats ocultos";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Você não pode enviar mensagens para um chat oculto.";
@@ -631,13 +632,41 @@
 "UPDATES_SECTION_TITLE" = "Atualizações";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificação automática de atualizações";
 "CHECK_FOR_UPDATES_BUTTON" = "Verificar atualizações";
-"SETTINGS_SECTION_TITLE" = "Ajustes";
-"RESET_SETTINGS_LABEL" = "Resetar Ajustes";
-"RESET_SETTINGS_ALERT_MESSAGE" = "Isso excluirá todas as suas preferências do Watusi e as redefinirá para o padrão.";
-"RESET_SETTINGS_BUTTON" = "Resetar";
+
+"SETTINGS_SECTION_TITLE" = "Settings";
+"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+
+"EXPORT_SETTINGS_LABEL" = "Export Settings";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+
+"IMPORT_SETTINGS_LABEL" = "Import Settings";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
+"IMPORT_SETTINGS_BUTTON" = "Import";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+
+"RESET_SETTINGS_LABEL" = "Reset Settings";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
+"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
+"RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+
 "HIDE_SETTINGS_LABEL" = "Ocultar Ajustes";
 "HIDE_SETTINGS_ALERT_TITLE" = "ATENÇÃO!";
 "HIDE_SETTINGS_ALERT_MESSAGE" = "Isto irá esconder a linha de configurações Watusi das configurações do WhatsApp e torná-lo acessível através de um botão transparente à direita da barra de navegação das configurações do WhatsApp";
+
 "TWEAK_LANGUAGE_LABEL" = "Idioma";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Automático";
 "MORE_TWEAKS_TITLE" = "Mais Tweaks";
