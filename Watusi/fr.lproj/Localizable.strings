@@ -57,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "Vos contacts ne sauront pas que vous avez désactivé le microphone pendant un appel.";
 "HIDE_CALL_MUTE_LABEL" = "Masquer le bouton sourdine";
 
-"DISABLE_VOIP_DESC" = "Désactiver l'interface VOIP et bloquer tous les appels VOIP entrants";
-"DISABLE_VOIP_LABEL" = "Désactiver VOIP";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Réglages pour les statuts */

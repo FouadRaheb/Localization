@@ -57,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "لن تعلم جهات اتصالك أنك قمت بكتم الميكروفون أثناء المكالمة.";
 "HIDE_CALL_MUTE_LABEL" = "إخفاء كتم المكالمة";
 
-"DISABLE_VOIP_DESC" = "تعطيل واجهة الاتصال الصوتي وحجب جميع المكالمات الصوتية الواردة.";
-"DISABLE_VOIP_LABEL" = "تعطيل الاتصال الصوتي";
+"DISABLE_VOIP_LABEL" = "حظر المكالمات الواردة";
+"DISABLE_VOIP_DESC" = "المكالمات المحظورة لن تعرض رسالة 'رنين' للمتصل.";
+"DISABLE_VOIP_FILTER_LABEL" = "حظر المكالمات من";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "الكل";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "الأرقام غير المحفوظة";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "جهات الاتصال المحددة";
 
 
 /* Status Addons */

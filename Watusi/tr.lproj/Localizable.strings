@@ -57,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "Kişileriniz aramadayken mikrofonu susturduğunuzu bilmeyecek..";
 "HIDE_CALL_MUTE_LABEL" = "Susturulan Aramayı Gizle";
 
-"DISABLE_VOIP_DESC" = "VOIP Arayüzünü Devre Dışı Bırak ve gelen bütün VOIP aramalarını engelle.";
-"DISABLE_VOIP_LABEL" = "VOIP'yi Devre Dışı Bırak";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Status Addons */

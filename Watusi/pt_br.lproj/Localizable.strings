@@ -57,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "Seus contatos não saberão que você desativou o microfone durante uma chamada.";
 "HIDE_CALL_MUTE_LABEL" = "Ocultar chamada silenciada";
 
-"DISABLE_VOIP_DESC" = "Desativar a interface VOIP e bloquear todas as chamadas VOIP recebidas.";
-"DISABLE_VOIP_LABEL" = "Desativar VOIP";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Status Addons */

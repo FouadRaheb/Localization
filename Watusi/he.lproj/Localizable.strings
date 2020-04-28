@@ -57,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "Your contacts will not know that you have muted the microphone during a call.";
 "HIDE_CALL_MUTE_LABEL" = "Hide Muted Call";
 
-"DISABLE_VOIP_DESC" = "ביטול שיחות בתוך הוואטסאפ";
-"DISABLE_VOIP_LABEL" = "ביטול שיחות";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Status Addons */
