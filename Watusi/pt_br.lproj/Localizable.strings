@@ -138,7 +138,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Manter Mensagens Revogadas";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "As mensagens que os contatos revogarem não serão deletadas e um ícone para indicar que o contato revogou aparecerá.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mensagem Apagada";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#nome excluiu esta mensagem em #data ";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name excluiu esta mensagem em #date";
 
 "ABOUT_ON_CHATS_DESC" = "Mostre o recado do seu contato em uma pequena barra na parte superior da tela de bate-papo";
 "ABOUT_ON_CHATS_LABEL" = "Sobre o Chat";
