@@ -1,0 +1,96 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "Mis Contactos";
+
+"SYNC_NOW_BUTTON" = "Sincronizar Ahora";
+"SYNCING_LABEL" = "Sincronizando...";
+"LAST_SYNC_LABEL" = "Última Sincronización";
+"LAST_SYNC_NEVER" = "Nunca";
+"LAST_SYNC_ERROR" = "Error";
+
+"AUTO_SYNC_LABEL" = "Sincronización Automática";
+"AUTO_SYNC_OFF" = "Apagado";
+"AUTO_SYNC_INSTANT" = "Instantáneo";
+"AUTO_SYNC_DAILY" = "Diariamente";
+"AUTO_SYNC_WEEKLY" = "Semanalmente";
+"AUTO_SYNC_MONTHLY" = "Mensualmente";
+"AUTO_SYNC_FOOTER" = "La sincronización automática se activará individualmente para cada contacto cuando su foto de perfil de WhatsApp cambie.\n\nDiariamente/Semanalmente/Mensualmente hará una sincronización completa de todos los contactos cuando abras WhatsApp en el intervalo seleccionado.\n\nTodos los tipos de Auto Sync respetarán los contactos elegidos o excluidos.";
+
+"CONTACTS_TO_SYNC_LABEL" = "Contactos Para Sincronizar";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Todos Los Contactos";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Todos Menos";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Contactos Seleccionados";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Contactos Excluidos";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Contactos Seleccionados";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Esto descargará las fotos de perfil de alta calidad de tus contactos y las usará para la sincronización. Si está desactivado, las previsualizaciones de los contactos serán usadas.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Descargar Fotos En Alta Resolución";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Esto eliminará la foto previa de tu contacto si no tiene foto de perfil en WhatsApp";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Eliminar Foto Al Borrar";
+
+"RELAUNCH_ALERT_BUTTON" = "Relanzar";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Relanzar WhatsApp para activar la licencia";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Relanzar WhatsApp para aplicar los cambios";
+"ACTIVATE_FOOTER_MESSAGE" = "Tienes que iniciar sesión con tu cuenta y comprar una licencia para activar las funciones del tweak.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Desarrollador";
+"CONTRIBUTE_LABEL" = "Contribuir";
+
+"SUPPORT_SECTION_HEADER" = "Soporte";
+"CONTACT_AND_MORE_LABEL" = "Contacto y más";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Soporte";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Soporte";
+"CONTACT_SUPPORT_LABEL" = "Contactar Soporte";
+"VERSIONS_TITLE" = "Versiones";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Gestión de Cuentas";
+
+"SETTINGS_SECTION_TITLE" = "Ajustes";
+"SETTINGS_EXPORT_LABEL" = "Exportar Ajustes";
+"SETTINGS_IMPORT_LABEL" = "Importar Ajustes";
+"SETTINGS_RESET_LABEL" = "Resetear Ajustes";
+
+"SETTINGS_RESET_ALERT_TITLE" = "Resetear Ajustes";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Esto borrará los ajustes actuales, no puedes deshacer esta acción";
+"SETTINGS_RESET_ALERT_BUTTON" = "Resetear";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "Import Settings";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Esto reemplazará los ajustes actuales, no puedes deshacer esta acción";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "Importar";
+
+"SETTINGS_EXPORT" = "Esto reemplazará los ajustes actuales, no puedes deshacer esta acción";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "Guía de Usuario";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Contacto con Múltiples Números";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Al sincronizar, el número con foto de perfil se usará.Si 2 o más números con fotos de perfil están disponibles, se usará uno aleatorio.\n\nPuedes seleccionar un número desde la página 'Mis Contactos' para usarlo al sincronizar el contacto.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "Mis Contactos";
+"SELECT_CONTACTS_TITLE" = "Seleccionar Contactos";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Todos los Grupos";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Seleccionar un Grupo de Contactos";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Los Grupos de contactos pueden ser de tipo  Local, Exchange o CardDAV. Tu grupo de iCloud es un CardDAV.";
+"PHONE_NUMBERS_FOOTER" = "El número seleccionado se usará para la sincronización, lee más en la. Página de guía de usuario.";
+
+"NO_PHOTO_TEXT" = "NSin\nFoto";
+
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sincronizar Foto al Contacto";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Borrar Foto de Contacto";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "WhatsApp";
+"CONTACT" = "Contacto";
+"CONTACTS" = "Contactos";
+"LOADING" = "Cargando...";
+"OKAY" = "Okay";
+"CANCEL" = "Cancelar";
+"RELAUNCH" = "Relanzar";
+"ALL" = "Todo";
