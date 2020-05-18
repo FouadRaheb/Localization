@@ -1,96 +1,96 @@
-/* Settings */
+/* Configurações */
 
-"MY_CONTACTS_LABEL" = "My Contacts";
+"MY_CONTACTS_LABEL" = "Meus Contatos";
 
-"SYNC_NOW_BUTTON" = "Sync Now";
-"SYNCING_LABEL" = "Syncing...";
-"LAST_SYNC_LABEL" = "Last Sync";
-"LAST_SYNC_NEVER" = "Never";
-"LAST_SYNC_ERROR" = "Error";
+"SYNC_NOW_BUTTON" = "Sincronizar Agora";
+"SYNCING_LABEL" = "Sincronizando...";
+"LAST_SYNC_LABEL" = "Última Sincronização";
+"LAST_SYNC_NEVER" = "Nunca";
+"LAST_SYNC_ERROR" = "Erro";
 
-"AUTO_SYNC_LABEL" = "Auto Sync";
-"AUTO_SYNC_OFF" = "Off";
-"AUTO_SYNC_INSTANT" = "Instant";
-"AUTO_SYNC_DAILY" = "Daily";
-"AUTO_SYNC_WEEKLY" = "Weekly";
-"AUTO_SYNC_MONTHLY" = "Monthly";
-"AUTO_SYNC_FOOTER" = "Instant syncing will run individually for each contact whenever his WhatsApp profile picture changes.\n\nDaily/Weekly/Monthly will run a full sync when you open WhatsApp in the selected frequency.\n\nAll Auto Sync types will respect your selected or excluded contacts.";
+"AUTO_SYNC_LABEL" = "Sincronizar Automaticamente";
+"AUTO_SYNC_OFF" = "Desligado";
+"AUTO_SYNC_INSTANT" = "Instantânea";
+"AUTO_SYNC_DAILY" = "Diariamente";
+"AUTO_SYNC_WEEKLY" = "Semanal";
+"AUTO_SYNC_MONTHLY" = "Mensal";
+"AUTO_SYNC_FOOTER" = "A sincronização instantânea será executada individualmente para cada contato sempre que a imagem do perfil do WhatsApp for alterada. \ N \ nDiariamente / Semanalmente / mensalmente executará uma sincronização completa quando você abrir o WhatsApp na frequência selecionada. \ N \ nTodos os tipos de sincronização automática respeitarão os selecionados ou excluídos Contatos.";
 
-"CONTACTS_TO_SYNC_LABEL" = "Contacts To Sync";
-"CONTACTS_TO_SYNC_ALL_CONTACTS" = "All Contacts";
-"CONTACTS_TO_SYNC_ALL_EXCEPT" = "All Except";
-"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Selected Contacts";
+"CONTACTS_TO_SYNC_LABEL" = "Contatos para sincronizar";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Todos os contatos";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Todos, exceto..";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Contatos selecionados";
 
-"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Excluded Contacts";
-"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Contatos Excluídos";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Contatos Selecionados";
 
-"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "This will download your contacts high resolution profile pictures and use it for syncing. If disabled, your contacts thumbnail pictures will be used.";
-"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Download High Resolution Pictures";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Isso fará o download das fotos de perfil de alta resolução dos seus contatos e as utilizará para sincronizar. Se desativado, as imagens em miniatura de seus contatos serão usadas.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Download de imagens em alta resolução";
 
-"REMOVE_PHOTO_IF_DELETED_FOOTER" = "This will remove your existing contact's photo if there is no profile photo on WhatsApp";
-"REMOVE_PHOTO_IF_DELETED_LABEL" = "Remove Photo if Deleted";
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Isso removerá a foto do contato existente se não houver foto de perfil no WhatsApp";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Remover foto se excluído";
 
-"RELAUNCH_ALERT_BUTTON" = "Relaunch";
-"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Relaunch WhatsApp to activate your license";
-"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Relaunch WhatsApp to apply changes";
-"ACTIVATE_FOOTER_MESSAGE" = "You have to login with your account and purchase a license in order to activate the tweak features.";
+"RELAUNCH_ALERT_BUTTON" = "Reabrir";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Reabra o WhatsApp para ativar sua licença";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Reabra o WhatsApp para aplicar alterações";
+"ACTIVATE_FOOTER_MESSAGE" = "Você precisa fazer login com sua conta e comprar uma licença para ativar os recursos de ajustes.";
 
-/* Support Section */
+/* Seção de Suporte */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Desenvolvedor";
+"CONTRIBUTE_LABEL" = "Contribuir";
 
-"SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account Management";
+"SUPPORT_SECTION_HEADER" = "Suporte";
+"CONTACT_AND_MORE_LABEL" = "Contato e mais";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Suporte";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Suporte";
+"CONTACT_SUPPORT_LABEL" = "Entre em contato com o suporte";
+"VERSIONS_TITLE" = "Versões";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Gerenciamento de Contas";
 
-"SETTINGS_SECTION_TITLE" = "Settings";
-"SETTINGS_EXPORT_LABEL" = "Export Settings";
-"SETTINGS_IMPORT_LABEL" = "Import Settings";
-"SETTINGS_RESET_LABEL" = "Reset Settings";
+"SETTINGS_SECTION_TITLE" = "Configurações";
+"SETTINGS_EXPORT_LABEL" = "Exportar Configurações";
+"SETTINGS_IMPORT_LABEL" = "Importar Configurações";
+"SETTINGS_RESET_LABEL" = "Restaurar Configurações";
 
-"SETTINGS_RESET_ALERT_TITLE" = "Reset Settings";
-"SETTINGS_RESET_ALERT_MESSAGE" = "This will delete your current settings, you can't undo this action";
-"SETTINGS_RESET_ALERT_BUTTON" = "Reset";
+"SETTINGS_RESET_ALERT_TITLE" = "Restaurar Configurações";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Isso excluirá suas configurações atuais. Não é possível desfazer esta ação";
+"SETTINGS_RESET_ALERT_BUTTON" = "Restaurar";
 
-"SETTINGS_IMPORT_ALERT_TITLE" = "Import Settings";
-"SETTINGS_IMPORT_ALERT_MESSAGE" = "This will replace your current settings, you can't undo this action";
-"SETTINGS_IMPORT_ALERT_BUTTON" = "Import";
+"SETTINGS_IMPORT_ALERT_TITLE" = "Importar Configurações";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Isso substituirá suas configurações atuais. Não é possível desfazer esta ação";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "Importar";
 
-"SETTINGS_EXPORT" = "This will replace your current settings, you can't undo this action";
+"SETTINGS_EXPORT" = "Isso substituirá suas configurações atuais. Não é possível desfazer esta ação";
 
-/* User Guide */
+/* Guia de Usuário */
 
-"USER_GUIDE_LABEL" = "User Guide";
+"USER_GUIDE_LABEL" = "Guia de Usuário";
 
-"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Contact with Multiple Numbers";
-"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "When syncing, the number with an available profile picture will be used, if 2 or more numbers with pictures are available, a random one will be used.\n\nYou can select a number from 'My Contacts' page to use it when syncing the contact.";
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Entre em contato com vários números";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Ao sincronizar, o número com uma foto de perfil disponível será usado. Se houver 2 ou mais números com fotos, será usado um número aleatório. \ N \ nVocê pode selecionar um número na página 'Meus contatos' para usá-lo na sincronização o contato.";
 
-/* Contacts Page */
+/* Página de Contatos */
 
-"MY_CONTACTS_TITLE" = "My Contacts";
-"SELECT_CONTACTS_TITLE" = "Select Contacts";
-"ALL_CONTACTS_CONTAINERS_LABEL" = "All Containers";
-"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Select a Contact Container";
-"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Containers can be of type Local, Exchange or CardDAV. Your iCloud Container type is a CardDAV.";
-"PHONE_NUMBERS_FOOTER" = "Selected number will be used for syncing, read more in user guide page.";
+"MY_CONTACTS_TITLE" = "Meus Contatos";
+"SELECT_CONTACTS_TITLE" = "Contatos Selecionados";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Todos os Contêiners";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Selecione um contêiner de contato";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Os contêineres podem ser do tipo Local, Exchange ou CardDAV. Seu tipo de contêiner do iCloud é um CardDAV.";
+"PHONE_NUMBERS_FOOTER" = "O número selecionado será usado para sincronização, leia mais na página do guia do usuário.";
 
-"NO_PHOTO_TEXT" = "No\nPhoto";
+"NO_PHOTO_TEXT" = "Sem\nFoto";
 
-"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sync Photo to Contact";
-"DELETE_CONTACT_PHOTO_BUTTON" = "Delete Contact Photo";
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sincronizar foto para contato";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Excluir foto do contato";
 
-/* Labels & Buttons */
+/* Etiquetas e Botões */
 
 "WHATSAPP" = "WhatsApp";
-"CONTACT" = "Contact";
-"CONTACTS" = "Contacts";
-"LOADING" = "Loading...";
-"OKAY" = "Okay";
-"CANCEL" = "Cancel";
-"RELAUNCH" = "Relaunch";
-"ALL" = "All";
+"CONTACT" = "Contato";
+"CONTACTS" = "Contatos";
+"LOADING" = "Carregando...";
+"OKAY" = "Ok";
+"CANCEL" = "Cancelar";
+"RELAUNCH" = "Reabrir";
+"ALL" = "Todos";
