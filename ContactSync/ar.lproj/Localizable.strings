@@ -1,0 +1,96 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "جهات اتصالي";
+
+"SYNC_NOW_BUTTON" = "المزامنة الآن";
+"SYNCING_LABEL" = "جارِ المزامنة";
+"LAST_SYNC_LABEL" = "آخر مزامنة";
+"LAST_SYNC_NEVER" = "أبدًا";
+"LAST_SYNC_ERROR" = "Error";
+
+"AUTO_SYNC_LABEL" = "المزامنة التلقائية";
+"AUTO_SYNC_OFF" = "إيقاف";
+"AUTO_SYNC_INSTANT" = "فورًا";
+"AUTO_SYNC_DAILY" = "يوميًا";
+"AUTO_SYNC_WEEKLY" = "أسبوعيًا";
+"AUTO_SYNC_MONTHLY" = "شهريًا";
+"AUTO_SYNC_FOOTER" = "إذا حددت 'فورًا' فسيتم عمل مزامنة بشكل فردي لكل جهة اتصال كلما تغيرت صورة ملف تعريف واتساب الخاصة بها.\n\nإذا حددت 'يوميًا/أسبوعيًا/شهريًا' فسيتم عمل مزامنة كاملة لكل جهات الاتصال عند فتح واتساب في الوتيرة المحددة.\n\nكل أنواع المزامنة التلقائية ستحترم جهات اتصالك المحددة أو المستثناة.";
+
+"CONTACTS_TO_SYNC_LABEL" = "جهات اتصالي للمزامنة";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "كل جهات الاتصال";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "الكل ماعدا";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "جهات الاتصال المحددة";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "جهات الاتصال المستثناة";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "جهات الاتصال المحددة";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "سيؤدي هذا إلى تنزيل صور عالية الدقة لصور ملفات تعريف جهات اتصالك واستخدامها للمزامنة. إذا تم التعطيل، فسيتم استخدام الصور المصغرة لجهات اتصالك.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "تنزيل صور عالية الدقة";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "سيؤدي هذا إلى إزالة صورة جهة اتصالك الحالية إذا لم تكن هناك صورة ملف تعريف على واتساب.";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "إزالة الصورة إذا تم حذفها";
+
+"RELAUNCH_ALERT_BUTTON" = "إعادة التشغيل";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "قم بإعادة تشغيل واتساب لتنشيط ترخيصك";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "قم بإعادة تشغيل واتساب لتطبيق التغييرات";
+"ACTIVATE_FOOTER_MESSAGE" = "يتحتم عليك تسجيل الدخول بحسابك وشراء ترخيص لتنشيط مميزات الأداة.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "المطور";
+"CONTRIBUTE_LABEL" = "المساهمة";
+
+"SUPPORT_SECTION_HEADER" = "الدعم";
+"CONTACT_AND_MORE_LABEL" = "التواصل والمزيد";
+"CONTACT_AND_MORE_PAGE_TITLE" = "الدعم";
+"CONTACT_SUPPORT_SECTION_HEADER" = "الدعم";
+"CONTACT_SUPPORT_LABEL" = "التواصل مع الدعم";
+"VERSIONS_TITLE" = "الإصدارات";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "ادارة الحساب";
+
+"SETTINGS_SECTION_TITLE" = "الإعدادات";
+"SETTINGS_EXPORT_LABEL" = "تصدير الإعدادات";
+"SETTINGS_IMPORT_LABEL" = "استيراد الإعدادات";
+"SETTINGS_RESET_LABEL" = "إعادة تعيين الإعدادات";
+
+"SETTINGS_RESET_ALERT_TITLE" = "إعادة تعيين الإعدادات";
+"SETTINGS_RESET_ALERT_MESSAGE" = "سيؤدي هذا إلى حذف إعداداتك الحالية، لا يمكن التراجع عن هذا الإجراء";
+"SETTINGS_RESET_ALERT_BUTTON" = "إعادة التعيين";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "استيراد الإعدادات";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "سيؤدي هذا إلى استبدال إعداداتك الحالية، لا يمكن التراجع عن هذا الإجراء";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "الاستيراد";
+
+"SETTINGS_EXPORT" = "سيؤدي هذا إلى استبدال إعداداتك الحالية، لا يمكن التراجع عن هذا الإجراء";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "دليل المستخدم";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "جهات الاتصال التي تملك أكثر من رقم";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "عند المزامنة، سيتم استخدام الرقم الذي يحتوي على صورة ملف تعريف متاحة، إذا كان هناك رقمين أو أكثر لجهة الاتصال وجميعها تحتوي على صور، فسيتم استخدام رقم عشوائي.\n\nيمكنك تحديد رقم من صفحة 'جهات اتصالي' لاستخدامه عند مزامنة جهة الاتصال.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "جهات اتصالي";
+"SELECT_CONTACTS_TITLE" = "تحديد جهات اتصال";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "كل المحتويات";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "حدد محتوى جهة الاتصال";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "المحتويات يمكن أن تكون من النوع المحلي، أو النوع التبادلي، أو CardDAV. نوع محتوى iCloud الخاص بك هو CardDAV.";
+"PHONE_NUMBERS_FOOTER" = "سيتم استخدام الرقم المحدد للمزامنة، اعرف المزيد من صفحة دليل المستخدم.";
+
+"NO_PHOTO_TEXT" = "لا توجد\nصورة";
+
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "مزامنة الصورة لجهة الاتصال";
+"DELETE_CONTACT_PHOTO_BUTTON" = "حذف صورة جهة الاتصال";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "واتساب";
+"CONTACT" = "جهة الاتصال";
+"CONTACTS" = "جهات الاتصال";
+"LOADING" = "جارِ التحميل";
+"OKAY" = "حسنًا";
+"CANCEL" = "إلغاء";
+"RELAUNCH" = "إعادة التشغيل";
+"ALL" = "الكل";
