@@ -1,0 +1,96 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "Kişilerim";
+
+"SYNC_NOW_BUTTON" = "Senkronize et";
+"SYNCING_LABEL" = "Senkronize ediliyor...";
+"LAST_SYNC_LABEL" = "Son Senkronize";
+"LAST_SYNC_NEVER" = "Asla";
+"LAST_SYNC_ERROR" = "Hata";
+
+"AUTO_SYNC_LABEL" = "Otomatik Senkronizasyon";
+"AUTO_SYNC_OFF" = "Kapalı";
+"AUTO_SYNC_INSTANT" = "Anında";
+"AUTO_SYNC_DAILY" = "Günlük";
+"AUTO_SYNC_WEEKLY" = "Haftalık";
+"AUTO_SYNC_MONTHLY" = "Aylık";
+"AUTO_SYNC_FOOTER" = "WhatsApp profil resmi her değiştiğinde anında senkronizasyon her kişi için ayrı ayrı çalışır.\n\nGünlük / Haftalık / Aylık, seçilen sıklıkta WhatsApp'ı açtığınızda tam bir senkronizasyon gerçekleştirir.\n\nTüm Otomatik Senkronizasyon türleri, seçtiğiniz veya hariç tutulan kişilerinize bağlı olarak çalışır.";
+
+"CONTACTS_TO_SYNC_LABEL" = "Senkronize Edilecek Kişiler";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Tüm Kişiler";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Şunlar Hariç";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Seçilen Kişiler";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Hariç Tutulan Kişiler";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Seçilen Kişiler";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Bu, kişilerinizin yüksek çözünürlüklü profil resimlerini indirir ve senkronizasyon için kullanır. Devre dışı bırakılırsa, kişilerinizin küçük resimleri kullanılır.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Yüksek Çözünürlüklü Fotoğraflar";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Bu, WhatsApp'ta profil fotoğrafı yoksa mevcut kişinin fotoğrafını kaldıracak";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Silindiyse Fotoğrafı Kaldır";
+
+"RELAUNCH_ALERT_BUTTON" = "Yeniden Başlat";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Lisansınızın aktifleşmesi için WhatsApp'ı yeniden başlatın";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Değişikliklerin uygulanması için WhatsApp'ı yeniden başlatın";
+"ACTIVATE_FOOTER_MESSAGE" = "Tweak özelliklerini etkinleştirmek için hesabınızla giriş yapmanız ve bir lisans satın almanız gerekir.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Geliştirici";
+"CONTRIBUTE_LABEL" = "Bağış";
+
+"SUPPORT_SECTION_HEADER" = "Destek";
+"CONTACT_AND_MORE_LABEL" = "İletişim & Daha fazlası";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Destek";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Destek";
+"CONTACT_SUPPORT_LABEL" = "Destek ile iletişime geç";
+"VERSIONS_TITLE" = "Versiyonlar";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Hesap Yönetimi";
+
+"SETTINGS_SECTION_TITLE" = "Ayarlar";
+"SETTINGS_EXPORT_LABEL" = "Ayarları Dışa Aktar";
+"SETTINGS_IMPORT_LABEL" = "Ayarları içe Aktar";
+"SETTINGS_RESET_LABEL" = "Ayarları Sıfırla";
+
+"SETTINGS_RESET_ALERT_TITLE" = "Ayarları Sıfırla";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Bu geçerli tüm ayarlarınızı siler,bu işlemi geri alamazsınız!";
+"SETTINGS_RESET_ALERT_BUTTON" = "Sıfırla";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "Ayarları İçe Aktar";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Bu geçerli ayarlarınızı değiştirecek,bu işlemi geri alamazsınız!";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "İçe Aktar";
+
+"SETTINGS_EXPORT" = "Bu geçerli ayarlarınızı değiştirecek,bu işlemi geri alamazsınız!";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "Kullanıcı Kılavuzu";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Birden Fazla Numarası Olan Kişiler";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Senkronize edilirken, kullanılabilir bir profil resmine sahip numara kullanılır, resimlerle 2 veya daha fazla numara mevcutsa rastgele bir resim kullanılır.\n\nKişiyi senkronize ederken kullanmak için 'Kişilerim' sayfasından bir numara seçebilirsiniz.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "Kişilerim";
+"SELECT_CONTACTS_TITLE" = "Kişileri seç";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Tüm Kapsayıcılar";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Bir Kişi Kapsayıcısı Seçin";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Kapsayıcılar Yerel, Exchange veya CardDAV türünde olabilir. İCloud Kapsayıcı türünüz bir CardDAV.";
+"PHONE_NUMBERS_FOOTER" = "Seçilen numara senkronizasyon için kullanılacaktır, kullanıcı kılavuzu sayfasından daha fazla bilgi edinin.";
+
+"NO_PHOTO_TEXT" = "Fotoğraf\nYok";
+
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Fotoğrafı Kişiyle Senkronize Et";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Kişi fotosunu sil";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "WhatsApp";
+"CONTACT" = "Kişi";
+"CONTACTS" = "Kişiler";
+"LOADING" = "Yükleniyor...";
+"OKAY" = "Tamam";
+"CANCEL" = "İptal";
+"RELAUNCH" = "Yeniden Başlat";
+"ALL" = "Hepsi";
