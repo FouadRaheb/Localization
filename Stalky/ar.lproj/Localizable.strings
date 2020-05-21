@@ -211,7 +211,8 @@
 
 /* Action Buttons */
 
-"COPY_SHARE_SUBJECT" = "نسخ/مشاركة الوصف";
+"COPY_SHARE_SUBJECT" = "نسخ/مشاركة الموضوع";
+"COPY_SHARE_DESCRIPTION" = "نسخ/مشاركة الوصف";
 "COPY_SHARE_ABOUT" = "نسخ/مشاركة الخبر";
 "SAVE_SHARE_IMAGE" = "حفظ/مشاركة الصورة";
 "SAVE_SHARE_VIDEO" = "حفظ/مشاركة الفيديو";
@@ -255,6 +256,7 @@
 "DELETED_GROUP_PICTURE_NOTIFICATION" = "قام بحذف صورة المجموعة الشخصية";
 "CHANGED_GROUP_PICTURE_NOTIFICATION" = "قام بتغيير صورة المجموعة الشخصية";
 "CHANGED_GROUP_SUBJECT_NOTIFICATION" = "قام بتغيير وصف المحموعة إلى";
+"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "قام تغيير وصف المجموعة إلى";
 
 "CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "تم إضافته إلى المجموعة";
 "CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "تم إزالته من المجموعة";

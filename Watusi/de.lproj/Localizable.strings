@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Zustellungsbestätigung deaktivieren";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Warnung! Die Aktivierung dieser Funktion führt zu einer Verzögerung der Nachrichten, da der WhatsApp-Server keine neuen Nachrichten mehr sendet, wenn auf dem Server viele ausstehende Nachrichten auf die Zustellung warten. Es ist nicht möglich, dies zu beheben, da es serverseitig ist.";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "Stellt die 'Zuletzt Online' Datenschutz-Einstellung automatisch auf 'Niemand', wenn WhatsApp den Hintergrund betritt und stellt sie zurück auf 'Meine Kontakte', wenn WhatsApp geöffnet wird.";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Zuletzt online automatisch wechseln";
 
@@ -51,11 +54,15 @@
 "MY_CONTACTS_PRIVACY_LABEL" = "Meine Kontakte Privatsphäre";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Geblacklistete Kontakte";
 
-"HIDE_CALL_MUTE_DESC" = "Ihre Kontakte wissen nicht, dass Sie das Mikrofon während eines Anrufs stummgeschaltet haben.";
+"HIDE_CALL_MUTE_DESC" = "Deine Kontakte werden nicht wissen, dass du das Mikrofon während eines Anrufs stummgeschaltet hast.";
 "HIDE_CALL_MUTE_LABEL" = "Stummgeschalteten Anruf ausblenden";
 
-"DISABLE_VOIP_DESC" = "Deaktivert das VOIP Interface und blockiert alle eingehenden Anrufe.";
-"DISABLE_VOIP_LABEL" = "VOIP deaktivieren";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Status Addons */
@@ -65,12 +72,12 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Download Button anzeigen";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Fügt einen Button rechts unten bei den Status hinzu, um diese herunterzuladen.";
 
-"STATUS_CAPTION_COPY" = "Copy Caption";
-"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+"STATUS_CAPTION_COPY" = "Beschriftung kopieren";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Beschriftung in die Zwischenablage kopiert";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Bild in die Mediathek speichern";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Bild teilen";
-"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Bild in die Mediathek gespeichert";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Bild in der Mediathek gespeichert";
 
 "STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "Video in die Mediathek speichern";
 "STATUS_DOWNLOAD_VIDEO_SHARE" = "Video teilen";
@@ -98,15 +105,28 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Kontakt";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Kontakte";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Neue Gruppe";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Gebe einen Gruppennamen ein";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Gruppenname";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Verwalten";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Delete";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Delete Groups";
+
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Von deinen Kontakten gelöschte Status werden erst nach 24 Stunden aus der Statusliste entfernt, gelöschte Statusmeldungen zeigen eine Nachricht in der Kopfzeile an, die den Zeitpunkt des Löschens enthält.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Gelöschte Statusmeldungen behalten";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Gelöscht um";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
+"STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 10 minutes are not supported";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Deaktiviert das automatische Wechseln zum nächsten Status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Automatisches Wechseln deaktivieren";
 
-"STATUS_HIDE_TABBAR_BADGES_DESC" = "Blenden Sie das blaue Punkt-Abzeichen auf der Status-Registerkarte aus, wenn ein neuer Status verfügbar ist";
-"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Status Abzeichen ausblenden";
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Blende den blauen Punkt auf der Status-Registerkarte aus, wenn ein neuer Status verfügbar ist";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Blauen Status Indikator ausblenden";
 
 /* Chats Addons */
 
@@ -117,6 +137,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kontakte für widerrufene Nachrichten behalten";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Nachrichten, die von Ihren Kontakten widerrufen werden, werden nicht gelöscht und zeigen ein Symbol an, das angibt, dass Ihr Kontakt sie widerrufen hat.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";
@@ -131,8 +153,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Deaktiviert das weitergeleitet Kennzeichen";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Deaktiviert das Anzeigen des weitergeleitet Kennzeichen, wenn du eine Nachricht an deine Kontakte weiterleitest";
 
-"UNLIMITED_FORWARD_LABEL" = "Unendlich oft weiterleiten";
-"UNLIMITED_FORWARD_DESC" = "Leite eine Nachricht an unendlich viele Kontakte weiter.";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Erhalte eine Bestätigung, wenn du auf den Sprach-/Videoanruf Button tippst, außerdem kannst du dort zwischen Mobilfunk und WhatsApp Anruf auswählen.";
 "CALL_CONFIRM_LABEL" = "Anrufsbestätigung";
@@ -281,7 +306,7 @@
 
 "MEDIA_LABEL" = "Medien";
 
-"SHARE_SHEET_DESC" = "Fügt mehr Optionen zum WhatsApp Medien Menü hinzu, wie das Senden des letzten Fotos der Mediathek, das Teilen von Musik oder das blockieren/freigeben von Kontakten.";
+"SHARE_SHEET_DESC" = "Füge mehr Optionen zum WhatsApp Medien Menü hinzu, wie das Senden des letzten Fotos der Mediathek, das Teilen von Musik oder das blockieren/freigeben von Kontakten.";
 "SHARE_SHEET_LABEL" = "Medien Menü";
 "SHARE_SHEET_ACTIVE_BUTTONS" = "Aktive Buttons";
 "SHARE_SHEET_STYLE" = "Stil";
@@ -294,6 +319,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Aktiviert";
 "SHARE_SHEET_DISABLED_LABEL" = "Deaktiviert";
 
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Foto oder Video aufnehmen";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Foto & Video Mediathek";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Foto Mediathek";
@@ -309,6 +335,9 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kontakt freigeben";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Bild aus dem Internet teilen";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Zahlung senden";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "Profilfoto speichern";
+"SAVE_PROFILE_PHOTOS_DESC" = "Drücke lange auf Profilfotos um sie zu speichern, nachdem WhatsApp die Schaltfläche zum Speichern entfernt hat.";
 
 "BLOCK" = "Blockieren";
 "UNBLOCK" = "Freigeben";
@@ -364,6 +393,9 @@
 "DISABLE_LANDSCAPE_DESC" = "Verhindert, dass WhatsApp ins Querformat rotiert.";
 "DISABLE_LANDSCAPE_LABEL" = "Querformat deaktivieren";
 
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+
 "MUTE_SOUND_DESC" = "Schaltet den WhatsApp Sound von gesendeten/empfangenen Nachrichten und/oder Tastatur Klicks stumm.";
 "MUTE_SOUND_LABEL" = "Sound stummschalten";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Tastatur Klicks stummschalten";
@@ -398,6 +430,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Nachricht bei Benachrichtigung";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Titel";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kontaktname";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "Deaktivert WhatsApp Kennzeichen für stummgeschaltete Chats & Gruppen.";
 "HIDE_MUTED_BADGES_LABEL" = "Stummgeschaltete Kennzeichen verstecken";
@@ -431,7 +468,9 @@
 
 "THEME_GENERAL_SECTION_TITLE" = "Allgemeines";
 "APP_TINTCOLOR_LABEL" = "Farbton der App";
-"WHATSAPP_INTERNAL_DARK_MODE" = "Interner WhatsApp-Darkmode";
+"DARK_MODE_LABEL" = "Dark Mode";
+"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
+"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
 "KEYBOARD_STYLE_LABEL" = "Tastaturstil";
 "KEYBOARD_STYLE_DEFAULT" = "Standard";
 "KEYBOARD_STYLE_DARK" = "Schwarz";
@@ -465,13 +504,14 @@
 "MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Nachrichtenstatus-Häkchen";
 "MESSAGE_TIMESTAMP_SECTION_TITLE" = "Zeitstempel der Nachricht";
 "MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Nachrichtenstatusfußzeile";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Text next to timestamp, mainly for document bubble";
 "SENT_COLOR_LABEL" = "Gesendet Farbe";
 "DELIVERED_COLOR_LABEL" = "Geliefert Farbe";
 "READ_COLOR_LABEL" = "Gelesen Farbe";
 "RECEIVED_COLOR_LABEL" = "Erhalten Farbe";
 "STARRED_INDICATOR_COLOR_LABEL" = "Markierte Anzeigefarbe";
 "REVOKED_INDICATOR_COLOR_LABEL" = "Widerrufene Anzeigefarbe";
-"REVOKED_INDICATOR_COLOR_DESC" = "Watusi's Symbol neben den widerrufenen Nachrichten Farbe";
+"REVOKED_INDICATOR_COLOR_DESC" = "Farbe von Watusi's Symbol neben den widerrufenen Nachrichten";
 
 "THEME_TABLES_SECTION_TITLE" = "Tabellen";
 "TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Gruppierte Hintergrundfarbe";
@@ -482,15 +522,16 @@
 
 /* Hide Chats */
 
-"ENABLE_HIDE_CHATS" = "Enable";
-"HIDE_CHATS_LABEL" = "Hide Chats";
-"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
-"HIDDEN_CHATS" = "Hidden Chats";
-"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
-"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
-"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
-"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
+"ENABLE_HIDE_CHATS" = "Aktivieren";
+"HIDE_CHATS_LABEL" = "Chats verstecken";
+"HIDE_CHATS_DESC" = "Versteckte Chats werden in der Chat-Liste ausgeblendet und zeigen einen leeren Chat an, wenn du ihn von einem anderen Ort aus öffnest. Nur auf dieser Seite kannst du deine versteckten Chat-Nachrichten sehen.";
+"HIDDEN_CHATS" = "Versteckte Chats";
+"HIDDEN_CHATS_MESSAGES" = "Versteckte Chat Nachrichten";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Versteckte Chats machen keine Benachrichtigungen bei einer neuen Nachricht.";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Beschütze die Einstellungen zum Verstecken von Chats";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Du kannst keine Nachricht an einen versteckten Chat senden.";
 
 
 /* Auto Reply */
@@ -583,8 +624,8 @@
 
 /* Support Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Entwickler";
+"CONTRIBUTE_LABEL" = "Spenden";
 
 "SUPPORT_SECTION_TITLE" = "Support";
 "CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
@@ -595,13 +636,41 @@
 "UPDATES_SECTION_TITLE" = "Updates";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Automatisch nach Updates suchen";
 "CHECK_FOR_UPDATES_BUTTON" = "Nach Updates suchen";
-"SETTINGS_SECTION_TITLE" = "Einstellungen";
-"RESET_SETTINGS_LABEL" = "Reset Einstellungen";
-"RESET_SETTINGS_ALERT_MESSAGE" = "Dies wird all deine Watusi Einstellungen löschen und zu Standard zurücksetzen.";
+
+"SETTINGS_SECTION_TITLE" = "Settings";
+"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+
+"EXPORT_SETTINGS_LABEL" = "Export Settings";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+
+"IMPORT_SETTINGS_LABEL" = "Import Settings";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
+"IMPORT_SETTINGS_BUTTON" = "Import";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+
+"RESET_SETTINGS_LABEL" = "Reset Settings";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
+"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
 "RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+
 "HIDE_SETTINGS_LABEL" = "Verstecke Einstellungen";
 "HIDE_SETTINGS_ALERT_TITLE" = "Warnung!";
-"HIDE_SETTINGS_ALERT_MESSAGE" = "Dies wird die Zeile der Watusi-Einstellungen von den WhatsApp-Einstellungen ausblenden macht es über eine transparente Schaltfläche rechts von der WhatsApp-Navigationsleiste zugänglich.";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Dies wird die Zeile der Watusi-Einstellungen von den WhatsApp-Einstellungen ausblenden und macht es über eine transparente Schaltfläche rechts von der WhatsApp-Navigationsleiste zugänglich.";
+
 "TWEAK_LANGUAGE_LABEL" = "Sprache";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Automatisch";
 "MORE_TWEAKS_TITLE" = "Mehr Tweaks";
@@ -637,6 +706,7 @@
 "GROUPS" = "Gruppen";
 "DEFAULT" = "Standard";
 "DELETE" = "Löschen";
+"UPDATE" = "Update";
 "CANCEL" = "Abbrechen";
 "OKAY" = "Okay";
 "ENABLE" = "Aktivieren";

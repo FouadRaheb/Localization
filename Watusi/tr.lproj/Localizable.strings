@@ -44,6 +44,9 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "İletildi Bilgisini(Çift Tik) Kapat";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarı! Bu özelliği etkinleştirmek gelen mesajları WhatsApp sunucusunda iletilmedi gözükeceğinden dolayı bekletecektir. Bekleyen çok mesajınız varsa uygulama açılıncaya kadar bildirimler gelmez. Server kaynaklı olduğundan düzeltilmesi imkansızdır.";
 
+"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plandayken son görülmeyi herkese kapatır. WhatsApp'a giriş yapıldığında tekrar Kişilerim'e açar";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu";
 
@@ -54,8 +57,12 @@
 "HIDE_CALL_MUTE_DESC" = "Kişileriniz aramadayken mikrofonu susturduğunuzu bilmeyecek..";
 "HIDE_CALL_MUTE_LABEL" = "Susturulan Aramayı Gizle";
 
-"DISABLE_VOIP_DESC" = "VOIP Arayüzünü Devre Dışı Bırak ve gelen bütün VOIP aramalarını engelle.";
-"DISABLE_VOIP_LABEL" = "VOIP'yi Devre Dışı Bırak";
+"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
+"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
 
 
 /* Status Addons */
@@ -65,8 +72,8 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "İndirme Butonunu Göster";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Durumları indirmek için sağ alta indirme tuşu ekle.";
 
-"STATUS_CAPTION_COPY" = "Copy Caption";
-"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+"STATUS_CAPTION_COPY" = "Başlığı Kopyala";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Başlık Panoya Kopyalandı";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Fotoğrafı Galeriye İndir";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Fotoğrafı Paylaş";
@@ -98,9 +105,22 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Kişi";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Kişiler";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Yeni Grup";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Yeni Grup İsmini Girin";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Grup İsmi";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Düzenle";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Delete";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Delete Groups";
+
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Statuses that your contacts delete will not be removed from the statuses list until they expire in 24h. Deleted statuses will show a message in the header containing the time it was deleted.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Keep Contacts Deleted Statuses";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Deleted at";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
+"STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 10 minutes are not supported";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Sonraki hikayeye otomatik geçmeyi devre dışı bırak.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Oto Hikaye Geçmeyi Devre Dışı Bırak";
@@ -117,6 +137,8 @@
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kişilerin Sildiği Mesajları Göster";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir..";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 
 "ABOUT_ON_CHATS_DESC" = "Sohbet Üstündeki Küçük Çizgide Kişi Hakkında Bilgiyi Göster";
 "ABOUT_ON_CHATS_LABEL" = "Sohbet Hakkında";
@@ -131,8 +153,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "İletildi İşaretini Devre Dışı Bırak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kişilerden birine mesaj atarken iletildi işaretini devre dışı bırak";
 
-"UNLIMITED_FORWARD_LABEL" = "Sınırsız Mesaj İletimi";
-"UNLIMITED_FORWARD_DESC" = "Kişi sınırı olmadan mesajı ilet";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
+"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
 
 "CALL_CONFIRM_DESC" = "Görüntülü veya sesli arama tuşunua basınca onaylama uyarısı alırsınız, WhatsApp araması ya da normal operatör araması seçimi yapabilirsiniz.";
 "CALL_CONFIRM_LABEL" = "Aramayı Onayla";
@@ -178,7 +203,7 @@
 
 "OTHER_ADDONS_LABEL" = "Diğer Eklentiler";
 
-"CALL_RECORDER_DESC" = "Record all your incoming and outgoing calls on WhatsApp. You can check your recorded calls in recents tab from Records segment.";
+"CALL_RECORDER_DESC" = "Tüm gelen ve giden aramalarınızı WhatsApp'a kaydedin. Kayıtlı aramalarınızı Kayıtlar sekmesinden son aramalar sekmesinde kontrol edebilirsiniz..";
 "CALL_RECORDER_LABEL" = "Çağrı Kaydedici";
 "CALL_RECRODER_RECORDINGS_BUTTON" = "Kayıtlar";
 "CALL_RECRODER_DELETE_ALL_RECRODINGS_MESSAGE_%@" = "Bu işlem bütün kayıtları %@ için silecektir";
@@ -200,7 +225,7 @@
 "ARCHIVE_LOCK_UNLOCK_BUTTON" = "Kilidi Aç";
 "ARCHIVE_LOCK_TABLE_TITLE" = "Arşivde Kilitli";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Bu sohbet arşivde kilitli.\nBu sohbetin kilidini kaldırmak ve arşivden çıkarmak mı istiyorsunuz?";
-"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Unlock & Unarchive";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Kilidi Aç & Arşivden Çıkar";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Sınırsız Sohbet Sabitle";
 "UNLIMITED_PINNED_CHATS_DESC" = "3'ten fazla sohbet sabitle";
@@ -274,7 +299,7 @@
 "BYPASS_PROTECTION_DESC" = "Korumanın geçersiz kılınmasını istediğiniz WiFi ağı isimlerini girin.";
 "BYPASS_APP_PROTECTION_LABEL" = "Uygulama Korumasını Geçersiz Kıl";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Sohbet Korumasını Geçersiz Kıl";
-"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Güvenilen WiFi SSIDs";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Güvenilen WiFi SSID'leri";
 
 
 /* Media */
@@ -294,6 +319,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Aktifleştir";
 "SHARE_SHEET_DISABLED_LABEL" = "Devre Dışı Bırak";
 
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Fotoğraf veya Video Çek";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Fotoğraf/Video Galerisi";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Fotoğraf Galerisi";
@@ -309,6 +335,9 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kişinin Engelini Kaldır";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "İnternetten Fotoğraf Paylaş";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Ödemeyi Yolla";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "Save Profile Photos";
+"SAVE_PROFILE_PHOTOS_DESC" = "Long press on profile photos to save them after WhatsApp removed their save button";
 
 "BLOCK" = "Engelle";
 "UNBLOCK" = "Engeli Kaldır";
@@ -332,7 +361,7 @@
 "MEDIA_FORWARD_BUTTON_LABEL" = "Medya İletme Butonu";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Medyayı %zd kişisine ilet";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "WhatsApp2tan önderilen medyayı Fotoğraflar uygulamasına kaydetmeyi devre dışı bırak.";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "WhatsApp'tan önderilen medyayı Fotoğraflar uygulamasına kaydetmeyi devre dışı bırak.";
 "MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Yakalanan Medyayı Kaydetmeyi Devre Dışı Bırak";
 
 /* User Interface */
@@ -363,6 +392,9 @@
 
 "DISABLE_LANDSCAPE_DESC" = "WhatsApp'ın ekran çevirmesini devre dışı bırakır.";
 "DISABLE_LANDSCAPE_LABEL" = "Ekran Çevirmeyi Devre Dışı Bırak";
+
+"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
+"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
 
 "MUTE_SOUND_DESC" = "WhatsApp alınan/gönderilen mesajlar ve/veya klavye sesini devre dışı bırakır..";
 "MUTE_SOUND_LABEL" = "Sesi Kes";
@@ -398,6 +430,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Bildirim Mesajı";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Başlık";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kişi Adı";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
 
 "HIDE_MUTED_BADGES_DESC" = "WhatsApp'ta susturulan sohbet ve gruplarının mesaj sayılarını gizle.";
 "HIDE_MUTED_BADGES_LABEL" = "Susturulan Mesaj Sayılarını Gizle";
@@ -413,84 +450,88 @@
 
 "THEME_LABEL" = "Tema";
 
-"CREATE_NEW_THEME_ACTION_BUTTON" = "Create New Theme";
-"IMPORT_NEW_THEME_ACTION_BUTTON" = "Import Theme from Files";
-"THEME_FILE_IMPORT_FAILED_TITLE" = "Invalid Theme File";
-"THEME_FILE_IMPORT_FAILED_MESSAGE" = "The file must be a valid plist";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "Yeni Tema Oluştur";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "Dosyalardan Temayı İçe Aktar";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "Geçersiz Tema Dosyası";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "Dosya geçerli bir plist olmalıdır";
 
-"NEW_THEME_ALERT_TITLE" = "New Theme";
-"NEW_THEME_ALERT_MESSAGE" = "Enter your theme name";
-"NEW_THEME_ALERT_PLACEHOLDER" = "Theme";
+"NEW_THEME_ALERT_TITLE" = "Yeni Tema";
+"NEW_THEME_ALERT_MESSAGE" = "Tema Adını Gir";
+"NEW_THEME_ALERT_PLACEHOLDER" = "Tema";
 
-"THEMES_SECTION_HEADER" = "Themes";
-"THEMES_SECTION_FOOTER" = "Use the + button to create a new theme\nSwipe left or long press on a theme to edit\nSelect a theme to set as active";
-"THEMES_STORE_LABEL" = "Themes Store";
+"THEMES_SECTION_HEADER" = "Temalar";
+"THEMES_SECTION_FOOTER" = "Yeni bir tema oluşturmak için + düğmesini kullanın\nDüzenlemek için bir temayı sola kaydırın veya uzun basın\nEtkin olarak ayarlamak için bir tema seçin";
+"THEMES_STORE_LABEL" = "Tema Mağazası";
 
-"EDIT_THEME" = "Edit Theme";
-"THEME_NAME" = "Theme Name";
+"EDIT_THEME" = "Temayı Düzenle";
+"THEME_NAME" = "Tema Adı";
 
-"THEME_GENERAL_SECTION_TITLE" = "General";
-"APP_TINTCOLOR_LABEL" = "App Tint Color";
-"WHATSAPP_INTERNAL_DARK_MODE" = "WhatsApp Internal Dark Mode";
-"KEYBOARD_STYLE_LABEL" = "Keyboard style";
-"KEYBOARD_STYLE_DEFAULT" = "Default";
-"KEYBOARD_STYLE_DARK" = "Dark";
-"KEYBOARD_STYLE_DARK_BLUE" = "Dark & Blue";
-"BARS_BACKGROUND_COLOR_LABEL" = "Bars Background Color";
+"THEME_GENERAL_SECTION_TITLE" = "Genel";
+"APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonu";
+"DARK_MODE_LABEL" = "Karanlık Modu";
+"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
+"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
+"KEYBOARD_STYLE_LABEL" = "Klavye Stili";
+"KEYBOARD_STYLE_DEFAULT" = "Varsayılan";
+"KEYBOARD_STYLE_DARK" = "Koyu";
+"KEYBOARD_STYLE_DARK_BLUE" = "Koyu & Mavi";
+"BARS_BACKGROUND_COLOR_LABEL" = "Bar Arkaplan Rengi";
 
-"THEME_CHATS_SECTION_TITLE" = "Chats";
+"THEME_CHATS_SECTION_TITLE" = "Sohbetler";
 
-"CHATS_TEXT_STYLE_LABEL" = "Text Style";
-"FONT_NAME_LABEL" = "Font Name";
-"TEXT_SIZE_LABEL" = "Text Size";
-"CONTACT_NAME_SIZE_LABEL" = "Contact Name Size";
-"ENABLE_FONT_STYLE_LABEL" = "Enable Font Style";
-"RECEIVED_MESSAGE_COLOR_LABEL" = "Received Message Color";
-"SENT_MESSAGE_COLOR_LABEL" = "Sent Message Color";
-"URL_COLOR_LABEL" = "URL Color";
-"GROUP_EVENT_COLOR_LABEL" = "Group Event Color";
-"SYSTEM_EVENT_COLOR_LABEL" = "System Event Color";
-"DATE_BUBBLE_COLOR_LABEL" = "Date Bubble Color";
-"TEXT_INPUT_COLOR_LABEL" = "Text Input Color";
+"CHATS_TEXT_STYLE_LABEL" = "Yazı Stili";
+"FONT_NAME_LABEL" = "Font İsmi";
+"TEXT_SIZE_LABEL" = "Yazı Boyutu";
+"CONTACT_NAME_SIZE_LABEL" = "Kişi İsmi Boyutu";
+"ENABLE_FONT_STYLE_LABEL" = "Font Stilini Aktifleştir";
+"RECEIVED_MESSAGE_COLOR_LABEL" = "Gelen Mesaj Rengi";
+"SENT_MESSAGE_COLOR_LABEL" = "Gönderilen Mesaj Rengi";
+"URL_COLOR_LABEL" = "URL Rengi";
+"GROUP_EVENT_COLOR_LABEL" = "Grup Bölümü Rengi";
+"SYSTEM_EVENT_COLOR_LABEL" = "Sistem Bölümü Rengi";
+"DATE_BUBBLE_COLOR_LABEL" = "Tarih Kutusu Rengi";
+"TEXT_INPUT_COLOR_LABEL" = "Yazı Girişi Rengi";
 
-"CHATS_BACKGROUND_COLOR_LABEL" = "Background Colors";
-"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Received Bubble Background";
-"SENT_BUBBLE_BACKGROUND_LABEL" = "Sent Bubble Background";
-"OPACITY_LABEL" = "Opacity";
-"RECEIVED_BUBBLE_OPACITY_LABEL" = "Received Bubble Opacity";
-"SENT_BUBBLE_OPACITY_LABEL" = "Sent Bubble Opacity";
-"DATE_BUBBLE_BACKGROUND_LABEL" = "Date Bubble Background";
+"CHATS_BACKGROUND_COLOR_LABEL" = "Arkaplan Renkleri";
+"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Gelen Mesaj Balonu Arkaplanı";
+"SENT_BUBBLE_BACKGROUND_LABEL" = "Giden Mesaj Balonu Arkaplanı";
+"OPACITY_LABEL" = "Opaklık";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "Gelen Mesaj Balonu Opaklığı";
+"SENT_BUBBLE_OPACITY_LABEL" = "Giden Mesaj Balonu Opaklığı";
+"DATE_BUBBLE_BACKGROUND_LABEL" = "Tarih Kutucuğu Arkaplanı";
 
-"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Message Status Items";
-"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Message Status Checkmarks";
-"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Message Timestamp";
-"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Message Status Footer";
-"SENT_COLOR_LABEL" = "Sent Color";
-"DELIVERED_COLOR_LABEL" = "Delivered Color";
-"READ_COLOR_LABEL" = "Read Color";
-"RECEIVED_COLOR_LABEL" = "Received Color";
-"STARRED_INDICATOR_COLOR_LABEL" = "Starred Indicator Color";
-"REVOKED_INDICATOR_COLOR_LABEL" = "Revoked Indicator Color";
-"REVOKED_INDICATOR_COLOR_DESC" = "Watusi's icon next to revoked messages";
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Mesaj Durum Ayarları";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Mesaj Durum Onay İşaretleri";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Mesaj Zaman Damgası";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Mesaj Durum Altbilgisi";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Text next to timestamp, mainly for document bubble";
+"SENT_COLOR_LABEL" = "Gönderildi Rengi";
+"DELIVERED_COLOR_LABEL" = "Ulaştırıldı Rengi";
+"READ_COLOR_LABEL" = "Okundu Rengi";
+"RECEIVED_COLOR_LABEL" = "Alındı Rengi";
+"STARRED_INDICATOR_COLOR_LABEL" = "Yıldızlı Gösterge Rengi";
+"REVOKED_INDICATOR_COLOR_LABEL" = "İptal Edilen Gösterge Rengi";
+"REVOKED_INDICATOR_COLOR_DESC" = "İptal edilen iletilerin yanındaki Watusi'nin simgesi";
 
-"THEME_TABLES_SECTION_TITLE" = "Tables";
-"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Grouped Background Color";
-"TABLES_SEPARATORS_LABEL" = "Separators";
-"SEPARATOR_COLOR_LABEL" = "Separator Color";
-"HIDE_SEPARATOR_LABEL" = "Hide Separators";
+"THEME_TABLES_SECTION_TITLE" = "Tablolar";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Gruplandırılmış Arkaplan Rengi";
+"TABLES_SEPARATORS_LABEL" = "Ayırıcılar";
+"SEPARATOR_COLOR_LABEL" = "Ayırıcı Rengi";
+"HIDE_SEPARATOR_LABEL" = "Ayırıcıları Gizle";
 
 
 /* Hide Chats */
 
-"ENABLE_HIDE_CHATS" = "Enable";
-"HIDE_CHATS_LABEL" = "Hide Chats";
-"HIDE_CHATS_DESC" = "Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.";
-"HIDDEN_CHATS" = "Hidden Chats";
-"HIDDEN_CHATS_MESSAGES" = "Hidden Chats Messages";
-"STOP_HIDDEN_CHATS_NOTIF_LABEL" = "Hide Chats Notifications";
-"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Hidden chats will not show new messages notifications";
-"PROTECT_HIDDEN_CHATS_SETTINGS" = "Protect Hidden Chats Settings";
-"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "You can not send messages to a hidden chat.";
+"ENABLE_HIDE_CHATS" = "Aktifleştir";
+"HIDE_CHATS_LABEL" = "Sohbetleri Gizle";
+"HIDE_CHATS_DESC" = "Gizli sohbetler sohbet listesinden gizlenir ve başka bir yerden açıldığında boş bir sohbet gösterir. Gizli sohbet mesajlarınızı yalnızca bu sayfadan görüntüleyebilirsiniz..";
+"HIDDEN_CHATS" = "Gizli Sohbetler";
+"HIDDEN_CHATS_MESSAGES" = "Gizli Sohbet Mesajları";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Gizli sohbetler yeni mesaj bildirimleri göstermez";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Gizli Sohbet Ayarlarını Koru";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Gizli bir sohbete mesaj gönderemezsiniz..";
 
 
 /* Auto Reply */
@@ -566,25 +607,25 @@
 
 /* Stickers */
 
-"STICKERS_MANAGER_LABEL" = "Stickers Manager";
-"STICKERS_LABEL" = "Stickers";
+"STICKERS_MANAGER_LABEL" = "Sticker Yöneticisi";
+"STICKERS_LABEL" = "Stickerlar";
 
-"STICKER_PACKS_PAGE_TITLE" = "Sticker Packs";
-"STICKER_PACKS_DEFAULT_TAB" = "Default";
-"STICKER_PACKS_CUSTOM_TAB" = "Custom";
-"LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
+"STICKER_PACKS_PAGE_TITLE" = "Sticker Paketleri";
+"STICKER_PACKS_DEFAULT_TAB" = "Varsayılan";
+"STICKER_PACKS_CUSTOM_TAB" = "Özel";
+"LOADING_STICKER_PACKS_LABEL" = "Sticker Paketleri Yükleniyor...";
 
-"ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
-"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
-"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Import ZIP from Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Import ZIP from Device Files";
-"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Import ZIP from URL";
+"ADD_STICKERS_ALERT_TITLE" = "Sticker Paketi Ekle";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Sticker Paketi Oluştur";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Dosyalardan ZIP çıkar";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Cihaz Dosyalarından ZIP çıkar";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "URL'den ZIP çıkar";
 
 
 /* Support Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Geliştirici";
+"CONTRIBUTE_LABEL" = "Katkıda Bulun";
 
 "SUPPORT_SECTION_TITLE" = "Destek";
 "CONTACT_AND_MORE_LABEL" = "İletişim ve Fazlası";
@@ -595,13 +636,41 @@
 "UPDATES_SECTION_TITLE" = "Güncellemeler";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Güncellemeler için Otomatik Kontrol Et";
 "CHECK_FOR_UPDATES_BUTTON" = "Güncellemeleri Kontrol Et";
-"SETTINGS_SECTION_TITLE" = "Ayarlar";
-"RESET_SETTINGS_LABEL" = "Ayarları Sıfırla";
-"RESET_SETTINGS_ALERT_MESSAGE" = "Bu ayar bütün Watusi seçimlerinizi silip sıfırlayacaktır.";
-"RESET_SETTINGS_BUTTON" = "Sıfırla";
+
+"SETTINGS_SECTION_TITLE" = "Settings";
+"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+
+"EXPORT_SETTINGS_LABEL" = "Export Settings";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+
+"IMPORT_SETTINGS_LABEL" = "Import Settings";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
+"IMPORT_SETTINGS_BUTTON" = "Import";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+
+"RESET_SETTINGS_LABEL" = "Reset Settings";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
+"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
+"RESET_SETTINGS_BUTTON" = "Reset";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+
 "HIDE_SETTINGS_LABEL" = "Ayarları Gizle";
 "HIDE_SETTINGS_ALERT_TITLE" = "UYARI!";
 "HIDE_SETTINGS_ALERT_MESSAGE" = "Bu ayar Watusi ayar satırını gizleyecek ve Whatsapp ayarlarının sağ üst kısmında transparan bir buton ile erişilebilir hale getirecektir.";
+
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 "MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";
@@ -637,19 +706,20 @@
 "GROUPS" = "Gruplar";
 "DEFAULT" = "Varsayılan";
 "DELETE" = "Sil";
+"UPDATE" = "Update";
 "CANCEL" = "İptal";
 "OKAY" = "OK";
 "ENABLE" = "Enable";
-"MORE" = "More";
+"MORE" = "Daha Fazla";
 "RELAUNCH" = "Yeniden Başlat";
 "LATER" = "Sonra";
 "SEND" = "Gönder";
 "ADD" = "Ekle";
 "EDIT" = "Düzenle";
-"DUPLICATE" = "Duplicate";
-"EXPORT" = "Export";
-"PUBLISH" = "Publish";
-"TO" = "alıcı";
+"DUPLICATE" = "Çoğalt";
+"EXPORT" = "Dışarı Aktar";
+"PUBLISH" = "Yayımla";
+"TO" = "Alıcı";
 "DISMISS" = "Kapat";
 "DUPLICATE" = "Kopyalayarak Çoğalt";
 "SELECT_ALL" = "Tümünü Seç";

@@ -5,17 +5,24 @@
 "ONLINE_CONTACTS" = "Contatti online";
 
 "TRACKING_TABLE" = "Lista di monitoraggio";
-"CONTACT_LOGS" = "Log dei contatti";
+"NOTIFICATIONS_LOGS" = "Log dei contatti";
 
 "ENABLE_DESCRIPTION" = "Attiva per ricevere notifiche";
 "ENABEL_LABEL" = "Attiva notifiche";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Ricevi notifiche accesso/disconnessione per contatti selezionati. (Aggiungi i contatti desiderati dalla lista di monitoraggio.\n- Ricevi una notifica quando uno dei tuoi contatti ti sta scrivendo.\n- Ricevi una notifica quando un tuo contatto legge un tuo messaggio.";
 "ONLINE_NOTIFICATION_LABEL" = "Notifica accesso";
 "OFFLINE_NOTIFICATION_LABEL" = "Notifica disconnessione";
 "TYPING_NOTIFICATION_LABEL" = "Notifica digitazione";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notifica lettura";
-"NOTIFICATIONS_DESCRIPTION" = "- Ricevi notifiche accesso/disconnessione per contatti selezionati. (Aggiungi i contatti desiderati dalla lista di monitoraggio.\n- Ricevi una notifica quando uno dei tuoi contatti ti sta scrivendo.\n- Ricevi una notifica quando un tuo contatto legge un tuo messaggio.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Log delle notifiche";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Log di tutte le notifiche di accesso/disconnessione/scrittura, puoi controllare il log dalla tabella di log.";
@@ -25,20 +32,24 @@
 "SELECTED_READ_MESSAGE_LABEL" = "Notifica di lettura per contatti preferiti";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Ricevi una notifica di lettura/scrittura solo per i contatti preferiti selezionati nella tabella di monitoraggio.";
 
+/* Notifications Settings */
+
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Customize Notifications Style & Sound";
+"NOTIFICATIONS_SETTINGS_LABEL" = "Notifications Settings";
+
 "SHOW_TEST_NOTIFICATION" = "Mostra un esempio di notifica";
 "TEST_NOTIFICATION_MESSAGE" = "Esempio di notifica";
 
 "NOTIFICATION_SOUND_LABEL" = "Suoni di notifica";
 "NOTIFICATION_SOUND_DESCRIPTION" = "Scegli un suono per le notifiche.";
 
+"NOTIFICATION_STYLE_LABEL" = "Notifications Style";
+"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Style";
+"NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Status Bar";
+"NOTIFICATION_STYLE_SYSTEM_LABEL" = "System";
+
 "OUTSIDE_NOTIFICATIONS" = "Notifiche all'esterno";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Ricevi notifiche di OnlineNotify fuori da WhatsApp (nella Home- e Lockscreen).\nWhatsApp deve essere aperto in background e il tuo stato sarà costantemente online.";
-
-"FAVORITES_LIST_LABEL" = "Lista dei preferiti";
-"FAVORITES_LIST_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nella lista preferiti di Watusi che sostituisce la scheda \"camera\".\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista preferiti di Watusi.";
-
-"GROUP_MEMBERS_LABEL" = "Membri dei gruppi";
-"GROUP_MEMBERS_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nei gruppi.\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista dei membri dei gruppi.";
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Aggiunge una riga sopra alla lista delle chat per controllare i contatti online.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Lista contatti online";
@@ -55,11 +66,32 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp deve essere riavviato per disattivare le notifiche";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "L'attivazione delle notifiche esterne mantiene attivo il WiFi dopo che il dispositivo viene bloccato, e sarai sempre online anche se WhatsApp è in background";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Adds an Online Indicator next to your contacts in different places.";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Lista dei preferiti";
+"FAVORITES_LIST_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nella lista preferiti di Watusi che sostituisce la scheda \"camera\".\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista preferiti di Watusi.";
+
+"GROUP_MEMBERS_LABEL" = "Membri dei gruppi";
+"GROUP_MEMBERS_DESCRIPTION" = "- Aggiunge un indicatore verde accanto agli utenti online nei gruppi.\n- Sostituisce lo stato dei contatti con il loro ultimo accesso nella lista dei membri dei gruppi.";
+
 "CHATS_LIST_LABEL" = "Lista chat";
 "CHATS_LIST_DESCRIPTION" = "Aggiunge un indicatore verde accanto agli utenti online nella lista delle chat.";
 
 "ONLINE_INDICATOR" = "Indicatore online";
 "LAST_SEEN" = "Ultimo accesso";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Aggiungi contatto";
 "CONTACT_ALREADY_EXISTS" = "Il contatto è già presente";
@@ -86,12 +118,14 @@
 "OFFLINE" = "Offline";
 "IS_TYPING" = "sta scrivendo...";
 "IS_RECORDING" = "is recording...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "si è connesso";
 "HAS_GONE_OFFLINE_AT" = "si è disconnesso alle";
 "HAS_READ_YOUR_MESSAGES" = "ha letto il tuo messaggio";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha letto il tuo messaggio nel gruppo";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha letto il tuo messaggio nel";
 "HAS_RECEIVED_YOUR_MESSAGES" = "ha ricevuto il tuo messaggio";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha ricevuto il tuo messaggio nel gruppo";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha ricevuto il tuo messaggio nel";
 
 /* Developer & Support Section */
 

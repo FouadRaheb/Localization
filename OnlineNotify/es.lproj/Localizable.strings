@@ -1,29 +1,41 @@
 /* Settings */
 
-"PREFERENCES" = "OnlineNotify Preferencias";
+"PREFERENCES" = "Preferencias OnlineNotify";
 
 "ONLINE_CONTACTS" = "Contactos en línea";
 
 "TRACKING_TABLE" = "Lista de rastreo";
-"CONTACT_LOGS" = "Registros de contacto";
+"NOTIFICATIONS_LOGS" = "Registros de Notificaciones";
 
 "ENABLE_DESCRIPTION" = "Habilitar para comenzar a recibir notificaciones";
 "ENABEL_LABEL" = "Habilitar notificaciones";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Notificaciones de Contactos";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Obtener notificaciones en línea/sin conexión para los usuarios seleccionados. (Añadir usuarios de la tabla de seguimiento).\n- Recibe una notificación cuando alguno de tus contactos empieza a escribir en tu chat.\n- Obtener notificación cuando un contacto lee los mensajes enviados.";
 "ONLINE_NOTIFICATION_LABEL" = "Notificaciones en línea";
 "OFFLINE_NOTIFICATION_LABEL" = "Notificaciones sin conexión";
 "TYPING_NOTIFICATION_LABEL" = "Notificaciones de escribiendo";
-"RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"RECORDING_NOTIFICATION_LABEL" = "Notificaciones de notaz de voz";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Leer notificaciones de mensajes";
-"NOTIFICATIONS_DESCRIPTION" = "- Obtener notificaciones en línea/sin conexión para los usuarios seleccionados. (Añadir usuarios de la tabla de seguimiento).\n- Recibe una notificación cuando alguno de tus contactos empieza a escribir en tu chat.\n- Obtener notificación cuando un contacto lee los mensajes enviados.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Notificaciones de Grupos";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Reciba notificaciones de mecanografía, grabación y lectura de mensajes para los miembros de los grupos en los que se encuentre.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Notificaciones de Escribiendo";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Notificaciones de notas de voz";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Leer Notificaciones de Mensajes";
 
 "LOG_NOTIFCATIONS_LABEL" = "Registros de notificaciones";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Registre la notificación en línea/sin conexión/escribiendo que usted recibe de cada contacto, puede comprobar los registros en lista de los registros.";
 
 "SELECTED_TYPING_LABEL" = "Escribiendo para los favoritos";
-"SELECTED_RECORDING_LABEL" = "Recording for favorites";
+"SELECTED_RECORDING_LABEL" = "Notas de voz de favoritos";
 "SELECTED_READ_MESSAGE_LABEL" = "Leer mensajes para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Recibe notificación de mensajes de escritura y lectura sólo para contactos favoritos que ha seleccionado en la lista de seguimiento.";
+
+/* Notifications Settings */
+
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Personalizar notificaciones de estilo y sonido";
+"NOTIFICATIONS_SETTINGS_LABEL" = "Configuracion de Notificaciones";
 
 "SHOW_TEST_NOTIFICATION" = "Mostrar ejemplo de notificación";
 "TEST_NOTIFICATION_MESSAGE" = "Ejemplo de mensaje de notificación";
@@ -31,8 +43,41 @@
 "NOTIFICATION_SOUND_LABEL" = "Sonido de notificaciones";
 "NOTIFICATION_SOUND_DESCRIPTION" = "Elija un sonido para las notificaciones.";
 
+"NOTIFICATION_STYLE_LABEL" = "Estilo de Notificaciones";
+"NOTIFICATION_STYLE_DESCRIPTION" = "Estilo de Banner de Notificaciones en la Aplicación";
+"NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Barra de Estado";
+"NOTIFICATION_STYLE_SYSTEM_LABEL" = "Sistema";
+
 "OUTSIDE_NOTIFICATIONS" = "Notificaciones exteriores";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Obtenga notificaciones de OnlineNotify fuera de WhatsApp.\nTenga en cuenta que WhatsApp debe estar activo en segundo plano y mostrara en línea.";
+
+"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Agrega una fila en la parte superior de la lista de chats para ver tus contactos en línea.";
+"ONLINE_CONTACTS_LIST_LABEL" = "Lista de contactos en línea";
+"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "En línea";
+"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Fuera de línea";
+"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "La función de Contactos en línea siempre ha sido una razón para que se bloquee la solicitud de sus contactos la última vez que se soluciona después de unas pocas horas. La razón de este bloqueo se debe a la gran cantidad de solicitudes porque está obteniendo lo último de su lista completa de contactos. \ N \ Por lo tanto, he decidido hacer de esta lista una lista en línea de los contactos que elige seguir y no de Toda tu lista de contactos.";
+"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "Lista de Configuraciones";
+"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Contactos Seleccionados";
+"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contactos";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Mostrar contactos sin conexión";
+"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Mostrar contactos vistos por última vez o sin conexión";
+
+"ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp necesita ser relanzado para habilitar notificaciones";
+"DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp necesita ser relanzado para desactivar las notificaciones";
+"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Habilitar las notificaciones externas mantendrá tu WiFi activo después de que el dispositivo haya sido bloqueado y siempre aparecerás como Online incluso cuando WhatsApp esté en segundo plano";
+
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Indicadores En línea";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Agrega un indicador en línea junto a sus contactos en diferentes lugares.";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Estilo";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Estilo de Indicador En línea";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Barra";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Punto";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color en Nombre de Contacto";
 
 "FAVORITES_LIST_LABEL" = "Lista de favoritos";
 "FAVORITES_LIST_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de favoritos de Watusi, que sustituye a la tarjeta de la cámara..\n- Reemplaza el estado de los contactos con su última entrada en la lista de favoritos de Watusi.";
@@ -40,26 +85,13 @@
 "GROUP_MEMBERS_LABEL" = "Miembros del grupo";
 "GROUP_MEMBERS_DESCRIPTION" = "- Añade un indicador verde junto a usuarios en línea en la lista de miembros del grupo.\n- Reemplazar el estado de sus contactos con su última entrada en la lista de miembros del grupo.";
 
-"ONLINE_CONTACTS_LIST_DESCRIPTION" = "Agrega una fila en la parte superior de la lista de chats para ver tus contactos en línea.";
-"ONLINE_CONTACTS_LIST_LABEL" = "Lista de contactos en línea";
-"ONLINE_CONTACTS_LIST_ONLINE_HEADER" = "Online";
-"ONLINE_CONTACTS_LIST_OFFLINE_HEADER" = "Offline";
-"ONLINE_CONTACTS_LIST_ALERT_MESSAGE" = "Online Contacts feature has always been a reason for getting blocked from requesting your contacts lastseen which usually gets fixed after few hours. The reason of this block is due to the large number of requests because you are fetching the lastseen of your whole contacts list.\n\nTherefore, I have decided to make this list an online list of the contacts you choose to follow and not of all your contacts list.";
-"ONLINE_CONTACTS_LIST_PREFERENCES_TITLE" = "List Settings";
-"ONLINE_CONTACTS_LIST_SELECTED_CONTACTS" = "Selected Contacts";
-"ONLINE_CONTACTS_LIST_PICKER_TITLE" = "Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_CONTACTS" = "Show Offline Contacts";
-"ONLINE_CONTACTS_LIST_SHOW_OFFLINE_LASTSEEN" = "Show Lastseen of Offline Contacts";
-
-"ENABLE_NOTIFICATIONS_ALERT" = "WhatsApp necesita ser relanzado para habilitar notificaciones";
-"DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp necesita ser relanzado para desactivar las notificaciones";
-"ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Habilitar las notificaciones externas mantendrá tu WiFi activo después de que el dispositivo haya sido bloqueado y siempre aparecerás como Online incluso cuando WhatsApp esté en segundo plano";
-
 "CHATS_LIST_LABEL" = "Lista de chats";
 "CHATS_LIST_DESCRIPTION" = "Agrega un indicador verde junto a usuarios en línea en la lista de chats.";
 
 "ONLINE_INDICATOR" = "Indicador en línea";
 "LAST_SEEN" = "Ultima vista";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Agregar contacto";
 "CONTACT_ALREADY_EXISTS" = "El contacto ya existe";
@@ -82,24 +114,26 @@
 
 /* Notifications */
 
-"ONLINE" = "en línea";
-"OFFLINE" = "desconectado";
-"IS_TYPING" = "esta escribiendo...";
-"IS_RECORDING" = "is recording...";
-"IS_NOW_ONLINE" = "está ahora en línea";
-"HAS_GONE_OFFLINE_AT" = "se ha desconectado en";
-"HAS_READ_YOUR_MESSAGES" = "ha leído tus mensajes";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha leído los mensajes de su grupo";
-"HAS_RECEIVED_YOUR_MESSAGES" = "ha recibido tus mensajes";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha recibido su mensaje de grupos";
+"ONLINE" = "En línea";
+"OFFLINE" = "Desconectado";
+"IS_TYPING" = "Está escribiendo...";
+"IS_RECORDING" = "Está grabando...";
+"IS_TYPING_IN_GROUP" = "Está escribiendo en";
+"IS_RECORDING_IN_GROUP" = "Está grabando en";
+"IS_NOW_ONLINE" = "Está ahora en línea";
+"HAS_GONE_OFFLINE_AT" = "Se ha desconectado en";
+"HAS_READ_YOUR_MESSAGES" = "Ha leído tus mensajes";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "Ha leído los mensajes de en";
+"HAS_RECEIVED_YOUR_MESSAGES" = "Ha recibido tus mensajes";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "Ha recibido su mensaje de en";
 
 /* Developer & Support Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"DEVELOPER_SECTION_HEADER" = "Desarrollador";
+"CONTRIBUTE_LABEL" = "Contribuir";
 
-"SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Ad Removal";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_SECTION_HEADER" = "Versions";
+"SUPPORT_SECTION_HEADER" = "Soporte";
+"CONTACT_AND_MORE_LABEL" = "Contacto y más";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Cuenta y eliminación de anuncios";
+"CONTACT_SUPPORT_LABEL" = "Contacto de soporte";
+"VERSIONS_SECTION_HEADER" = "Versiones";

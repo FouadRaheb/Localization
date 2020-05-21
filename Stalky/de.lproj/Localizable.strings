@@ -212,6 +212,7 @@
 /* Action Buttons */
 
 "COPY_SHARE_SUBJECT" = "Betreff kopieren/teilen";
+"COPY_SHARE_DESCRIPTION" = "Description kopieren/teilen";
 "COPY_SHARE_ABOUT" = "Über kopieren/teilen";
 "SAVE_SHARE_IMAGE" = "Foto kopieren/teilen";
 "SAVE_SHARE_VIDEO" = "Video speichern/teilen";
@@ -255,6 +256,7 @@
 "DELETED_GROUP_PICTURE_NOTIFICATION" = "Ein Gruppenprofilbild wurde gelöscht";
 "CHANGED_GROUP_PICTURE_NOTIFICATION" = "Ein Gruppenprofilbild wurde geändert";
 "CHANGED_GROUP_SUBJECT_NOTIFICATION" = "Gruppen Betreff wurde geändert zu";
+"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "changed group description to";
 
 "CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "wurde zu der Gruppe hinzugefügt";
 "CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "wurde von der Gruppe entfernt";

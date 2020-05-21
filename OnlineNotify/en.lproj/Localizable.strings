@@ -5,25 +5,37 @@
 "ONLINE_CONTACTS" = "Online Contacts";
 
 "TRACKING_TABLE" = "Tracking List";
-"CONTACT_LOGS" = "Contact Logs";
+"NOTIFICATIONS_LOGS" = "Notifications Logs";
 
 "ENABLE_DESCRIPTION" = "Enable to start receiving notifications";
 "ENABEL_LABEL" = "Enable Notifications";
 
+"CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
+"CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Receive online/offline notifications for selected users. (Add users from Tracking List).\n- Receive notification when anyone of your contacts starts typing or recording in your chat.\n- Receive notification when a contact reads your sent messages.";
 "ONLINE_NOTIFICATION_LABEL" = "Online Notificaitons";
 "OFFLINE_NOTIFICATION_LABEL" = "Offline Notifications";
 "TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
-"NOTIFICATIONS_DESCRIPTION" = "- Get online/offline notifications for selected users. (Add users from Tracking Table.\n- Get notification when anyone of your contacts starts typing in your chat.\n- Get notification when a contact reads your sent messages.";
+
+"GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
+"GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
+"GROUPS_RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
+"GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "Read Messages Notifications";
 
 "LOG_NOTIFCATIONS_LABEL" = "Notifications Logs";
 "LOG_NOTIFCATIONS_DESCRIPTION" = "Log every contact's Online/Offline/Typing notification you receive, you can check the logs from Logs Table.";
 
-"SELECTED_TYPING_LABEL" = "Typing for favorites";
-"SELECTED_RECORDING_LABEL" = "Recording for favorites";
-"SELECTED_READ_MESSAGE_LABEL" = "Read Messages for favorites";
-"SELECTED_NOTIFICATION_DESCRIPTION" = "Receive typing & read messages notification only for favorite contacts you selected in tracking table.";
+"SELECTED_TYPING_LABEL" = "Typing for Favorites";
+"SELECTED_RECORDING_LABEL" = "Recording for Favorites";
+"SELECTED_READ_MESSAGE_LABEL" = "Read Messages for Favorites";
+"SELECTED_NOTIFICATION_DESCRIPTION" = "Receive typing & read messages notification only for favorite contacts you selected in tracking list.";
+
+/* Notifications Settings */
+
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "Customize Notifications Style & Sound";
+"NOTIFICATIONS_SETTINGS_LABEL" = "Notifications Settings";
 
 "SHOW_TEST_NOTIFICATION" = "Show example notification";
 "TEST_NOTIFICATION_MESSAGE" = "Example notification message";
@@ -31,14 +43,13 @@
 "NOTIFICATION_SOUND_LABEL" = "Notifications Sound";
 "NOTIFICATION_SOUND_DESCRIPTION" = "Choose a sound for notifications.";
 
+"NOTIFICATION_STYLE_LABEL" = "Notifications Style";
+"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Style";
+"NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Status Bar";
+"NOTIFICATION_STYLE_SYSTEM_LABEL" = "System";
+
 "OUTSIDE_NOTIFICATIONS" = "Outside Notifications";
 "OUTSIDE_NOTIFICATIONS_DESCRIPTION" = "Get OnlineNotify notifications outside WhatsApp.\nNote that WhatsApp needs to be active in background and you will be shown as Online.";
-
-"FAVORITES_LIST_LABEL" = "Favorites List";
-"FAVORITES_LIST_DESCRIPTION" = "- Adds a green indicator next to Online Users in Watusi favorites list which replaces the camera tab..\n- Replace contacts status with their lastseen in Watusi favorites list.";
-
-"GROUP_MEMBERS_LABEL" = "Group Members";
-"GROUP_MEMBERS_DESCRIPTION" = "- Adds a green indicator next to Online Users in group members list.\n- Replace contacts status with their lastseen in group members list.";
 
 "ONLINE_CONTACTS_LIST_DESCRIPTION" = "Add a row on top of Chats List to check your online contacts.";
 "ONLINE_CONTACTS_LIST_LABEL" = "Online Contacts List";
@@ -55,11 +66,32 @@
 "DISABLE_NOTIFICATIONS_ALERT" = "WhatsApp needs to be relaunched in order to disable notifications";
 "ENABLE_OUTSIDE_NOTIFICATION_ALERT" = "Enabling Outside notifications will keep your WiFi active after the device has been locked and you will be always shown as Online even when WhatsApp is in background";
 
+/* Indicators */
+
+"ONLINE_INDICATORS_LABEL" = "Online Indicators";
+"ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Adds an Online Indicator next to your contacts in different places.";
+
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online Indicator Style";
+"ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Bar";
+"ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Dot";
+
+"ONLINE_INDICATOR_COLOR_NAME_LABEL" = "Color Contact Name";
+
+"FAVORITES_LIST_LABEL" = "Favorites List";
+"FAVORITES_LIST_DESCRIPTION" = "- Adds a green indicator next to Online Users in Watusi favorites list which replaces the camera tab..\n- Replace contacts status with their lastseen in Watusi favorites list.";
+
+"GROUP_MEMBERS_LABEL" = "Group Members";
+"GROUP_MEMBERS_DESCRIPTION" = "- Adds a green indicator next to Online Users in group members list.\n- Replace contacts status with their lastseen in group members list.";
+
 "CHATS_LIST_LABEL" = "Chats List";
 "CHATS_LIST_DESCRIPTION" = "Adds a green indicator next to Online Users in chats list.";
 
 "ONLINE_INDICATOR" = "Online Indicator";
 "LAST_SEEN" = "Last seen";
+
+/* Buttons */
 
 "ADD_CONTACT" = "Add Contact";
 "CONTACT_ALREADY_EXISTS" = "Contact already exists";
@@ -86,12 +118,14 @@
 "OFFLINE" = "Offline";
 "IS_TYPING" = "is typing...";
 "IS_RECORDING" = "is recording...";
+"IS_TYPING_IN_GROUP" = "is typing in";
+"IS_RECORDING_IN_GROUP" = "is recording in";
 "IS_NOW_ONLINE" = "is now online";
 "HAS_GONE_OFFLINE_AT" = "has gone offline at";
 "HAS_READ_YOUR_MESSAGES" = "has read your messages";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "has read your group messages";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "has read your messages in";
 "HAS_RECEIVED_YOUR_MESSAGES" = "has received your messages";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "has received your group messages";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "has received your messages in";
 
 /* Developer & Support Section */
 

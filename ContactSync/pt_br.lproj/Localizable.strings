@@ -1,0 +1,96 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "Meus Contatos";
+
+"SYNC_NOW_BUTTON" = "Sincronizar Agora";
+"SYNCING_LABEL" = "Sincronizando...";
+"LAST_SYNC_LABEL" = "Última Sincronização";
+"LAST_SYNC_NEVER" = "Nunca";
+"LAST_SYNC_ERROR" = "Erro";
+
+"AUTO_SYNC_LABEL" = "Sincronizar Automaticamente";
+"AUTO_SYNC_OFF" = "Desligado";
+"AUTO_SYNC_INSTANT" = "Instantânea";
+"AUTO_SYNC_DAILY" = "Diariamente";
+"AUTO_SYNC_WEEKLY" = "Semanal";
+"AUTO_SYNC_MONTHLY" = "Mensal";
+"AUTO_SYNC_FOOTER" = "A sincronização instantânea será executada individualmente para cada contato sempre que a imagem do perfil do WhatsApp for alterada.\n\nDiariamente / Semanalmente / mensalmente executará uma sincronização completa quando você abrir o WhatsApp na frequência selecionada.\n\nTodos os tipos de sincronização automática respeitarão os selecionados ou excluídos Contatos.";
+
+"CONTACTS_TO_SYNC_LABEL" = "Contatos para sincronizar";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Todos os contatos";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Todos, exceto..";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Contatos selecionados";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Contatos Excluídos";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Contatos Selecionados";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Isso fará o download das fotos de perfil de alta resolução dos seus contatos e as utilizará para sincronizar. Se desativado, as imagens em miniatura de seus contatos serão usadas.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Download de imagens em alta resolução";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Isso removerá a foto do contato existente se não houver foto de perfil no WhatsApp";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Remover foto se excluído";
+
+"RELAUNCH_ALERT_BUTTON" = "Reabrir";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Reabra o WhatsApp para ativar sua licença";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Reabra o WhatsApp para aplicar alterações";
+"ACTIVATE_FOOTER_MESSAGE" = "Você precisa fazer login com sua conta e comprar uma licença para ativar os recursos de ajustes.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Desenvolvedor";
+"CONTRIBUTE_LABEL" = "Contribuir";
+
+"SUPPORT_SECTION_HEADER" = "Suporte";
+"CONTACT_AND_MORE_LABEL" = "Contato e mais";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Suporte";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Suporte";
+"CONTACT_SUPPORT_LABEL" = "Entre em contato com o suporte";
+"VERSIONS_TITLE" = "Versões";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Gerenciamento de Contas";
+
+"SETTINGS_SECTION_TITLE" = "Configurações";
+"SETTINGS_EXPORT_LABEL" = "Exportar Configurações";
+"SETTINGS_IMPORT_LABEL" = "Importar Configurações";
+"SETTINGS_RESET_LABEL" = "Restaurar Configurações";
+
+"SETTINGS_RESET_ALERT_TITLE" = "Restaurar Configurações";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Isso excluirá suas configurações atuais. Não é possível desfazer esta ação";
+"SETTINGS_RESET_ALERT_BUTTON" = "Restaurar";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "Importar Configurações";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Isso substituirá suas configurações atuais. Não é possível desfazer esta ação";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "Importar";
+
+"SETTINGS_EXPORT" = "Isso substituirá suas configurações atuais. Não é possível desfazer esta ação";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "Guia de Usuário";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Entre em contato com vários números";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Ao sincronizar, o número com uma foto de perfil disponível será usado. Se houver 2 ou mais números com fotos, será usado um número aleatório.\n\nVocê pode selecionar um número na página 'Meus contatos' para usá-lo na sincronização o contato.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "Meus Contatos";
+"SELECT_CONTACTS_TITLE" = "Contatos Selecionados";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Todos os Contêiners";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Selecione um contêiner de contato";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Os contêineres podem ser do tipo Local, Exchange ou CardDAV. Seu tipo de contêiner do iCloud é um CardDAV.";
+"PHONE_NUMBERS_FOOTER" = "O número selecionado será usado para sincronização, leia mais na página do guia do usuário.";
+
+"NO_PHOTO_TEXT" = "Sem\nFoto";
+
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sincronizar foto para contato";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Excluir foto do contato";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "WhatsApp";
+"CONTACT" = "Contato";
+"CONTACTS" = "Contatos";
+"LOADING" = "Carregando...";
+"OKAY" = "Ok";
+"CANCEL" = "Cancelar";
+"RELAUNCH" = "Reabrir";
+"ALL" = "Todos";
