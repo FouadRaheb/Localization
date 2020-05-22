@@ -67,11 +67,11 @@
 
 "USER_GUIDE_LABEL" = "Guia de Usuário";
 
-"USER_GUIDE_SYNC_PROCESS_TITLE" = "Sync Process";
-"USER_GUIDE_SYNC_PROCESS_DETAIL" = "If you have a large number of contacts, the first sync might take more than 1-2 minutes especially if 'Download High Res Pictures' enabled. The second sync will only update the contacts with a new profile picture on WhatsApp.";
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Processo de sincronização";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "Se você tiver um grande número de contatos, a primeira sincronização poderá levar mais de um a dois minutos, especialmente se a opção 'Baixar imagens em alta resolução' estiver ativada. A segunda sincronização atualizará apenas os contatos com uma nova foto de perfil no WhatsApp.";
 
-"USER_GUIDE_SYNC_ERROR_TITLE" = "Sync Error";
-"USER_GUIDE_SYNC_ERROR_DETAIL" = "If you get an error after syncing, this usually happens because of some limitation in contactsd (process that handles Contacts framework) not allowing us to update a large number of contacts in a short period of time. A reboot or respring usually fix this problem.";
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Erro de sincronização";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "Se você receber um erro após a sincronização, isso geralmente ocorre devido a alguma limitação no Contactsd (processo que lida com a estrutura de contatos), não nos permitindo atualizar um grande número de contatos em um curto período de tempo. Uma reinicialização ou mola geralmente corrige esse problema.";
 
 
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Entre em contato com vários números";
@@ -87,9 +87,9 @@
 "SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Selecione um contêiner de contato";
 "SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Os contêineres podem ser do tipo Local, Exchange ou CardDAV. Seu tipo de contêiner do iCloud é um CardDAV.";
 
-"DELETE_PICTURES_CONFIRMATION_TITLE" = "Delete Pictures";
-"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "This will delete all your contacts pictures";
-"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Delete All Pictures";
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Deletar Imagens";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "Isso excluirá todas as fotos de seus contatos";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Excluir todas as imagens";
 
 "NO_PHOTO_TEXT" = "Sem\nFoto";
 "PHONE_NUMBERS_FOOTER" = "O número selecionado será usado para sincronização, leia mais na página do guia do usuário.";
