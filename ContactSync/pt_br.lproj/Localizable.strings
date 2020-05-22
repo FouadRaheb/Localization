@@ -67,20 +67,32 @@
 
 "USER_GUIDE_LABEL" = "Guia de Usuário";
 
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Sync Process";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "If you have a large number of contacts, the first sync might take more than 1-2 minutes especially if 'Download High Res Pictures' enabled. The second sync will only update the contacts with a new profile picture on WhatsApp.";
+
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Sync Error";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "If you get an error after syncing, this usually happens because of some limitation in contactsd (process that handles Contacts framework) not allowing us to update a large number of contacts in a short period of time. A reboot or respring usually fix this problem.";
+
+
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Entre em contato com vários números";
 "USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Ao sincronizar, o número com uma foto de perfil disponível será usado. Se houver 2 ou mais números com fotos, será usado um número aleatório.\n\nVocê pode selecionar um número na página 'Meus contatos' para usá-lo na sincronização o contato.";
 
 /* Contacts Page */
 
 "MY_CONTACTS_TITLE" = "Meus Contatos";
+"CONTACTS_COUNT_SINGULAR_LABEL" = "Contato";
+"CONTACTS_COUNT_PLURAL_LABEL" = "Contatos";
 "SELECT_CONTACTS_TITLE" = "Contatos Selecionados";
 "ALL_CONTACTS_CONTAINERS_LABEL" = "Todos os Contêiners";
 "SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Selecione um contêiner de contato";
 "SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Os contêineres podem ser do tipo Local, Exchange ou CardDAV. Seu tipo de contêiner do iCloud é um CardDAV.";
-"PHONE_NUMBERS_FOOTER" = "O número selecionado será usado para sincronização, leia mais na página do guia do usuário.";
+
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Delete Pictures";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "This will delete all your contacts pictures";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Delete All Pictures";
 
 "NO_PHOTO_TEXT" = "Sem\nFoto";
-
+"PHONE_NUMBERS_FOOTER" = "O número selecionado será usado para sincronização, leia mais na página do guia do usuário.";
 "SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sincronizar foto para contato";
 "DELETE_CONTACT_PHOTO_BUTTON" = "Excluir foto do contato";
 
@@ -88,7 +100,6 @@
 
 "WHATSAPP" = "WhatsApp";
 "CONTACT" = "Contato";
-"CONTACTS" = "Contatos";
 "LOADING" = "Carregando...";
 "OKAY" = "Ok";
 "CANCEL" = "Cancelar";

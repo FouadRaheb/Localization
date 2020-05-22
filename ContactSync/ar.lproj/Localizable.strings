@@ -46,7 +46,7 @@
 "CONTACT_SUPPORT_SECTION_HEADER" = "الدعم";
 "CONTACT_SUPPORT_LABEL" = "التواصل مع الدعم";
 "VERSIONS_TITLE" = "الإصدارات";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "ادارة الحساب";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "إدارة الحساب";
 
 "SETTINGS_SECTION_TITLE" = "الإعدادات";
 "SETTINGS_EXPORT_LABEL" = "تصدير الإعدادات";
@@ -67,20 +67,31 @@
 
 "USER_GUIDE_LABEL" = "دليل المستخدم";
 
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "معالجة المزامنة";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "إذا كان لديك عدد كبير من جهات الاتصال، فقد تستغرق المزامنة الأولى من دقيقة إلى دقيقتين، خاصةً إذا كنت قد فعلت خاصية 'تنزيل صور عالية الدقة'. في المزامنة الثانية سيتم فقط تحديث صور جهات الاتصال التي تملك صورة ملف تعريف واتساب جديدة.";
+
+"USER_GUIDE_SYNC_ERROR_TITLE" = "خطأ في المزامنة";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "إذا تلقيت خطأ بعد المزامنة، فعادةً ما يحدث هذا بسبب بعض القيود في جهات الاتصال (العملية التي تعالج إطار جهات الاتصال) والتي لا تسمح لنا بتحديث عدد كبير من جهات الاتصال في مدة قصيرة. حل هذا الخطأ عادةً يكون عبر إعادة التشغيل أو إعادة التشغيل السريع للجهاز.";
+
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "جهات الاتصال التي تملك أكثر من رقم";
 "USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "عند المزامنة، سيتم استخدام الرقم الذي يحتوي على صورة ملف تعريف متاحة، إذا كان هناك رقمين أو أكثر لجهة الاتصال وجميعها تحتوي على صور، فسيتم استخدام رقم عشوائي.\n\nيمكنك تحديد رقم من صفحة 'جهات اتصالي' لاستخدامه عند مزامنة جهة الاتصال.";
 
 /* Contacts Page */
 
 "MY_CONTACTS_TITLE" = "جهات اتصالي";
+"CONTACTS_COUNT_SINGULAR_LABEL" = "جهة الاتصال";
+"CONTACTS_COUNT_PLURAL_LABEL" = "جهة الاتصال";
 "SELECT_CONTACTS_TITLE" = "تحديد جهات اتصال";
 "ALL_CONTACTS_CONTAINERS_LABEL" = "كل المحتويات";
 "SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "حدد محتوى جهة الاتصال";
 "SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "المحتويات يمكن أن تكون من النوع المحلي، أو النوع التبادلي، أو CardDAV. نوع محتوى iCloud الخاص بك هو CardDAV.";
-"PHONE_NUMBERS_FOOTER" = "سيتم استخدام الرقم المحدد للمزامنة، اعرف المزيد من صفحة دليل المستخدم.";
+
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "حذف الصور";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "سيؤدي هذا إلى حذف كل صور جهات اتصالك";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "حذف كل الصور";
 
 "NO_PHOTO_TEXT" = "لا توجد\nصورة";
-
+"PHONE_NUMBERS_FOOTER" = "سيتم استخدام الرقم المحدد للمزامنة، اعرف المزيد من صفحة دليل المستخدم.";
 "SYNC_PHOTO_TO_CONTACT_BUTTON" = "مزامنة الصورة لجهة الاتصال";
 "DELETE_CONTACT_PHOTO_BUTTON" = "حذف صورة جهة الاتصال";
 
@@ -88,7 +99,6 @@
 
 "WHATSAPP" = "واتساب";
 "CONTACT" = "جهة الاتصال";
-"CONTACTS" = "جهات الاتصال";
 "LOADING" = "جارِ التحميل";
 "OKAY" = "حسنًا";
 "CANCEL" = "إلغاء";

@@ -67,20 +67,32 @@
 
 "USER_GUIDE_LABEL" = "Guía de Usuario";
 
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Sync Process";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "If you have a large number of contacts, the first sync might take more than 1-2 minutes especially if 'Download High Res Pictures' enabled. The second sync will only update the contacts with a new profile picture on WhatsApp.";
+
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Sync Error";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "If you get an error after syncing, this usually happens because of some limitation in contactsd (process that handles Contacts framework) not allowing us to update a large number of contacts in a short period of time. A reboot or respring usually fix this problem.";
+
+
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Contacto con Múltiples Números";
 "USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Al sincronizar, el número con foto de perfil se usará.Si 2 o más números con fotos de perfil están disponibles, se usará uno aleatorio.\n\nPuedes seleccionar un número desde la página 'Mis Contactos' para usarlo al sincronizar el contacto.";
 
 /* Contacts Page */
 
 "MY_CONTACTS_TITLE" = "Mis Contactos";
+"CONTACTS_COUNT_SINGULAR_LABEL" = "Contacto";
+"CONTACTS_COUNT_PLURAL_LABEL" = "Contactos";
 "SELECT_CONTACTS_TITLE" = "Seleccionar Contactos";
 "ALL_CONTACTS_CONTAINERS_LABEL" = "Todos los Grupos";
 "SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Seleccionar un Grupo de Contactos";
 "SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Los Grupos de contactos pueden ser de tipo  Local, Exchange o CardDAV. Tu grupo de iCloud es un CardDAV.";
-"PHONE_NUMBERS_FOOTER" = "El número seleccionado se usará para la sincronización, lee más en la. Página de guía de usuario.";
+
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Delete Pictures";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "This will delete all your contacts pictures";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Delete All Pictures";
 
 "NO_PHOTO_TEXT" = "NSin\nFoto";
-
+"PHONE_NUMBERS_FOOTER" = "El número seleccionado se usará para la sincronización, lee más en la. Página de guía de usuario.";
 "SYNC_PHOTO_TO_CONTACT_BUTTON" = "Sincronizar Foto al Contacto";
 "DELETE_CONTACT_PHOTO_BUTTON" = "Borrar Foto de Contacto";
 
@@ -88,7 +100,6 @@
 
 "WHATSAPP" = "WhatsApp";
 "CONTACT" = "Contacto";
-"CONTACTS" = "Contactos";
 "LOADING" = "Cargando...";
 "OKAY" = "Okay";
 "CANCEL" = "Cancelar";
