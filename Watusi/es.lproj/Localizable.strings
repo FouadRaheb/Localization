@@ -58,11 +58,14 @@
 "HIDE_CALL_MUTE_LABEL" = "Ocultar Llamada Silenciada";
 
 "DISABLE_VOIP_LABEL" = "Bloquear llamadas entrantes";
-"DISABLE_VOIP_DESC" = "Las llamadas bloqueadas no mostrarán el mensaje "Llamada" de la persona que llama";
+"DISABLE_VOIP_DESC" = "Las llamadas bloqueadas no mostrarán el mensaje 'Llamada' de la persona que llama";
 "DISABLE_VOIP_FILTER_LABEL" = "Bloquear llamadas de";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Todos";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
 "DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Números sin Guardar";
 "DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Contactos Seleccionados";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Blocked Contacts";
+"DISABLE_VOIP_WHITELIST_LABEL" = "Allowed Contacts";
 
 
 /* Status Addons */
@@ -71,6 +74,9 @@
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar el botón de descarga";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Agregar un botón en la parte inferior derecha de los estados para descargarlo.";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Download";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Mark as Viewed";
 
 "STATUS_CAPTION_COPY" = "Copiar Subtítulo";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Subtitulo copiado al portapapeles";
@@ -120,7 +126,7 @@
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Dividir Videos Largos";
 "STATUS_SPLIT_VIDEO_DESC" = "Al cargar un video a su estado, WhatsApp solo permite videos de 30 segundos, esta función dividirá automáticamente videos más largos en múltiples estados recortados en el momento adecuado para reproducirlos consecutivamente.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "No se admiten videos de más de 10 minutos.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "No se admiten videos de más de 15 minutos.";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desactivar auto avance al siguiente estado.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desactivar auto avance";

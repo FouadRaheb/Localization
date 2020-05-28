@@ -60,9 +60,12 @@
 "DISABLE_VOIP_LABEL" = "حظر المكالمات الواردة";
 "DISABLE_VOIP_DESC" = "المكالمات المحظورة لن تعرض رسالة 'رنين' للمتصل.";
 "DISABLE_VOIP_FILTER_LABEL" = "حظر المكالمات من";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "الكل";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "كل جهات الاتصال";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "كل جهات الاتصال ماعدا";
 "DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "الأرقام غير المحفوظة";
 "DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "جهات الاتصال المحددة";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "جهات الاتصال المحظورة";
+"DISABLE_VOIP_WHITELIST_LABEL" = "جهات الاتصال المسموح بها";
 
 
 /* Status Addons */
@@ -71,6 +74,9 @@
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "تحميل";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "تمييز كمُشاهَد";
 
 "STATUS_CAPTION_COPY" = "نسخ النص";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "تم نسخ النص إلى الحافظة";
@@ -120,7 +126,7 @@
 
 "STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
 "STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "الفيديوهات التي تزيد مدتها عن ١٠ دقائق غير مدعومة";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "الفيديوهات التي تزيد مدتها عن ١٥ دقائق غير مدعومة";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";

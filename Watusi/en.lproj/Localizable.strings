@@ -60,9 +60,12 @@
 "DISABLE_VOIP_LABEL" = "Block Incoming Calls";
 "DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
 "DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Everyone";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
 "DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
 "DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Blocked Contacts";
+"DISABLE_VOIP_WHITELIST_LABEL" = "Allowed Contacts";
 
 
 /* Status Addons */
@@ -71,6 +74,9 @@
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Show Download Button";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Add a button on bottom right of statuses in order to download it.";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Download";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Mark as Viewed";
 
 "STATUS_CAPTION_COPY" = "Copy Caption";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
@@ -120,7 +126,7 @@
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
 "STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 10 minutes are not supported";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 15 minutes are not supported";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Disable auto advance to next status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Disable Auto Advance";

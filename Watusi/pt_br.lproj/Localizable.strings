@@ -44,7 +44,7 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "Desativar recibos de entrega";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Atenção! A ativação desse recurso causará um atraso nas mensagens, porque o servidor WhatsApp deixará de enviar novas mensagens se você tiver muitas mensagens pendentes no servidor esperando para ser marcado como entregue. Não é possível consertar isso, pois o servidor é de um lado só";
 
-"DISABLE_INTERNET_CONNECTION_DESC" = "Acesso a  internet desabilitado dentro WhatsApp você não será capaz de enviar/receber mensagens o WhatsApp não será capaz de enviar/receber dados de/para o servidor. Você também pode ativar/desativar esse recurso a partir do dispositivo Central de Controle.";
+"DISABLE_INTERNET_CONNECTION_DESC" = "Acesso a internet desabilitado dentro WhatsApp você não será capaz de enviar/receber mensagens o WhatsApp não será capaz de enviar/receber dados de/para o servidor. Você também pode ativar/desativar esse recurso a partir do dispositivo Central de Controle.";
 "DISABLE_INTERNET_CONNECTION_LABEL" = "Desabilitar Acesso a Internet";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "Auto configurar o Último Visto para 'Ninguém' quando o WhatsApp estiver em plano de fundo e configurar de volta para 'Meus Contatos' quando você abrir o WhatsApp";
@@ -60,9 +60,12 @@
 "DISABLE_VOIP_LABEL" = "Bloquear chamadas recebidas";
 "DISABLE_VOIP_DESC" = "As chamadas bloqueadas não mostrarão a mensagem 'Tocando' do chamador";
 "DISABLE_VOIP_FILTER_LABEL" = "Bloquear Ligações de";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Todos";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
 "DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Números não salvos";
 "DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selecionar Contatos";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Blocked Contacts";
+"DISABLE_VOIP_WHITELIST_LABEL" = "Allowed Contacts";
 
 
 /* Status Addons */
@@ -71,6 +74,9 @@
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar botão de Download";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Adicione um botão na parte inferior direita dos status para fazer o download.";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Download";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Mark as Viewed";
 
 "STATUS_CAPTION_COPY" = "Copiar legenda";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Legenda copiada para a área de transferência";
@@ -120,7 +126,7 @@
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Dividir Vídeos Longos";
 "STATUS_SPLIT_VIDEO_DESC" = "Ao enviar um vídeo para o seu status, o WhatsApp permite vídeos de apenas 30 segundos, esse recurso dividirá automaticamente vídeos mais longos em vários status aparados no momento certo para serem reproduzidos consecutivamente.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Vídeos com mais de 10 minutos não são suportados";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Vídeos com mais de 15 minutos não são suportados";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desative o avanço automático para o próximo status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desativar Avanço Automático";
