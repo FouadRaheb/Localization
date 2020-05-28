@@ -60,12 +60,12 @@
 "DISABLE_VOIP_LABEL" = "Bloquear chamadas recebidas";
 "DISABLE_VOIP_DESC" = "As chamadas bloqueadas não mostrarão a mensagem 'Tocando' do chamador";
 "DISABLE_VOIP_FILTER_LABEL" = "Bloquear Ligações de";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
-"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Todos os contatos";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Todos, exceto..";
 "DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Números não salvos";
 "DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selecionar Contatos";
-"DISABLE_VOIP_BLACKLIST_LABEL" = "Blocked Contacts";
-"DISABLE_VOIP_WHITELIST_LABEL" = "Allowed Contacts";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Contatos Bloqueados";
+"DISABLE_VOIP_WHITELIST_LABEL" = "Contatos Permitidos";
 
 
 /* Status Addons */
@@ -76,7 +76,7 @@
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Adicione um botão na parte inferior direita dos status para fazer o download.";
 
 "STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Download";
-"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Mark as Viewed";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Marcar como visto";
 
 "STATUS_CAPTION_COPY" = "Copiar legenda";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Legenda copiada para a área de transferência";
