@@ -73,7 +73,6 @@
 "USER_GUIDE_SYNC_ERROR_TITLE" = "Sync Error";
 "USER_GUIDE_SYNC_ERROR_DETAIL" = "If you get an error after syncing, this usually happens because of some limitation in contactsd (process that handles Contacts framework) not allowing us to update a large number of contacts in a short period of time. A reboot or respring usually fix this problem.";
 
-
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Contacto con Múltiples Números";
 "USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Al sincronizar, el número con foto de perfil se usará.Si 2 o más números con fotos de perfil están disponibles, se usará uno aleatorio.\n\nPuedes seleccionar un número desde la página 'Mis Contactos' para usarlo al sincronizar el contacto.";
 
