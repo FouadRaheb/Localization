@@ -111,7 +111,7 @@
 "MEDIA_BACKUP_FOOTER" = "Exportiere die mit deinen Kontakten gespeicherten Updates auf deinem PC und importiere sie jederzeit wieder.";
 
 "BACKUP_IMPORT_ALERT_TITLE" = "Medien importieren";
-"BACKUP_IMPORT_ALERT_MESSAGE" = "Importiere eine ZIP-Datei, um Medien wiederherzustellen. Die ZIP-Datei sollte dieselbe Struktur wie die exportierten ZIP-Dateien haben.\nSie kann 2 Ordner enthalten (Profile) und/oder (Status). Wenn jeder Ordner einen Ordner mit seiner WhatsApp-ID enthält, sollten auch die Dateinamen das richtige Format haben)";
+"BACKUP_IMPORT_ALERT_MESSAGE" = "Importiere eine ZIP-Datei, um Medien wiederherzustellen. Die ZIP-Datei sollte dieselbe Struktur wie die exportierten ZIP-Dateien haben.\nSie kann 2 Ordner enthalten (Profiles) und/oder (Statuses). Wenn jeder Ordner einen Ordner mit seiner WhatsApp-ID enthält, sollten auch die Dateinamen das richtige Format haben)";
 "BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Import vom WebServer";
 "BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Aus Dateien importieren";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Öffne %@ auf deinem PC und lade die ZIP-Datei hoch.\nDie Datei wird nach dem Hochladen automatisch erkannt.";
