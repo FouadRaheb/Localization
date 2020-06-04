@@ -1,0 +1,107 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "Meine Kontakte";
+
+"SYNC_NOW_BUTTON" = "Jetzt synchronisieren";
+"SYNCING_LABEL" = "Synchronisieren...";
+"LAST_SYNC_LABEL" = "Letzte Synchronisierung";
+"LAST_SYNC_NEVER" = "Niemals";
+"LAST_SYNC_ERROR" = "Fehler";
+
+"AUTO_SYNC_LABEL" = "Automatische Synchronisierung";
+"AUTO_SYNC_OFF" = "Aus";
+"AUTO_SYNC_INSTANT" = "Sofort";
+"AUTO_SYNC_DAILY" = "Täglich";
+"AUTO_SYNC_WEEKLY" = "Wöchentlich";
+"AUTO_SYNC_MONTHLY" = "Monatlich";
+"AUTO_SYNC_FOOTER" = "Die sofortige Synchronisierung wird für jeden Kontakt einzeln ausgeführt, wenn sich sein WhatsApp-Profilbild ändert.\n\nTäglich/Wöchentlich/Monatlich wird eine vollständige Synchronisierung durchgeführt, wenn du WhatsApp in der ausgewählten Frequenz öffnest.\n\nAlle Auto-Sync-Typen berücksichtigen deine ausgewählten oder ausgeschlossenen Kontakte.";
+
+"CONTACTS_TO_SYNC_LABEL" = "Zu synchronisierende Kontakte";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Alle Kontakte";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Alle außer...";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Ausgewählte Kontakte...";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Ausgeschlossene Kontakte";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Ausgewählte Kontakte";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Dadurch werden hochauflösende Profilbilder deiner Kontakte heruntergeladen und fpr die Synchronisierung verwendet. Wenn deaktiviert, werden die Miniaturbilder deiner Kontakte verwendet.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Hochauflösende Bilder herunterladen";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Dadurch wird das vorhandene Foto deines Kontakts entfernt, wenn auf WhatsApp kein Profilfoto (mehr) vorhanden ist";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Foto entfernen falls gelöscht";
+
+"RELAUNCH_ALERT_BUTTON" = "Neu starten";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Starte WhatsApp neu, um deine Lizenz zu aktivieren";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Starte Whatsapp neu, um die Änderungen zu übernehmen";
+"ACTIVATE_FOOTER_MESSAGE" = "Du musst dich mit deinem Konto anmelden und eine Lizent kaufen, um die Tweak Funktionen zu aktivieren.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Entwickler";
+"CONTRIBUTE_LABEL" = "Spenden";
+
+"SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Support";
+"CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
+"VERSIONS_TITLE" = "Versionen";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Accountverwaltung";
+
+"SETTINGS_SECTION_TITLE" = "Einstellungen";
+"SETTINGS_EXPORT_LABEL" = "Einstellungen exportieren";
+"SETTINGS_IMPORT_LABEL" = "Einstellungen importieren";
+"SETTINGS_RESET_LABEL" = "Einstellungen zurücksetzen";
+
+"SETTINGS_RESET_ALERT_TITLE" = "Einstellungen zurücksetzen";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Dadurch werden deine aktuellen Einstellungen gelöscht. Du kannst diese Aktion nicht rückgängig machen.";
+"SETTINGS_RESET_ALERT_BUTTON" = "Zurücksetzen";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "Einstellungen importieren";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Dies wird deine aktuellen Einstellungen ersetzen. Du kannst diese Aktion nicht rückgängig machen.";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "Import";
+
+"SETTINGS_EXPORT" = "Dies wird deine aktuellen Einstellungen ersetzen. Du kannst diese Aktion nicht rückgängig machen.";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "Benutzerhandbuch";
+
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Synchronisierungsprozess";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "Wenn du eine große Anzahl von Kontakten hast, kann die erste Synchronisierung länger als 1-2 Minuten dauern, insbesondere wenn du die Funktion zum Downlaod von hochauflösenden Bildern aktiviert hast. Bei der zweiten Synchronisierung werden nur die Kontakte mit einem neuen Profilbild auf WhatsApp aktualisiert.";
+
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Synchronisierungsfehler";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "Wenn nach der Synchronisierung ein Fehler auftritt, geschieht dies normalerweise aufgrund einer Einschränkung in Contactsd (Prozess, der das Kontakt-Framework verwaltet) die uns nicht erlaubt, eine große Anzahl von Kontakten in kurzer Zeit zu aktualisieren. Ein Neustart oder Respring löst dieses Problem meistens.";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Kontakt mit mehreren Nummern";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Bei der Synchronisierung wird die Nummer mit einem verfügbaren Profilbild verwendet, wenn 2 oder mehr Nummern mit Profilbildern verfügbar sind, wird eine zufälliges verwendet.\nDu kannst eine Nummer auf der Seite 'Meine Kontakte' auswählen, um sie beim Synchronisieren des Kontakts zu verwenden.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "Meine Kontakte";
+"CONTACTS_COUNT_SINGULAR_LABEL" = "Kontakt";
+"CONTACTS_COUNT_PLURAL_LABEL" = "Kontakte";
+"SELECT_CONTACTS_TITLE" = "Kontakte auswählen";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Alle Container";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Wähle einen Kontakt-Container aus";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Container können vom Typ Local, Exchange oder CardDAV sein. Dein iCloud-Containertyp ist ein CardDAV.";
+
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Fotos löschen";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "Dadurch werden alle deine Kontaktbilder gelöscht.";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Alle Fotos löschen";
+
+"NO_PHOTO_TEXT" = "Kein\nFoto";
+"PHONE_NUMBERS_FOOTER" = "Die ausgewählte Nummer wird für die Synchronisierung verwendet. Weitere Informationen sind auf der Benutzerhandbuchseite.";
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Foto mit Kontakt synchronisieren";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Kontaktfoto löschen";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "WhatsApp";
+"CONTACT" = "Kontakt";
+"LOADING" = "Laden...";
+"OKAY" = "Okay";
+"CANCEL" = "Abbrechen";
+"RELAUNCH" = "Neu starten";
+"DELETE" = "Löschen";
+"ALL" = "Alle";
