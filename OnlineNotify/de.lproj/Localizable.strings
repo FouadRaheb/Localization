@@ -20,7 +20,7 @@
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Gruppen Benachrichtigungen";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Erhalte Benachrichtigungen wenn Mitglieder in Gruppen Schreiben, Aufzeichnen und Lesen.";
-"GROUPS_TYPING_NOTIFICATION_LABEL" = "'Schreibt...' Benachrichtigungen;
+"GROUPS_TYPING_NOTIFICATION_LABEL" = "'Schreibt...' Benachrichtigungen";
 "GROUPS_RECORDING_NOTIFICATION_LABEL" = "Nimmt Sprachaufnahme auf Benachrichtigung";
 "GROUPS_READ_MESSAGE_NOTIFICATION_LABEL" = "'Gelesen' Benachrichtigung";
 
@@ -44,7 +44,7 @@
 "NOTIFICATION_SOUND_DESCRIPTION" = "Wähle einen Ton für Benachrichtigungen aus.";
 
 "NOTIFICATION_STYLE_LABEL" = "Benachrichtigungsstil";
-"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Stil;
+"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Stil";
 "NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Status Bar";
 "NOTIFICATION_STYLE_SYSTEM_LABEL" = "System";
 
