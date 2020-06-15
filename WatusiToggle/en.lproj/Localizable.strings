@@ -1,22 +1,22 @@
 /* Toggles */
 
-"LAST_SEEN" = "Last Seen";
-"READ_RECEIPTS" = "Read Receipts";
-"DELIVERY_RECEIPTS" = "Delivery Receipts";
-"DISABLE_INTERNET" = "Disable Internet";
-"BLOCK_CALLS" = "Block Calls";
-"AUTO_REPLY" = "Auto Reply";
-"HIDE_CHATS" = "Hide Chats";
+"LAST_SEEN" = "Visto pela última vez";
+"READ_RECEIPTS" = "Ler recibos";
+"DELIVERY_RECEIPTS" = "Recibos de entrega";
+"DISABLE_INTERNET" = "Desativar Internet";
+"BLOCK_CALLS" = "Bloquear Ligações";
+"AUTO_REPLY" = "Resposta Automática";
+"HIDE_CHATS" = "Ocultar Chats";
 
 /* Settings */
 
-"ACTIVE_TOGGLES_LABEL" = "Active Toggles";
-"ACTIVE_TOGGLES_FOOTER" = "Add and organize additional toggles to appear in Control Center";
-"DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "Disable When Passcode Locked";
-"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Disable access to the toggles when the device is passcode locked";
+"ACTIVE_TOGGLES_LABEL" = "Alternâncias ativas";
+"ACTIVE_TOGGLES_FOOTER" = "Adicione e organize alternâncias adicionais para aparecer na Central de Controle";
+"DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "Desativar quando o código de acesso está bloqueado";
+"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Desabilitar o acesso às alternâncias quando o dispositivo estiver com a senha bloqueada";
 "RESPRING_BUTTON" = "Respring";
-"RESPRING_FOOTER" = "A respring is required to apply changes";
-"TOGGLES_PAGE_TITLE" = "Toggles";
-"ACTIVE_SECTION_HEADER" = "Active";
-"DISABLED_SECTION_HEADER" = "Disabled";
-"ACTIVE_SECTION_FOOTER" = "A maximum number of 6 toggles can show in your control center";
+"RESPRING_FOOTER" = "Uma respring é necessária para aplicar as alterações";
+"TOGGLES_PAGE_TITLE" = "Alternar";
+"ACTIVE_SECTION_HEADER" = "Ativo";
+"DISABLED_SECTION_HEADER" = "Desativado";
+"ACTIVE_SECTION_FOOTER" = "Um número máximo de 6 alternadores pode aparecer em seu centro de controle";
