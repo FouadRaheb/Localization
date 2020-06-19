@@ -689,7 +689,7 @@
 /* Support Section */
 
 "SUPPORT_SECTION_TITLE" = "Suporte";
-"HELP_AND_SUPPORT_LABEL" = "Help & Support";
+"HELP_AND_SUPPORT_LABEL" = "Ajuda e Suporte";
 
 "HELP_LABEL" = "Help";
 "CONTACT_SUPPORT_LABEL" = "Contatar Suporte";
@@ -708,23 +708,23 @@
 
 /* Help */
 
-"ALL_SECTION_SHORT_TITLE" = "All";
+"ALL_SECTION_SHORT_TITLE" = "Todos";
 
 "FAQ_SECTION_SHORT_TITLE" = "FAQs";
 "HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "How to enable Control Center toggles?";
-"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "CCSupport package is required to load 3rd party modules into your Control Center, you can then go into your Control Center settings and add Watusi to your active toggles and customize the toggles in it.";
-"HOW_TO_REMOVE_ADS_TITLE" = "How to remove advertisments?";
-"HOW_TO_REMOVE_ADS_CONTENT" = "You have to go into Watusi settings > Accounts & Ad Removal > Create/Login with your account, and you'll see an option to purchase a license which will remove the advertisments.";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "O pacote CCSupport é necessário para carregar módulos de terceiros no seu Centro de Controle, você pode acessar as configurações do Centro de Controle e adicionar Watusi às suas opções ativas e personalizar as opções nele.";
+"HOW_TO_REMOVE_ADS_TITLE" = "Como remover anúncios?";
+"HOW_TO_REMOVE_ADS_CONTENT" = "Você deve acessar as configurações do Watusi> Contas e remoção de anúncios> Criar / fazer login com sua conta e verá uma opção para comprar uma licença que removerá os anúncios.";
 
-"LICENSE_SECTION_SHORT_TITLE" = "License";
-"MAX_DEVICES_TITLE" = "How many devices I can activate my license on?";
-"MAX_DEVICES_CONTENT" = "You can use your account on 3 WhatsApp applications at the same time, you can manage your devices from your account page.";
+"LICENSE_SECTION_SHORT_TITLE" = "Licença";
+"MAX_DEVICES_TITLE" = "Em quantos dispositivos posso ativar minha licença?";
+"MAX_DEVICES_CONTENT" = "Você pode usar sua conta em três aplicativos do WhatsApp ao mesmo tempo, gerenciar seus dispositivos na página da sua conta.";
 
-"ISSUES_SECTION_SHORT_TITLE" = "Issues";
-"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Why I can't see my contacts last seen?";
-"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "If you freeze your last seen, you will not be able to view your contacts' last seen or online status because WhatsApp server requires a user to be online when requesting a last seen and freezing your last seen stops sending your online status to the server.";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Unable to send and receive messages?";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "This issue might be from \"Disable Delivery Receipts\" feature, WhatsApp server will stop receving/sending your new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.";
+"ISSUES_SECTION_SHORT_TITLE" = "Problemas";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Por que não consigo ver meus contatos vistos pela última vez?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Se você congelar a última vez que viu, não poderá ver o status da última vez que está online ou visto, porque o servidor do WhatsApp exige que o usuário esteja online ao solicitar uma última vista e congelar a última vista para de enviar seu status online para o servidor.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Não foi possível enviar e receber mensagens?";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Esse problema pode ser do recurso "Desativar recibos de entrega", o servidor do WhatsApp interromperá o recebimento / envio de novas mensagens se houver muitas mensagens pendentes no servidor aguardando para serem marcadas como entregues. Não é possível consertar isso desde o lado do servidor.";
 
 
 /* Promo Code */
