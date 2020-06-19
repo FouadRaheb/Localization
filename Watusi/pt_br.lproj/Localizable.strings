@@ -138,10 +138,10 @@
 
 "CHATS_ADDONS_LABEL" = "Complementos para o Chat";
 
-"CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
-"CONTINUED_AUDIO_MESSAGES_DESC" = "When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.";
-"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
-"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Mensagens de áudio continuadas";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "Quando você estiver reproduzindo uma mensagem de áudio, poderá sair do bate-papo e continuar ouvindo a mensagem. Você também verá uma pequena barra no topo dos bate-papos e da lista de bate-papos na qual é possível controlar a mensagem de áudio.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Mensagem de áudio";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Mensagem de Voz";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Desativar Tempo de Revogação";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Desativar Tempo de Revogação de 7 minutos do Whatsapp";
@@ -635,7 +635,7 @@
 
 /* Other Settings Section */
 
-"OTHER_SETTINGS_LABEL" = "Other Settings";
+"OTHER_SETTINGS_LABEL" = "Outros ajustes";
 
 "UPDATES_SECTION_TITLE" = "Atualizações";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Verificação automática de atualizações";
@@ -691,7 +691,7 @@
 "SUPPORT_SECTION_TITLE" = "Suporte";
 "HELP_AND_SUPPORT_LABEL" = "Ajuda e Suporte";
 
-"HELP_LABEL" = "Help";
+"HELP_LABEL" = "Ajuda";
 "CONTACT_SUPPORT_LABEL" = "Contatar Suporte";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Conta e Remoção de Anúncios";
@@ -711,7 +711,7 @@
 "ALL_SECTION_SHORT_TITLE" = "Todos";
 
 "FAQ_SECTION_SHORT_TITLE" = "FAQs";
-"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "How to enable Control Center toggles?";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "Como ativar as alternâncias do Centro de Controle?";
 "HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "O pacote CCSupport é necessário para carregar módulos de terceiros no seu Centro de Controle, você pode acessar as configurações do Centro de Controle e adicionar Watusi às suas opções ativas e personalizar as opções nele.";
 "HOW_TO_REMOVE_ADS_TITLE" = "Como remover anúncios?";
 "HOW_TO_REMOVE_ADS_CONTENT" = "Você deve acessar as configurações do Watusi> Contas e remoção de anúncios> Criar / fazer login com sua conta e verá uma opção para comprar uma licença que removerá os anúncios.";
