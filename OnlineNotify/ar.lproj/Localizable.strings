@@ -34,17 +34,17 @@
 
 /* Notifications Settings */
 
-"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "تخصيص شكل الإشعارات والصوت";
+"NOTIFICATIONS_SETTINGS_SECTION_DESCRIPTION" = "تخصيص شكل الإشعارات والصوت.";
 "NOTIFICATIONS_SETTINGS_LABEL" = "إعدادات الإشعارات";
 
 "SHOW_TEST_NOTIFICATION" = "عرض إشعار كمثال";
 "TEST_NOTIFICATION_MESSAGE" = "مثال على رسالة الإشعار";
 
 "NOTIFICATION_SOUND_LABEL" = "صوت الإشعارات";
-"NOTIFICATION_SOUND_DESCRIPTION" = "اختر صوت للإشعارات";
+"NOTIFICATION_SOUND_DESCRIPTION" = "اختر صوت للإشعارات.";
 
 "NOTIFICATION_STYLE_LABEL" = "شكل الإشعارات";
-"NOTIFICATION_STYLE_DESCRIPTION" = "شكل شعار الإشعارات داخل التطبيق";
+"NOTIFICATION_STYLE_DESCRIPTION" = "شكل شعار الإشعارات داخل التطبيق.";
 "NOTIFICATION_STYLE_STATUSBAR_LABEL" = "شريط الحالة";
 "NOTIFICATION_STYLE_SYSTEM_LABEL" = "النظام";
 

@@ -665,7 +665,7 @@
 "IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "O arquivo selecionado não é um arquivo ZIP válido";
 "IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Alguns arquivos não foram importados porque não era um PLIST válido";
 
-"RESET_SETTINGS_LABEL" = "Redefinir Configurações ";
+"RESET_SETTINGS_LABEL" = "Redefinir Configurações";
 "RESET_SETTINGS_ALL_DATA_FOOTER" = "Redefina todas as suas configurações do Watusi";
 "RESET_SETTINGS_FILES_FOOTER" = "Redefinir apenas configurações específicas";
 "RESET_SETTINGS_BUTTON" = "Redefinir";
@@ -724,7 +724,7 @@
 "CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Por que não consigo ver meus contatos vistos pela última vez?";
 "CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Se você congelar a última vez que viu, não poderá ver o status da última vez que está online ou visto, porque o servidor do WhatsApp exige que o usuário esteja online ao solicitar uma última vista e congelar a última vista para de enviar seu status online para o servidor.";
 "UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Não foi possível enviar e receber mensagens?";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Esse problema pode ser do recurso "Desativar recibos de entrega", o servidor do WhatsApp interromperá o recebimento / envio de novas mensagens se houver muitas mensagens pendentes no servidor aguardando para serem marcadas como entregues. Não é possível consertar isso desde o lado do servidor.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Esse problema pode ser do recurso \"Desativar recibos de entrega\", o servidor do WhatsApp interromperá o recebimento / envio de novas mensagens se houver muitas mensagens pendentes no servidor aguardando para serem marcadas como entregues. Não é possível consertar isso desde o lado do servidor.";
 
 
 /* Promo Code */
