@@ -138,6 +138,11 @@
 
 "CHATS_ADDONS_LABEL" = "Sohbet Eklentileri";
 
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
+
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Mesaj İptal Zamanını Geçersiz Kıl";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "WhatsApp Mesaj İptal Etme Zamanını Geçersiz Kıl";
 
@@ -628,17 +633,10 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "URL'den ZIP çıkar";
 
 
-/* Support Section */
+/* Other Settings Section */
 
-"DEVELOPER_SECTION_HEADER" = "Geliştirici";
-"CONTRIBUTE_LABEL" = "Katkıda Bulun";
+"OTHER_SETTINGS_LABEL" = "Other Settings";
 
-"SUPPORT_SECTION_TITLE" = "Destek";
-"CONTACT_AND_MORE_LABEL" = "İletişim ve Fazlası";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Destek";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Destek";
-"CONTACT_SUPPORT_LABEL" = "Kişi Desteği";
-"VERSIONS_TITLE" = "Versiyonlar";
 "UPDATES_SECTION_TITLE" = "Güncellemeler";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Güncellemeler için Otomatik Kontrol Et";
 "CHECK_FOR_UPDATES_BUTTON" = "Güncellemeleri Kontrol Et";
@@ -681,6 +679,21 @@
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 "MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";
 
+
+/* Developer Section */
+
+"DEVELOPER_SECTION_HEADER" = "Geliştirici";
+"CONTRIBUTE_LABEL" = "Katkıda Bulun";
+
+
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "Destek";
+"HELP_AND_SUPPORT_LABEL" = "Help & Support";
+
+"HELP_LABEL" = "Help";
+"CONTACT_SUPPORT_LABEL" = "Kişi Desteği";
+
 "ACCOUNT_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
 "ACCOUNT" = "Hesap";
 "MANAGE_ACCOUNT" = "Hesabı Düzenle";
@@ -691,6 +704,27 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Reklamsız 2 gün için tweet at";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Watusi'yi satın almak için hesabınıza giriş yapın.";
 "LOADING" = "Yükleniyor...";
+
+
+/* Help */
+
+"ALL_SECTION_SHORT_TITLE" = "All";
+
+"FAQ_SECTION_SHORT_TITLE" = "FAQs";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "How to enable Control Center toggles?";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "CCSupport package is required to load 3rd party modules into your Control Center, you can then go into your Control Center settings and add Watusi to your active toggles and customize the toggles in it.";
+"HOW_TO_REMOVE_ADS_TITLE" = "How to remove advertisments?";
+"HOW_TO_REMOVE_ADS_CONTENT" = "You have to go into Watusi settings > Accounts & Ad Removal > Create/Login with your account, and you'll see an option to purchase a license which will remove the advertisments.";
+
+"LICENSE_SECTION_SHORT_TITLE" = "License";
+"MAX_DEVICES_TITLE" = "How many devices I can activate my license on?";
+"MAX_DEVICES_CONTENT" = "You can use your account on 3 WhatsApp applications at the same time, you can manage your devices from your account page.";
+
+"ISSUES_SECTION_SHORT_TITLE" = "Issues";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Why I can't see my contacts last seen?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "If you freeze your last seen, you will not be able to view your contacts' last seen or online status because WhatsApp server requires a user to be online when requesting a last seen and freezing your last seen stops sending your online status to the server.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Unable to send and receive messages?";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "This issue might be from \"Disable Delivery Receipts\" feature, WhatsApp server will stop receving/sending your new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.";
 
 
 /* Promo Code */

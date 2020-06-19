@@ -11,12 +11,12 @@
 /* Settings */
 
 "ACTIVE_TOGGLES_LABEL" = "تنشيط مفاتيح التبديل";
-"ACTIVE_TOGGLES_FOOTER" = "إضافة وتنظيم مفاتيح تبديل إضافية لتظهر في مركز التحكم";
+"ACTIVE_TOGGLES_FOOTER" = "إضافة وتنظيم مفاتيح تبديل إضافية لتظهر في مركز التحكم.";
 "DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "تعطيل عند قفل رمز الدخول";
-"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "تعطيل الوصول إلى مفاتيح التبديل عندما يكون الجهاز مقفلًا برمز الدخول";
+"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "تعطيل الوصول إلى مفاتيح التبديل عندما يكون الجهاز مقفلًا برمز الدخول.";
 "RESPRING_BUTTON" = "إعادة تشغيل سريع";
 "RESPRING_FOOTER" = "يتطلب إعادة تشغيل سريع لتطبيق التغييرات.";
 "TOGGLES_PAGE_TITLE" = "مفاتيح التبديل";
 "ACTIVE_SECTION_HEADER" = "النشطة";
 "DISABLED_SECTION_HEADER" = "المعطلة";
-"ACTIVE_SECTION_FOOTER" = "يمكن إظهار ٦ مفاتيح تبديل كحد أقصى في مركز التحكم الخاص بك";
+"ACTIVE_SECTION_FOOTER" = "يمكن إظهار ٦ مفاتيح تبديل كحد أقصى في مركز التحكم الخاص بك.";

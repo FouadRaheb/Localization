@@ -11,12 +11,12 @@
 /* Settings */
 
 "ACTIVE_TOGGLES_LABEL" = "Active Toggles";
-"ACTIVE_TOGGLES_FOOTER" = "Add and organize additional toggles to appear in Control Center";
+"ACTIVE_TOGGLES_FOOTER" = "Add and organize additional toggles to appear in Control Center.";
 "DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "Disable When Passcode Locked";
-"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Disable access to the toggles when the device is passcode locked";
+"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Disable access to the toggles when the device is passcode locked.";
 "RESPRING_BUTTON" = "Respring";
-"RESPRING_FOOTER" = "A respring is required to apply changes";
+"RESPRING_FOOTER" = "A respring is required to apply changes.";
 "TOGGLES_PAGE_TITLE" = "Toggles";
 "ACTIVE_SECTION_HEADER" = "Active";
 "DISABLED_SECTION_HEADER" = "Disabled";
-"ACTIVE_SECTION_FOOTER" = "A maximum number of 6 toggles can show in your control center";
+"ACTIVE_SECTION_FOOTER" = "A maximum number of 6 toggles can show in your control center.";

@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "بعد تعطيل مؤشر قراءة الرسائل، سترى أنت مؤشر قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا مؤشر قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل مؤشر قراءة الرسائل لجهات اتصال محددة عن طريق خيارات إظهار/عدم إظهار أو من خلال معلومات جهة الاتصال نفسها.";
 "NEVER_SEND_RECEIPTS_TO" = "عدم إظهار مؤشر قراءة الرسائل لـ";
 "FORCE_SEND_RECEIPTS_TO" = "إظهار مؤشر قراءة الرسائل لـ";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال إيصالات المقطع الصوتي";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال مؤشرات التسجيلات الصوتية";
 "FORCE_RECEIPTS_ON" = "إظهار المؤشرات على...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
 "FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
@@ -75,11 +75,11 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
 
-"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "تحميل";
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "تنزيل";
 "STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "تمييز كمُشاهَد";
 
-"STATUS_CAPTION_COPY" = "نسخ النص";
-"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "تم نسخ النص إلى الحافظة";
+"STATUS_CAPTION_COPY" = "نسخ الشرح";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "تم نسخ الشرح إلى الحافظة";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور إلى المكتبة";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "مشاركة الصورة";
@@ -137,6 +137,11 @@
 /* Chats Addons */
 
 "CHATS_ADDONS_LABEL" = "إضافات الدردشات";
+
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "استمرار الرسائل الصوتية";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "عندما تقوم بتشغيل رسالة صوتية، ستكون قادرًا على الخروج من الدردشة مع الاستمرار في استماع هذه الرسالة الصوتية. سترى شريطًا صغيرًا في أعلى المحادثة النشطة وفي أعلى قائمة الدردشات أيضًا، والذي من خلاله يمكنك التحكم بالرسالة الصوتية.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "تسجيل صوتي";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "رسالة صوتية";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد واتساب الزمني لحذف الرسائل.";
@@ -387,8 +392,8 @@
 "MY_NUMBER" = "رقمي:";
 "%zd_CONTACTS" = "%zd جهات الاتصال";
 
-"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الرمز التعبيري الكبير الذي يظهر عندما تحتوي الرسالة على رمز تعبيري واحد فقط أو اثنين فقط أو ثلاثة فقط.";
-"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الرمز التعبيري الكبير";
+"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الإيموجي الكبير الذي يظهر عندما تحتوي الرسالة على إيموجي واحد فقط أو اثنين فقط أو ثلاثة فقط.";
+"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الإيموجي الكبير";
 
 "SHOW_SECONDS_DESC" = "إضافة عدّاد الثواني في آخر ظهور/الرسائل وأي شيء يظهر فيه الوقت داخل تطبيق واتساب.";
 "SHOW_SECONDS_LABEL" = "إظهار الثواني";
@@ -628,17 +633,10 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "استيراد ZIP من عنوان URL";
 
 
-/* Support Section */
+/* Other Settings Section */
 
-"DEVELOPER_SECTION_HEADER" = "Developer";
-"CONTRIBUTE_LABEL" = "Contribute";
+"OTHER_SETTINGS_LABEL" = "إعدادات أخرى";
 
-"SUPPORT_SECTION_TITLE" = "الدعم";
-"CONTACT_AND_MORE_LABEL" = "التواصل والدعم وحول Watusi";
-"CONTACT_AND_MORE_PAGE_TITLE" = "الدعم";
-"CONTACT_SUPPORT_SECTION_TITLE" = "الدعم";
-"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
-"VERSIONS_TITLE" = "الإصدارات";
 "UPDATES_SECTION_TITLE" = "التحديثات";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "تحقق تلقائي من وجود تحديثات";
 "CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
@@ -681,6 +679,21 @@
 "TWEAK_LANGUAGE_AUTO_OPTION" = "تلقائي";
 "MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
 
+
+/* Developer Section */
+
+"DEVELOPER_SECTION_HEADER" = "المطور";
+"CONTRIBUTE_LABEL" = "المساهمة";
+
+
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "الدعم";
+"HELP_AND_SUPPORT_LABEL" = "المساعدة والدعم";
+
+"HELP_LABEL" = "المساعدة";
+"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
+
 "ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وإزالة الاعلانات";
 "ACCOUNT" = "الحساب";
 "MANAGE_ACCOUNT" = "إدارة الحساب";
@@ -692,6 +705,27 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "قم بتسجيل الدخول لتتمكن من شراء ترخيص Watusi";
 "LOADING" = "جارِ التحميل...";
 
+
+/* Help */
+
+"ALL_SECTION_SHORT_TITLE" = "الكل";
+
+"FAQ_SECTION_SHORT_TITLE" = "الأسئلة الشائعة";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "كيف يمكن تفعيل مفاتيح تبديل مركز التحكم؟";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "يتطلب حزمة CCSupport لتحميل وحدات الطرف الثالث في مركز التحكم الخاص بك، ويمكنك بعد ذلك الذهاب إلى إعدادات مركز التحكم وإضافة Watusi إلى مفاتيح التبديل النشطة خاصتك وتخصيصها من هناك.";
+"HOW_TO_REMOVE_ADS_TITLE" = "كيف يمكن إزالة الإعلانات؟";
+"HOW_TO_REMOVE_ADS_CONTENT" = "يجب عليك الذهاب إلى إعدادات Watusi > الحساب وإزالة الإعلانات > إنشاء/تسجيل الدخول بحسابك، وستجد خيارًا لشراء ترخيص إزالة الإعلانات.";
+ 
+"LICENSE_SECTION_SHORT_TITLE" = "الترخيص";
+"MAX_DEVICES_TITLE" = "كم عدد الأجهزة التي يمكنني تنشيط ترخيصي عليها؟";
+"MAX_DEVICES_CONTENT" = "يمكنك استخدام حسابك في ٣ تطبيقات واتساب في نفس الوقت، كما يمكنك إدارة أجهزتك من صفحة حسابك.";
+ 
+"ISSUES_SECTION_SHORT_TITLE" = "الأخطاء";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "لماذا لا يمكنني رؤية آخر ظهور لجهات اتصالي؟";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "إذا قمت بتجميد آخر ظهور الخاص بك لن تتمكن من عرض آخر ظهور لجهات اتصالك أو حالة اتصالهم أيضًا، وهذا بسبب أن خادم واتساب يطلب أن يكون المستخدم متصلًا عند طلب آخر ظهور، وتجميد آخر ظهور الخاص بك يتسبب في إيقاف إرسال حالة اتصالك إلى الخادم.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "لماذا أنا غير قادر على إرسال واستقبال الرسائل؟";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "قد يكون سبب هذه المشكلة هو ميزة \"تعطيل مؤشرات الوصول\"، لأنه بعد تفعيل هذه الميزة، سيتوقف خادم واتساب عن استقبال/إرسال رسائلك الجديدة إذا كان لديك الكثير من الرسائل المعلقة في الخادم في انتظار أن يتم تمييزها كمُستلمة. لا يمكن إصلاح هذا الأمر لأنه شيء متعلق بخادم واتساب وليس أداة Watusi.";
+ 
 
 /* Promo Code */
 
