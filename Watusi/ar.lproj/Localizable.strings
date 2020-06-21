@@ -237,6 +237,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "مقفلة في الأرشيف";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "هذه الدردشة مغلقة في الأرشيف.\nهل تريد فتح قفل هذه الدردشة وإلغاء أرشفتها؟";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل وإلغاء الأرشفة";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "قفل في الأرشيف";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "فتح القفل من الأرشيف";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "تثبيت أكثر من ٣ دردشات";
 "UNLIMITED_PINNED_CHATS_DESC" = "ستتمكن من تثبيت عدد لا نهائي من الدردشات.";

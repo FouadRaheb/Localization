@@ -237,6 +237,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "Arşivde Kilitli";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Bu sohbet arşivde kilitli.\nBu sohbetin kilidini kaldırmak ve arşivden çıkarmak mı istiyorsunuz?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Kilidi Aç & Arşivden Çıkar";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Sınırsız Sohbet Sabitle";
 "UNLIMITED_PINNED_CHATS_DESC" = "3'ten fazla sohbet sabitle";

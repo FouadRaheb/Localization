@@ -237,6 +237,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "Bloccata nell'archivio";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "La chat è bloccata nell'archivio.\nVorresti sbloccarla ed estrarla dall'archivio?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Sblocca ed estrai";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Messaggi fissati illimitati";
 "UNLIMITED_PINNED_CHATS_DESC" = "Permette di fissare più di 3 messaggi";

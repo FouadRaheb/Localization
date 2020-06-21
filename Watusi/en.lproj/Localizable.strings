@@ -237,6 +237,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "Locked in Archive";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "The chat is locked in archive.\nWould you like to unlock the chat from archive and unarchive it?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Unlock & Unarchive";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
 "UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
@@ -253,8 +255,8 @@
 "NEW_CHAT_OPTIONS_DESC" = "Tapping new chat button will show an alert with the option to enter a phone number to message on WhatsApp without creating a contact for it.";
 "NEW_CHAT_OPTIONS_LABEL" = "New Chat Options";
 "NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "Start a new chat";
-"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "Select a contact";
-"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "Enter number";
+"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "Select Contact";
+"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "Enter Phone Number";
 "NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "Enter contact number by adding country code followed by the phone number without any additional symbols";
 "NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "Open Chat";
 

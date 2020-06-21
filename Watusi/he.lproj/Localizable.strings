@@ -237,6 +237,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "נעולים בארכיון";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "הצ'אט נעול בארכיון/n האם תרצה לשחרר אותו ?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "בטל נעילה & שיחרור מהארכיון";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Unlimited Pinned Chats";
 "UNLIMITED_PINNED_CHATS_DESC" = "Pin more than 3 chats";
