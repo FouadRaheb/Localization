@@ -138,7 +138,7 @@
 
 "CHATS_ADDONS_LABEL" = "Complementos para o Chat";
 
-"CONTINUED_AUDIO_MESSAGES_LABEL" = "Mensagens de áudio continuadas";
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Mensagens de áudio continuas";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "Quando você estiver reproduzindo uma mensagem de áudio, poderá sair do bate-papo e continuar ouvindo a mensagem. Você também verá uma pequena barra no topo dos bate-papos e da lista de bate-papos na qual é possível controlar a mensagem de áudio.";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Mensagem de áudio";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Mensagem de Voz";
@@ -167,9 +167,9 @@
 "INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Limite de encaminhamento para contatos";
 "INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Aumenta o número limite de contatos ao encaminhar uma mensagem de 5 a 20. Este é usado para permitir encaminhar uma mensagem para um número ilimitado de contatos, mas o WhatsApp começou a verificar em seu servidor e eu desativei para proteger sua conta.";
 
-"CONFIRM_SENDING_STICKER_LABEL" = "Enviar Stickers";
+"CONFIRM_SENDING_STICKER_LABEL" = "Enviar figurinhas";
 "CONFIRM_SENDING_STICKER_DESC" = "Mostra um alerta de confirmação antes de enviar um sticker";
-"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Enviar figurinha";
 
 "CALL_CONFIRM_DESC" = "Receba um alerta de confirmação quando tocar em botões de chamadas de voz ou de vídeo, também pode escolher entre uma chamada do WhatsApp ou uma chamada de operadora normal.";
 "CALL_CONFIRM_LABEL" = "Confirmação de ligação";
@@ -681,8 +681,8 @@
 "TWEAK_LANGUAGE_LABEL" = "Idioma";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Automático";
 
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Atualizar configurações do Centro de Controle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "Por padrão, a alternância do Centro de Controle lê e atualiza as configurações do aplicativo principal do WhatsApp; ative esta opção se desejar atualizar as configurações desse aplicativo com a alternância do Centro de Controle..";
 
 
 /* Developer Section */
