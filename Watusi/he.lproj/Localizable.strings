@@ -169,6 +169,7 @@
 
 "CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
 "CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
 
 "CALL_CONFIRM_DESC" = "קבל התראת אישור בעת הקשה על חיוג לאיש קשר דרך הוואטסאפ";
 "CALL_CONFIRM_LABEL" = "אישור שיחות";
@@ -679,7 +680,9 @@
 
 "TWEAK_LANGUAGE_LABEL" = "Language";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
 
 
 /* Developer Section */
@@ -706,6 +709,8 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "צייץ בשביל 2 ימים ללא מודעות";
 "LOGIN_TO_PURCHASE_MESSAGE" = "אתה צריך להתחבר למשתמש שלך.";
 "LOADING" = "טוען...";
+
+"MORE_TWEAKS_TITLE" = "More Tweaks";
 
 
 /* Help */

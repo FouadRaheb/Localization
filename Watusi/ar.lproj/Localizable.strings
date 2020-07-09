@@ -111,7 +111,7 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "جهات الاتصال";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "مجموعة جديدة";
-"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "تحديث المجموعة";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "ادخل اسم المجموعة";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
@@ -169,6 +169,7 @@
 
 "CONFIRM_SENDING_STICKER_LABEL" = "تأكيد إرسال الملصقات";
 "CONFIRM_SENDING_STICKER_DESC" = "إظهار تنبيه بتأكيد إرسال الملصق قبل إرساله.";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "إرسال الملصق";
 
 "CALL_CONFIRM_DESC" = "الحصول على تنبيه بالتأكيد عند الضغط على أزرار الاتصال (الصوتي أو الفيديو)، كما يمكنك الاختيار بين مكالمة واتساب ومكالمة عادية.";
 "CALL_CONFIRM_LABEL" = "تأكيد الاتصال";
@@ -679,7 +680,9 @@
 
 "TWEAK_LANGUAGE_LABEL" = "اللغة";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "تلقائي";
-"MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "تحديث الإعدادات من مفاتيح تبديل مركز التحكم";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "افتراضيًا، مفاتيح تبديل مركز التحكم تقرأ وتحدث إعدادات تطبيق واتساب الرئيسي فقط. قم بتفعيل هذا الخيار إذا كنت تريد تحديث إعدادات هذا التطبيق من مفاتيح تبديل مركز التحكم.";
 
 
 /* Developer Section */
@@ -706,6 +709,8 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "التغريد للحصول على يومين بدون إعلانات";
 "LOGIN_TO_PURCHASE_MESSAGE" = "قم بتسجيل الدخول لتتمكن من شراء ترخيص Watusi";
 "LOADING" = "جارِ التحميل...";
+
+"MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
 
 
 /* Help */

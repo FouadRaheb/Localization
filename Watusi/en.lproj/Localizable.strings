@@ -169,6 +169,7 @@
 
 "CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
 "CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
 
 "CALL_CONFIRM_DESC" = "Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.";
 "CALL_CONFIRM_LABEL" = "Call Confirm";
@@ -679,7 +680,9 @@
 
 "TWEAK_LANGUAGE_LABEL" = "Language";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Auto";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
 
 
 /* Developer Section */
@@ -706,6 +709,8 @@
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweet for 2 days ad-free";
 "LOGIN_TO_PURCHASE_MESSAGE" = "You have to login with your account in order to purchase Watusi.";
 "LOADING" = "Loading...";
+
+"MORE_TWEAKS_TITLE" = "More Tweaks";
 
 
 /* Help */

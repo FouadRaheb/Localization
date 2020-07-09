@@ -1,4 +1,4 @@
-/* Preferences */
+ /* Preferences */
 
 "WATUSI_PREFERENCES_LABEL" = "Watusi Ayarları";
 "DEBUG_MENU" = "Hata Ayıklama Menüsü";
@@ -31,7 +31,7 @@
 "NEVER_SEND_RECORDING_TO" = "Asla Kaydediyor Göstergesi Gönderme...";
 "FORCE_SEND_RECORDING_TO" = "Zorla Kaydediyor Göstergesi Gönder...";
 
-"WHITELIST" = "Güvenli Liste";
+"WHITELIST" = "İzin Verilenler";
 "BLACKLIST" = "Kara Liste";
 "SEND_READ_RECEIPTS_BUTTON" = "Okundu Bilgisi Gönder";
 "SEND_TYPING_INDICATOR_BUTTON" = "Yazıyor Göstergesi Gönder";
@@ -44,8 +44,8 @@
 "DISABLE_DELIVERY_RECEIPTS_LABEL" = "İletildi Bilgisini(Çift Tik) Kapat";
 "DISABLE_DELIVERY_RECEIPTS_WARNING" = "Uyarı! Bu özelliği etkinleştirmek gelen mesajları WhatsApp sunucusunda iletilmedi gözükeceğinden dolayı bekletecektir. Bekleyen çok mesajınız varsa uygulama açılıncaya kadar bildirimler gelmez. Server kaynaklı olduğundan düzeltilmesi imkansızdır.";
 
-"DISABLE_INTERNET_CONNECTION_DESC" = "Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.";
-"DISABLE_INTERNET_CONNECTION_LABEL" = "Disable Internet Access";
+"DISABLE_INTERNET_CONNECTION_DESC" = "WhatsApp içinde internet erişimini tamamen devre dışı bırakın, böylece mesaj gönderemez / alamazsınız ve WhatsApp sunucuya / sunucudan veri gönderemez / alamaz. Bu özelliği cihazınızın Kontrol Merkezi'nden de etkinleştirebilir / devre dışı bırakabilirsiniz.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "İnternet Erişimini Kapat";
 
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plandayken son görülmeyi herkese kapatır. WhatsApp'a giriş yapıldığında tekrar Kişilerim'e açar";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu";
@@ -57,15 +57,15 @@
 "HIDE_CALL_MUTE_DESC" = "Kişileriniz aramadayken mikrofonu susturduğunuzu bilmeyecek..";
 "HIDE_CALL_MUTE_LABEL" = "Susturulan Aramayı Gizle";
 
-"DISABLE_VOIP_LABEL" = "Block Incoming Calls";
-"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
-"DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
-"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
-"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
-"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Unsaved Numbers";
-"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Selected Contacts";
-"DISABLE_VOIP_BLACKLIST_LABEL" = "Blocked Contacts";
-"DISABLE_VOIP_WHITELIST_LABEL" = "Allowed Contacts";
+"DISABLE_VOIP_LABEL" = "Gelen Aramayı Engelle";
+"DISABLE_VOIP_DESC" = "Engellenen aramalar sessize alınır";
+"DISABLE_VOIP_FILTER_LABEL" = "Gelen Çağrıları Engelle";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Tüm Kişiler";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Kişiler Hariç";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Kayıtsız Numaralar";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Seçili Kişiler";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Engellenen Kişiler";
+"DISABLE_VOIP_WHITELIST_LABEL" = "İzin Verilen Kişiler";
 
 
 /* Status Addons */
@@ -75,8 +75,8 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "İndirme Butonunu Göster";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Durumları indirmek için sağ alta indirme tuşu ekle.";
 
-"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Download";
-"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Mark as Viewed";
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "İndir";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Görüldü Olarak İşaretle";
 
 "STATUS_CAPTION_COPY" = "Başlığı Kopyala";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Başlık Panoya Kopyalandı";
@@ -115,18 +115,18 @@
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Yeni Grup İsmini Girin";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Grup İsmi";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Düzenle";
-"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
-"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
-"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Delete";
-"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Delete Groups";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Dışa Aktar";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "İçe Aktar";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Sil";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Grupları Sil";
 
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Statuses that your contacts delete will not be removed from the statuses list until they expire in 24h. Deleted statuses will show a message in the header containing the time it was deleted.";
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Keep Contacts Deleted Statuses";
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Deleted at";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Kişilerinizin sildiği durumlar, 24 saat içinde sona erene kadar durumlar listesinden kaldırılmaz. Silinen durumlar, başlıkta silindiği zamanı içeren bir mesaj gösterir.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Silinmiş Kişilerin Durumlarını Sakla";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Silindi";
 
-"STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
-"STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
-"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Videos longer than 15 minutes are not supported";
+"STATUS_SPLIT_VIDEO_LABEL" = "Uzun Videoları Böl";
+"STATUS_SPLIT_VIDEO_DESC" = "Durumunuza bir video yüklerken, WhatsApp yalnızca 30 saniyelik videolara izin verir, bu özellik daha uzun videoları art arda oynatılacak doğru zamanda kesilmiş birden fazla duruma otomatik olarak böler.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "15 dakikadan uzun videolar desteklenmez";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Sonraki hikayeye otomatik geçmeyi devre dışı bırak.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Oto Hikaye Geçmeyi Devre Dışı Bırak";
@@ -138,23 +138,23 @@
 
 "CHATS_ADDONS_LABEL" = "Sohbet Eklentileri";
 
-"CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
-"CONTINUED_AUDIO_MESSAGES_DESC" = "When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.";
-"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
-"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Devam Eden Sesli Mesajlar";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "Sesli mesaj oynatırken sohbetin dışına çıkıp mesajı dinlemeye devam edebilirsiniz. Sohbetler üzerinde ve sesli mesajı kontrol edebileceğiniz sohbetler listesinde küçük bir çubuk görürsünüz.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Sesli Mesaj";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sesli Mesaj";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Mesaj İptal Zamanını Geçersiz Kıl";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "WhatsApp Mesaj İptal Etme Zamanını Geçersiz Kıl";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kişilerin Sildiği Mesajları Göster";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir..";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mesaj Silindi";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name 'dan bu mesaj şu zamanda silindi #date";
 
 "ABOUT_ON_CHATS_DESC" = "Sohbet Üstündeki Küçük Çizgide Kişi Hakkında Bilgiyi Göster";
 "ABOUT_ON_CHATS_LABEL" = "Sohbet Hakkında";
 
-"TAP_TO_RECORD_DESC" = "Bİr kere dokunarak kayda başlave tekrar basarak gönder ya da silmek için bas ve kaydır.";
+"TAP_TO_RECORD_DESC" = "Bir kere dokunarak kayda başla ve tekrar basarak gönder ya da silmek için bas ve kaydır.";
 "TAP_TO_RECORD_LABEL" = "Kayıt Yapmak İçin Bas";
 "TAP_TO_RECORD_SLIDE_LABEL" = "İptal İçin Dokun&Kaydır";
 
@@ -164,11 +164,12 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "İletildi İşaretini Devre Dışı Bırak";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Kişilerden birine mesaj atarken iletildi işaretini devre dışı bırak";
 
-"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
-"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "İletme Sınırı";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "5'ten 20'ye kadar bir iletiyi yönlendirirken kişi sayısı sınırını artırın. Bu, bir iletinin sınırsız sayıda kişiye yönlendirilmesine izin vermek için kullanılır, ancak WhatsApp sunucusunda bunu kontrol etmeye başladı ve hesabınızı korumak için devre dışı bırakıldı.";
 
-"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
-"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
+"CONFIRM_SENDING_STICKER_LABEL" = "Çıkartma Göndermeyi Onayla";
+"CONFIRM_SENDING_STICKER_DESC" = "Çıkartma göndermeden önce bir onay uyarısı göster";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
 
 "CALL_CONFIRM_DESC" = "Görüntülü veya sesli arama tuşunua basınca onaylama uyarısı alırsınız, WhatsApp araması ya da normal operatör araması seçimi yapabilirsiniz.";
 "CALL_CONFIRM_LABEL" = "Aramayı Onayla";
@@ -237,8 +238,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "Arşivde Kilitli";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Bu sohbet arşivde kilitli.\nBu sohbetin kilidini kaldırmak ve arşivden çıkarmak mı istiyorsunuz?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Kilidi Aç & Arşivden Çıkar";
-"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
-"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Arşivde Kilitle";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Arşivden Çıkarırken Kilidini Aç";
 
 "UNLIMITED_PINNED_CHATS_LABEL" = "Sınırsız Sohbet Sabitle";
 "UNLIMITED_PINNED_CHATS_DESC" = "3'ten fazla sohbet sabitle";
@@ -290,8 +291,8 @@
 "PROTECTION_LABEL" = "Koruma";
 
 "APP_PROTECTION_LABEL" = "Uygulama Koruması";
-"DELETE_APP_PASSCODE" = "Uygulama Þifresini Sil";
-"SET_APP_PASSCODE" = "Uygulama Þifresini Ayarla";
+"DELETE_APP_PASSCODE" = "Uygulama Şifresini Sil";
+"SET_APP_PASSCODE" = "Uygulama Şifresini Ayarla";
 "USE_TOUCH_ID" = "Touch ID Kullan";
 "USE_FACE_ID" = "Face ID Kullan";
 
@@ -332,7 +333,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Aktifleştir";
 "SHARE_SHEET_DISABLED_LABEL" = "Devre Dışı Bırak";
 
-"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Seçilen Resimleri Gönder";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Fotoğraf veya Video Çek";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Fotoğraf/Video Galerisi";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Fotoğraf Galerisi";
@@ -349,8 +350,8 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "İnternetten Fotoğraf Paylaş";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Ödemeyi Yolla";
 
-"SAVE_PROFILE_PHOTOS_LABEL" = "Save Profile Photos";
-"SAVE_PROFILE_PHOTOS_DESC" = "Long press on profile photos to save them after WhatsApp removed their save button";
+"SAVE_PROFILE_PHOTOS_LABEL" = "Profil Fotoğraflarını Kaydet";
+"SAVE_PROFILE_PHOTOS_DESC" = "WhatsApp kaydet düğmelerini kaldırdıktan sonra kaydetmek için profil fotoğraflarına uzun basın";
 
 "BLOCK" = "Engelle";
 "UNBLOCK" = "Engeli Kaldır";
@@ -406,8 +407,8 @@
 "DISABLE_LANDSCAPE_DESC" = "WhatsApp'ın ekran çevirmesini devre dışı bırakır.";
 "DISABLE_LANDSCAPE_LABEL" = "Ekran Çevirmeyi Devre Dışı Bırak";
 
-"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
-"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+"DISABLE_LARGE_TITLES_DESC" = "WhatsApp'ın içinde büyük başlıkları devre dışı bırakın";
+"DISABLE_LARGE_TITLES_LABEL" = "Büyük Başlıkları Devre Dışı Bırak";
 
 "MUTE_SOUND_DESC" = "WhatsApp alınan/gönderilen mesajlar ve/veya klavye sesini devre dışı bırakır..";
 "MUTE_SOUND_LABEL" = "Sesi Kes";
@@ -443,11 +444,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Bildirim Mesajı";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Başlık";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kişi Adı";
-"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
-"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
-"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
-"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
-"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filtre";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "Boş";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "İzin Verilenler";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Kara Lise";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filtre Listesi";
 
 "HIDE_MUTED_BADGES_DESC" = "WhatsApp'ta susturulan sohbet ve gruplarının mesaj sayılarını gizle.";
 "HIDE_MUTED_BADGES_LABEL" = "Susturulan Mesaj Sayılarını Gizle";
@@ -482,8 +483,8 @@
 "THEME_GENERAL_SECTION_TITLE" = "Genel";
 "APP_TINTCOLOR_LABEL" = "Uygulama Renk Tonu";
 "DARK_MODE_LABEL" = "Karanlık Modu";
-"DARK_MODE_ENABLE_LABEL" = "Enable Dark Mode";
-"BLACK_WALLPAPER_LABEL" = "Black Chats Background";
+"DARK_MODE_ENABLE_LABEL" = "Karanlık Modu Etkinleştir";
+"BLACK_WALLPAPER_LABEL" = "Siyah Sohbet Arka Planı";
 "KEYBOARD_STYLE_LABEL" = "Klavye Stili";
 "KEYBOARD_STYLE_DEFAULT" = "Varsayılan";
 "KEYBOARD_STYLE_DARK" = "Koyu";
@@ -517,7 +518,7 @@
 "MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Mesaj Durum Onay İşaretleri";
 "MESSAGE_TIMESTAMP_SECTION_TITLE" = "Mesaj Zaman Damgası";
 "MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Mesaj Durum Altbilgisi";
-"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Text next to timestamp, mainly for document bubble";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Zaman damgasının yanındaki metin";
 "SENT_COLOR_LABEL" = "Gönderildi Rengi";
 "DELIVERED_COLOR_LABEL" = "Ulaştırıldı Rengi";
 "READ_COLOR_LABEL" = "Okundu Rengi";
@@ -540,8 +541,8 @@
 "HIDE_CHATS_DESC" = "Gizli sohbetler sohbet listesinden gizlenir ve başka bir yerden açıldığında boş bir sohbet gösterir. Gizli sohbet mesajlarınızı yalnızca bu sayfadan görüntüleyebilirsiniz..";
 "HIDDEN_CHATS" = "Gizli Sohbetler";
 "HIDDEN_CHATS_MESSAGES" = "Gizli Sohbet Mesajları";
-"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
-"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Uygulama İçi Bildirimleri Gizle";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Sistem Genelindeki Bildirimleri Gizle";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Gizli sohbetler yeni mesaj bildirimleri göstermez";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Gizli Sohbet Ayarlarını Koru";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Gizli bir sohbete mesaj gönderemezsiniz..";
@@ -581,7 +582,7 @@
 "AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "Haftanın Günleri";
 "AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "Tüm Günler";
 
-"AUTO_REPLY_TO_LABEL" = "Þuna Cevapla";
+"AUTO_REPLY_TO_LABEL" = "Cevapla";
 "AUTO_REPLY_TO_GROUPS_LABEL" = "Gruplara Cevapla";
 "AUTO_REPLY_FILTER_LABEL" = "Cevap Filtresi";
 "AUTO_REPLY_FILTERED_CONTACTS" = "Cevap Filtreli Kişiler";
@@ -637,41 +638,41 @@
 
 /* Other Settings Section */
 
-"OTHER_SETTINGS_LABEL" = "Other Settings";
+"OTHER_SETTINGS_LABEL" = "Diğer Ayarlar";
 
 "UPDATES_SECTION_TITLE" = "Güncellemeler";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Güncellemeler için Otomatik Kontrol Et";
 "CHECK_FOR_UPDATES_BUTTON" = "Güncellemeleri Kontrol Et";
 
-"SETTINGS_SECTION_TITLE" = "Settings";
-"MANAGE_SETTINGS_LABEL" = "Manage Settings";
+"SETTINGS_SECTION_TITLE" = "Ayarlar";
+"MANAGE_SETTINGS_LABEL" = "Ayarları Yönet";
 
-"MANAGE_SETTINGS_ALL_DATA_LABEL" = "All Settings & Data";
-"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Tweak Settings";
-"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Auto Replies";
-"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Scheduled Messages";
-"MANAGE_SETTINGS_THEMES_LABEL" = "Themes";
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "Tüm Ayarlar";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Ayarlar";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Otomatik Cevap";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Zamanlanan Mesajlar";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Temalar";
 
-"EXPORT_SETTINGS_LABEL" = "Export Settings";
-"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "All settings below will be exported in a ZIP file, you can later import that ZIP inside import section";
-"EXPORT_SETTINGS_FILES_FOOTER" = "Settings will be exported in a PLIST file";
-"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Settings file not found or no settings saved so far";
+"EXPORT_SETTINGS_LABEL" = "Dışa Aktarma Ayarları";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "Aşağıdaki tüm ayarlar bir ZIP dosyasına aktarılacaktır, daha sonra bu ZIP'yi içe aktarma bölümüne aktarabilirsiniz";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Ayarlar bir PLIST dosyasına aktarılacak";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Ayarlar dosyası bulunamadı veya şu ana kadar kaydedilmiş ayar yok";
 
-"IMPORT_SETTINGS_LABEL" = "Import Settings";
-"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Only a ZIP file containing the settings PLIST files can be imported";
-"IMPORT_SETTINGS_FILES_FOOTER" = "Only PLIST files can be imported";
-"IMPORT_SETTINGS_BUTTON" = "Import";
-"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "This will replace your current settings, you can't undo this action";
-"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Invalid File";
-"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "The selected file is not a valid PLIST file";
-"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "The selected file is not valid ZIP file";
-"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Some files were not imported because it was not a valid PLIST";
+"IMPORT_SETTINGS_LABEL" = "Ayarları İçe Aktar";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Yalnızca PLIST dosyalarını içeren bir ZIP dosyası içe aktarılabilir";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Yalnızca PLIST dosyaları içe aktarılabilir";
+"IMPORT_SETTINGS_BUTTON" = "İçe Aktar";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "Bu, mevcut ayarlarınızın yerini alacak, bu işlemi geri alamazsınız";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Hatalı Dosya";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "Seçilen dosya geçerli bir PLIST dosyası değil";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "Seçilen dosya geçerli bir ZIP dosyası değil";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Bazı dosyalar geçerli bir PLIST olmadığından içe aktarılmadı";
 
-"RESET_SETTINGS_LABEL" = "Reset Settings";
-"RESET_SETTINGS_ALL_DATA_FOOTER" = "Reset all your Watusi settings";
-"RESET_SETTINGS_FILES_FOOTER" = "Reset specific settings only";
-"RESET_SETTINGS_BUTTON" = "Reset";
-"RESET_SETTINGS_CONFIRM_MESSAGE" = "This will delete your current settings, you can't undo this action";
+"RESET_SETTINGS_LABEL" = "Ayarları Sıfırla";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Tüm Ayarları Sıfırla";
+"RESET_SETTINGS_FILES_FOOTER" = "Yalnızca Belirli Ayarları Sıfırla";
+"RESET_SETTINGS_BUTTON" = "Sıfırla";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "Bu mevcut ayarlarınızı silecek, bu işlemi geri alamazsınız";
 
 "HIDE_SETTINGS_LABEL" = "Ayarları Gizle";
 "HIDE_SETTINGS_ALERT_TITLE" = "UYARI!";
@@ -679,7 +680,9 @@
 
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
-"MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
 
 
 /* Developer Section */
@@ -691,9 +694,9 @@
 /* Support Section */
 
 "SUPPORT_SECTION_TITLE" = "Destek";
-"HELP_AND_SUPPORT_LABEL" = "Help & Support";
+"HELP_AND_SUPPORT_LABEL" = "Yardım";
 
-"HELP_LABEL" = "Help";
+"HELP_LABEL" = "Yardım";
 "CONTACT_SUPPORT_LABEL" = "Kişi Desteği";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
@@ -707,26 +710,28 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "Watusi'yi satın almak için hesabınıza giriş yapın.";
 "LOADING" = "Yükleniyor...";
 
+"MORE_TWEAKS_TITLE" = "Mais Tweaks";
+
 
 /* Help */
 
-"ALL_SECTION_SHORT_TITLE" = "All";
+"ALL_SECTION_SHORT_TITLE" = "Hepsi";
 
-"FAQ_SECTION_SHORT_TITLE" = "FAQs";
-"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "How to enable Control Center toggles?";
-"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "CCSupport package is required to load 3rd party modules into your Control Center, you can then go into your Control Center settings and add Watusi to your active toggles and customize the toggles in it.";
-"HOW_TO_REMOVE_ADS_TITLE" = "How to remove advertisments?";
-"HOW_TO_REMOVE_ADS_CONTENT" = "You have to go into Watusi settings > Accounts & Ad Removal > Create/Login with your account, and you'll see an option to purchase a license which will remove the advertisments.";
+"FAQ_SECTION_SHORT_TITLE" = "Sıkça Sorulanlar";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "Denetim Merkezi butonları nasıl etkinleştirilir?";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "CCSupport paketi, 3. parti modüllerini Kontrol Merkezinize yüklemek için gereklidir, daha sonra Kontrol Merkezi ayarlarınıza gidebilir ve etkin geçişlerinize Watusi ekleyebilir ve geçişleri özelleştirebilirsiniz.";
+"HOW_TO_REMOVE_ADS_TITLE" = "Reklamlar nasıl kaldırılır?";
+"HOW_TO_REMOVE_ADS_CONTENT" = "Watusi ayarları> Hesaplar ve Reklam Kaldırma> Hesabınızla Oluştur / Giriş yapmalı ve reklamları kaldıracak bir lisans satın almalısınız.";
 
-"LICENSE_SECTION_SHORT_TITLE" = "License";
-"MAX_DEVICES_TITLE" = "How many devices I can activate my license on?";
-"MAX_DEVICES_CONTENT" = "You can use your account on 3 WhatsApp applications at the same time, you can manage your devices from your account page.";
+"LICENSE_SECTION_SHORT_TITLE" = "Lisans";
+"MAX_DEVICES_TITLE" = "Lisansımı kaç cihazda etkinleştirebilirim?";
+"MAX_DEVICES_CONTENT" = "Hesabınızı aynı anda 3 WhatsApp uygulamasında kullanabilir, cihazlarınızı hesap sayfanızdan yönetebilirsiniz.";
 
-"ISSUES_SECTION_SHORT_TITLE" = "Issues";
-"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Why I can't see my contacts last seen?";
-"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "If you freeze your last seen, you will not be able to view your contacts' last seen or online status because WhatsApp server requires a user to be online when requesting a last seen and freezing your last seen stops sending your online status to the server.";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Unable to send and receive messages?";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "This issue might be from \"Disable Delivery Receipts\" feature, WhatsApp server will stop receving/sending your new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.";
+"ISSUES_SECTION_SHORT_TITLE" = "Sorunlar";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Kişilerimin neden son görülmesini göremiyorum?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Son görülmeniz kapalı olursa kişilerin çevrimiçi durumunu göremezsiniz";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Mesaj gönderilemiyor ve alınamıyor mu?";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = " Mesaj alındı işaretini devre dışı bırakırsanız WhatsApp sunucusu yeni mesajlarınızı almayı / göndermeyi durduracaktır. Sunucu taraflı olduğundan bu sorunu düzeltmek mümkün değildir.";
 
 
 /* Promo Code */
@@ -748,10 +753,10 @@
 "GROUPS" = "Gruplar";
 "DEFAULT" = "Varsayılan";
 "DELETE" = "Sil";
-"UPDATE" = "Update";
+"UPDATE" = "Güncelle";
 "CANCEL" = "İptal";
-"OKAY" = "OK";
-"ENABLE" = "Enable";
+"OKAY" = "TAMAM";
+"ENABLE" = "Aktif Et";
 "MORE" = "Daha Fazla";
 "RELAUNCH" = "Yeniden Başlat";
 "LATER" = "Sonra";
@@ -760,7 +765,7 @@
 "EDIT" = "Düzenle";
 "DUPLICATE" = "Çoğalt";
 "EXPORT" = "Dışarı Aktar";
-"PUBLISH" = "Yayımla";
+"PUBLISH" = "Yayınla";
 "TO" = "Alıcı";
 "DISMISS" = "Kapat";
 "DUPLICATE" = "Kopyalayarak Çoğalt";
