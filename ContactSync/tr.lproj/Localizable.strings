@@ -67,11 +67,11 @@
 
 "USER_GUIDE_LABEL" = "Kullanıcı Kılavuzu";
 
-"USER_GUIDE_SYNC_PROCESS_TITLE" = "Sync Process";
-"USER_GUIDE_SYNC_PROCESS_DETAIL" = "If you have a large number of contacts, the first sync might take more than 1-2 minutes especially if 'Download High Res Pictures' enabled. The second sync will only update the contacts with a new profile picture on WhatsApp.";
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Senkronizasyon İlerlemesi";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "Çok sayıda kişiniz varsa, özellikle 'Yüksek Çözünürlüklü Resimleri İndir' etkinse ilk senkronizasyon birkaç dakikadan fazla sürebilir. İkinci senkronizasyon, kişileri yalnızca WhatsApp'ta yeni bir profil resmiyle güncelleyecektir.";
 
-"USER_GUIDE_SYNC_ERROR_TITLE" = "Sync Error";
-"USER_GUIDE_SYNC_ERROR_DETAIL" = "If you get an error after syncing, this usually happens because of some limitation in contactsd (process that handles Contacts framework) not allowing us to update a large number of contacts in a short period of time. A reboot or respring usually fix this problem.";
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Senkronizasyon Hatası";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "Eğer hata alırsanız yeniden başlatın veya respring yapın.";
 
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Birden Fazla Numarası Olan Kişiler";
 "USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Senkronize edilirken, kullanılabilir bir profil resmine sahip numara kullanılır, resimlerle 2 veya daha fazla numara mevcutsa rastgele bir resim kullanılır.\n\nKişiyi senkronize ederken kullanmak için 'Kişilerim' sayfasından bir numara seçebilirsiniz.";
@@ -86,9 +86,9 @@
 "SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Bir Kişi Kapsayıcısı Seçin";
 "SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Kapsayıcılar Yerel, Exchange veya CardDAV türünde olabilir. İCloud Kapsayıcı türünüz bir CardDAV.";
 
-"DELETE_PICTURES_CONFIRMATION_TITLE" = "Delete Pictures";
-"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "This will delete all your contacts pictures";
-"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Delete All Pictures";
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Resimleri Sil";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "Bu, tüm kişilerinizin resimlerini silecek";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Tüm Resimleri Sil";
 
 "NO_PHOTO_TEXT" = "Fotoğraf\nYok";
 "PHONE_NUMBERS_FOOTER" = "Seçilen numara senkronizasyon için kullanılacaktır, kullanıcı kılavuzu sayfasından daha fazla bilgi edinin.";

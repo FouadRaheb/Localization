@@ -1,0 +1,22 @@
+/* Toggles */
+
+"LAST_SEEN" = "Son Görülme";
+"READ_RECEIPTS" = "Mavi Tik";
+"DELIVERY_RECEIPTS" = "Teslim Edildi";
+"DISABLE_INTERNET" = "İnterneti Kes";
+"BLOCK_CALLS" = "Aramaları Engelle";
+"AUTO_REPLY" = "Otomatik Cevaplama";
+"HIDE_CHATS" = "Sohbetleri Gizle";
+
+/* Settings */
+
+"ACTIVE_TOGGLES_LABEL" = "Butonları Aktif Et";
+"ACTIVE_TOGGLES_FOOTER" = "Denetim Merkezi'nde görünmesi için ek butonlar ekleyin ve düzenleyin.";
+"DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "Kilitlendiğinde Devre Dışı Bırak";
+"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Cihaz kilitliyken butonlara erişimi devre dışı bırakın.";
+"RESPRING_BUTTON" = "Respring";
+"RESPRING_FOOTER" = "Değişiklikleri uygulamak için respring yapılmalı.";
+"TOGGLES_PAGE_TITLE" = "Butonlar";
+"ACTIVE_SECTION_HEADER" = "Aktif";
+"DISABLED_SECTION_HEADER" = "Kapalı";
+"ACTIVE_SECTION_FOOTER" = "Kontrol merkezinizde en fazla 6 buton gösterilebilir.";

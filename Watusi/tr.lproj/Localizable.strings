@@ -50,7 +50,7 @@
 "LASTSEEN_AUTO_SWITCH_DESC" = "WhatsApp arka plandayken son görülmeyi herkese kapatır. WhatsApp'a giriş yapıldığında tekrar Kişilerim'e açar";
 "LASTSEEN_AUTO_SWITCH_LABEL" = "Otomatik Son Görülme Gizlilik Butonu";
 
-"MY_CONTACTS_PRIVACY_DESC" = "Whatsapp sunucusuna gönderilmeyecek kişileri listeye ekleyin. Sunucuya yollanmayan kişiler fotoğraf/durum/son görülmenizi göremeyecektir. Bu ayar Whatsapp gizliliği sadece bu ayarda çalışır. 'Kişilerim'.\n\nNOTE:\n1) Eğer bu özellik aktifse karalistedeki kişileri düzenleyemez/silemezsiniz.\n2)Engellenen kişilerin profil fotoğrafları siz fotoğrafa basana kadar değişmeyecktir. \n3) Karalistedeki kişilerden durum hikayesi alamayacaksınız. \n4) Eğer 'Stalky' yüklüyse karalistedeki kişiler için Stalky güncellemelerini alamayacaksınız.";
+"MY_CONTACTS_PRIVACY_DESC" = "Whatsapp sunucusuna gönderilmeyecek kişileri listeye ekleyin. Sunucuya yollanmayan kişiler fotoğraf/durum/son görülmenizi göremeyecektir. Bu ayar Whatsapp gizliliği sadece bu ayarda çalışır. 'Kişilerim'.\n\nNOT:\n1) Eğer bu özellik aktifse karalistedeki kişileri düzenleyemez/silemezsiniz.\n2)Engellenen kişilerin profil fotoğrafları siz fotoğrafa basana kadar değişmeyecektir. \n3) Karalistedeki kişilerden durum hikayesi alamayacaksınız. \n4) Eğer 'Stalky' yüklüyse karalistedeki kişiler için Stalky güncellemelerini alamayacaksınız.";
 "MY_CONTACTS_PRIVACY_LABEL" = "Kişilerim'in Gizliliği";
 "MY_CONTACTS_BLACKLISTED_LABEL" = "Karalistedeki Kişilerim";
 
@@ -103,7 +103,7 @@
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Otomatik İzlenmeyi Devre Dışı Bırak";
 "STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "İzlenilen Hikayeleri Aşağı Taşı";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Kişilerin hikayelerini otomatik izlemeyi devre dışı bırak ve manuel olarak Watusi görüldü tuşuna bas. Görülen hikayelerde zorla işaretlenme tuşu gözükmez.";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Kişilerin hikayelerini otomatik izlemeyi devre dışı bırak ve  Watusi görüldü tuşuna bas. Görülen hikayelerde zorla işaretlenme tuşu gözükmez.";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Whatsapp kişi seçiminden kişileri kolayca gruplara seçme/seçimi kaldırma opsiyonunu ekler.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Kişilerin Gruplarını Göster";
@@ -111,7 +111,7 @@
 "STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Kişi";
 "STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Kişiler";
 "STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Yeni Grup";
-"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Update Group";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Grubu Güncelle";
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Yeni Grup İsmini Girin";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Grup İsmi";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Düzenle";
@@ -147,7 +147,7 @@
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "WhatsApp Mesaj İptal Etme Zamanını Geçersiz Kıl";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kişilerin Sildiği Mesajları Göster";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir..";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mesaj Silindi";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name 'dan bu mesaj şu zamanda silindi #date";
 
@@ -277,7 +277,7 @@
 "CLEAR_ALL_CHATS_BUTTON" = "Bütün Sohbetleri Temizle";
 "CLEAR_ALL_CHATS_DESCRIPTION" = "Arşivler dahil bütün sohbet içeriklerini sil";
 
-"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Kişiler için Grup/Yayın seç/seçimi devredışı bırak butonu ekler. Bu ayrıca 256 kişilik limiti geçersiz kılar. NOT: 256'dan fazla kişiyi bir gruba eklemek sunucuda imkansız olabilir ama denemekten zarar gelmez :) .";
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Kişiler için Grup/Yayın seç/seçimi devredışı bırak butonu ekler. Bu ayrıca 256 kişilik limiti geçersiz kılar. NOT: 256'dan fazla kişiyi bir gruba eklemek sunucuda imkansız olabilir ama denemekten zarar gelmez.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Grup/Yayın Hepsini Seç";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "Hepsi";
 "GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "Hiçbiri";
@@ -371,18 +371,18 @@
 "MEDIA_DELETE_BUTTON_LABEL" = "Medya Silme Butonu";
 "MEDIA_DELETE_ALERT_MESSAGE" = "Bütün medyayı sil";
 
-"MEDIA_FORWARD_BUTTON_DESC" = "Medya arama sayfasının üst kısmına aynı mdyayı birden fazla kişiye iletebilmek için yeni bir tuş ekler.";
+"MEDIA_FORWARD_BUTTON_DESC" = "Medya arama sayfasının üst kısmına aynı medyayı birden fazla kişiye iletebilmek için yeni bir tuş ekler.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "Medya İletme Butonu";
 "MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Medyayı %zd kişisine ilet";
 
-"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "WhatsApp'tan önderilen medyayı Fotoğraflar uygulamasına kaydetmeyi devre dışı bırak.";
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "WhatsApp'tan gönderilen medyayı Fotoğraflar uygulamasına kaydetmeyi devre dışı bırak.";
 "MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Yakalanan Medyayı Kaydetmeyi Devre Dışı Bırak";
 
 /* User Interface */
 
 "USER_INTERFACE_LABEL" = "Kullanıcı Arayüzü";
 
-"REPLACE_CAMERA_TAB_DESC" = "Yeni kamera sayfasını eski FAvorilr sayfasıyla değiştir.";
+"REPLACE_CAMERA_TAB_DESC" = "Yeni kamera sayfasını eski Favoriler sayfasıyla değiştir.";
 "REPLACE_CAMERA_TAB_LABEL" = "Kamera";
 "REPLACE_CAMERA_TAB_DEFAULT" = "Varsayılan";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Kişiler";
@@ -427,8 +427,8 @@
 "HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Görüntülü Arama Butonunu Gizle";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "Grup Arama Butonunu Gizle";
 
-"FULLSCREEN_MODE_DESC" = "WhatsApp içindeki statüs çubuğunu gizle.";
-"FULLSCREEN_MODE_LABEL" = "Tam ekran Modu";
+"FULLSCREEN_MODE_DESC" = "WhatsApp içinde durum çubuğunu gizle.";
+"FULLSCREEN_MODE_LABEL" = "Tam Ekran Modu";
 
 "IPAD_FULLSCREEN_MODE_DESC" = "WhatsApp tam ekran modunu herhangi bir iPad uyumlu uygulama gibi aç";
 "IPAD_FULLSCREEN_MODE_LABEL" = "iPad Tam Ekran";
@@ -710,7 +710,7 @@
 "LOGIN_TO_PURCHASE_MESSAGE" = "Watusi'yi satın almak için hesabınıza giriş yapın.";
 "LOADING" = "Yükleniyor...";
 
-"MORE_TWEAKS_TITLE" = "Mais Tweaks";
+"MORE_TWEAKS_TITLE" = "Daha Fazla Tweakler için";
 
 
 /* Help */
