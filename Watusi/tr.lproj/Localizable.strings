@@ -1,4 +1,4 @@
- /* Preferences */
+/* Preferences */
 
 "WATUSI_PREFERENCES_LABEL" = "Watusi Ayarları";
 "DEBUG_MENU" = "Hata Ayıklama Menüsü";
@@ -178,8 +178,8 @@
 "START_VOICE_CALL_WITH" = "Ses çağrısını başlat";
 "START_GROUP_VIDEO_CALL_WITH" = "Grup video aramasını başlat";
 "START_GROUP_VOICE_CALL_WITH" = "Grup ses aramasını başlat";
-"WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Video Araması";
-"WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Ses hepsi";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "WhatsApp Video Arama";
+"WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sesli Arama";
 "CARRIER_CALL_BUTTON" = "Operatör Araması";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Operatör Araması Mevcut Değil!";
 
