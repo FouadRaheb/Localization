@@ -17,6 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "Notificaciones de escribiendo";
 "RECORDING_NOTIFICATION_LABEL" = "Notificaciones de notaz de voz";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Leer notificaciones de mensajes";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status Viewed Notifications";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Notificaciones de Grupos";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Reciba notificaciones de mecanografía, grabación y lectura de mensajes para los miembros de los grupos en los que se encuentre.";
@@ -30,6 +31,7 @@
 "SELECTED_TYPING_LABEL" = "Escribiendo para los favoritos";
 "SELECTED_RECORDING_LABEL" = "Notas de voz de favoritos";
 "SELECTED_READ_MESSAGE_LABEL" = "Leer mensajes para favoritos";
+"SELECTED_STATUS_VIEWED_LABEL" = "Status Viewed for Favorites";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Recibe notificación de mensajes de escritura y lectura sólo para contactos favoritos que ha seleccionado en la lista de seguimiento.";
 
 /* Notifications Settings */
@@ -126,6 +128,7 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "Ha leído los mensajes de en";
 "HAS_RECEIVED_YOUR_MESSAGES" = "Ha recibido tus mensajes";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "Ha recibido su mensaje de en";
+"VIEWED_YOUR_STATUS" = "viewed your status";
 
 /* Developer & Support Section */
 

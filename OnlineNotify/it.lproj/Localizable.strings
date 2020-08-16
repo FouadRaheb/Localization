@@ -17,6 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "Notifica digitazione";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notifica lettura";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status Viewed Notifications";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Groups Notifications";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receive typing, recording and read messages notifications for the members in the groups you are in.";
@@ -30,6 +31,7 @@
 "SELECTED_TYPING_LABEL" = "Notifica di scrittura per contatti preferiti";
 "SELECTED_RECORDING_LABEL" = "Recording for favorites";
 "SELECTED_READ_MESSAGE_LABEL" = "Notifica di lettura per contatti preferiti";
+"SELECTED_STATUS_VIEWED_LABEL" = "Status Viewed for Favorites";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Ricevi una notifica di lettura/scrittura solo per i contatti preferiti selezionati nella tabella di monitoraggio.";
 
 /* Notifications Settings */
@@ -126,6 +128,7 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha letto il tuo messaggio nel";
 "HAS_RECEIVED_YOUR_MESSAGES" = "ha ricevuto il tuo messaggio";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha ricevuto il tuo messaggio nel";
+"VIEWED_YOUR_STATUS" = "viewed your status";
 
 /* Developer & Support Section */
 

@@ -1,6 +1,6 @@
 /* Preferences */
 
-"WATUSI_PREFERENCES_LABEL" = "إعدادات Watusi";
+"WATUSI_PREFERENCES_LABEL" = "إعدادات Watusi 2";
 "DEBUG_MENU" = "قائمة التصحيح";
 
 
@@ -755,7 +755,7 @@
 "DELETE" = "حذف";
 "UPDATE" = "تحديث";
 "CANCEL" = "إلغاء";
-"OKAY" = "حسنا";
+"OKAY" = "حسنًا";
 "ENABLE" = "تفعيل";
 "MORE" = "المزيد";
 "RELAUNCH" = "إعادة تشغيل";

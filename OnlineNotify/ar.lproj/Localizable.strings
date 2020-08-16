@@ -17,6 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "إشعارات الكتابة";
 "RECORDING_NOTIFICATION_LABEL" = "إشعارات تسجيل المقطع الصوتي";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "إشعارات قراءة الرسائل";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "إشعارات مشاهدة الحالة";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "إشعارات المجموعات";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "تلقي إشعارات الكتابة، التسجيل الصوتي وقراءة الرسائل للأعضاء في المجموعات التي تكون أنت فيها.";
@@ -30,6 +31,7 @@
 "SELECTED_TYPING_LABEL" = "الكتابة للمفضلة";
 "SELECTED_RECORDING_LABEL" = "التسجيل للمفضلة";
 "SELECTED_READ_MESSAGE_LABEL" = "قراءة الرسائل للمفضلة";
+"SELECTED_STATUS_VIEWED_LABEL" = "مشاهدة الحالة للمفضلة";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "تلقي إشعارات الكتابة وقراءة الرسائل فقط لجهات الاتصال المفضلة التي حددتها في جدول التتبع.";
 
 /* Notifications Settings */
@@ -126,6 +128,7 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "قرأ رسائلك في";
 "HAS_RECEIVED_YOUR_MESSAGES" = "تلقى رسائلك";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "تلقى رسائلك في";
+"VIEWED_YOUR_STATUS" = "شاهد حالتك";
 
 /* Developer & Support Section */
 
