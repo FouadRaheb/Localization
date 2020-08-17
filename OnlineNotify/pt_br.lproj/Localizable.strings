@@ -17,7 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "Notificações de digitação";
 "RECORDING_NOTIFICATION_LABEL" = "Notificações de Gravação";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Notificações de Mensagens Lidas";
-"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status Viewed Notifications";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "Notificações de status visualizado";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Notificações de Grupos";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Receba notificações de digitação, gravação e leitura de mensagens para os membros dos grupos em que você está.";
@@ -31,7 +31,7 @@
 "SELECTED_TYPING_LABEL" = "Digitando para favoritos";
 "SELECTED_RECORDING_LABEL" = "Gravando para favoritos";
 "SELECTED_READ_MESSAGE_LABEL" = "Mensagem Lida para favoritos";
-"SELECTED_STATUS_VIEWED_LABEL" = "Status Viewed for Favorites";
+"SELECTED_STATUS_VIEWED_LABEL" = "Status visto para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Receba notificação de digitaçao e leitura apenas dos contatos favoritos que você selecionou na ‘Lista de Rastreamento’.";
 
 /* Notifications Settings */
@@ -128,7 +128,7 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "leu suas mensagens no";
 "HAS_RECEIVED_YOUR_MESSAGES" = "recebeu sua mensagem";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "recebeu suas mensagens do";
-"VIEWED_YOUR_STATUS" = "viewed your status";
+"VIEWED_YOUR_STATUS" = "visualizou seus status";
 
 /* Developer & Support Section */
 
