@@ -58,7 +58,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Stummgeschalteten Anruf ausblenden";
 
 "DISABLE_VOIP_LABEL" = "Einkommende Anrufe blockieren";
-"DISABLE_VOIP_DESC" = "Bei blockierten Anrufen wird die Meldung "Klingeln" des Anrufers nicht angezeigt.";
+"DISABLE_VOIP_DESC" = "Bei blockierten Anrufen wird die Meldung \"Klingeln\" des Anrufers nicht angezeigt.";
 "DISABLE_VOIP_FILTER_LABEL" = "Blockiere Anrufe von";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Alle Kontakte";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Alle Kontakte außer";
@@ -728,8 +728,8 @@
 "MAX_DEVICES_CONTENT" = "Du kannst dein Konto in 3 WhatsApp-Anwendungen gleichzeitig verwenden und deine Geräte von deiner Kontoseite aus verwalten.";
 
 "ISSUES_SECTION_SHORT_TITLE" = "Fehler";
-"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Warum kann ich den "Zuletzt-Online"-Zeitstempel nicht sehen?";
-"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Wenn du deine "Zuletzt-Online"-Funktion ausschaltest, wirst du nicht in der Lage sein den "Zuletzt-Online"-Zeitstempel deiner Freunde zusehen. Dies liegt daran, dass der WhatsApp-Server die Zeitstempel deiner Freunde nur sendet, wenn du ebenfalls als online gemeldet bist.";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Warum kann ich den \"Zuletzt-Online\"-Zeitstempel nicht sehen?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Wenn du deine \"Zuletzt-Online\"-Funktion ausschaltest, wirst du nicht in der Lage sein den \"Zuletzt-Online\"-Zeitstempel deiner Freunde zusehen. Dies liegt daran, dass der WhatsApp-Server die Zeitstempel deiner Freunde nur sendet, wenn du ebenfalls als online gemeldet bist.";
 "UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Warum können keine Nachrichten gesendet oder empfangen werden?";
 "UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Dieser Fehler stammt vielleicht von der \"Zustellungsbestätigung deaktivieren\" Funktion. Der WhatsApp-Server empfängt/sendet keine neuen Nachrichten mehr, wenn du viele ausstehende Nachrichtigungen hast, die auf eine Zustellung warten. Es ist nicht möglich dies zu fixen, da es server-seitig ist..";
 
