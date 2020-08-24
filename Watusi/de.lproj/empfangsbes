@@ -58,7 +58,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Stummgeschalteten Anruf ausblenden";
 
 "DISABLE_VOIP_LABEL" = "Einkommende Anrufe blockieren";
-"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_DESC" = "Bei blockierten Anrufen wird die Meldung "Klingeln" des Anrufers nicht angezeigt.";
 "DISABLE_VOIP_FILTER_LABEL" = "Blockiere Anrufe von";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Alle Kontakte";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Alle Kontakte außer";
@@ -139,9 +139,9 @@
 "CHATS_ADDONS_LABEL" = "Chat Erweiterungen";
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
-"CONTINUED_AUDIO_MESSAGES_DESC" = "When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.";
-"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
-"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "Wenn du eine Audionachricht abspielst, kannst du den Chat verlassen und die Nachricht weiter anhören. Eine kleine Leiste ist über der Chat-Liste, in der du die Audionachricht steuern kannst.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audionachricht";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sprachnachricht";
 
 "REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Begrenzung umgehen";
 "REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Umgehen des Whatsapp´s 7 Minuten Nachrichten widerrufen Limit";
@@ -169,7 +169,7 @@
 
 "CONFIRM_SENDING_STICKER_LABEL" = "Bestätigung beim Absenden von Stickern";
 "CONFIRM_SENDING_STICKER_DESC" = "Zeigt eine Bestätigunsmeldung an, bevor der Sticker gesendet wird.";
-"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Sende Sticker";
 
 "CALL_CONFIRM_DESC" = "Erhalte eine Bestätigung, wenn du auf den Sprach-/Videoanruf Button tippst. Außerdem kannst du dort zwischen Mobilfunk und WhatsApp Anruf auswählen.";
 "CALL_CONFIRM_LABEL" = "Anrufsbestätigung";
@@ -238,8 +238,8 @@
 "ARCHIVE_LOCK_TABLE_TITLE" = "Im Archiv gesperrt";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Dieser Chat ist im Archiv gesperrt\nWillst du ihn entsperren und unarchivieren?";
 "ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Entsperren & Unarchivieren";
-"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Lock in Archive";
-"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Unlock from Archive";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Archiv sperren";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Archiv entsperren";
 
 "UNLIMITED_PINNED_CHATS_DESC" = "Unbegrenzte gepinnte Chats";
 "UNLIMITED_PINNED_CHATS_LABEL" = "Pinne mehr als 3 Chats";
@@ -383,7 +383,7 @@
 "USER_INTERFACE_LABEL" = "Benutzeroberfläche";
 
 "REPLACE_CAMERA_TAB_DESC" = "Ersetzt den neuen Kamera Tab durch die alten Kontakte oder Favoriten Tabs.";
-"REPLACE_CAMERA_TAB_LABEL" = "Kamera Tab";
+"REPLACE_CAMERA_TAB_LABEL" = "Kamera-Tab";
 "REPLACE_CAMERA_TAB_DEFAULT" = "Standard";
 "REPLACE_CAMERA_TAB_CONTACTS" = "Kontakte";
 "REPLACE_CAMERA_TAB_FAVORITES" = "Favoriten";
@@ -638,7 +638,7 @@
 
 /* Other Settings Section */
 
-"OTHER_SETTINGS_LABEL" = "Other Settings";
+"OTHER_SETTINGS_LABEL" = "Andere Einstellungen";
 
 "UPDATES_SECTION_TITLE" = "Updates";
 "AUTO_CHECK_FOR_UPDATES_LABEL" = "Automatisch nach Updates suchen";
@@ -681,7 +681,7 @@
 "TWEAK_LANGUAGE_LABEL" = "Sprache";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Automatisch";
 
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Einstellungen vom Kontrollzentrum kontrollieren";
 "UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
 
 
@@ -694,7 +694,7 @@
 /* Support Section */
 
 "SUPPORT_SECTION_TITLE" = "Support";
-"HELP_AND_SUPPORT_LABEL" = "Help & Support";
+"HELP_AND_SUPPORT_LABEL" = "Hilfe & Support";
 
 "HELP_LABEL" = "Help";
 "CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
@@ -718,20 +718,20 @@
 "ALL_SECTION_SHORT_TITLE" = "All";
 
 "FAQ_SECTION_SHORT_TITLE" = "FAQs";
-"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "How to enable Control Center toggles?";
-"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "CCSupport package is required to load 3rd party modules into your Control Center, you can then go into your Control Center settings and add Watusi to your active toggles and customize the toggles in it.";
-"HOW_TO_REMOVE_ADS_TITLE" = "How to remove advertisments?";
-"HOW_TO_REMOVE_ADS_CONTENT" = "You have to go into Watusi settings > Accounts & Ad Removal > Create/Login with your account, and you'll see an option to purchase a license which will remove the advertisments.";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "Wie aktiviert man die Kontrollzentrum-Buttons?";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "Der CCSupport-Tweak ist erforderlich, um Module von Drittanbietern in das Kontrollzentrum zu laden. Dann kannst du in die Kontrollzentrum-Einstellungen gehen, und die Watusi-Buttons aktivieren.";
+"HOW_TO_REMOVE_ADS_TITLE" = "Wie entfernt man Werbung?";
+"HOW_TO_REMOVE_ADS_CONTENT" = "Du musst in Watusi Einstellungen > Accounts & Werbungsentfernung > Erstelle/logge dich mit deinem Account ein, und du wirst eine Option zum Kaufen einer Lizenz sehen, die die Werbeanzeigen entfernt.";
 
-"LICENSE_SECTION_SHORT_TITLE" = "License";
-"MAX_DEVICES_TITLE" = "How many devices I can activate my license on?";
-"MAX_DEVICES_CONTENT" = "You can use your account on 3 WhatsApp applications at the same time, you can manage your devices from your account page.";
+"LICENSE_SECTION_SHORT_TITLE" = "Lizenz";
+"MAX_DEVICES_TITLE" = "Auf wie vielen Geräten kann ich meine Lizenz aktivieren??";
+"MAX_DEVICES_CONTENT" = "Du kannst dein Konto in 3 WhatsApp-Anwendungen gleichzeitig verwenden und deine Geräte von deiner Kontoseite aus verwalten.";
 
-"ISSUES_SECTION_SHORT_TITLE" = "Issues";
-"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Why I can't see my contacts last seen?";
-"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "If you freeze your last seen, you will not be able to view your contacts' last seen or online status because WhatsApp server requires a user to be online when requesting a last seen and freezing your last seen stops sending your online status to the server.";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Unable to send and receive messages?";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "This issue might be from \"Disable Delivery Receipts\" feature, WhatsApp server will stop receving/sending your new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.";
+"ISSUES_SECTION_SHORT_TITLE" = "Fehler";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Warum kann ich den "Zuletzt-Online"-Zeitstempel nicht sehen?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Wenn du deine "Zuletzt-Online"-Funktion ausschaltest, wirst du nicht in der Lage sein den "Zuletzt-Online"-Zeitstempel deiner Freunde zusehen. Dies liegt daran, dass der WhatsApp-Server die Zeitstempel deiner Freunde nur sendet, wenn du ebenfalls als online gemeldet bist.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Warum können keine Nachrichten gesendet oder empfangen werden?";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Dieser Fehler stammt vielleicht von der \"Zustellungsbestätigung deaktivieren\" Funktion. Der WhatsApp-Server empfängt/sendet keine neuen Nachrichten mehr, wenn du viele ausstehende Nachrichtigungen hast, die auf eine Zustellung warten. Es ist nicht möglich dies zu fixen, da es server-seitig ist..";
 
 
 /* Promo Code */
