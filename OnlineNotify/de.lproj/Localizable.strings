@@ -17,7 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "'Schreibt...' Benachrichtigungen";
 "RECORDING_NOTIFICATION_LABEL" = "Nimmt Sprachaufnahme auf Benachrichtigung";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "'Gelesen' Benachrichtigung";
-"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status Viewed Notifications";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status-Gesehen Benachrichtigung";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Gruppen Benachrichtigungen";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Erhalte Benachrichtigungen wenn Mitglieder in Gruppen Schreiben, Aufzeichnen und Lesen.";
@@ -30,8 +30,8 @@
 
 "SELECTED_TYPING_LABEL" = "'Schreibt' für Favoriten";
 "SELECTED_RECORDING_LABEL" = "Nimmt Sprachaufnahme auf für Favoriten";
-"SELECTED_READ_MESSAGE_LABEL" = "'Gelesen' für Favoriten";
-"SELECTED_STATUS_VIEWED_LABEL" = "Status Viewed for Favorites";
+"SELECTED_READ_MESSAGE_LABEL" = "'Gelesen' Benachrichtigung für Favoriten";
+"SELECTED_STATUS_VIEWED_LABEL" = "Status-Gesehen Benachrichtigung für Favoriten";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Erhalte nur für verfolgte Favoriten 'Schreibt'- und 'Gelesen'-Benachrichtigungen, die du in der Liste festgelegt hast.";
 
 /* Notifications Settings */
@@ -46,7 +46,7 @@
 "NOTIFICATION_SOUND_DESCRIPTION" = "Wähle einen Ton für Benachrichtigungen aus.";
 
 "NOTIFICATION_STYLE_LABEL" = "Benachrichtigungsstil";
-"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Notifications Banner Stil";
+"NOTIFICATION_STYLE_DESCRIPTION" = "In-App Benachrichtigungs Banner Stil";
 "NOTIFICATION_STYLE_STATUSBAR_LABEL" = "Status Bar";
 "NOTIFICATION_STYLE_SYSTEM_LABEL" = "System";
 
@@ -128,7 +128,7 @@
 "HAS_READ_YOUR_MESSAGES_IN_GROUP" = "hat deine Nachrichten in der Gruppe gelesen";
 "HAS_RECEIVED_YOUR_MESSAGES" = "hat deine Nachrichten erhalten";
 "HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "erhielt deine Nachricht der Gruppe";
-"VIEWED_YOUR_STATUS" = "viewed your status";
+"VIEWED_YOUR_STATUS" = "hat deinen Status angesehen";
 
 /* Developer & Support Section */
 
