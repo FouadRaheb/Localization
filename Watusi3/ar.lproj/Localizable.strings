@@ -1,0 +1,969 @@
+/* Preferences */
+
+"WATUSI_PREFERENCES_LABEL" = "إعدادات Watusi 3";
+"DEBUG_MENU" = "قائمة التصحيح";
+
+
+/* Privacy */
+
+"PRIVACY_LABEL" = "الخصوصية";
+
+"FREEZE_LASTSEEN_LABEL" = "تجميد آخر ظهور";
+"FREEZE_LASTSEEN_DESC" = "لن تعلم جهات اتصالك أنك 'متصل الآن' ولن يعلموا آخر مرة قمت فيها بفتح واتساب أيضًا.";
+
+"DISABLE_READ_RECEIPTS_LABEL" = "إخفاء مؤشر قراءة الرسائل";
+"READ_RECEIPTS_DESC" = "بعد تعطيل مؤشر قراءة الرسائل، سترى أنت مؤشر قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا مؤشر قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل مؤشر قراءة الرسائل لجهات اتصال محددة عن طريق خيارات إظهار/عدم إظهار أو من خلال معلومات جهة الاتصال نفسها.";
+"NEVER_SEND_RECEIPTS_TO" = "عدم إظهار مؤشر قراءة الرسائل لـ";
+"FORCE_SEND_RECEIPTS_TO" = "إظهار مؤشر قراءة الرسائل لـ";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال مؤشرات التسجيلات الصوتية";
+"FORCE_RECEIPTS_ON" = "إظهار المؤشرات على...";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
+"FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
+"FORCE_RECEIPTS_ON_NEVER" = "أبدًا";
+
+"DISABLE_TYPING_LABEL" = "تعطيل مؤشر الكتابة";
+"DISABLE_TYPING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بكتابة شيء.";
+"NEVER_SEND_TYPING_TO" = "عدم إظهار مؤشر الكتابة لـ";
+"FORCE_SEND_TYPING_TO" = "إظهار مؤشر الكتابة لـ";
+
+"DISABLE_RECORDING_LABEL" = "تعطيل مؤشر التسجيل";
+"DISABLE_RECORDING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بتسجيل مقطع صوتي.";
+"NEVER_SEND_RECORDING_TO" = "عدم إظهار مؤشر التسجيل لـ";
+"FORCE_SEND_RECORDING_TO" = "إظهار مؤشر التسجيل لـ";
+
+"WHITELIST" = "القائمة البيضاء";
+"BLACKLIST" = "القائمة السوداء";
+"SEND_READ_RECEIPTS_BUTTON" = "إظهار مؤشر قراءة الرسالة";
+"SEND_DELIVERY_RECEIPTS_BUTTON" = "Send Delivery Receipts";
+"SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
+"SEND_RECORDING_INDICATOR_BUTTON" = "إظهار مؤشر التسجيل";
+
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "إظهار أدوات التحكم لمؤشرات قراءة الرسائل والكتابة في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال.";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "إظهار أدوات التحكم في صفحة جهة الاتصال";
+
+"DISABLE_DELIVERY_RECEIPTS_DESC" = "جهات اتصالك لن تعلم أنك تلقيت رسائلهم، حيث أنه لن يظهر سوى علامة 'صح' واحدة فقط لديهم.";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "إخفاء مؤشر وصول الرسائل";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "تنبيه! سيؤدي تفعيل هذه الميزة إلى وصول الرسائل بشكل متأخر، والسبب أن خوادم واتساب ستتوقف عن إرسال رسائل جديدة إليك نظرًا لكثرة الرسائل المعلقة لديهم والتي يُنْتظر أن يتم وضع علامة عليها بأنها قد وصلت إليك، ولا يمكن إصلاح هذه المشكلة لأنها تعتمد على خوادم واتساب.";
+
+"LASTSEEN_AUTO_SWITCH_DESC" = "ضبط تلقائي لخصوصية آخر ظهور بحيث لا يراها أحد عندما يكون واتساب في الخلفية، ويراها جهات اتصالك فقط عندما يصبح واتساب قيد الاستخدام.";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "ضبط تلقائي لخصوصية آخر ظهور";
+
+"DISABLE_INTERNET_CONNECTION_DESC" = "تعطيل وصول الإنترنت بالكامل داخل واتساب مما يعني أنك لن تكون قادرًا على إرسال/استقبال أي رسائل ولن يرسل/يستقبل واتساب أي بيانات إلى/من الخادم. يمكنك أيضًا تفعيل/تعطيل هذه الميزة من مركز التحكم.";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "تعطيل وصول الإنترنت";
+
+"MY_CONTACTS_PRIVACY_DESC" = "اختر جهات الاتصال التي ترغب في استبعادها من قائمة جهات الاتصال المرسلة إلى خوادم واتساب.\n\nملاحظات:\n١- لن تتمكن من تعديل/حذف جهات اتصالك المدرجة في القائمة السوداء بعد تفعيل هذه الميزة.\n٢- لن تتغير الصور الشخصية المصغرة لجهات اتصالك المحظورة إلا بعد النقر عليها.\n٣- لن تتلقى وسائط الحالة من جهات اتصالك المدرجة في القائمة السوداء.\n٤- إذا كانت لديك أداة Stalky، فلن تتلقى تغييرات جهات اتصالك المدرجة في القائمة السوداء (التغييرات الخاصة بأداة Stalky).";
+"MY_CONTACTS_PRIVACY_LABEL" = "خصوصية جهات اتصالي";
+"MY_CONTACTS_BLACKLISTED_LABEL" = "جهات الاتصال المدرجة في القائمة السوداء";
+
+"HIDE_CALL_MUTE_DESC" = "لن تعلم جهات اتصالك أنك قمت بكتم الميكروفون أثناء المكالمة.";
+"HIDE_CALL_MUTE_LABEL" = "إخفاء كتم المكالمة";
+
+"DISABLE_VOIP_LABEL" = "حظر المكالمات الواردة";
+"DISABLE_VOIP_DESC" = "المكالمات المحظورة لن تعرض رسالة 'رنين' للمتصل.";
+"DISABLE_VOIP_FILTER_LABEL" = "حظر المكالمات من";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "كل جهات الاتصال";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "كل جهات الاتصال ماعدا";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "الأرقام غير المحفوظة";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "جهات الاتصال المحددة";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "جهات الاتصال المحظورة";
+"DISABLE_VOIP_WHITELIST_LABEL" = "جهات الاتصال المسموح بها";
+
+
+/* Status Addons */
+
+"STATUS_ADDONS_LABEL" = "الحالة";
+
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "شريط حالات في قائمة الدردشات";
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "عرض كل حالات جهات اتصالك داخل شريط أعلى قائمة الدردشات.";
+"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
+"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
+
+"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "الحالات في الدردشات";
+"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "عرض حالات جهات اتصالك والوصول إليها من صور ملفاتهم الشخصية في الدردشات.";
+
+"STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
+"STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "تنزيل";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "تمييز كمُشاهَد";
+
+"STATUS_CAPTION_COPY" = "نسخ الشرح";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "تم نسخ الشرح إلى الحافظة";
+
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "حفظ الصور إلى المكتبة";
+"STATUS_DOWNLOAD_IMAGE_SHARE" = "مشاركة الصورة";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الصورة إلى المكتبة";
+
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "حفظ الفيديو إلى المكتبة";
+"STATUS_DOWNLOAD_VIDEO_SHARE" = "مشاركة الفيديو";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الفيديو إلى المكتبة";
+
+"STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "حفظ كـ فيديو";
+"STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "حفظ كـ GIF";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "مشاركة كـ فيديو";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "مشاركة كـ GIF";
+"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "تم حفظ الـ GIF إلى المكتبة";
+
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "حفظ الصورة إلى المكتبة";
+"STATUS_TEXT_SHARE_IMAGE" = "مشاركة الصورة";
+"STATUS_TEXT_SHARE_TEXT" = "مشاركة النص";
+"STATUS_TEXT_COPY_TEXT" = "نسخ النص";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "تم نسخ النص إلى الحافظة";
+
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل إظهار رؤية الحالة";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها إلى أسفل";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Force Send Viewed to...";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل إظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على أيقونة الصح التي ستصبح موجودة في الجهة السفلية اليسرى لكل حالة.";
+
+"STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
+"STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
+"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
+"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";
+"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "You did not post any statuses yet";
+"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Viewers";
+"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "All Statuses";
+"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Add Contact";
+"STATUS_ARCHIVE_VIEWERS_TITLE" = "Viewers";
+"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Viewers";
+"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Viewer";
+"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Uploaded on";
+"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "You deleted it on";
+"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Delete Status";
+
+"STATUS_CONTACT_GROUPS_DESC" = "إضافة خيار لإنشاء مجموعات و تحديد/إلغاء تحديد جهات اتصالك بسهولة.";
+"STATUS_CONTACT_GROUPS_LABEL" = "إظهار مجموعات جهات الاتصال";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "لا يوجد لديك مجموعات حتى الآن، استخدم زر + لإنشاء واحدة";
+"STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "جهات الاتصال";
+"STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "جهات الاتصال";
+"STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "مجموعة جديدة";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "تحديث المجموعة";
+"STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "ادخل اسم المجموعة";
+"STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "اسم المجموعة";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "إدارة";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "تصدير";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "استيراد";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "حذف";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "حذف المجموعات";
+
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "لن تتم إزالة الحالات التي تحذفها جهات اتصالك من قائمة الحالات حتى تنتهي صلاحيتها الافتراضية ٢٤ ساعة. ستظهر رسالة أعلى الحالات المحذوفة تحتوي على وقت حذفها.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "إبقاء حالات جهات الاتصال المحذوفة";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
+"STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "الفيديوهات التي تزيد مدتها عن ١٥ دقائق غير مدعومة";
+
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "تعطيل التقدم التلقائي للحالات.";
+"STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "تعطيل التقدم التلقائي";
+
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "إخفاء شارة النقطة الزرقاء التي تظهر على أيقونة زر الحالة في الشريط السفلي للتطبيق عندما تكون هناك حالات جديدة.";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "إخفاء شارات شريط الحالة";
+
+
+/* Chats Addons */
+
+"CHATS_ADDONS_LABEL" = "الدردشات";
+
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "استمرار الرسائل الصوتية";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "عندما تقوم بتشغيل رسالة صوتية، ستكون قادرًا على الخروج من الدردشة مع الاستمرار في استماع هذه الرسالة الصوتية. سترى شريطًا صغيرًا في أعلى المحادثة النشطة وفي أعلى قائمة الدردشات أيضًا، والذي من خلاله يمكنك التحكم بالرسالة الصوتية.";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "تسجيل صوتي";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "رسالة صوتية";
+
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد واتساب الزمني لحذف الرسائل.";
+
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "رسالة محذوفة";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
+
+"CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
+"CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";
+"CHAT_DETAILS_SECTION_TITLE" = "Chat Details";
+"CHAT_DETAILS_INF_HEADER" = "Info";
+"CHAT_DETAILS_PROFILE_NAME" = "Profile Name";
+"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Sent & Received Messages";
+"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Sent Messages";
+"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Received Messages";
+"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Media messages are of type Image/Video/Audio/GIF";
+"CHAT_DETAILS_ALL_MESSAGES" = "All Messages";
+"CHAT_DETAILS_ALL_MEDIA" = "All Media";
+"CHAT_DETAILS_TEXT" = "Text";
+"CHAT_DETAILS_IMAGE" = "Image";
+"CHAT_DETAILS_VIDEO" = "Video";
+"CHAT_DETAILS_VOICE" = "Voice";
+"CHAT_DETAILS_AUDIO" = "Audio";
+"CHAT_DETAILS_STICKER" = "Sticker";
+"CHAT_DETAILS_DOCUMENT" = "Document";
+"CHAT_DETAILS_GIF" = "GIF";
+"CHAT_DETAILS_CONTACT" = "Contact";
+"CHAT_DETAILS_LOCATION" = "Location";
+"CHAT_DETAILS_LINKS" = "Links";
+"CHAT_DETAILS_DELETED" = "Deleted";
+
+"ABOUT_ON_CHATS_DESC" = "إظهار الحالة الخاصة بجهة الاتصال أسفل اسمه في شريط صغير داخل المحادثة.";
+"ABOUT_ON_CHATS_LABEL" = "الحالة في المحادثة";
+
+"TAP_TO_RECORD_DESC" = "انقر مرة واحدة لبدء تسجيل مقطع صوتي وانقر مرة أخرى لإرسال هذا التسجيل أو انقر مع السحب إلى اليسار لحذف هذا التسجيل.";
+"TAP_TO_RECORD_LABEL" = "انقر للتسجيل";
+"TAP_TO_RECORD_SLIDE_LABEL" = "انقر واسحب إلى اليسار للإلغاء";
+
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "تعطيل التشغيل التلقائي للصوتيات";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "إيقاف واتساب من تشغيل الرسالة الصوتية التالية تلقائيًا.";
+
+"DISABLE_FORWARD_INDICATOR_LABEL" = "إخفاء علامة 'رسالة محولة'";
+"DISABLE_FORWARD_INDICATOR_DESC" = "إخفاء علامة 'رسالة محولة' عند تحويل أي رسائل إلى جهات الاتصال الخاصة بك.";
+
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "زيادة حد التحويل";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "زيادة حد عدد جهات الاتصال المسموح به في تحويل الرسالة من ٥ إلى ٢٠. هذا الخيار كان يستخدم للسماح بتحويل الرسالة إلى عدد غير محدود من جهات الاتصال، ولكن واتساب الآن بدأت في التحقق من هذا الأمر على الخادم الخاص بهم، ولذلك قمت بتخفيضه إلى ٢٠ لحماية حسابك.";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "تأكيد إرسال الملصقات";
+"CONFIRM_SENDING_STICKER_DESC" = "إظهار تنبيه بتأكيد إرسال الملصق قبل إرساله.";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "إرسال الملصق";
+
+"CALL_CONFIRM_DESC" = "الحصول على تنبيه بالتأكيد عند الضغط على أزرار الاتصال (الصوتي أو الفيديو)، كما يمكنك الاختيار بين مكالمة واتساب ومكالمة عادية.";
+"CALL_CONFIRM_LABEL" = "تأكيد الاتصال";
+"CALL_CONFIRM_RECENTS_LABEL" = "تأكيد الاتصال في قسم المكالمات";
+"START_VIDEO_CALL_WITH" = "بدء مكالمة فيديو مع";
+"START_VOICE_CALL_WITH" = "بدء مكالمة صوتية مع";
+"START_GROUP_VIDEO_CALL_WITH" = "بدء مكالمة جماعية صوتية";
+"START_GROUP_VOICE_CALL_WITH" = "بدء مكالمة فيديو جماعية";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "مكالمة واتساب فيديو";
+"WHATSAPP_VOICE_CALL_BUTTON" = "مكالمة واتساب صوتية";
+"CARRIER_CALL_BUTTON" = "اتصال عادي";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "الاتصال العادي غير متاح!";
+
+"GROUP_MEMBERS_PICTURE_DESC" = "إظهار الصورة الشخصية لكل عضو في المجموعة بجانب رسائله.\nيمكن أيضًا النقر على الصورة لعرضها.";
+"GROUP_MEMBERS_PICTURE_LABEL" = "صور أعضاء المجموعة";
+
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد رسائل كل عضو في المجموعة بجانب صورته الشخصية في معلومات المجموعة.";
+
+"BATCH_DELETE_MESSAGES_DESC" = "Adds a delete button in chat edit toolbar to delete multiple messages at once";
+"BATCH_DELETE_MESSAGES_LABEL" = "Batch Delete Messages";
+
+"MESSAGE_FORWARD_DESC" = "إضافة زر تحويل جديد إلى شريط أدوات تحرير الدردشة والذي يمكن استخدامه في تحويل عدة رسائل إلى أكثر من جهة اتصال في كل مرة.";
+"MESSAGE_FORWARD_LABEL" = "تحويل الرسالة";
+"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "لا توجد جهات اتصال محددة";
+"MESSAGE_FORWARD_BUTTON_TITLE" = "تحويل";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "تحويل %zd رسالة لـ %zd جهة اتصال";
+
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "إضافة رمز بجانب الرسائل التي يتم إرسالها عبر قوائم الرسائل الجماعية وذلك لتستطيع التمييز بينها وبين الرسائل الموجهة إليك بشكل مباشر.";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "تمييز الرسائل الجماعية";
+
+"IN_APP_BROWSER_DESC" = "فتح الروابط وصفحات الويب داخل واتساب بدلًا من الانتقال إلى متصفح Safari.";
+"IN_APP_BROWSER_LABEL" = "متصفح داخل التطبيق";
+
+"CLEAR_BROADCAST_BUTTON_DESC" = "إضافة زر في الجزء العلوي الأيسر من دردشات قوائم الرسائل الجماعية يتيح لك إزالة الدردشة عند حذف الرسائل.";
+"CLEAR_BROADCAST_BUTTON_LABEL" = "إزالة دردشات قوائم الرسائل الجماعية";
+"CLEAR_BROADCAST_ALERT_MESSAGE" = "إزالة دردشات قوائم الرسائل الجماعية المحفوظة";
+"CLEAR_BROADCAST_ALERT_BUTTON" = "إزالة";
+"CLEAR_BROADCAST_NAVBAR_BUTTON" = "إزالة الدردشة";
+
+"SEND_RETURN_KEY_DESC" = "استبدال زر الرجوع في لوحة المفاتيح بزر الإرسال.";
+"SEND_RETURN_KEY_LABEL" = "استخدام زر الإرسال بدلًا من زر الرجوع";
+
+
+/* Chat List Addons */
+
+"CHAT_LIST_ADDONS_LABEL" = "قائمة الدردشات";
+
+"CHAT_LIST_FILTER_DESC" = "إضافة واجهة جديدة على الشريط العلوي لقائمة الدردشات لتصفية وفرز الدردشات.";
+"CHAT_LIST_FILTER_LABEL" = "تصفية وفرز قائمة الدردشات";
+"CHAT_LIST_FILTER_SECTION_HEADER" = "تصفية";
+"CHAT_LIST_FILTER_ALL_TITLE" = "الكل";
+"CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "الكل";
+"CHAT_LIST_FILTER_UNREAD_TITLE" = "الغير مقروءة";
+"CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "الغير مقروءة";
+"CHAT_LIST_FILTER_GROUPS_TITLE" = "المجموعات";
+"CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "المجموعات";
+"CHAT_LIST_FILTER_UNSAVED_TITLE" = "الغير محفوظة";
+"CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE" = "الغير محفوظة";
+"CHAT_LIST_SORT_SECTION_HEADER" = "فرز";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "الافتراضي";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "الافتراضي";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE" = "تصاعديًا حسب تاريخ الرسالة";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE" = "التاريخ ↓";
+"CHAT_LIST_SORT_NAME_ASC_TITLE" = "اسم الدردشة أ-ي";
+"CHAT_LIST_SORT_NAME_ASC_SHORT_TITLE" = "الاسم ↓";
+"CHAT_LIST_SORT_NAME_DESC_TITLE" = "اسم الدردشة ي-أ";
+"CHAT_LIST_SORT_NAME_DESC_SHORT_TITLE" = "الاسم ↑";
+
+"ARCHIVE_LOCK_DESC" = "اضغط مطولًا على أي محادثة موجودة في الأرشيف لطلب قفلها، وأي محادثة سيتم قفلها لن تعود لقائمة المحادثات بعد ذلك عند تلقي رسالة جديدة، ويمكنك إدارة دردشاتك المقفلة في الأرشيف عن طريق أيقونة القفل الموجودة في أعلى اليسار في نفس الصفحة.";
+"ARCHIVE_LOCK_LABEL" = "قفل محادثات الأرشيف";
+"ARCHIVE_LOCK_MUTE_LABEL" = "كتم إشعارات الدردشات المقفلة";
+"ARCHIVE_LOCKED_CHATS" = "الدردشات المغلقة في الأرشيف";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "فتح قفل الدردشة";
+"ARCHIVE_LOCK_LOCK_TITLE" = "قفل المحادثة";
+"ARCHIVE_LOCK_UNLOCK_MESSAGE" = "عند استلام رسالة جديدة، ستنتقل الدردشة مرة أخرى إلى قائمة الدردشات.";
+"ARCHIVE_LOCK_LOCK_MESSGAE" = "عند تلقي رسالة جديدة من جهة الاتصال هذه، ستنتقل دردشتها إلى قائمة المحادثات.";
+"ARCHIVE_LOCK_LOCK_BUTTON" = "قفل";
+"ARCHIVE_LOCK_UNLOCK_BUTTON" = "فتح القفل";
+"ARCHIVE_LOCK_TABLE_TITLE" = "مقفلة في الأرشيف";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "هذه الدردشة مغلقة في الأرشيف.\nهل تريد فتح قفل هذه الدردشة وإلغاء أرشفتها؟";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "فتح القفل وإلغاء الأرشفة";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "قفل في الأرشيف";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "فتح القفل من الأرشيف";
+
+"UNLIMITED_PINNED_CHATS_LABEL" = "تثبيت أكثر من ٣ دردشات";
+"UNLIMITED_PINNED_CHATS_DESC" = "ستتمكن من تثبيت عدد لا نهائي من الدردشات.";
+
+"GROUPS_LIST_DESC" = "إضافة زر شريط متنقل يمكنك من خلاله فتح قائمة تحتوي على جميع مجموعاتك.";
+"GROUPS_LIST_LABEL" = "قائمة المجموعات";
+"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "الرئيسية";
+"GROUPS_LIST_GROUP_LABEL" = "المجموعات";
+"GROUPS_LIST_BROADCAST_LABEL" = "قوائم الرسائل الجماعية";
+
+"OPEN_PICTURE_ON_TAP_DESC" = "سيؤدي ذلك إلى إمكانية عرض الصورة الشخصية لجهات اتصالك عن طريق النقر على صورهم الشخصية المصغرة في قائمة الدردشة أو المفضلة.";
+"OPEN_PICTURE_ON_TAP_LABEL" = "عرض الصورة عن طريق النقر";
+
+"NEW_CHAT_OPTIONS_DESC" = "سيُظهر النقر على زر الدردشة الجديدة نافذة تنبيه مع خيار لإدخال رقم هاتف للإرسال على واتساب بدون الحاجة لحفظ الرقم وتعيينه كجهة اتصال لديك.";
+"NEW_CHAT_OPTIONS_LABEL" = "خيارات الدردشة الجديدة";
+"NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "بدء دردشة جديدة";
+"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "اختيار جهة اتصال";
+"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "أدخل الرقم";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "أدخل رقم الهاتف عن طريق إضافة رمز الدولة متبوعًا بالرقم بدون كتابة أي رموز إضافية.";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "فتح الدردشة";
+
+"SWIPE_TO_DELETE_DESC" = "اسحب أي دردشة في قائمة الدردشات إلى أقصى اليمين لحذفها.";
+"SWIPE_TO_DELETE_LABEL" = "التمرير لحذف الدردشة";
+"SWIPE_TO_DELETE_BUTTON" = "التمرير لحذف الدردشة";
+"SWIPE_TO_DELETE_MESSAGE" = "حذف الدردشة";
+
+"SWIPE_FOR_CONTACT_INFO_DESC" = "إضافة خيار جديد في قائمة التمرير اليسرى للدردشات للتحقق مباشرة من معلومات ووسائط جهة اتصالك.";
+"SWIPE_FOR_CONTACT_INFO_LABEL" = "التمرير لعرض معلومات جهة الاتصال";
+"SWIPE_FOR_CONTACT_INFO_BUTTON" = "حول";
+
+"CLEAR_CHATS_BUTTON_DESC" = "إضافة زر إزالة في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
+"CLEAR_CHATS_BUTTON_LABEL" = "زر إزالة الدردشات";
+"CLEAR_CHATS_CLEAR_BUTTON" = "إزالة";
+"CLEAR_SELECTED_CHATS_BUTTON" = "إزالة الدردشات المحددة";
+"CLEAR_ALL_CHATS_BUTTON" = "إزالة كل الدردشات";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "إزالة كل الدردشات بما في ذلك المؤرشفة.";
+
+
+/* Other Addons */
+
+"OTHER_ADDONS_LABEL" = "إضافات أخرى";
+
+"MANAGE_TABS_ENABLE_LABEL" = "Manage Tab Bar";
+"MANAGE_TABS_ORGANIZE_LABEL" = "Tab Bar Items";
+"MANAGE_TABS_DESC" = "Reorder and remove default WhatsApp tabs or add custom ones";
+"MANAGE_TABS_ORGANIZE_TITLE" = "Tab Bar Items";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Enabled";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "You can only enable 5 items at once";
+"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Disabled";
+"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Calls";
+"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Camera";
+"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favorites";
+"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Groups";
+"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "System";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Reset Defaults";
+
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد ٢٥٦ جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من ٢٥٦ جهة اتصال ولكن لم لا تجرب ذلك.";
+"GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
+"GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "الكل";
+"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "لا أحد";
+
+"GENERATE_BROADCAST_LISTS_LABEL" = "إنشاء قوائم رسائل جماعية";
+"GENERATE_BROADCAST_LISTS_DESC" = "إضافة زر في قوائم الرسائل الجماعية لإنشاء قوائم متعددة تلقائيًا من جهات اتصال واتساب خاصتك.";
+"GENERATE_BROADCAST_LISTS_BUTTON_TITLE" = "إنشاء قوائم";
+"GENERATE_BROADCAST_LISTS_ALERT_TITLE" = "إنشاء قوائم رسائل جماعية";
+"GENERATE_BROADCAST_LISTS_ALERT_MESSAGE" = "سيؤدي هذا إلى إنشاء قوائم رسائل جماعية متعددة تلقائيًا مع ٢٥٦ جهة اتصال في كل واحدة منها من جهات اتصال واتساب خاصتك";
+"GENERATE_BROADCAST_LISTS_ALERT_ACTION" = "إنشاء";
+
+"INCREASE_ABOUT_LENGHT_DESC" = "زيادة عدد أحرف الحالة من ١٣٩ حرف إلى ٢٥٦ حرف.";
+"INCREASE_ABOUT_LENGHT_LABEL" = "زيادة أحرف الحالة";
+
+
+/* Protection */
+
+"PROTECTION_LABEL" = "الحماية";
+
+"APP_PROTECTION_LABEL" = "حماية التطبيق";
+"DELETE_APP_PASSCODE" = "حذف كلمة مرور التطبيق";
+"SET_APP_PASSCODE" = "تعيين كلمة مرور للتطبيق";
+"USE_TOUCH_ID" = "استخدام بصمة الوجه";
+"USE_FACE_ID" = "استخدام بصمة الإصبع";
+
+"CHAT_PROTECTION_LABEL" = "حماية الدردشة";
+"CHAT_PROTECTION_LOCKED_CHATS" = "الدردشات المقفلة";
+"CHAT_PROTECTION_LOCK_ALL_CHATS" = "قفل جميع الدردشات";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "استخدام بصمة الإصبع";
+"CHAT_PROTECTION_USE_FACE_ID" = "استخدام بصمة الوجه";
+"CHAT_PROTECTION_UNLOCK_BUTTON" = "فتح القفل";
+"CHAT_PROTECTION_LOCK_BUTTON" = "قفل";
+
+"HIDE_LAST_MESSAGE_LABEL" = "إخفاء آخر رسالة";
+"HIDE_LAST_MESSAGE_NONE" = "لا شيء";
+"HIDE_LAST_MESSAGE_LOCKED" = "مقفل";
+"HIDE_LAST_MESSAGE_ALL" = "الكل";
+
+"BYPASS_PROTECTION_LABEL" = "تخطي حماية التطبيق";
+"BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";
+"BYPASS_APP_PROTECTION_LABEL" = "تخطي حماية التطبيق";
+"BYPASS_CHAT_PROTECTION_LABEL" = "تخطي حماية الدردشة";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "أسماء شبكات الـ WiFi";
+
+
+/* Media */
+
+"MEDIA_LABEL" = "الوسائط";
+
+"SHARE_SHEET_DESC" = "إضافة المزيد من الخيارات إلى قائمة أزرار المشاركة مثل إرسال آخر صورة في ألبوم الكاميرا، مشاركة الموسيقى، حظر/إلغاء حظر جهة الاتصال، وغيرها...";
+"SHARE_SHEET_LABEL" = "أزرار المشاركة";
+"SHARE_SHEET_ACTIVE_BUTTONS" = "تفعيل الأزرار";
+"SHARE_SHEET_STYLE" = "الشكل";
+"SHARE_SHEET_STYLE_DEFAULT" = "افتراضي";
+"SHARE_SHEET_STYLE_IMAGE_PICKER" = "قائمة الصور";
+"SHARE_SHEET_STYLE_DARK" = "أسود";
+"SHARE_SHEET_STYLE_WHITE" = "أبيض";
+
+"SHARE_SHEET_BUTTONS_LABEL" = "أزرار المشاركة";
+"SHARE_SHEET_ENABLED_LABEL" = "الأزرار المفعلة";
+"SHARE_SHEET_DISABLED_LABEL" = "الأزرار المعطلة";
+
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "إرسال الصور المحددة";
+"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "أخذ صورة أو فيديو";
+"SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "مكتبة الصور/الفيديوهات";
+"SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "مكتبة الصور";
+"SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "مكتبة الفيديوهات";
+"SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "مشاركة آخر صورة";
+"SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "مشاركة مستندات";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "مشاركة ملفات من الجهاز";
+"SHARE_SHEET_SHARE_LOCATION_BUTTON" = "مشاركة الموقع";
+"SHARE_SHEET_SHARE_CONTACT_BUTTON" = "مشاركة جهة اتصال";
+"SHARE_SHEET_SHARE_MUSIC_BUTTON" = "مشاركة الموسيقى";
+"SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "حظر/إلغاء حظر جهة الاتصال";
+"SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "حظر جهة الاتصال";
+"SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "إلغاء حظر جهة الاتصال";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
+"SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
+"SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
+
+"BLOCK" = "حظر";
+"UNBLOCK" = "إلغاء الحظر";
+"BLOCK_CONTACT" = "حظر جهة الاتصال";
+"UNBLOCK_CONTACT" = "إلغاء حظر جهة الاتصال";
+"BLOCK_CONTACT_MESSAGE" = "اضغط على \"حظر\" للتوقف عن تلقي الرسائل من جهة الاتصال هذه";
+"UNBLOCK_CONTACT_MESSAGE" = "انقر على \"إلغاء الحظر\" لبدء تلقي الرسائل من جهة الاتصال هذه";
+
+"SHARE_DEVICE_FILES_DESC" = "إضافة زر جديد لمشاركة المستندات والذي يتيح لك مشاركة أي ملف من جهازك.";
+"SHARE_DEVICE_FILES_LABEL" = "مشاركة ملفات الجهاز";
+"SHARE_DEVICE_FILES_BUTTON" = "ملفات الجهاز";
+
+"SELECT_UNLIMITED_PHOTOS_DESC" = "تحديد عدد لا نهائي من الصور لإرسالها دفعة واحدة.";
+"SELECT_UNLIMITED_PHOTOS_LABEL" = "عدد لانهائي من الصور";
+
+"MEDIA_DELETE_BUTTON_DESC" = "إضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
+"MEDIA_DELETE_BUTTON_LABEL" = "زر حذف الوسائط";
+"MEDIA_DELETE_ALERT_MESSAGE" = "حذف جميع الوسائط";
+
+"MEDIA_FORWARD_BUTTON_DESC" = "إضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط إلى أكثر من جهة اتصال في آنٍ واحد.";
+"MEDIA_FORWARD_BUTTON_LABEL" = "زر تحويل الوسائط";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "تحويل الوسائط إلى %zd جهة اتصال";
+
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "تعطيل حفظ الوسائط المرسلة بواسطة كاميرا واتساب في تطبيق الصور لديك.";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "تعطيل حفظ صور كاميرا واتساب";
+
+
+/* User Interface */
+
+"USER_INTERFACE_LABEL" = "واجهة المستخدم";
+
+"MY_NUMBER" = "رقمي:";
+"%zd_CONTACTS" = "%zd جهات الاتصال";
+
+"DISABLE_LARGE_EMOJI_DESC" = "تعطيل الإيموجي الكبير الذي يظهر عندما تحتوي الرسالة على إيموجي واحد فقط أو اثنين فقط أو ثلاثة فقط.";
+"DISABLE_LARGE_EMOJI_LABEL" = "تعطيل الإيموجي الكبير";
+
+"SHOW_SECONDS_DESC" = "إضافة عدّاد الثواني في آخر ظهور/الرسائل وأي شيء يظهر فيه الوقت داخل تطبيق واتساب.";
+"SHOW_SECONDS_LABEL" = "إظهار الثواني";
+
+"AUTO_SHOW_KEYBOARD_DESC" = "إظهار لوحة المفاتيح مباشرة عند الدخول إلى المحادثة.";
+"AUTO_SHOW_KEYBOARD_LABEL" = "إظهار لوحة المفاتيح";
+
+"DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب إلى الوضع الأفقي.";
+"DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الأفقي";
+
+"DISABLE_LARGE_TITLES_DESC" = "تعطيل العناوين الكبيرة الموجودة في iOS 11 وأعلى على الأشرطة العلوية لتبويبات واتساب.";
+"DISABLE_LARGE_TITLES_LABEL" = "تعطيل العناوين الكبيرة";
+
+"MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات لوحة المفاتيح.";
+"MUTE_SOUND_LABEL" = "كتم الأصوات";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات لوحة المفاتيح";
+
+"HIDE_WEB_SETTINGS_ROW_LABEL" = "Hide WhatsApp Web";
+"HIDE_WEB_SETTINGS_ROW_DESC" = "Remove WhatsApp Web section from settings";
+
+"HIDE_CHAT_BUTTONS_DESC" = "إخفاء أزرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
+"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "إخفاء زر الكاميرا";
+"HIDE_CHAT_MIC_BUTTON_LABEL" = "إخفاء زر الميكروفون";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
+
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Hide your contacts profile pictures from chats and chat list";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Hide Picture in Chats";
+"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Hide Pictures in Chat List";
+
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
+"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "إخفاز زر اتصال الفيديو";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال في المجموعة";
+
+"FULLSCREEN_MODE_DESC" = "إخفاء شريط الحالة داخل تطبيق واتساب.";
+"FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة";
+
+"IPAD_FULLSCREEN_MODE_DESC" = "فتح واتساب في وضع ملء الشاشة مثل أي تطبيق آخر متوافق مع شاشة الـ iPad.";
+"IPAD_FULLSCREEN_MODE_LABEL" = "وضع ملء الشاشة للـ iPad";
+
+
+/* Notifications */
+
+"NOTIFICATIONS_LABEL" = "الإشعارات";
+
+"PRIVATE_NOTIFICATION_DESC" = "استبدل جميع محتويات إشعارات واتساب بمحتوى معين تخصصه أنت من أجل حماية خصوصيتك.\n\nيمكنك استخدام الإشعار الأصلي باستخدام:\n%[عنوان] للحصول على عنوان الإشعار.\n%[رسالة] للحصول على رسالة الإشعار.";
+"PRIVATE_NOTIFICATION_LABEL" = "الإشعارات الخاصة";
+"PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "الرسالة";
+"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "رسالة الإشعار";
+"PRIVATE_NOTIFICATION_TITLE_LABEL" = "العنوان";
+"PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "اسم جهة الاتصال";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "فلترة";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "لا شيء";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "القائمة البيضاء";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "القائمة السوداء";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "قائمة الفلترة";
+
+"HIDE_MUTED_BADGES_DESC" = "إخفاء شارات واتساب للدردشات والمجموعات التي تم كتمها.";
+"HIDE_MUTED_BADGES_LABEL" = "إخفاء شارات الكتم";
+
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "استبدال أيقونة واتساب على الإشعارات بصورة ملف التعريف الخاصة بجهة الاتصال.";
+"CONTACT_ICON_NOTIFICATION_LABEL" = "أيقونة الإشعارات";
+
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "تفعيل الإشعارات الداخلية";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "سيعمل هذا الخيار على إبقاء واتساب نشطًا في الخلفية دائمًا، ولكنه سيزيد من استهلاك البطارية.";
+
+
+/* Theme */
+
+"THEME_LABEL" = "الموضوعات";
+
+"CREATE_NEW_THEME_ACTION_BUTTON" = "إنشاء موضوع جديد";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "استيراد موضوع من الملفات";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "ملف موضوع غير صالح";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "يجب أن يكون الملف من نوع plist وأن يكون ملفًا صالحًا كذلك";
+
+"NEW_THEME_ALERT_TITLE" = "موضوع جديد";
+"NEW_THEME_ALERT_MESSAGE" = "أدخل اسم الموضوع الجديد الخاص بك";
+"NEW_THEME_ALERT_PLACEHOLDER" = "موضوع";
+
+"THEMES_SECTION_HEADER" = "الموضوعات";
+"THEMES_SECTION_FOOTER" = "انقر على زر + لإنشاء موضوع جديد.\nاسحب الموضوع لليمين أو اضغط عليه مطولًا لتعديله.\nانقر على الموضوع الذي تريده لتنشيطه.";
+"THEMES_STORE_LABEL" = "متجر الموضوعات";
+
+"EDIT_THEME" = "تعديل الموضوع";
+"THEME_NAME" = "اسم الموضوع";
+
+"THEME_GENERAL_SECTION_TITLE" = "عام";
+"APP_TINTCOLOR_LABEL" = "لون أزرار وعناصر التطبيق";
+"DARK_MODE_LABEL" = "الوضع اليلي";
+"DARK_MODE_ENABLE_LABEL" = "تفعيل الوضع الليل";
+"BLACK_WALLPAPER_LABEL" = "خلفية سوداء للمحادثات";
+"KEYBOARD_STYLE_LABEL" = "شكل لوحة المفاتيح";
+"KEYBOARD_STYLE_DEFAULT" = "افتراضي";
+"KEYBOARD_STYLE_DARK" = "ليلي";
+"KEYBOARD_STYLE_DARK_BLUE" = "ليلي وأزرق";
+"BARS_BACKGROUND_COLOR_LABEL" = "لون خلفية الشرائط";
+
+"THEME_CHATS_SECTION_TITLE" = "الدردشات";
+
+"CHATS_TEXT_STYLE_LABEL" = "شكل النص";
+"FONT_NAME_LABEL" = "اسم الخط";
+"TEXT_SIZE_LABEL" = "حجم النص";
+"CONTACT_NAME_SIZE_LABEL" = "حجم اسم جهة الاتصال";
+"ENABLE_FONT_STYLE_LABEL" = "تفعيل تخصيص الخط";
+"RECEIVED_MESSAGE_COLOR_LABEL" = "لون الرسالة المستلمة";
+"SENT_MESSAGE_COLOR_LABEL" = "لون الرسالة المرسلة";
+"URL_COLOR_LABEL" = "لون عناوين URL";
+"GROUP_EVENT_COLOR_LABEL" = "لون أحداث المجموعة";
+"SYSTEM_EVENT_COLOR_LABEL" = "لون أحداث النظام";
+"DATE_BUBBLE_COLOR_LABEL" = "لون فقاعة التاريخ";
+"TEXT_INPUT_COLOR_LABEL" = "لون النص المُدخل";
+
+"CHATS_BACKGROUND_COLOR_LABEL" = "ألوان الخلفية";
+"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "خلفية الفقاعة المستلمة";
+"SENT_BUBBLE_BACKGROUND_LABEL" = "خلفية الفقاعة المرسلة";
+"OPACITY_LABEL" = "Opacity";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "شفافية الفقاعة المستلمة";
+"SENT_BUBBLE_OPACITY_LABEL" = "شفافية الفقاعة المرسلة";
+"DATE_BUBBLE_BACKGROUND_LABEL" = "خلفية فقاعة التاريخ";
+
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "عناصر حالة الرسالة";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "علامات تحقق حالة الرسالة";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "وقت الرسالة";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "ذيل حالة الرسالة";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "النص الموجود بجوار الوقت الزمني، الخيار لفقاعة رسالة المستند بشكل أساسي.";
+"SENT_COLOR_LABEL" = "لون المرسل";
+"DELIVERED_COLOR_LABEL" = "لون المستلم";
+"READ_COLOR_LABEL" = "لون المقروء";
+"RECEIVED_COLOR_LABEL" = "لون المستلم";
+"STARRED_INDICATOR_COLOR_LABEL" = "لون إشارة المميز بنجمة";
+"REVOKED_INDICATOR_COLOR_LABEL" = "لون مؤشر الحذف";
+"REVOKED_INDICATOR_COLOR_DESC" = "أيقونة Watusi التي تكون بجانب الرسائل المحذوفة.";
+
+"THEME_TABLES_SECTION_TITLE" = "الجداول";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "لون خلفية المساحة الفاصلة";
+"TABLES_SEPARATORS_LABEL" = "الخطوط الفاصلة";
+"SEPARATOR_COLOR_LABEL" = "لون الخطوط الفاصلة";
+"HIDE_SEPARATOR_LABEL" = "إخفاء الخطوط الفاصلة";
+
+
+/* Hide Chats */
+
+"ENABLE_HIDE_CHATS" = "تفعيل";
+"HIDE_CHATS_LABEL" = "إخفاء الدردشات";
+"HIDE_CHATS_DESC" = "ستختفي الدردشات المخفية من قائمة الدردشات وستظهر المحادثة فارغة عند فتحها من مكان آخر. يمكنك عرض رسائل دردشاتك المخفية من هذه الصفحة فقط.";
+"HIDDEN_CHATS" = "الدردشات المخفية";
+"HIDDEN_CHATS_MESSAGES" = "رسائل الدردشات المخفية";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "إخفاء الإشعارات داخل التطبيق";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "إخفاء الإشعارات خارج التطبيق";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "لن تُظهر الدردشات المخفية إشعارات الرسائل الجديدة";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "إعدادات حماية الدردشات المخفية";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل لدردشة مخفية.";
+
+
+/* Auto Reply */
+
+"AUTO_REPLY_LABEL" = "الرد التلقائي";
+"AUTO_REPLY_ENABLE_LABEL" = "تمكين";
+"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
+
+"AUTO_REPLY_LIST_TITLE" = "الردود التلقائية";
+
+"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "تشغيل";
+"AUTO_REPLY_CONFIGURATION_VALUE_OFF" = "إيقاف";
+
+"AUTO_REPLY_EDIT_NAME_HEADER" = "الاسم";
+"AUTO_REPLY_EDIT_NAME_PLACEHOLDER" = "اسم الرد التلقائي";
+"AUTO_REPLY_EDIT_REPLY_CONDITIONS_HEADER" = "شروط الرد";
+
+"AUTO_REPLY_EDIT_RECIPIENTS_LABEL" = "المستلمون";
+"AUTO_REPLY_RECIPIENTS_NONE" = "لا شيء";
+"AUTO_REPLY_RECIPIENTS_CONTACTS" = "جهات الاتصال";
+"AUTO_REPLY_RECIPIENTS_GROUPS" = "المجموعات";
+"AUTO_REPLY_RECIPIENTS_UNKNOWN_CONTACTS" = "جهات اتصال غير معروفة";
+"AUTO_REPLY_RECIPIENTS_ALL_CHATS" = "كل المحادثات";
+"AUTO_REPLY_RECIPIENTS_ALL_CONTACTS_EXCEPT" = "استثناء جهات الاتصال";
+"AUTO_REPLY_RECIPIENTS_ALL_GROUPS_EXCEPT" = "استثناء المجموعات";
+"AUTO_REPLY_RECIPIENTS_ALL_CHATS_EXCEPT" = "استثناء كل المحادثات";
+"AUTO_REPLY_RECIPIENTS_EXCLUDED_CHATS" = "المحادثات المستبعدة";
+"AUTO_REPLY_RECIPIENTS_SELECTED_CHATS" = "المحادثات المحددة";
+"AUTO_REPLY_RECIPIENTS_SELECTED_CHATS_LABEL" = "المحادثات";
+
+"AUTO_REPLY_EDIT_MESSAGE_TYPE_LABEL" = "نوع الرسالة";
+"AUTO_REPLY_MESSAGE_TYPE_ALL_TYPES" = "كل الأنواع";
+"AUTO_REPLY_MESSAGE_TYPE_TEXT" = "نص";
+"AUTO_REPLY_MESSAGE_TYPE_IMAGE" = "صورة";
+"AUTO_REPLY_MESSAGE_TYPE_VIDEO" = "فيديو";
+"AUTO_REPLY_MESSAGE_TYPE_AUDIO" = "صوت";
+"AUTO_REPLY_MESSAGE_TYPE_GIF" = "صورة متحركة";
+"AUTO_REPLY_MESSAGE_TYPE_LOCATION" = "موقع";
+"AUTO_REPLY_MESSAGE_TYPE_CONTACT" = "جهة اتصال";
+"AUTO_REPLY_MESSAGE_TYPE_WEB_PAGE" = "صفحة ويب";
+"AUTO_REPLY_MESSAGE_TYPE_DOCUMENT" = "مستند";
+"AUTO_REPLY_MESSAGE_TYPE_STICKER" = "ملصق";
+
+"AUTO_REPLY_EDIT_TEXT_MATCHING_LABEL" = "مطابقة النصوص";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_DESC" = "ميزة مطابقة النصوص لن تعمل إلا مع الرسائل من نوع نص.";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ENABLE_LABEL" = "تمكين مطابقة النصوص";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_LABEL" = "نوع المطابقة";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_CONTAINS" = "الرسالة تحتوي";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_EQUALS" = "الرسالة تحتوي";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH" = "تطابق غير حساس لحالة الأحرف";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH_DESC" = "سيتم التعامل مع الأحرف الكبيرة والصغيرة على أنها متشابهة.";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_MATCHING_TEXT" = "إضافة نص تطابق";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_FILTER_CONTENT" = "إضافة تصفية محتوى";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_EDIT_FILTER_CONTENT" = "تعديل تصفية محتوى";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS" = "الرسالة تحتوي";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS" = "الرسالة تساوي";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS_SHORT" = "المحتويات";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS_SHORT" = "تساوي";
+
+"AUTO_REPLY_MESSAGE_HEADER" = "الرد بـ";
+"AUTO_REPLY_MESSAGE_LABEL" = "رسالة";
+"AUTO_REPLY_MESSAGE_SOURCE_LABEL" = "مصدر الرسالة";
+"AUTO_REPLY_MESSAGE_SOURCE_DESC" = "المصدر الخاص برسالة الرد.";
+"AUTO_REPLY_MESSAGE_SOURCE_LOCAL" = "محلي";
+"AUTO_REPLY_MESSAGE_SOURCE_WEBSERVER" = "ويب";
+"AUTO_REPLY_MESSAGE_REPLY_MESSAGE_LABEL" = "رسالة الرد";
+"AUTO_REPLY_MESSAGE_REPLY_MESSAGE_DESC" = "الرسالة التي سيتم الرد بها تلقائيًا.";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "العلامات المتاحة";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "يمكن تضمين العلامات في نص الرسالة لاستبدالها بقيمتها المقابلة.";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "استبدال باسم جهة الاتصال التي قمت بحفظها أو بوصف المجموعة.";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "استبدال بالرسالة المستلمة.";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "استبدال بتاريخ الرسالة المستلمة بالتنسيق ١ يناير ٢٠٢٠، ١:٢٠";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "سيتم استبدال العلامات بقيمتها المقابلة";
+"AUTO_REPLY_MESSAGE_WEB_URL_LABEL" = "عنوان URL الويب";
+"AUTO_REPLY_MESSAGE_WEB_URL_DESC" = "عنوان URL للويب الذي سيتم طلب الرسالة النصية منه.";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_FORMAT_LABEL" = "تنسيق طلب الويب";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_POST_DATA_HEADER" = "بيانات منشور الطلب";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_HEADER" = "الاستجابة";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_FORMAT_LABEL" = "التنسيق";
+
+"AUTO_REPLY_TIME_RANGE_HEADER" = "الرد خلال";
+"AUTO_REPLY_TIME_RANGE_LABEL" = "المدى الزمني";
+"AUTO_REPLY_TIME_RANGE_NO_RANGE" = "بدون مدى";
+"AUTO_REPLY_TIME_RANGE_ENABLE_LABEL" = "تمكين المدى الزمني";
+"AUTO_REPLY_TIME_RANGE_START_HEADER" = "البداية";
+"AUTO_REPLY_TIME_RANGE_END_HEADER" = "النهاية";
+"AUTO_REPLY_TIME_RANGE_TIME_LABEL" = "الساعة";
+"AUTO_REPLY_TIME_RANGE_DAY_LABEL" = "اليوم";
+
+"AUTO_REPLY_DELAY_HEADER" = "التأخير";
+"AUTO_REPLY_DELAY_LABEL" = "التأخير بين الردود";
+"AUTO_REPLY_DELAY_NONE" = "بدون تأخير";
+"AUTO_REPLY_DELAY_ONE_MINUTE" = "دقيقة واحدة";
+"AUTO_REPLY_DELAY_FIVE_MINUTES" = "٥ دقائق";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES" = "٣٠ دقيقة";
+"AUTO_REPLY_DELAY_ONE_HOUR" = "ساعة واحدة";
+"AUTO_REPLY_DELAY_ONE_MINUTE_SHORT" = "١ د";
+"AUTO_REPLY_DELAY_FIVE_MINUTES_SHORT" = "٥ د";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES_SHORT" = "٣٠ د";
+"AUTO_REPLY_DELAY_ONE_HOUR_SHORT" = "١ س";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES" = "عدد دقائق مخصص";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES_PLACEHOLDER" = "الدقائق";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES_SHORT" = "د";
+
+"AUTO_REPLY_DELETE_REPLY_BUTTON" = "حذف الرد التلقائي";
+"AUTO_REPLY_DELETE_ALERT_ACTION" = "حذف الرد";
+"AUTO_REPLY_DELETE_CONFIRMATION_ALERT_MESSAGE" = "حذف الرد التلقائي";
+
+
+/* Scheduled Messages */
+
+"MESSAGE_SCHEDULER_LABEL" = "جدولة الرسائل";
+"MESSAGE_SCHEDULER_ENABLE_LABEL" = "تفعيل";
+
+"MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض وإضافة رسائل مجدولة.";
+"MESSAGE_SCHEDULER_MESSAGES_LABEL" = "الرسائل المجدولة";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "الخط الأحمر يعني أنه قد تمت المعالجة، ولن يتم العمل به بعد الآن.";
+"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "التاريخ والوقت";
+"MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "المستلمون";
+"MESSAGE_SCHEDULER_CREATE_MESSAGE" = "الرسالة";
+"MESSAGE_SCHEDULER_CREATE_IMAGE" = "الصورة";
+
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "عرض إشعار عندما يتم إرسال الرسالة إلى المستلمين المحددين في الجدولة.";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "عرض إشعار";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "جارِ إرسال الرسالة المجدولة";
+
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "قم بتفعيل إيماءة الضغطة المطولة على زر إرسال الرسالة لجدولة رسالة مباشرة من الدردشات.";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "ضغطة مطولة على زر الإرسال";
+
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "إرسال الرسالة الآن";
+"MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "جدولة الرسالة";
+"MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "عرض الرسائل المجدولة";
+
+"MESSAGE_SCHEDULER_CREATE_EDIT" = "تعديل الجدولة";
+"MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "رسالة مجدولة جديدة";
+
+
+/* Contacts Spoofing */
+
+"CONTACTS_SPOOFING_LABEL" = "Contacts Spoofing";
+"CONTACTS_SPOOFING_ENABLE_LABEL" = "Enable";
+"CONTACTS_SPOOFING_CONTACTS" = "Contacts";
+"CONTACTS_SPOOFING_ADD_CONTACT" = "Add Contact";
+"CONTACTS_SPOOFING_NAME_HEADER" = "Name";
+"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profile Picture";
+"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "First Name";
+"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Last Name";
+"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Choose Photo";
+
+
+/* Stickers */
+
+"STICKERS_MANAGER_LABEL" = "إدارة الملصقات";
+"STICKERS_LABEL" = "الملصقات";
+
+"STICKER_PACKS_PAGE_TITLE" = "حزم الملصقات";
+"STICKER_PACKS_DEFAULT_TAB" = "افتراضي";
+"STICKER_PACKS_CUSTOM_TAB" = "مخصص";
+"LOADING_STICKER_PACKS_LABEL" = "جارِ تحميل حزم الملصقات...";
+
+"ADD_STICKERS_ALERT_TITLE" = "إضافة حزمة ملصقات";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "إنشاء حزمة ملصقات";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "استيراد ZIP من الملفات";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "استيراد ZIP من ملفات الجهاز";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "استيراد ZIP من عنوان URL";
+
+"CUSTOM_TONES_SECTION_LABEL" = "تخصيص النغمات";
+"CUSTOM_TONES_CELL_INVALID_FILE" = "ملف غير صالح";
+"CUSTOM_TONES_ADD_ALERT_TITLE" = "إضافة ملف صوت";
+"CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "استيراد من الملفات";
+"CUSTOM_TONES_ADD_ALERT_DOWNLOAD_ACTION" = "تنزيل من عنوان URL";
+"CUSTOM_TONES_DOWNLOAD_ALERT_MESSAGE" = "أدخل عنوان URL الملف الصوتي";
+"CUSTOM_TONES_DOWNLOAD_ALERT_FIELD_PLACEHOLDER" = "عنوان URL الملف";
+"CUSTOM_TONES_ERROR_IMPORT_ALERT_TITLE" = "خطأ في الاستيراد";
+"CUSTOM_TONES_ERROR_IMPORT_ALERT_MESSAGE" = "الملف غير مدعوم";
+"CUSTOM_TONES_DOWNLOADING_ALERT_TITLE" = "جارِ التنزيل";
+"CUSTOM_TONES_DOWNLOAD_ERROR_ALERT_TITLE" = "خطأ في التنزيل";
+"CUSTOM_TONES_RENAME_ALERT_TITLE" = "إعادة التسمية";
+"CUSTOM_TONES_RENAME_ALERT_MESSAGE" = "أدخل اسم الملف الجديد";
+"CUSTOM_TONES_RENAME_ALERT_FIELD_PLACEHOLDER" = "اسم الملف";
+"CUSTOM_TONES_RENAME_ERROR_ALERT_TITLE" = "خطأ";
+"CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "اسم الملف موجود بالفعل";
+"CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "خطأ في التشغيل";
+"CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "لا يمكن تشغيل الملف";
+
+
+/* Other Settings Section */
+
+"OTHER_SETTINGS_LABEL" = "إعدادات أخرى";
+
+"UPDATES_SECTION_TITLE" = "التحديثات";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "تحقق تلقائي من وجود تحديثات";
+"CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
+
+"SETTINGS_SECTION_TITLE" = "الإعدادات";
+"MANAGE_SETTINGS_LABEL" = "إدارة الإعدادات";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "كل الإعدادات والبيانات";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "إعدادات الأداة";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "الردود التلقائية";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "الرسائل المجدولة";
+"MANAGE_SETTINGS_THEMES_LABEL" = "الموضوعات";
+
+"EXPORT_SETTINGS_LABEL" = "تصدير الإعدادات";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "سيتم تصدير كل الإعدادات أدناه في ملف مضغوط، ويمكنك استيراد ذلك الملف المضغوط لاحقًا في قسم الاستيراد.";
+"EXPORT_SETTINGS_FILES_FOOTER" = "سيتم تصدير الإعدادات في ملف PLIST.";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "لم يتم العثور على ملف الإعدادات أو لم يتم حفظ أي إعدادات حتى الآن.";
+
+"IMPORT_SETTINGS_LABEL" = "استيراد الإعدادات";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "يمكن استيراد ملف مضغوط يحتوي على ملفات PLIST للإعدادات فقط.";
+"IMPORT_SETTINGS_FILES_FOOTER" = "يمكن استيراد ملفات PLIST فقط.";
+"IMPORT_SETTINGS_BUTTON" = "استيراد";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "سيؤدي هذا إلى استبدال إعداداتك الحالية، ولا يمكن التراجع عن هذا الإجراء.";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "ملف غير صالح";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "الملف المحدد ليس ملف PLIST صالح";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "الملف المحدد ليس ملف مضغوط صالح";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "بعض الملفات لم يتم استيرادها بسبب أنها ليست ملفات PLIST صالحة";
+
+"RESET_SETTINGS_LABEL" = "إعادة تعيين الإعدادات";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "إعادة تعيين كل إعدادات Watusi الخاصة بك.";
+"RESET_SETTINGS_FILES_FOOTER" = "إعادة تعيين إعدادات معينة فقط";
+"RESET_SETTINGS_BUTTON" = "إعادة التعيين";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "سيؤدي هذا إلى حذف إعداداتك الحالية، لا يمكن التراجع عن هذا الإجراء";
+
+"HIDE_SETTINGS_LABEL" = "إخفاء الإعدادات";
+"HIDE_SETTINGS_ALERT_TITLE" = "تحذير!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "سيؤدي هذا إلى إخفاء إعدادات Watusi من قائمة إعدادات واتساب، لكن سيظل بإمكانك الوصول إلى إعدادات Watusi عن طريق النقر على أعلى اليسار في إعدادات واتساب.";
+
+"TWEAK_LANGUAGE_LABEL" = "اللغة";
+"TWEAK_LANGUAGE_AUTO_OPTION" = "تلقائي";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "تحديث الإعدادات من مفاتيح تبديل مركز التحكم";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "افتراضيًا، مفاتيح تبديل مركز التحكم تقرأ وتحدث إعدادات تطبيق واتساب الرئيسي فقط. قم بتفعيل هذا الخيار إذا كنت تريد تحديث إعدادات هذا التطبيق من مفاتيح تبديل مركز التحكم.";
+
+
+/* Developer Section */
+
+"DEVELOPER_SECTION_HEADER" = "المطور";
+"CONTRIBUTE_LABEL" = "المساهمة";
+
+
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "الدعم";
+"HELP_AND_SUPPORT_LABEL" = "المساعدة والدعم";
+
+"HELP_LABEL" = "المساعدة";
+"CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
+
+"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وإزالة الاعلانات";
+"ACCOUNT" = "الحساب";
+"MANAGE_ACCOUNT" = "إدارة الحساب";
+"LOGIN_OR_REGISTER" = "تسجيل الدخول أو تسجيل جديد";
+"LOGOUT" = "تسجيل الخروج";
+"HOW_TO_REMOVE_ADS" = "كيفية إزالة الاعلانات";
+"PURCHASE_WATUSI_LICENSE_BUTTON" = "شراء ترخيص Watusi";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "التغريد للحصول على يومين بدون إعلانات";
+"LOGIN_TO_PURCHASE_MESSAGE" = "قم بتسجيل الدخول لتتمكن من شراء ترخيص Watusi";
+"LOADING" = "جارِ التحميل...";
+
+"MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
+
+
+/* Help */
+
+"ALL_SECTION_SHORT_TITLE" = "الكل";
+
+"FAQ_SECTION_SHORT_TITLE" = "الأسئلة الشائعة";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "كيف يمكن تفعيل مفاتيح تبديل مركز التحكم؟";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "يتطلب حزمة CCSupport لتحميل وحدات الطرف الثالث في مركز التحكم الخاص بك، ويمكنك بعد ذلك الذهاب إلى إعدادات مركز التحكم وإضافة Watusi إلى مفاتيح التبديل النشطة خاصتك وتخصيصها من هناك.";
+"HOW_TO_REMOVE_ADS_TITLE" = "كيف يمكن إزالة الإعلانات؟";
+"HOW_TO_REMOVE_ADS_CONTENT" = "يجب عليك الذهاب إلى إعدادات Watusi > الحساب وإزالة الإعلانات > إنشاء/تسجيل الدخول بحسابك، وستجد خيارًا لشراء ترخيص إزالة الإعلانات.";
+ 
+"LICENSE_SECTION_SHORT_TITLE" = "الترخيص";
+"MAX_DEVICES_TITLE" = "كم عدد الأجهزة التي يمكنني تنشيط ترخيصي عليها؟";
+"MAX_DEVICES_CONTENT" = "يمكنك استخدام حسابك في ٣ تطبيقات واتساب في نفس الوقت، كما يمكنك إدارة أجهزتك من صفحة حسابك.";
+ 
+"ISSUES_SECTION_SHORT_TITLE" = "الأخطاء";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "لماذا لا يمكنني رؤية آخر ظهور لجهات اتصالي؟";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "إذا قمت بتجميد آخر ظهور الخاص بك لن تتمكن من عرض آخر ظهور لجهات اتصالك أو حالة اتصالهم أيضًا، وهذا بسبب أن خادم واتساب يطلب أن يكون المستخدم متصلًا عند طلب آخر ظهور، وتجميد آخر ظهور الخاص بك يتسبب في إيقاف إرسال حالة اتصالك إلى الخادم.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "لماذا أنا غير قادر على إرسال واستقبال الرسائل؟";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "قد يكون سبب هذه المشكلة هو ميزة \"تعطيل مؤشرات الوصول\"، لأنه بعد تفعيل هذه الميزة، سيتوقف خادم واتساب عن استقبال/إرسال رسائلك الجديدة إذا كان لديك الكثير من الرسائل المعلقة في الخادم في انتظار أن يتم تمييزها كمُستلمة. لا يمكن إصلاح هذا الأمر لأنه شيء متعلق بخادم واتساب وليس أداة Watusi.";
+ 
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "تحصيل";
+"REDEEM_BUTTON" = "تحصيل";
+"REDEEM_CODE" = "تحصيل الرمز";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "رمز غير صالح";
+"ENTER_PROMO_CODE_MESSAGE" = "قم بإدخال الرمز";
+"REDEEM_SUCCESSFULL_TITLE" = "تم تحصيل الرمز بنجاح";
+"REDEEM_SUCCESSFULL_MESSAGE" = "تم اضافة ترخيص Watusi إلى حسابك";
+"REDEEM_FAILED_TITLE" = "فشل التحصيل";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "الرمز غير صالح";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "رمز خاطئ";
+
+
+/* Button */
+
+"GROUPS" = "المجموعات";
+"DEFAULT" = "افتراضي";
+"DELETE" = "حذف";
+"UPDATE" = "تحديث";
+"CANCEL" = "إلغاء";
+"OKAY" = "حسنًا";
+"ENABLE" = "تفعيل";
+"MORE" = "المزيد";
+"RELAUNCH" = "إعادة تشغيل";
+"LATER" = "لاحقًا";
+"SEND" = "إرسال";
+"ADD" = "إضافة";
+"EDIT" = "تعديل";
+"DUPLICATE" = "تكرار";
+"EXPORT" = "تصدير";
+"PUBLISH" = "نشر";
+"RENAME" = "Rename";
+"TO" = "إلى";
+"DISMISS" = "تجاهل";
+"DUPLICATE" = "تكرار";
+"SELECT_ALL" = "تحديد الكل";
+"DESELECT_ALL" = "إلغاء تحديد الكل";
+"DOWNLOAD" = "تحميل";
+
+
+/* Messages */
+
+"RELAUNCH_MESSAGE" = "يتطلب إعادة تشغيل واتساب لتطبيق التغييرات";
+"RELAUNCH_FEATURE_MESSAGE" = "تحتاج إلى إعادة تشغيل واتساب لتفعيل/تعطيل هذه الميزة";
+"OLD_VERSION_ALERT" = "أداة Watusi تدعم فقط آخر إصدار من واتساب، يرجى تحديث واتساب من الـ App Store";

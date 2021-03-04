@@ -12,7 +12,7 @@
 
 "CONTACTS_NOTIFICATIONS_SECTION_HEADER" = "Contacts Notifications";
 "CONTACTS_NOTIFICATIONS_SECTION_FOOTER" = "- Receive online/offline notifications for selected users. (Add users from Tracking List).\n- Receive notification when anyone of your contacts starts typing or recording in your chat.\n- Receive notification when a contact reads your sent messages.";
-"ONLINE_NOTIFICATION_LABEL" = "Online Notificaitons";
+"ONLINE_NOTIFICATION_LABEL" = "Online Notifications";
 "OFFLINE_NOTIFICATION_LABEL" = "Offline Notifications";
 "TYPING_NOTIFICATION_LABEL" = "Typing Notifications";
 "RECORDING_NOTIFICATION_LABEL" = "Recording Notifications";
