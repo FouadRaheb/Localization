@@ -804,6 +804,7 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "استيراد ZIP من عنوان URL";
 
 "CUSTOM_TONES_SECTION_LABEL" = "تخصيص النغمات";
+"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "The imported tones will be available inside the chats Custom Tone section";
 "CUSTOM_TONES_CELL_INVALID_FILE" = "ملف غير صالح";
 "CUSTOM_TONES_ADD_ALERT_TITLE" = "إضافة ملف صوت";
 "CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "استيراد من الملفات";
