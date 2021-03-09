@@ -75,8 +75,8 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "شريط حالات في قائمة الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "عرض كل حالات جهات اتصالك داخل شريط أعلى قائمة الدردشات.";
-"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
-"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
+"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "رسالة";
+"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "معلومات جهة الاتصال";
 
 "STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "الحالات في الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "عرض حالات جهات اتصالك والوصول إليها من صور ملفاتهم الشخصية في الدردشات.";
@@ -112,23 +112,23 @@
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "تعطيل إظهار رؤية الحالة";
 "STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "نقل الحالات التي تمت مشاهدتها إلى أسفل";
-"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Force Send Viewed to...";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "فرض إرسال المشاهدة إلى...";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل إظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على أيقونة الصح التي ستصبح موجودة في الجهة السفلية اليسرى لكل حالة.";
 
-"STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
-"STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
-"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
-"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";
-"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "You did not post any statuses yet";
-"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Viewers";
-"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "All Statuses";
-"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Add Contact";
-"STATUS_ARCHIVE_VIEWERS_TITLE" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Viewer";
-"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Uploaded on";
-"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "You deleted it on";
-"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Delete Status";
+"STATUS_ARCHIVE_LABEL" = "أرشيف حالاتي";
+"STATUS_ARCHIVE_DESC" = "سيؤدي هذا إلى إنشاء أرشيف فيه كل حالاتك التي حملتها بالإضافة إلى مشاهديها.";
+"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "الأرشيف";
+"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ لم يشاهد أيًّا من حالاتك";
+"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "أنت لم تنشر أي حالات بعد";
+"STATUS_ARCHIVE_VIEWERS_BUTTON" = "المشاهدون";
+"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "كل الحالات";
+"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "إضافة جهة اتصال";
+"STATUS_ARCHIVE_VIEWERS_TITLE" = "المشاهدون";
+"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "المشاهدون";
+"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "المشاهد";
+"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "تم التحميل في";
+"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "قمتَ بالحذف في";
+"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "حذف الحالة";
 
 "STATUS_CONTACT_GROUPS_DESC" = "إضافة خيار لإنشاء مجموعات و تحديد/إلغاء تحديد جهات اتصالك بسهولة.";
 "STATUS_CONTACT_GROUPS_LABEL" = "إظهار مجموعات جهات الاتصال";
@@ -643,7 +643,7 @@
 
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
 "AUTO_REPLY_ENABLE_LABEL" = "تمكين";
-"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
+"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
 
 "AUTO_REPLY_LIST_TITLE" = "الردود التلقائية";
 
