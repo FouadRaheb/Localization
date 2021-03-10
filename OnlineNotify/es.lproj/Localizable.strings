@@ -17,7 +17,7 @@
 "TYPING_NOTIFICATION_LABEL" = "Notificaciones de escribiendo";
 "RECORDING_NOTIFICATION_LABEL" = "Notificaciones de notaz de voz";
 "READ_MESSAGE_NOTIFICATION_LABEL" = "Leer notificaciones de mensajes";
-"STATUS_VIEWED_NOTIFICATION_LABEL" = "Status Viewed Notifications";
+"STATUS_VIEWED_NOTIFICATION_LABEL" = "Notificaciones de estados vistos";
 
 "GROUPS_NOTIFICATIONS_SECTION_HEADER" = "Notificaciones de Grupos";
 "GROUPS_NOTIFICATIONS_SECTION_FOOTER" = "Reciba notificaciones de mecanografía, grabación y lectura de mensajes para los miembros de los grupos en los que se encuentre.";
@@ -31,7 +31,7 @@
 "SELECTED_TYPING_LABEL" = "Escribiendo para los favoritos";
 "SELECTED_RECORDING_LABEL" = "Notas de voz de favoritos";
 "SELECTED_READ_MESSAGE_LABEL" = "Leer mensajes para favoritos";
-"SELECTED_STATUS_VIEWED_LABEL" = "Status Viewed for Favorites";
+"SELECTED_STATUS_VIEWED_LABEL" = "Estado visto para favoritos";
 "SELECTED_NOTIFICATION_DESCRIPTION" = "Recibe notificación de mensajes de escritura y lectura sólo para contactos favoritos que ha seleccionado en la lista de seguimiento.";
 
 /* Notifications Settings */
@@ -116,19 +116,19 @@
 
 /* Notifications */
 
-"ONLINE" = "En línea";
-"OFFLINE" = "Desconectado";
-"IS_TYPING" = "Está escribiendo...";
-"IS_RECORDING" = "Está grabando...";
-"IS_TYPING_IN_GROUP" = "Está escribiendo en";
-"IS_RECORDING_IN_GROUP" = "Está grabando en";
-"IS_NOW_ONLINE" = "Está ahora en línea";
-"HAS_GONE_OFFLINE_AT" = "Se ha desconectado en";
-"HAS_READ_YOUR_MESSAGES" = "Ha leído tus mensajes";
-"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "Ha leído los mensajes de en";
-"HAS_RECEIVED_YOUR_MESSAGES" = "Ha recibido tus mensajes";
-"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "Ha recibido su mensaje de en";
-"VIEWED_YOUR_STATUS" = "viewed your status";
+"ONLINE" = "en línea";
+"OFFLINE" = "desconectado";
+"IS_TYPING" = "está escribiendo...";
+"IS_RECORDING" = "está grabando...";
+"IS_TYPING_IN_GROUP" = "está escribiendo en";
+"IS_RECORDING_IN_GROUP" = "está grabando en";
+"IS_NOW_ONLINE" = "está ahora en línea";
+"HAS_GONE_OFFLINE_AT" = "se ha desconectado en";
+"HAS_READ_YOUR_MESSAGES" = "ha leído tus mensajes";
+"HAS_READ_YOUR_MESSAGES_IN_GROUP" = "ha leído los mensajes de en";
+"HAS_RECEIVED_YOUR_MESSAGES" = "ha recibido tus mensajes";
+"HAS_RECEIVED_YOUR_MESSAGES_IN_GROUP" = "ha recibido su mensaje de en";
+"VIEWED_YOUR_STATUS" = "ha visto tus estados";
 
 /* Developer & Support Section */
 
