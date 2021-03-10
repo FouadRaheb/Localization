@@ -121,7 +121,7 @@
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ não visualizou nenhum dos seus status";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Você ainda não publicou nenhum status";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Visualizadores";
-"STATUS_ARCHIVE_EXPORT_BUTTON" = "Export";
+"STATUS_ARCHIVE_EXPORT_BUTTON" = "Exportar";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Todos os status";
 "STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Adicionar contato";
 "STATUS_ARCHIVE_VIEWERS_TITLE" = "Visualizadores";
@@ -130,7 +130,7 @@
 "STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Carregado em.";
 "STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "Você excluiu em";
 "STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Excluir status";
-"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Export Status";
+"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Exportar Status";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adiciona a opção para criar grupos de contatos e facilmente selecioná-los/desmarcá-los do seletor de contatos do WhatsApp.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Mostrar os grupos de contatos";
@@ -332,7 +332,7 @@
 "SWIPE_TO_DELETE_BUTTON" = "Deslize para deletar chat";
 "SWIPE_TO_DELETE_MESSAGE" = "Deletar chat";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "Add a new option in the chats right swipe menu to directly check your contact info and media";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "Adicione uma nova opção no menu de deslize para a direita do bate-papo para verificar diretamente suas informações de contato e mídia";
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Deslize para informações de contato";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Informações";
 
@@ -791,22 +791,22 @@
 
 /* Stickers */
 
-"STICKERS_MANAGER_LABEL" = "Gerenciador de Stickers";
-"STICKERS_LABEL" = "Stickers";
+"STICKERS_MANAGER_LABEL" = "Gerenciador de Figurinhas";
+"STICKERS_LABEL" = "Figurinhas";
 
-"STICKER_PACKS_PAGE_TITLE" = "Pacotes de Sticker";
+"STICKER_PACKS_PAGE_TITLE" = "Pacotes de Figurinhas";
 "STICKER_PACKS_DEFAULT_TAB" = "Padrão";
 "STICKER_PACKS_CUSTOM_TAB" = "Personalizados";
-"LOADING_STICKER_PACKS_LABEL" = "Carregando Pacotes de Sticker...";
+"LOADING_STICKER_PACKS_LABEL" = "Carregando Pacotes de Figurinhas...";
 
-"ADD_STICKERS_ALERT_TITLE" = "Adicionar Pacote de Sticker";
-"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Criar Pacote de Sticker";
+"ADD_STICKERS_ALERT_TITLE" = "Adicionar Pacote de Figurinha";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Criar Pacote de Figurinha";
 "ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Importar ZIP dos arquivos";
 "ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Importar arquivo ZIP do dispositivo";
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Importar ZIP da URL";
 
 "CUSTOM_TONES_SECTION_LABEL" = "Toques personalizados";
-"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "The imported tones will be available inside the chats Custom Tone section";
+"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "Os toques importados estarão disponíveis na seção de toques personalizados do bate-papo";
 "CUSTOM_TONES_CELL_INVALID_FILE" = "Arquivo inválido";
 "CUSTOM_TONES_ADD_ALERT_TITLE" = "Adicionar arquivo de som";
 "CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "Importar de Arquivos";
@@ -817,7 +817,7 @@
 "CUSTOM_TONES_ERROR_IMPORT_ALERT_MESSAGE" = "Arquivo não suportado";
 "CUSTOM_TONES_DOWNLOADING_ALERT_TITLE" = "Baixando...";
 "CUSTOM_TONES_DOWNLOAD_ERROR_ALERT_TITLE" = "Erro ao baixar";
-"CUSTOM_TONES_RENAME_ALERT_TITLE" = "Renomar";
+"CUSTOM_TONES_RENAME_ALERT_TITLE" = "Renomear";
 "CUSTOM_TONES_RENAME_ALERT_MESSAGE" = "Digite um novo nome de arquivo";
 "CUSTOM_TONES_RENAME_ALERT_FIELD_PLACEHOLDER" = "Nome do arquivo";
 "CUSTOM_TONES_RENAME_ERROR_ALERT_TITLE" = "Erro";
