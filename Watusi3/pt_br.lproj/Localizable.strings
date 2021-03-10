@@ -121,6 +121,7 @@
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ não visualizou nenhum dos seus status";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Você ainda não publicou nenhum status";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Visualizadores";
+"STATUS_ARCHIVE_EXPORT_BUTTON" = "Export";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Todos os status";
 "STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Adicionar contato";
 "STATUS_ARCHIVE_VIEWERS_TITLE" = "Visualizadores";
@@ -129,6 +130,7 @@
 "STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Carregado em.";
 "STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "Você excluiu em";
 "STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Excluir status";
+"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Export Status";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Adiciona a opção para criar grupos de contatos e facilmente selecioná-los/desmarcá-los do seletor de contatos do WhatsApp.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Mostrar os grupos de contatos";
