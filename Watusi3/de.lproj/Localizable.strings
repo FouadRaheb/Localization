@@ -806,7 +806,7 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Importiere ZIP von URL";
 
 "CUSTOM_TONES_SECTION_LABEL" = "Benutzerdefinierte Töne";
-"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "Die importierten Töne sind im Abschnitt "Benutzerdefinierter Ton" des Chats verfügbar";
+"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "Die importierten Töne sind im Abschnitt \"Benutzerdefinierter Ton\" des Chats verfügbar";
 "CUSTOM_TONES_CELL_INVALID_FILE" = "Ungültige Datei";
 "CUSTOM_TONES_ADD_ALERT_TITLE" = "Sounddatei hinzufügen";
 "CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "Aus Dateien importieren";
