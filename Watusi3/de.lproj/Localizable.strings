@@ -115,22 +115,22 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Force Send Viewed to...";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Deaktiviert das automatische als gesehen Markieren des Status deiner Kontakte, du kannst den Status per Watusi Button manuell als gesehen markieren.";
 
-"STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
-"STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
+"STATUS_ARCHIVE_LABEL" = "Mein Status-Archive";
+"STATUS_ARCHIVE_DESC" = "Erstelle ein Archive mit all deinen hochgeladenen Status und deren Besuchern";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
-"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";
-"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "You did not post any statuses yet";
-"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Viewers";
-"STATUS_ARCHIVE_EXPORT_BUTTON" = "Export";
-"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "All Statuses";
-"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Add Contact";
-"STATUS_ARCHIVE_VIEWERS_TITLE" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Viewers";
-"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Viewer";
-"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Uploaded on";
-"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "You deleted it on";
-"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Delete Status";
-"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Export Status";
+"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ hat deinen Status nicht gesehen";
+"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Du hast noch keinen Status hochgeladen";
+"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Ansichten";
+"STATUS_ARCHIVE_EXPORT_BUTTON" = "Exportieren";
+"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Alle Status";
+"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Kontakt hinzufügen";
+"STATUS_ARCHIVE_VIEWERS_TITLE" = "Besucher";
+"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Besucher";
+"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Besucher";
+"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Hochgeladen am";
+"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "Gelöscht am";
+"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Status löschen";
+"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Status exportieren";
 
 "STATUS_CONTACT_GROUPS_DESC" = "Fügt die Option hinzu, Kontaktgruppen zu erstellen und diese im Kontaktauswahlmenü auszuwählen/abzuwählen.";
 "STATUS_CONTACT_GROUPS_LABEL" = "Kontaktgruppen zeigen";
@@ -142,8 +142,8 @@
 "STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Gebe einen Gruppennamen ein";
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Gruppenname";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Verwalten";
-"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Export";
-"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Import";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Exportieren";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Importieren";
 "STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Löschen";
 "STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Gruppen löschen";
 
@@ -166,7 +166,7 @@
 
 "CHATS_ADDONS_LABEL" = "Chats";
 
-"CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Audio weiter anhören";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "Wenn du eine Audionachricht abspielst, kannst du den Chat verlassen und die Nachricht weiter anhören. Eine kleine Leiste ist über der Chat-Liste, in der du die Audionachricht steuern kannst.";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audionachricht";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sprachnachricht";
@@ -179,29 +179,29 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Nachricht gelöscht";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name löschte diese Nachricht am #date";
 
-"CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
-"CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";
+"CHAT_DETAILS_SECTION_DESC" = "Fügt einen Abschnitt in der Gruppen oder Chat Info-Seite hinzu um mehr Details über den Chat zu erfahren";
+"CHAT_DETAILS_SECTION_LABEL" = "Chat Detail Abschnitt";
 "CHAT_DETAILS_SECTION_TITLE" = "Chat Details";
 "CHAT_DETAILS_INF_HEADER" = "Info";
-"CHAT_DETAILS_PROFILE_NAME" = "Profile Name";
-"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Sent & Received Messages";
-"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Sent Messages";
-"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Received Messages";
+"CHAT_DETAILS_PROFILE_NAME" = "Profil Name";
+"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Gesendete & erhaltene Nachrichten";
+"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Gesendete Nachrichten";
+"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Erhaltene Nachrichten";
 "CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Media messages are of type Image/Video/Audio/GIF";
-"CHAT_DETAILS_ALL_MESSAGES" = "All Messages";
-"CHAT_DETAILS_ALL_MEDIA" = "All Media";
+"CHAT_DETAILS_ALL_MESSAGES" = "Alle Nachrichten";
+"CHAT_DETAILS_ALL_MEDIA" = "Alle Medien";
 "CHAT_DETAILS_TEXT" = "Text";
-"CHAT_DETAILS_IMAGE" = "Image";
+"CHAT_DETAILS_IMAGE" = "Bild";
 "CHAT_DETAILS_VIDEO" = "Video";
-"CHAT_DETAILS_VOICE" = "Voice";
+"CHAT_DETAILS_VOICE" = "Sprachnachricht";
 "CHAT_DETAILS_AUDIO" = "Audio";
 "CHAT_DETAILS_STICKER" = "Sticker";
-"CHAT_DETAILS_DOCUMENT" = "Document";
+"CHAT_DETAILS_DOCUMENT" = "Dokument";
 "CHAT_DETAILS_GIF" = "GIF";
-"CHAT_DETAILS_CONTACT" = "Contact";
-"CHAT_DETAILS_LOCATION" = "Location";
+"CHAT_DETAILS_CONTACT" = "Kontakt";
+"CHAT_DETAILS_LOCATION" = "Ort";
 "CHAT_DETAILS_LINKS" = "Links";
-"CHAT_DETAILS_DELETED" = "Deleted";
+"CHAT_DETAILS_DELETED" = "Geslöscht";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";
@@ -241,8 +241,8 @@
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Nachrichtenanzahl von Gruppenmitgliedern";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Zeigt die Anzahl der Nachrichten von den einzelnen Gruppenmitgliedern in der Gruppen-Ansicht an.";
 
-"BATCH_DELETE_MESSAGES_DESC" = "Adds a delete button in chat edit toolbar to delete multiple messages at once";
-"BATCH_DELETE_MESSAGES_LABEL" = "Batch Delete Messages";
+"BATCH_DELETE_MESSAGES_DESC" = "Fügt eine Taste im in der Chat-Werkzeugleiste hinzu um mehrere Nachrichten gleichzeitig zu löschen";
+"BATCH_DELETE_MESSAGES_LABEL" = "Mehrere Nachrichten löschen";
 
 "MESSAGE_FORWARD_DESC" = "Fügt einen neuen Weiterleitungsbutton hinzu, welcher mehrere Nachrichten an mehrere Kontakte gleichzeitig weiterleiten kann.";
 "MESSAGE_FORWARD_LABEL" = "Nachricht weiterleiten";
@@ -268,24 +268,24 @@
 
 /* Chat List Addons */
 
-"CHAT_LIST_ADDONS_LABEL" = "Chat List";
+"CHAT_LIST_ADDONS_LABEL" = "Chat Listen";
 
-"CHAT_LIST_FILTER_DESC" = "Adds a new interface on chat list navigation bar to filter & sort the chats";
-"CHAT_LIST_FILTER_LABEL" = "Chat List Filter & Sort";
+"CHAT_LIST_FILTER_DESC" = "Fügt eine neue Oberfläche in der Navigationsleiste hinzu um Chats zu filtern und zu sortieren";
+"CHAT_LIST_FILTER_LABEL" = "Chat Listen und Filter";
 "CHAT_LIST_FILTER_SECTION_HEADER" = "Filter";
-"CHAT_LIST_FILTER_ALL_TITLE" = "All";
-"CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "All";
-"CHAT_LIST_FILTER_UNREAD_TITLE" = "Unread";
-"CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "Unread";
-"CHAT_LIST_FILTER_GROUPS_TITLE" = "Groups";
-"CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "Groups";
-"CHAT_LIST_FILTER_UNSAVED_TITLE" = "Unsaved";
-"CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE" = "Unsaved";
-"CHAT_LIST_SORT_SECTION_HEADER" = "Sort";
-"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "Default";
-"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "Default";
-"CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE" = "Message Date Asc";
-"CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE" = "Date ↓";
+"CHAT_LIST_FILTER_ALL_TITLE" = "Alle";
+"CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "Alle";
+"CHAT_LIST_FILTER_UNREAD_TITLE" = "Ungelesen";
+"CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "Ungelesen";
+"CHAT_LIST_FILTER_GROUPS_TITLE" = "Gruppen";
+"CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "Gruppen";
+"CHAT_LIST_FILTER_UNSAVED_TITLE" = "Nicht gespeichert";
+"CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE" = "Nicht gespeichert";
+"CHAT_LIST_SORT_SECTION_HEADER" = "Sortieren";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "Standart";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "Standart";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE" = "Nachrichten nach Datum aufsteigend";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE" = "Datum ↓";
 "CHAT_LIST_SORT_NAME_ASC_TITLE" = "Chat Name A-Z";
 "CHAT_LIST_SORT_NAME_ASC_SHORT_TITLE" = "Name ↓";
 "CHAT_LIST_SORT_NAME_DESC_TITLE" = "Chat Name Z-A";
@@ -346,33 +346,33 @@
 
 /* Other Addons */
 
-"OTHER_ADDONS_LABEL" = "General";
+"OTHER_ADDONS_LABEL" = "Allgemein";
 
-"MANAGE_TABS_ENABLE_LABEL" = "Manage Tab Bar";
-"MANAGE_TABS_ORGANIZE_LABEL" = "Tab Bar Items";
-"MANAGE_TABS_DESC" = "Reorder and remove default WhatsApp tabs or add custom ones";
-"MANAGE_TABS_ORGANIZE_TITLE" = "Tab Bar Items";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Enabled";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "You can only enable 5 items at once";
-"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Disabled";
-"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Calls";
-"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Camera";
-"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favorites";
-"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Groups";
+"MANAGE_TABS_ENABLE_LABEL" = "Navigationsleiste bearbeiten";
+"MANAGE_TABS_ORGANIZE_LABEL" = "Navigationsleisten Tabs";
+"MANAGE_TABS_DESC" = "Sortiere die Standart Whatsapp Navigationsleiste oder füge andere hinzu";
+"MANAGE_TABS_ORGANIZE_TITLE" = "Navigationsleisten Tabs";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Aktiviert";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "Sie können nur 5 Tabs gleichzeitig aktivieren";
+"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Deaktiviert";
+"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Anrufe";
+"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Kamera";
+"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favoriten";
+"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Gruppen";
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "System";
-"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Reset Defaults";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Standart wiederherstellen";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Fügt einen neuen Button in der Gruppen-/Broadcastauswahl hinzu, der alle Kontakte auf einmal auswählt/abwählt. Dies umgeht auch das 256 Kontaktlimit von WhatsApp. HINWEIS: Es ist, aufgrund des Servers, eventuell nicht möglich, mehr als 256 Leute einer Gruppe hinzuzufügen, aber ihr könnt es ausprobieren.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Gruppen/Broadcast alle auswählen";
 "GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "Alle";
 "GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "Keine";
 
-"GENERATE_BROADCAST_LISTS_LABEL" = "Generate Broadcast Lists";
-"GENERATE_BROADCAST_LISTS_DESC" = "Adds a button in Broadcast Lists to automatically generate multiple lists from your WhatsApp contacts.";
-"GENERATE_BROADCAST_LISTS_BUTTON_TITLE" = "Generate Lists";
-"GENERATE_BROADCAST_LISTS_ALERT_TITLE" = "Generate Broadcast Lists";
-"GENERATE_BROADCAST_LISTS_ALERT_MESSAGE" = "This will automatically create multiple broadcast lists with 256 contacts in each from your WhatsApp contacts";
-"GENERATE_BROADCAST_LISTS_ALERT_ACTION" = "Generate";
+"GENERATE_BROADCAST_LISTS_LABEL" = "Generiere Broadcast-Listen";
+"GENERATE_BROADCAST_LISTS_DESC" = "Fügt eine Taste in der Broadcast-Liste hinzu um automatisch mehrere Listen aus deinen WhatsApp-Kontakten zu erstellen";
+"GENERATE_BROADCAST_LISTS_BUTTON_TITLE" = "Generierte Listen";
+"GENERATE_BROADCAST_LISTS_ALERT_TITLE" = "Generierte Broadcast-Listen";
+"GENERATE_BROADCAST_LISTS_ALERT_MESSAGE" = "Erstellt automatisch mehrere Broadcast-Listen mit 256 Kontakten aus deinen WhatsApp-Kontakten";
+"GENERATE_BROADCAST_LISTS_ALERT_ACTION" = "Generiere";
 
 "INCREASE_ABOUT_LENGHT_DESC" = "Erweitert die maximale Länge der Statusnachricht von 139 auf 256 Zeichen.";
 "INCREASE_ABOUT_LENGHT_LABEL" = "Längere Statusnachrichten";
@@ -443,10 +443,10 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "Zahlung senden";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
 
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Dies schließt nur die neueren Nachrichten der aktuellen Position ein. Du solltst bis zur Startposition scrollen und dann einen Screenshot erstellen.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
-"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
-"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Erfolgreich gespeichert";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Screenshot konnte nicht erstellt werden";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Profilfoto speichern";
 "SAVE_PROFILE_PHOTOS_DESC" = "Drücke lange auf Profilfotos um sie zu speichern, nachdem WhatsApp die Schaltfläche zum Speichern entfernt hat.";
@@ -511,9 +511,9 @@
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "Mikrofon verstecken";
 "HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Aufkleber verstecken";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Hide your contacts profile pictures from chats and chat list";
-"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Hide Picture in Chats";
-"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Hide Pictures in Chat List";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Verstecke Profilbild im Chat und in Chat-Listen";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Verstecke Profilbild im Chat";
+"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Verstecke Profilbild in Chat-Listen";
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Blendet die Anruf Buttons in Chats aus.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sprachanruf Button ausblenden";
@@ -538,7 +538,7 @@
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Titel";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Kontaktname";
 "PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
-"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "Keine";
 "PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
 "PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
 "PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter Liste";
@@ -643,14 +643,14 @@
 
 /* Auto Reply */
 
-"AUTO_REPLY_LABEL" = "Auto Reply";
-"AUTO_REPLY_ENABLE_LABEL" = "Enable";
+"AUTO_REPLY_LABEL" = "Automatische Antworten";
+"AUTO_REPLY_ENABLE_LABEL" = "Aktivieren";
 "AUTO_REPLY_DESC" = "When enabled, whenever you receive a message from a chat, Watusi will go through your enabled auto replies to find matches. One or more Auto Reply can be sent if their configurations match the incoming message/sender.";
 
-"AUTO_REPLY_LIST_TITLE" = "Auto Replies";
+"AUTO_REPLY_LIST_TITLE" = "Automatische Antworten";
 
-"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "ON";
-"AUTO_REPLY_CONFIGURATION_VALUE_OFF" = "OFF";
+"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "An";
+"AUTO_REPLY_CONFIGURATION_VALUE_OFF" = "Aus";
 
 "AUTO_REPLY_EDIT_NAME_HEADER" = "Name";
 "AUTO_REPLY_EDIT_NAME_PLACEHOLDER" = "Auto Reply Name";
