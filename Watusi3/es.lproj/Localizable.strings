@@ -919,7 +919,7 @@
 "CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Por qué no puedo ver mis contactos vistos por última vez?";
 "CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Si congela lo que vio por última vez, no podrá ver el estado en línea o visto por última vez de sus contactos porque el servidor de WhatsApp requiere que un usuario esté en línea cuando solicita una vista por última vez y la congelación de lo visto por última vez deja de enviar su estado en línea al servidor.";
 "UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "¿No puede enviar y recibir mensajes?";
-"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Este problema puede deberse a la función \ "Desactivar recibos de entrega \", el servidor de WhatsApp dejará de recibir ";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Este problema puede deberse a la función \"Desactivar recibos de entrega \", el servidor de WhatsApp dejará de recibir ";
 
 
 /* Promo Code */
