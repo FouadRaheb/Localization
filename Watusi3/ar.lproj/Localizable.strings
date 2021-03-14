@@ -509,9 +509,9 @@
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "إخفاء زر الميكروفون";
 "HIDE_CHAT_STICKERS_BUTTON_LABEL" = "إخفاء زر الملصقات";
 
-"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Hide your contacts profile pictures from chats and chat list";
-"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Hide Picture in Chats";
-"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Hide Pictures in Chat List";
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "إخفاء صور جهات اتصالك الشخصية من المحادثات وقائمة الدردشة.";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "إخفاء الصورة في المحادثات";
+"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "إخفاء الصور في قائمة الدردشة";
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
@@ -776,15 +776,15 @@
 
 /* Contacts Spoofing */
 
-"CONTACTS_SPOOFING_LABEL" = "Contacts Spoofing";
-"CONTACTS_SPOOFING_ENABLE_LABEL" = "Enable";
-"CONTACTS_SPOOFING_CONTACTS" = "Contacts";
-"CONTACTS_SPOOFING_ADD_CONTACT" = "Add Contact";
-"CONTACTS_SPOOFING_NAME_HEADER" = "Name";
-"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profile Picture";
-"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "First Name";
-"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Last Name";
-"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Choose Photo";
+"CONTACTS_SPOOFING_LABEL" = "تزييف جهات الاتصال";
+"CONTACTS_SPOOFING_ENABLE_LABEL" = "تفعيل";
+"CONTACTS_SPOOFING_CONTACTS" = "جهات الاتصال";
+"CONTACTS_SPOOFING_ADD_CONTACT" = "إضافة جهة اتصال";
+"CONTACTS_SPOOFING_NAME_HEADER" = "الاسم";
+"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "الصورة الشخصية";
+"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "الاسم الأول";
+"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "اسم العائلة";
+"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "اختيار صورة";
 
 
 /* Stickers */
@@ -804,7 +804,7 @@
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "استيراد ZIP من عنوان URL";
 
 "CUSTOM_TONES_SECTION_LABEL" = "تخصيص النغمات";
-"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "The imported tones will be available inside the chats Custom Tone section";
+"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "النغمات المستوردة ستكون متاحة داخل قسم النغمة المخصصة في كل دردشة.";
 "CUSTOM_TONES_CELL_INVALID_FILE" = "ملف غير صالح";
 "CUSTOM_TONES_ADD_ALERT_TITLE" = "إضافة ملف صوت";
 "CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "استيراد من الملفات";
@@ -954,13 +954,13 @@
 "DUPLICATE" = "تكرار";
 "EXPORT" = "تصدير";
 "PUBLISH" = "نشر";
-"RENAME" = "Rename";
+"RENAME" = "إعادة التسمية";
 "TO" = "إلى";
 "DISMISS" = "تجاهل";
 "DUPLICATE" = "تكرار";
 "SELECT_ALL" = "تحديد الكل";
 "DESELECT_ALL" = "إلغاء تحديد الكل";
-"DOWNLOAD" = "تحميل";
+"DOWNLOAD" = "تنزيل";
 
 
 /* Messages */
