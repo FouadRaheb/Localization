@@ -346,19 +346,19 @@
 
 "OTHER_ADDONS_LABEL" = "إضافات أخرى";
 
-"MANAGE_TABS_ENABLE_LABEL" = "Manage Tab Bar";
-"MANAGE_TABS_ORGANIZE_LABEL" = "Tab Bar Items";
-"MANAGE_TABS_DESC" = "Reorder and remove default WhatsApp tabs or add custom ones";
-"MANAGE_TABS_ORGANIZE_TITLE" = "Tab Bar Items";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Enabled";
-"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "You can only enable 5 items at once";
-"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Disabled";
-"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Calls";
-"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Camera";
-"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favorites";
-"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Groups";
-"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "System";
-"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Reset Defaults";
+"MANAGE_TABS_ENABLE_LABEL" = "إدارة شريط التبويبات";
+"MANAGE_TABS_ORGANIZE_LABEL" = "عناصر شريط التبويبات";
+"MANAGE_TABS_DESC" = "إعادة ترتيب وإزالة تبويبات واتساب الافتراضية، أو إضافة تبويبات مخصصة.";
+"MANAGE_TABS_ORGANIZE_TITLE" = "عناصر شريط التبويبات";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "المفعلة";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "يمكنك تفعيل ٥ عناصر فقط في آنٍ واحد.";
+"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "المعطلة";
+"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "المكالمات";
+"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "الكاميرا";
+"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "المفضلة";
+"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "المجموعات";
+"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "الإعدادات";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "إعادة التعيين";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد ٢٥٦ جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من ٢٥٦ جهة اتصال ولكن لم لا تجرب ذلك.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
@@ -439,12 +439,12 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "إلغاء حظر جهة الاتصال";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
 "SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
-"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "لقطة شاشة كاملة";
 
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
-"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
-"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
-"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "لقطة الشاشة الكاملة ستتضمن المحادثات من الموضع الحالي إلى النهاية فقط. يرجى الذهاب إلى الرسالة التي تود أخذ لقطة الشاشة الكاملة من عندها ثم أخذ اللقطة.";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "لقطة شاشة";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "تم الحفظ بنجاح";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "لم يتم إنشاء الصورة";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
 "SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
@@ -501,8 +501,8 @@
 "MUTE_SOUND_LABEL" = "كتم الأصوات";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "كتم نقرات لوحة المفاتيح";
 
-"HIDE_WEB_SETTINGS_ROW_LABEL" = "Hide WhatsApp Web";
-"HIDE_WEB_SETTINGS_ROW_DESC" = "Remove WhatsApp Web section from settings";
+"HIDE_WEB_SETTINGS_ROW_LABEL" = "إخفاء واتساب ويب";
+"HIDE_WEB_SETTINGS_ROW_DESC" = "إزالة قسم واتساب ويب من الإعدادات.";
 
 "HIDE_CHAT_BUTTONS_DESC" = "إخفاء أزرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "إخفاء زر الكاميرا";
