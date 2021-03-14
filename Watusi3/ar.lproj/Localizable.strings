@@ -642,8 +642,8 @@
 /* Auto Reply */
 
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
-"AUTO_REPLY_ENABLE_LABEL" = "تمكين";
-"AUTO_REPLY_DESC" = "عند التمكين، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية الممكَّنة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
+"AUTO_REPLY_ENABLE_LABEL" = "تفعيل";
+"AUTO_REPLY_DESC" = "عند التفعيل، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية المفعلة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
 
 "AUTO_REPLY_LIST_TITLE" = "الردود التلقائية";
 
@@ -682,7 +682,7 @@
 
 "AUTO_REPLY_EDIT_TEXT_MATCHING_LABEL" = "مطابقة النصوص";
 "AUTO_REPLY_EDIT_TEXT_MATCHING_DESC" = "ميزة مطابقة النصوص لن تعمل إلا مع الرسائل من نوع نص.";
-"AUTO_REPLY_EDIT_TEXT_MATCHING_ENABLE_LABEL" = "تمكين مطابقة النصوص";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ENABLE_LABEL" = "تفعيل مطابقة النصوص";
 "AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_LABEL" = "نوع المطابقة";
 "AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_CONTAINS" = "الرسالة تحتوي";
 "AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_EQUALS" = "الرسالة تحتوي";
