@@ -33,8 +33,8 @@
 
 "WHITELIST" = "القائمة البيضاء";
 "BLACKLIST" = "القائمة السوداء";
-"SEND_READ_RECEIPTS_BUTTON" = "إظهار مؤشر قراءة الرسالة";
-"SEND_DELIVERY_RECEIPTS_BUTTON" = "Send Delivery Receipts";
+"SEND_READ_RECEIPTS_BUTTON" = "إظهار مؤشر القراءة";
+"SEND_DELIVERY_RECEIPTS_BUTTON" = "إظهار مؤشر الاستلام";
 "SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
 "SEND_RECORDING_INDICATOR_BUTTON" = "إظهار مؤشر التسجيل";
 
@@ -334,12 +334,12 @@
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "التمرير لعرض معلومات جهة الاتصال";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "حول";
 
-"CLEAR_CHATS_BUTTON_DESC" = "إضافة زر إزالة في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
-"CLEAR_CHATS_BUTTON_LABEL" = "زر إزالة الدردشات";
-"CLEAR_CHATS_CLEAR_BUTTON" = "إزالة";
-"CLEAR_SELECTED_CHATS_BUTTON" = "إزالة الدردشات المحددة";
-"CLEAR_ALL_CHATS_BUTTON" = "إزالة كل الدردشات";
-"CLEAR_ALL_CHATS_DESCRIPTION" = "إزالة كل الدردشات بما في ذلك المؤرشفة.";
+"CLEAR_CHATS_BUTTON_DESC" = "إضافة زر مسح في قائمة تعديل الدردشات يمكن من خلاله مسح الدردشات.";
+"CLEAR_CHATS_BUTTON_LABEL" = "زر مسح الدردشات";
+"CLEAR_CHATS_CLEAR_BUTTON" = "مسح";
+"CLEAR_SELECTED_CHATS_BUTTON" = "مسح الدردشات المحددة";
+"CLEAR_ALL_CHATS_BUTTON" = "مسح كل الدردشات";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "مسح كل الدردشات بما في ذلك المؤرشفة.";
 
 
 /* Other Addons */
@@ -494,7 +494,7 @@
 "DISABLE_LANDSCAPE_DESC" = "تعطيل دوران تطبيق واتساب إلى الوضع الأفقي.";
 "DISABLE_LANDSCAPE_LABEL" = "تعطيل الوضع الأفقي";
 
-"DISABLE_LARGE_TITLES_DESC" = "تعطيل العناوين الكبيرة الموجودة في iOS 11 وأعلى على الأشرطة العلوية لتبويبات واتساب.";
+"DISABLE_LARGE_TITLES_DESC" = "تعطيل العناوين الكبيرة الموجودة في iOS 11 وأحدث على الأشرطة العلوية لتبويبات واتساب.";
 "DISABLE_LARGE_TITLES_LABEL" = "تعطيل العناوين الكبيرة";
 
 "MUTE_SOUND_DESC" = "كتم صوت رسائل واتساب المرسلة/المستقبلة و/أو كتم صوت نقرات لوحة المفاتيح.";
