@@ -553,33 +553,33 @@
 
 /* Theme */
 
-"THEME_LABEL" = "الموضوعات";
+"THEME_LABEL" = "السمات";
 
-"CREATE_NEW_THEME_ACTION_BUTTON" = "إنشاء موضوع جديد";
-"IMPORT_NEW_THEME_ACTION_BUTTON" = "استيراد موضوع من الملفات";
-"THEME_FILE_IMPORT_FAILED_TITLE" = "ملف موضوع غير صالح";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "إنشاء سِمة جديد";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "استيراد سِمة من الملفات";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "ملف سِمة غير صالح";
 "THEME_FILE_IMPORT_FAILED_MESSAGE" = "يجب أن يكون الملف من نوع plist وأن يكون ملفًا صالحًا كذلك";
 
-"NEW_THEME_ALERT_TITLE" = "موضوع جديد";
-"NEW_THEME_ALERT_MESSAGE" = "أدخل اسم الموضوع الجديد الخاص بك";
-"NEW_THEME_ALERT_PLACEHOLDER" = "موضوع";
+"NEW_THEME_ALERT_TITLE" = "سِمة جديدة";
+"NEW_THEME_ALERT_MESSAGE" = "أدخل اسم السِّمة الجديد الخاص بك";
+"NEW_THEME_ALERT_PLACEHOLDER" = "سِمة";
 
-"THEMES_SECTION_HEADER" = "الموضوعات";
-"THEMES_SECTION_FOOTER" = "انقر على زر + لإنشاء موضوع جديد.\nاسحب الموضوع لليمين أو اضغط عليه مطولًا لتعديله.\nانقر على الموضوع الذي تريده لتنشيطه.";
-"THEMES_STORE_LABEL" = "متجر الموضوعات";
+"THEMES_SECTION_HEADER" = "السمات";
+"THEMES_SECTION_FOOTER" = "انقر على زر + لإنشاء سِمة جديدة.\nاسحب السِّمة لليمين أو اضغط عليها مطولًا لتعديلها.\nانقر على السِّمة التي تريدها لتنشيطها.";
+"THEMES_STORE_LABEL" = "متجر السمات";
 
-"EDIT_THEME" = "تعديل الموضوع";
-"THEME_NAME" = "اسم الموضوع";
+"EDIT_THEME" = "تعديل السِّمة";
+"THEME_NAME" = "اسم السِّمة";
 
 "THEME_GENERAL_SECTION_TITLE" = "عام";
 "APP_TINTCOLOR_LABEL" = "لون أزرار وعناصر التطبيق";
-"DARK_MODE_LABEL" = "الوضع اليلي";
-"DARK_MODE_ENABLE_LABEL" = "تفعيل الوضع الليل";
+"DARK_MODE_LABEL" = "الوضع الداكن";
+"DARK_MODE_ENABLE_LABEL" = "تفعيل الوضع الداكن";
 "BLACK_WALLPAPER_LABEL" = "خلفية سوداء للمحادثات";
 "KEYBOARD_STYLE_LABEL" = "شكل لوحة المفاتيح";
 "KEYBOARD_STYLE_DEFAULT" = "افتراضي";
-"KEYBOARD_STYLE_DARK" = "ليلي";
-"KEYBOARD_STYLE_DARK_BLUE" = "ليلي وأزرق";
+"KEYBOARD_STYLE_DARK" = "داكن";
+"KEYBOARD_STYLE_DARK_BLUE" = "داكن وأزرق";
 "BARS_BACKGROUND_COLOR_LABEL" = "لون خلفية الشرائط";
 
 "THEME_CHATS_SECTION_TITLE" = "الدردشات";
