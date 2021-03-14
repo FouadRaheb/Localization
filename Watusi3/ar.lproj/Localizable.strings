@@ -239,8 +239,8 @@
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد رسائل كل عضو في المجموعة بجانب صورته الشخصية في معلومات المجموعة.";
 
-"BATCH_DELETE_MESSAGES_DESC" = "Adds a delete button in chat edit toolbar to delete multiple messages at once";
-"BATCH_DELETE_MESSAGES_LABEL" = "Batch Delete Messages";
+"BATCH_DELETE_MESSAGES_DESC" = "إضافة زر حدف في شريط أدوات تحرير الدردشة لحذف عدة رسائل دفعة واحدة.";
+"BATCH_DELETE_MESSAGES_LABEL" = "حذف الرسائل دفعة واحدة";
 
 "MESSAGE_FORWARD_DESC" = "إضافة زر تحويل جديد إلى شريط أدوات تحرير الدردشة والذي يمكن استخدامه في تحويل عدة رسائل إلى أكثر من جهة اتصال في كل مرة.";
 "MESSAGE_FORWARD_LABEL" = "تحويل الرسالة";
