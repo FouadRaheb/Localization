@@ -121,7 +121,7 @@
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ لم يشاهد أيًّا من حالاتك";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "أنت لم تنشر أي حالات بعد";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "المشاهدون";
-"STATUS_ARCHIVE_EXPORT_BUTTON" = "Export";
+"STATUS_ARCHIVE_EXPORT_BUTTON" = "تصدير";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "كل الحالات";
 "STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "إضافة جهة اتصال";
 "STATUS_ARCHIVE_VIEWERS_TITLE" = "المشاهدون";
@@ -130,6 +130,7 @@
 "STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "تم التحميل في";
 "STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "قمتَ بالحذف في";
 "STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "حذف الحالة";
+"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "تصدير الحالة";
 
 "STATUS_CONTACT_GROUPS_DESC" = "إضافة خيار لإنشاء مجموعات و تحديد/إلغاء تحديد جهات اتصالك بسهولة.";
 "STATUS_CONTACT_GROUPS_LABEL" = "إظهار مجموعات جهات الاتصال";
