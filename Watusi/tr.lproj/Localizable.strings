@@ -169,7 +169,7 @@
 
 "CONFIRM_SENDING_STICKER_LABEL" = "Çıkartma Göndermeyi Onayla";
 "CONFIRM_SENDING_STICKER_DESC" = "Çıkartma göndermeden önce bir onay uyarısı göster";
-"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Send Sticker";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Çıkartma Gönder";
 
 "CALL_CONFIRM_DESC" = "Görüntülü veya sesli arama tuşunua basınca onaylama uyarısı alırsınız, WhatsApp araması ya da normal operatör araması seçimi yapabilirsiniz.";
 "CALL_CONFIRM_LABEL" = "Aramayı Onayla";
@@ -417,7 +417,7 @@
 "HIDE_CHAT_BUTTONS_DESC" = "Sohbette Kamera,Kayıt ve Sticker butonlarını gizler.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Kamerayı Gizle";
 "HIDE_CHAT_MIC_BUTTON_LABEL" = "Mikrofonu Gizle";
-"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Stickerları Gizle";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Çıkartmaları Gizle";
 
 "HIDE_CHAT_CONTACT_PICTURE_DESC" = "Kişi profil fotoğrafını sohbet içinde gizle.";
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Profil Fotoğrafını Gizle";
@@ -621,16 +621,16 @@
 
 /* Stickers */
 
-"STICKERS_MANAGER_LABEL" = "Sticker Yöneticisi";
-"STICKERS_LABEL" = "Stickerlar";
+"STICKERS_MANAGER_LABEL" = "Çıkartma Yöneticisi";
+"STICKERS_LABEL" = "Çıkartmalar";
 
-"STICKER_PACKS_PAGE_TITLE" = "Sticker Paketleri";
+"STICKER_PACKS_PAGE_TITLE" = "Çıkartma Paketleri";
 "STICKER_PACKS_DEFAULT_TAB" = "Varsayılan";
 "STICKER_PACKS_CUSTOM_TAB" = "Özel";
-"LOADING_STICKER_PACKS_LABEL" = "Sticker Paketleri Yükleniyor...";
+"LOADING_STICKER_PACKS_LABEL" = "Çıkartma Paketleri Yükleniyor...";
 
-"ADD_STICKERS_ALERT_TITLE" = "Sticker Paketi Ekle";
-"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Sticker Paketi Oluştur";
+"ADD_STICKERS_ALERT_TITLE" = "Çıkartma Paketi Ekle";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Çıkartma Paketi Oluştur";
 "ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Dosyalardan ZIP çıkar";
 "ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Cihaz Dosyalarından ZIP çıkar";
 "ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "URL'den ZIP çıkar";
@@ -681,8 +681,8 @@
 "TWEAK_LANGUAGE_LABEL" = "Dil";
 "TWEAK_LANGUAGE_AUTO_OPTION" = "Otomatik";
 
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Update Settings from CC Toggle";
-"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Denetim Merkezi'nden Ayarları Güncelle";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "Varsayılan olarak, Kontrol Merkezi geçişi, ana WhatsApp uygulamasının ayarlarını okur ve günceller, bu uygulamanın ayarlarını Kontrol Merkezi geçişiyle güncellemek istiyorsanız bu seçeneği etkinleştirin.";
 
 
 /* Developer Section */
