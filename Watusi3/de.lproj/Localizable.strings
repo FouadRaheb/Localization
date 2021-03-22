@@ -27,7 +27,7 @@
 "FORCE_SEND_TYPING_TO" = "Schreibeindikator erzwingen bei...";
 
 "DISABLE_RECORDING_LABEL" = "Audioaufnahme-Indikator deaktivieren";
-"DISABLE_RECORDING_DESC" = "Deine Kontakte werden nicht sehen dass du Sprachnachrichten aufnimmst.";
+"DISABLE_RECORDING_DESC" = "Deine Kontakte werden nicht sehen, dass du Sprachnachrichten aufnimmst.";
 "NEVER_SEND_RECORDING_TO" = "Audioaufnahme-Indikator deaktivieren bei...";
 "FORCE_SEND_RECORDING_TO" = "Audioaufnahme-Indikator erzwingen bei...";
 
@@ -38,7 +38,7 @@
 "SEND_TYPING_INDICATOR_BUTTON" = "Schreibeindikator senden";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Audioaufnahme-Indikator senden";
 
-"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Zeigt die Lesebestätigungen- und Schreibeindikatorensteuerung auf der Kontaktseite an, um es kontaktspezifisch zu aktivieren/deaktivieren.";
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Zeigt die Lesebestätigungen- und Schreibeindikatorensteuerung auf der Kontaktseite an, um sie kontaktspezifisch zu aktivieren/deaktivieren.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Steuerung bei Kontakten anzeigen";
 
 "DISABLE_DELIVERY_RECEIPTS_DESC" = "Deine Kontakte werden nicht sehen, dass die Nachricht zugestellt wurde. Sie werden nur einen Haken sehen.";
@@ -73,13 +73,13 @@
 
 "STATUS_ADDONS_LABEL" = "Status";
 
-"STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Statuses Bar in Chats List";
-"STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "View all your contacts statuses inside bar on top of the chats list";
-"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
-"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Status Bar in der Chatliste";
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Zeige die Status deiner Kontakte in der Leiste über der Chatliste an";
+"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Nachricht";
+"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kontakt Info";
 
-"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Statuses on Chats";
-"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "View and access your contacts statuses from their profile picture on chats";
+"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Status in Chats";
+"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "Zeige die Status deiner Kontakte über ihr Profilbild in den Chats an";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Download Button anzeigen";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Fügt einen Button rechts unten bei den Status hinzu, um diese herunterzuladen.";
@@ -90,13 +90,13 @@
 "STATUS_CAPTION_COPY" = "Beschriftung kopieren";
 "STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Beschriftung in die Zwischenablage kopiert";
 
-"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Bild in die Mediathek speichern";
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Bild in der Mediathek speichern";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Bild teilen";
 "STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Bild in der Mediathek gespeichert";
 
-"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "Video in die Mediathek speichern";
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "Video in der Mediathek speichern";
 "STATUS_DOWNLOAD_VIDEO_SHARE" = "Video teilen";
-"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "Video in die Mediathek gespeichert";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "Video in der Mediathek gespeichert";
 
 "STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "Als Video speichern";
 "STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "Als GIF speichern";
@@ -111,7 +111,7 @@
 "STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Text in Zwischenablage kopiert";
 
 "STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Nicht als gesehen markieren";
-"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Gesehene Statuse nach unten verschieben";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Gesehene Status nach unten verschieben";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Force Send Viewed to...";
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Deaktiviert das automatische als gesehen Markieren des Status deiner Kontakte, du kannst den Status per Watusi Button manuell als gesehen markieren.";
 
@@ -187,7 +187,7 @@
 "CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Gesendete & erhaltene Nachrichten";
 "CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Gesendete Nachrichten";
 "CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Erhaltene Nachrichten";
-"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Media messages are of type Image/Video/Audio/GIF";
+"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Die Medien sind vom Typ: Bild/Video/Audio/GIF";
 "CHAT_DETAILS_ALL_MESSAGES" = "Alle Nachrichten";
 "CHAT_DETAILS_ALL_MEDIA" = "Alle Medien";
 "CHAT_DETAILS_TEXT" = "Text";
@@ -332,7 +332,7 @@
 "SWIPE_TO_DELETE_BUTTON" = "Wischen zum Löschen von Chat";
 "SWIPE_TO_DELETE_MESSAGE" = "Chat löschen";
 
-"SWIPE_FOR_CONTACT_INFO_DESC" = "Add a new option in the chats right swipe menu to directly check your contact info and media";
+"SWIPE_FOR_CONTACT_INFO_DESC" = "Wenn ein Chat nach rechts gewischt wird, wird hier eine neue Option angezeigt, um die Kontakt Infos und deren Medien anzuzeigen.";
 "SWIPE_FOR_CONTACT_INFO_LABEL" = "Wischen für Kontaktinformationen";
 "SWIPE_FOR_CONTACT_INFO_BUTTON" = "Infos";
 
@@ -441,7 +441,7 @@
 "SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Kontakt freigeben";
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Bild aus dem Internet teilen";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Zahlung senden";
-"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Voller Screenshot";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Dies schließt nur die neueren Nachrichten der aktuellen Position ein. Du solltst bis zur Startposition scrollen und dann einen Screenshot erstellen.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
@@ -503,8 +503,8 @@
 "MUTE_SOUND_LABEL" = "Sound stummschalten";
 "MUTE_SOUND_KEY_CLICKS_LABEL" = "Tastatur Klicks stummschalten";
 
-"HIDE_WEB_SETTINGS_ROW_LABEL" = "Hide WhatsApp Web";
-"HIDE_WEB_SETTINGS_ROW_DESC" = "Remove WhatsApp Web section from settings";
+"HIDE_WEB_SETTINGS_ROW_LABEL" = "WhatsApp Web verstecken";
+"HIDE_WEB_SETTINGS_ROW_DESC" = "Entferne den WhatsApp Web Reiter aus den Einstellungen";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Versteckt die Kamera und Sprachmemo und Aufkleber Buttons in Chats.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Kamera verstecken";
@@ -602,9 +602,9 @@
 "CHATS_BACKGROUND_COLOR_LABEL" = "Hintergrundfarben";
 "RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Erhaltene Blase";
 "SENT_BUBBLE_BACKGROUND_LABEL" = "Gesendete Blase";
-"OPACITY_LABEL" = "Opazität";
-"RECEIVED_BUBBLE_OPACITY_LABEL" = "Erhaltene Blase Opazität";
-"SENT_BUBBLE_OPACITY_LABEL" = "Gesendete Blase Opazität";
+"OPACITY_LABEL" = "Deckkraft";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "Erhaltene Blase Deckkraft";
+"SENT_BUBBLE_OPACITY_LABEL" = "Gesendete Blase Deckkraft";
 "DATE_BUBBLE_BACKGROUND_LABEL" = "Datumsblase";
 
 "CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Nachrichtenstatus";
@@ -943,7 +943,7 @@
 "GROUPS" = "Gruppen";
 "DEFAULT" = "Standard";
 "DELETE" = "Löschen";
-"UPDATE" = "Update";
+"UPDATE" = "Aktualisieren";
 "CANCEL" = "Abbrechen";
 "OKAY" = "Okay";
 "ENABLE" = "Aktivieren";
@@ -954,9 +954,9 @@
 "ADD" = "Hinzufügen";
 "EDIT" = "Bearbeiten";
 "DUPLICATE" = "Vervielfältigen";
-"EXPORT" = "Export";
+"EXPORT" = "Exportieren";
 "PUBLISH" = "Veröffentlichen";
-"RENAME" = "Rename";
+"RENAME" = "Umbenennen";
 "TO" = "zu";
 "DISMISS" = "Schließen";
 "DUPLICATE" = "Duplizieren";
