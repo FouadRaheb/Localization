@@ -148,16 +148,16 @@
 
 "RELAUNCH" = "Yeniden Başlat";
 "CANCEL" = "İptal";
-"OKAY" = "Okay";
+"OKAY" = "Tamam";
 "DELETE" = "Sil";
 "DELETING" = "Siliniyor...";
 "LOADING" = "Yükleniyor...";
 "ENABLE" = "Aktif";
-"LATER" = "Later";
+"LATER" = "Sonra";
 "FORWARD" = "İleri";
 
 "FAVORITE_CONTACTS" = "Favori Kişiler";
-"ALL" = "All";
+"ALL" = "Hepsi";
 "FAVORITES" = "Favoriler";
 "SELECT_ALL" = "Hepsini Seç";
 "DESELECT_ALL" = "Seçimleri Sıfırla";
@@ -256,10 +256,10 @@
 "DELETED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı silindi";
 "CHANGED_GROUP_PICTURE_NOTIFICATION" = "Grup profil fotoğrafı değiştirildi";
 "CHANGED_GROUP_SUBJECT_NOTIFICATION" = "Grup tanısı değiştirildi";
-"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "changed group description to";
+"CHANGED_GROUP_DESCRIPTION_NOTIFICATION" = "grup açıklamasını şu şekilde değiştirdi:";
 
 "CONTACT_ADDED_TO_GROUP_NOTIFICATION" = "Gruba eklendi";
-"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "Gruptan atıldı";
+"CONTACT_REMOVED_FROM_GROUP_NOTIFICATION" = "Gruptan atıldı/ayrıldı";
 
 
 /* Contact Info / Group Info Buttons */
