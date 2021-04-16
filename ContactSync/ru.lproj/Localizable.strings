@@ -1,0 +1,109 @@
+/* Settings */
+
+"MY_CONTACTS_LABEL" = "Мои контакты";
+
+"SYNC_NOW_BUTTON" = "Синхронизировать сейчас";
+"SYNCING_LABEL" = "Синхронизация...";
+"LAST_SYNC_LABEL" = "Последняя синхронизация";
+"LAST_SYNC_NEVER" = "Никогда";
+"LAST_SYNC_ERROR" = "Ошибка";
+
+"AUTO_SYNC_LABEL" = "Автосинхронизация";
+"AUTO_SYNC_OFF" = "Выключено";
+"AUTO_SYNC_INSTANT" = "Мгновенно";
+"AUTO_SYNC_DAILY" = "Ежедневно";
+"AUTO_SYNC_WEEKLY" = "Еженедельно";
+"AUTO_SYNC_MONTHLY" = "Ежемесячно";
+
+"AUTO_SYNC_FOOTER" = "Мгновенная синхронизация будет запускаться индивидуально для каждого контакта при изменении его изображения профиля WhatsApp.\n\nЕжедневная/еженедельная/ежемесячная будет запускать полную синхронизацию, когда вы открываете WhatsApp с выбранной периодичностью.\n\nВсе типы автосинхронизации будут соответствовать выбранному вами или исключенному контакты.";
+
+"CONTACTS_TO_SYNC_LABEL" = "Контакты для синхронизации";
+"CONTACTS_TO_SYNC_ALL_CONTACTS" = "Все контакты";
+"CONTACTS_TO_SYNC_ALL_EXCEPT" = "Все, кроме";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS" = "Выбранные контакты";
+
+"CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Исключенные контакты";
+"CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Выбранные контакты";
+
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Это загрузит изображения профиля в высоком разрешении ваших контактов и будет использовать их для синхронизации. Если этот параметр отключен, будут использоваться эскизы ваших контактов.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Скачать изображения в высоком разрешении";
+
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Это приведет к удалению фотографии вашего контакта, если в WhatsApp нет фотографии профиля.";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Удалить фото, если оно было удалено";
+
+"RELAUNCH_ALERT_BUTTON" = "Перезапуск";
+"RELAUNCH_TO_ACTIVATE_MESSAGE" = "Перезапустите WhatsApp, чтобы активировать лицензию";
+"RELAUNCH_TO_APPLY_CHANGES_MESSAGE" = "Перезапустите WhatsApp, чтобы изменения вступили в силу.";
+"ACTIVATE_FOOTER_MESSAGE" = "Вы должны войти в свою учетную запись и приобрести лицензию, чтобы активировать функции настройки.";
+
+/* Support Section */
+
+"DEVELOPER_SECTION_HEADER" = "Разработчик";
+"CONTRIBUTE_LABEL" = "Пожертвовать";
+
+"SUPPORT_SECTION_HEADER" = "Поддержка";
+"CONTACT_AND_MORE_LABEL" = "Контакты и другое";
+"CONTACT_AND_MORE_PAGE_TITLE" = "Поддержка";
+"CONTACT_SUPPORT_SECTION_HEADER" = "Поддержка";
+"CONTACT_SUPPORT_LABEL" = "Контактная поддержка";
+"VERSIONS_TITLE" = "Версия";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Управление аккаунтом";
+
+"SETTINGS_SECTION_TITLE" = "Настройки";
+"SETTINGS_EXPORT_LABEL" = "Настройки экспорта";
+"SETTINGS_IMPORT_LABEL" = "Настройки импорта";
+"SETTINGS_RESET_LABEL" = "Сбросить настройки";
+
+"SETTINGS_RESET_ALERT_TITLE" = "Сбросить настройки";
+"SETTINGS_RESET_ALERT_MESSAGE" = "Это приведет к удалению ваших текущих настроек, вы не сможете отменить это действие.";
+"SETTINGS_RESET_ALERT_BUTTON" = "Сброс";
+
+"SETTINGS_IMPORT_ALERT_TITLE" = "Настройки импорта";
+"SETTINGS_IMPORT_ALERT_MESSAGE" = "Это заменит ваши текущие настройки, вы не сможете отменить это действие";
+"SETTINGS_IMPORT_ALERT_BUTTON" = "Импорт";
+
+"SETTINGS_EXPORT" = "Это заменит ваши текущие настройки, вы не сможете отменить это действие";
+
+/* User Guide */
+
+"USER_GUIDE_LABEL" = "Руководство пользователя";
+
+"USER_GUIDE_SYNC_PROCESS_TITLE" = "Процесс синхронизации";
+"USER_GUIDE_SYNC_PROCESS_DETAIL" = "Если у вас большое количество контактов, первая синхронизация может занять более 1-2 минут, особенно если включена функция "Загрузка изображений с высоким разрешением". Вторая синхронизация обновит контакты только с новой фотографией профиля в WhatsApp.";
+
+"USER_GUIDE_SYNC_ERROR_TITLE" = "Ошибка синхронизации";
+"USER_GUIDE_SYNC_ERROR_DETAIL" = "Если вы получаете ошибку после синхронизации, это обычно происходит из-за некоторого ограничения в contactsd (процессе, который обрабатывает Contacts framework), не позволяющего нам обновить большое количество контактов за короткий промежуток времени. Перезагрузка или респринг обычно устраняют эту проблему.";
+
+"USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Контакт с несколькими номерами";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "When syncing, the number with an available profile picture will be used, if 2 or more numbers with pictures are available, a random one will be used.\nYou can select a number from 'My Contacts' page to use it when syncing the contact.";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "При синхронизации будет использоваться номер с доступной фотографией профиля, если доступно 2 или более номеров с картинками, то будет использоваться случайный номер.\nYou может выбрать номер на странице 'Мои контакты', чтобы использовать его при синхронизации контакта.";
+
+/* Contacts Page */
+
+"MY_CONTACTS_TITLE" = "Мои Контакты";
+"CONTACTS_COUNT_SINGULAR_LABEL" = "Контакт";
+"CONTACTS_COUNT_PLURAL_LABEL" = "Контакты";
+"SELECT_CONTACTS_TITLE" = "Выбрать контакты";
+"ALL_CONTACTS_CONTAINERS_LABEL" = "Все";
+"SELECT_CONTACT_CONTAINER_ALERT_TITLE" = "Выбрать контакт";
+"SELECT_CONTACT_CONTAINER_ALERT_MESSAGE" = "Контейнеры могут быть типа Local, Exchange или CardDAV. Тип контейнера iCloud-CardDAV.";
+
+"DELETE_PICTURES_CONFIRMATION_TITLE" = "Удаление Фотографии";
+"DELETE_PICTURES_CONFIRMATION_MESSAGE" = "Это приведет к удалению всех ваших фотографий контактов";
+"DELETE_PICTURES_CONFIRMATION_BUTTON" = "Удалить Все Фотографии";
+
+"NO_PHOTO_TEXT" = "Нет\nфото";
+"PHONE_NUMBERS_FOOTER" = "Выбранный номер будет использоваться для синхронизации, подробнее читайте на странице руководства пользователя.";
+"SYNC_PHOTO_TO_CONTACT_BUTTON" = "Синхронизация фото с контактом";
+"DELETE_CONTACT_PHOTO_BUTTON" = "Удалить фотографию контакта";
+
+/* Labels & Buttons */
+
+"WHATSAPP" = "WhatsApp";
+"CONTACT" = "Контакт";
+"LOADING" = "Загрузка...";
+"OKAY" = "Хорошо";
+"CANCEL" = "Отменить";
+"RELAUNCH" = "Перезапустить";
+"DELETE" = "Удалить";
+"ALL" = "Все";
