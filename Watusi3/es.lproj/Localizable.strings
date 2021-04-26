@@ -442,6 +442,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartir imagen de la Web";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pago";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Captura de Pantalla Completa";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Photo Library as Document";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Esto incluirá solo los mensajes más nuevos de la posición actual, debe desplazarse hacia arriba hasta su posición inicial y luego hacer una captura de pantalla.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Captura de Pantalla";
@@ -461,6 +462,12 @@
 "SHARE_DEVICE_FILES_DESC" = "Agrega un nuevo botón a la hoja de Compartir Documento para compartir cualquier archivo desde tu dispositivo.";
 "SHARE_DEVICE_FILES_LABEL" = "Compartir archivos del dispositivo";
 "SHARE_DEVICE_FILES_BUTTON" = "Archivos del dispositivo";
+
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Choose file name";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "File Name";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Could not get file URL";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Could not send document";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Could not generate document";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "Envía un número ilimitado de fotos a la vez.";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "Fotos ilimitadas";

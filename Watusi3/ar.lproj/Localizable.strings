@@ -442,6 +442,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "مشاركة صورة من الويب";
 "SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "لقطة شاشة كاملة";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "مكتبة الصور كمستند";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "لقطة الشاشة الكاملة ستتضمن المحادثات من الموضع الحالي إلى النهاية فقط. يرجى الذهاب إلى الرسالة التي تود أخذ لقطة الشاشة الكاملة من عندها ثم أخذ اللقطة.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "لقطة شاشة";
@@ -461,6 +462,12 @@
 "SHARE_DEVICE_FILES_DESC" = "إضافة زر جديد لمشاركة المستندات والذي يتيح لك مشاركة أي ملف من جهازك.";
 "SHARE_DEVICE_FILES_LABEL" = "مشاركة ملفات الجهاز";
 "SHARE_DEVICE_FILES_BUTTON" = "ملفات الجهاز";
+
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "اختر اسم الملف";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "اسم الملف";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "تعذر الحصول على عنوان URL الملف";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "تعذر إرسال المستند";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "تعذر إنشاء المستند";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "تحديد عدد لا نهائي من الصور لإرسالها دفعة واحدة.";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "عدد لانهائي من الصور";

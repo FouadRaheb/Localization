@@ -442,6 +442,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Share Image from Web";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Send Payment";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Full Screenshot";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Photo Library as Document";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
@@ -461,6 +462,12 @@
 "SHARE_DEVICE_FILES_DESC" = "הוסף כפתור לשיתוף מסמכים כדי לשתף מסמכים מהמכשיר שלך";
 "SHARE_DEVICE_FILES_LABEL" = "שתף מסמכים מהמכשיר";
 "SHARE_DEVICE_FILES_BUTTON" = "קבצים מהמכשיר";
+
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Choose file name";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "File Name";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Could not get file URL";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Could not send document";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Could not generate document";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "שלח תמונות ללא הגבלה";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "תמונות ללא הגבלה";

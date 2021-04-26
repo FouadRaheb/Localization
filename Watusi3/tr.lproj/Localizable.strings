@@ -442,6 +442,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "İnternetten Fotoğraf Paylaş";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Ödemeyi Yolla";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Tam Ekran Görüntüsü";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Photo Library as Document";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Bu, yalnızca mevcut konumdan daha yeni mesajları içerecektir, başlangıç konumunuza ve ardından ekran görüntüsüne ilerlemelisiniz.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Ekran görüntüsü";
@@ -461,6 +462,12 @@
 "SHARE_DEVICE_FILES_DESC" = "Belge Paylaş sayfasından cihazdaki her türden seçtiğiniz dosyaları paylaşmanızı sağlayacak bir tuş ekler.";
 "SHARE_DEVICE_FILES_LABEL" = "Cihaz Dosyalarını Paylaş";
 "SHARE_DEVICE_FILES_BUTTON" = "Cihaz Dosyaları";
+
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Choose file name";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "File Name";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Could not get file URL";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Could not send document";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Could not generate document";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "Aynı anda sınırsız sayıda fotoğraf gönder.";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "Sınırsız Fotoğraf";
