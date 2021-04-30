@@ -442,7 +442,7 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartilhar Imagem da Internet";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pagamento";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Captura de Tela Completa";
-"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Photo Library as Document";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Fotos da biblioteca como documento";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Isso incluirá apenas as mensagens mais recentes da posição que você estiver, você deve rolar para cima até sua a posição que deseja como a inicial e depois capturar a tela.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Capturar a tela";
@@ -463,11 +463,11 @@
 "SHARE_DEVICE_FILES_LABEL" = "Compartilhar arquivos do dispositivo";
 "SHARE_DEVICE_FILES_BUTTON" = "Arquivos do Dispositivo";
 
-"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Choose file name";
-"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "File Name";
-"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Could not get file URL";
-"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Could not send document";
-"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Could not generate document";
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Escolha o nome do arquivo";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "Nome do arquivo";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Não foi possível obter o URL do arquivo";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Não foi possível enviar documento";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Não foi possível gerar o documento";
 
 "SELECT_UNLIMITED_PHOTOS_DESC" = "Enviar número ilimitado de fotos de uma só vez";
 "SELECT_UNLIMITED_PHOTOS_LABEL" = "Fotos Ilimitadas";
@@ -960,7 +960,7 @@
 "SEND" = "Enviar";
 "ADD" = "Adicionar";
 "EDIT" = "Editar";
-"DUPLICATE" = "Duplicado";
+"DUPLICATE" = "Duplicar";
 "EXPORT" = "Exportar";
 "PUBLISH" = "Publicar";
 "RENAME" = "Renomear";
