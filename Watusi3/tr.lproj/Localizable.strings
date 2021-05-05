@@ -151,6 +151,9 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Silinmiş Kişilerin Durumlarını Sakla";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Silindi";
 
+"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Custom Status Color";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Long press on status color button to set a custom background color";
+
 "STATUS_SPLIT_VIDEO_LABEL" = "Uzun Videoları Böl";
 "STATUS_SPLIT_VIDEO_DESC" = "Durumunuza bir video yüklerken, WhatsApp yalnızca 30 saniyelik videolara izin verir, bu özellik daha uzun videoları art arda oynatılacak doğru zamanda kesilmiş birden fazla duruma otomatik olarak böler.";
 "STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "15 dakikadan uzun videolar desteklenmez";
@@ -277,6 +280,8 @@
 "CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "Hepsi";
 "CHAT_LIST_FILTER_UNREAD_TITLE" = "Okunmamış";
 "CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "Okunmamış";
+"CHAT_LIST_FILTER_CONTACTS_TITLE" = "Contacts";
+"CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE" = "Contacts";
 "CHAT_LIST_FILTER_GROUPS_TITLE" = "Gruplar";
 "CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "Gruplar";
 "CHAT_LIST_FILTER_UNSAVED_TITLE" = "Kaydedilmemiş";
@@ -361,6 +366,11 @@
 "MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Gruplar";
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "Sistem";
 "MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Varsayılana Sıfırla";
+
+"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Delete All";
+"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Add All";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Kişiler için Grup/Yayın seç/seçimi devredışı bırak butonu ekler. Bu ayrıca 256 kişilik limiti geçersiz kılar. NOT: 256'dan fazla kişiyi bir gruba eklemek sunucuda imkansız olabilir ama denemekten zarar gelmez.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Grup/Yayın Hepsini Seç";

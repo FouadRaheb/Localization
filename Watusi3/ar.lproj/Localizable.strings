@@ -151,6 +151,9 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "إبقاء حالات جهات الاتصال المحذوفة";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
 
+"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Custom Status Color";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Long press on status color button to set a custom background color";
+
 "STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
 "STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
 "STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "الفيديوهات التي تزيد مدتها عن ١٥ دقائق غير مدعومة";
@@ -277,6 +280,8 @@
 "CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "الكل";
 "CHAT_LIST_FILTER_UNREAD_TITLE" = "الغير مقروءة";
 "CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "الغير مقروءة";
+"CHAT_LIST_FILTER_CONTACTS_TITLE" = "Contacts";
+"CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE" = "Contacts";
 "CHAT_LIST_FILTER_GROUPS_TITLE" = "المجموعات";
 "CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "المجموعات";
 "CHAT_LIST_FILTER_UNSAVED_TITLE" = "الغير محفوظة";
@@ -361,6 +366,11 @@
 "MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "المجموعات";
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "الإعدادات";
 "MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "إعادة التعيين";
+
+"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
+"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Delete All";
+"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Add all favorite contacts";
+"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Add All";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد ٢٥٦ جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من ٢٥٦ جهة اتصال ولكن لم لا تجرب ذلك.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
