@@ -117,7 +117,7 @@
 
 "STATUS_ARCHIVE_LABEL" = "Meu Arquivo de Status";
 "STATUS_ARCHIVE_DESC" = "Isso criará um arquivo de todos os status que você envia, incluindo todos os espectadores";
-"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Arquivo";
+"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Arquivado";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ não visualizou nenhum dos seus status";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Você ainda não publicou nenhum status";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Visualizadores";
@@ -151,8 +151,8 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Manter Status Excluídos dos Contatos";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Excluído em";
 
-"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Custom Status Color";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Long press on status color button to set a custom background color";
+"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Cor de status personalizada";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Pressione e segure o botão de cor de status para definir uma cor de fundo personalizada";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Dividir Vídeos Longos";
 "STATUS_SPLIT_VIDEO_DESC" = "Ao enviar um vídeo para o seu status, o WhatsApp permite vídeos de apenas 30 segundos, esse recurso dividirá automaticamente vídeos mais longos em vários status cortados no momento certo para serem reproduzidos consecutivamente.";
@@ -250,7 +250,7 @@
 "MESSAGE_FORWARD_DESC" = "Adiciona um novo botão de envio para a barra de ferramentas de edição de bate-papo, que é usado para encaminhar várias mensagens para mais de um contato por vez.";
 "MESSAGE_FORWARD_LABEL" = "Mensagem Encaminhada";
 "MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Nenhum contato selecionado";
-"MESSAGE_FORWARD_BUTTON_TITLE" = "Enviado";
+"MESSAGE_FORWARD_BUTTON_TITLE" = "Enviar";
 "FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Mensagem de %zd enviado para %zd contatos.";
 
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Adiciona um ícone ao lado das mensagens dos contatos que são enviadas para você por meio de transmissão, para ajudá-lo a diferenciá-lo das mensagens que são enviadas diretamente para você.";
@@ -280,8 +280,8 @@
 "CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "Todas";
 "CHAT_LIST_FILTER_UNREAD_TITLE" = "Não Lidas";
 "CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "Não Lidas";
-"CHAT_LIST_FILTER_CONTACTS_TITLE" = "Contacts";
-"CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE" = "Contacts";
+"CHAT_LIST_FILTER_CONTACTS_TITLE" = "Contatos";
+"CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE" = "Contatos";
 "CHAT_LIST_FILTER_GROUPS_TITLE" = "Grupos";
 "CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "Grupos";
 "CHAT_LIST_FILTER_UNSAVED_TITLE" = "Não Salvos";
@@ -367,10 +367,10 @@
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "Sistema";
 "MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Restaurar padrão";
 
-"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
-"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Delete All";
-"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Add all favorite contacts";
-"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Add All";
+"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Excluir todos os contatos favoritos";
+"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Apagar tudo";
+"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Adicionar todos os contatos favoritos";
+"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Adicionar tudo";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Adicionar novo botão no selecionador de Grupo/Transmissão para selecionar/desmarcar todos os contatos. Isso também ignorará o limite de 256 contatos. \nNOTA: pode não ser possível adicionar mais de 256 membros em um grupo no servidor, mas vocês podem tentar.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Grupo/Transmissão Selecionar tudo";
