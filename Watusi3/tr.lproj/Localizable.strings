@@ -21,6 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Yazıyor";
 "FORCE_RECEIPTS_ON_NEVER" = "Asla";
 
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and manually mark as opened using a button in media view";
+
 "DISABLE_TYPING_LABEL" = "Yazıyor Göstergesini Kapat";
 "DISABLE_TYPING_DESC" = "Kişilerin, yazdığını veya ses kaydettiğini görmeyecek.";
 "NEVER_SEND_TYPING_TO" = "Asla Yazıyor Göstergesi Gönderme...";
@@ -75,6 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Sohbetler Listesindeki Durumlar Çubuğu";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Tüm kişi durumlarınızı sohbetler listesinin üstündeki çubukta görüntüleyin";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Mesaj";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kişi Bilgileri";
 
@@ -411,10 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "Kilitle";
 "HIDE_LAST_MESSAGE_ALL" = "Hepsi";
 
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+
 "BYPASS_PROTECTION_LABEL" = "Korumayı Geçersiz Kıl";
 "BYPASS_PROTECTION_DESC" = "Korumanın geçersiz kılınmasını istediğiniz WiFi ağı isimlerini girin.";
 "BYPASS_APP_PROTECTION_LABEL" = "Uygulama Korumasını Geçersiz Kıl";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Sohbet Korumasını Geçersiz Kıl";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Bypass Starred Msgs Protection";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Güvenilen WiFi SSID'leri";
 
 
@@ -461,6 +469,9 @@
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Profil Fotoğraflarını Kaydet";
 "SAVE_PROFILE_PHOTOS_DESC" = "WhatsApp kaydet düğmelerini kaldırdıktan sonra kaydetmek için profil fotoğraflarına uzun basın";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Save View Once Media";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adds a save button at the bottom of media view for view once media";
 
 "BLOCK" = "Engelle";
 "UNBLOCK" = "Engeli Kaldır";
@@ -803,6 +814,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profil Fotoğrafı";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "İsim";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Soyisim";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Fotoğraf Seç";
 
 
@@ -841,6 +854,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "Dosya adı zaten mevcut";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Oynatma Hatası";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "Dosya çalınamaz";
+"CUSTOM_TONES_HELP_LABEL" = "Notification Sound Not Playing?";
 
 
 /* Other Settings Section */

@@ -21,6 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Escribiendo o Grabando";
 "FORCE_RECEIPTS_ON_NEVER" = "Nunca";
 
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
+
 "DISABLE_TYPING_LABEL" = "Desactivar indicador de Escribiendo";
 "DISABLE_TYPING_DESC" = "Tus contactos no verán cuando estés escribiendo";
 "NEVER_SEND_TYPING_TO" = "Nunca enviar Escribiendo a...";
@@ -75,6 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Barra de Estados en la Lista de Chats";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Ver todos los estados de sus contactos dentro de la barra en la parte superior de la lista de chats";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Mensaje";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Información del Contacato";
 
@@ -411,10 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "Bloqueado";
 "HIDE_LAST_MESSAGE_ALL" = "Todos";
 
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+
 "BYPASS_PROTECTION_LABEL" = "Evitar Protección con Código";
 "BYPASS_PROTECTION_DESC" = "Ingrese el nombre de la red WiFi en la que desea evitar la protección cuando esté conectado a ella.";
 "BYPASS_APP_PROTECTION_LABEL" = "Evitar Protección de la aplicación";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Evitar Protección del chat";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Bypass Starred Msgs Protection";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "SSIDs de las WiFi seguras";
 
 
@@ -461,6 +469,9 @@
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Guardar Fotos de Perfil";
 "SAVE_PROFILE_PHOTOS_DESC" = "Mantenga presionadas las fotos de perfil para guardarlas después de que WhatsApp elimine su botón de guardar";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Save View Once Media";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adds a save button at the bottom of media view for view once media";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
@@ -803,6 +814,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Foto de Perfil";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "Nombres";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Apellidos";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Escoge una Foto";
 
 
@@ -841,6 +854,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "El nombre del archivo ya existe";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Error de reproducción";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "El archivo no se puede reproducir";
+"CUSTOM_TONES_HELP_LABEL" = "Notification Sound Not Playing?";
 
 
 /* Other Settings Section */

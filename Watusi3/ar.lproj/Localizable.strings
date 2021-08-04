@@ -21,6 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
 "FORCE_RECEIPTS_ON_NEVER" = "أبدًا";
 
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "تمييز المعروض لمرة واحدة كمفتوح يدويًا";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "افتح الوسائط المعروضة لمرة واحدة بعدد لا نهائي من المرات، وميزها كمفتوحة بشكل يدوي متى ما أردت باستخدام زر في واجهة الوسائط.";
+
 "DISABLE_TYPING_LABEL" = "تعطيل مؤشر الكتابة";
 "DISABLE_TYPING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بكتابة شيء.";
 "NEVER_SEND_TYPING_TO" = "عدم إظهار مؤشر الكتابة لـ";
@@ -75,6 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "شريط حالات في قائمة الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "عرض كل حالات جهات اتصالك داخل شريط أعلى قائمة الدردشات.";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "رسالة";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "معلومات جهة الاتصال";
 
@@ -411,10 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "مقفل";
 "HIDE_LAST_MESSAGE_ALL" = "الكل";
 
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+
 "BYPASS_PROTECTION_LABEL" = "تخطي حماية التطبيق";
 "BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";
 "BYPASS_APP_PROTECTION_LABEL" = "تخطي حماية التطبيق";
 "BYPASS_CHAT_PROTECTION_LABEL" = "تخطي حماية الدردشة";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "تخطي حماية الرسائل المميزة بنجمة";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "أسماء شبكات الـ WiFi";
 
 
@@ -461,6 +469,9 @@
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
 "SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "حفظ الوسائط المعروضة لمرة واحدة";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "إضافة زر حفظ أسفل واجهة الوسائط المعروضة لمرة واحدة.";
 
 "BLOCK" = "حظر";
 "UNBLOCK" = "إلغاء الحظر";
@@ -803,6 +814,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "الصورة الشخصية";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "الاسم الأول";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "اسم العائلة";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "اختيار صورة";
 
 
@@ -841,6 +854,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "اسم الملف موجود بالفعل";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "خطأ في التشغيل";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "لا يمكن تشغيل الملف";
+"CUSTOM_TONES_HELP_LABEL" = "صوت الإشعار لا يعمل؟";
 
 
 /* Other Settings Section */

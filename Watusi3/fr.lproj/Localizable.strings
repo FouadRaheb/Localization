@@ -21,6 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Ecrit ou Enregistrement";
 "FORCE_RECEIPTS_ON_NEVER" = "Jamais";
 
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
+
 "DISABLE_TYPING_LABEL" = "Désactiver l'indicateur de saisie";
 "DISABLE_TYPING_DESC" = "Vos contacts ne vous verront pas en tapant";
 "NEVER_SEND_TYPING_TO" = "Ne jamais envoyer de saisie à...";
@@ -75,6 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Statuses Bar in Chats List";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "View all your contacts statuses inside bar on top of the chats list";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
 
@@ -411,10 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "Verrouillé";
 "HIDE_LAST_MESSAGE_ALL" = "Tous";
 
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+
 "BYPASS_PROTECTION_LABEL" = "Protection par dérivation";
 "BYPASS_PROTECTION_DESC" = "Entrez le nom du réseau WiFi sur lequel vous souhaitez contourner la protection lorsque vous y êtes connecté.";
 "BYPASS_APP_PROTECTION_LABEL" = "Ignorer la protection de l'application";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Ignorer la protection des conversations";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Bypass Starred Msgs Protection";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "WiFi SSIDs sécurisé";
 
 
@@ -461,6 +469,9 @@
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Enregistrer les photos de profil";
 "SAVE_PROFILE_PHOTOS_DESC" = "Appuyez longuement sur les photos de profil pour les enregistrer après que WhatsApp a supprimé leur bouton de sauvegarde";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Save View Once Media";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adds a save button at the bottom of media view for view once media";
 
 "BLOCK" = "Bloquer";
 "UNBLOCK" = "Débloquer";
@@ -803,6 +814,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profile Picture";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "First Name";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Last Name";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Choose Photo";
 
 
@@ -841,6 +854,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "File name already exists";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Play Error";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "File can not be played";
+"CUSTOM_TONES_HELP_LABEL" = "Notification Sound Not Playing?";
 
 
 /* Other Settings Section */

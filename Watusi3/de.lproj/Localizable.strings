@@ -21,6 +21,9 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Tippen oder Aufnehmen";
 "FORCE_RECEIPTS_ON_NEVER" = "Nie";
 
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
+
 "DISABLE_TYPING_LABEL" = "Schreibeindikator deaktivieren";
 "DISABLE_TYPING_DESC" = "Deine Kontakte werden dich nicht schreiben sehen.";
 "NEVER_SEND_TYPING_TO" = "Schreibeindikator deaktivieren bei...";
@@ -75,6 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Status Bar in der Chatliste";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Zeige die Status deiner Kontakte in der Leiste über der Chatliste an";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Nachricht";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kontakt Info";
 
@@ -411,10 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "Gesperrte";
 "HIDE_LAST_MESSAGE_ALL" = "Alle";
 
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+
 "BYPASS_PROTECTION_LABEL" = "Schutz umgehen";
 "BYPASS_PROTECTION_DESC" = "Gebe den Namen des WLAN Netzwerkes ein, bei dem du den Schutz umgehen willst, wenn du mit ihm verbunden bist.";
 "BYPASS_APP_PROTECTION_LABEL" = "App Schutz umgehen";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Chat Schutz umgehen";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Bypass Starred Msgs Protection";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Sichere WLAN SSIDs";
 
 
@@ -461,6 +469,9 @@
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Profilfoto speichern";
 "SAVE_PROFILE_PHOTOS_DESC" = "Drücke lange auf Profilfotos um sie zu speichern, nachdem WhatsApp die Schaltfläche zum Speichern entfernt hat.";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Save View Once Media";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adds a save button at the bottom of media view for view once media";
 
 "BLOCK" = "Blockieren";
 "UNBLOCK" = "Freigeben";
@@ -803,6 +814,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Profilbild";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "Vorname";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Nachname";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Bild auswählen";
 
 
@@ -841,6 +854,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "Dateiname existiert bereits";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Abspiel Fehler";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "Datei kann nicht abgespielt werden";
+"CUSTOM_TONES_HELP_LABEL" = "Notification Sound Not Playing?";
 
 
 /* Other Settings Section */
