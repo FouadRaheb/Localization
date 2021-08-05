@@ -21,8 +21,8 @@
 "FORCE_RECEIPTS_ON_START_TYPING" = "Digitação ou Gravação";
 "FORCE_RECEIPTS_ON_NEVER" = "Nunca";
 
-"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
-"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Marcar manualmente após abrir";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Abra a visualização única por mídia ilimitadas vezes e marque como aberta usando um botão na visualização de mídia";
 
 "DISABLE_TYPING_LABEL" = "Desativar o indicador de digitação";
 "DISABLE_TYPING_DESC" = "Seus contatos não o verão como digitando";
@@ -78,7 +78,7 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Barra de Status na Lista de Conversas";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Exibir todos os seus status de contatos dentro de uma barra no topo da lista de conversas";
-"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Ocultar status silenciados";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Mensagem";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Informações de contato";
 
@@ -415,14 +415,14 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "Bloqueados";
 "HIDE_LAST_MESSAGE_ALL" = "Todas";
 
-"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
-"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Proteção de mensagens com estrela";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Proteger mensagens com estrela";
 
 "BYPASS_PROTECTION_LABEL" = "Ignorar proteção";
 "BYPASS_PROTECTION_DESC" = "Digite o nome da rede WiFi na qual você deseja ignorar a proteção quando você estiver conectado a ela.";
 "BYPASS_APP_PROTECTION_LABEL" = "Ignorar Proteção do App";
 "BYPASS_CHAT_PROTECTION_LABEL" = "Ignorar Proteção das Conversas";
-"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Bypass Starred Msgs Protection";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Ignorar proteção de mensagem com estrela";
 "BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Nomes de WiFi’s seguros";
 
 
@@ -470,8 +470,8 @@
 "SAVE_PROFILE_PHOTOS_LABEL" = "Salvar Fotos do Perfil";
 "SAVE_PROFILE_PHOTOS_DESC" = "Pressione e segure as fotos do perfil para salvá-las após o WhatsApp remover o botão de salvar";
 
-"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Save View Once Media";
-"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adds a save button at the bottom of media view for view once media";
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Salvar mídia de visualização única";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Adiciona um botão salvar na parte inferior da visualização de mídia única";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
