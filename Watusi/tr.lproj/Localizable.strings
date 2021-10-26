@@ -36,6 +36,9 @@
 "SEND_READ_RECEIPTS_BUTTON" = "Okundu Bilgisi Gönder";
 "SEND_TYPING_INDICATOR_BUTTON" = "Yazıyor Göstergesi Gönder";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Kaydediyor Göstergesi Gönder";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Okundu Bilgisi ve Yazıyor Göstergesini kişilerin bilgilerinden aç/kapa yaparak, kişiye özel kontrol edebilirsiniz.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Kontrolleri Bilgi Sayfasında Göster";

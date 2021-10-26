@@ -40,6 +40,10 @@
 "SEND_DELIVERY_RECEIPTS_BUTTON" = "Enviar recibos de entrega";
 "SEND_TYPING_INDICATOR_BUTTON" = "Enviar indicador de digitação";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Enviar indicador de gravação";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"DELIVERY_RECEIPTS_BUTTON" = "Delivery Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar os recibos de leitura e os indicadores de digitação na sua página de informações de contato para ativá-la/desativá-la diretamente para esse contato.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Controles na página de informações";

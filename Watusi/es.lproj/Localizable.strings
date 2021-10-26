@@ -36,6 +36,9 @@
 "SEND_READ_RECEIPTS_BUTTON" = "Enviar Confirmación de Lectura";
 "SEND_TYPING_INDICATOR_BUTTON" = "Enviar Indicador de Escribiendo";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Enviar Indicador de Grabación";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar los controles de Enviar Confirmación de Lectura y de Enviar Indicador de Escribiendo en la página de información de tus contactos para poder activarlos/descativarlos directamente en ese contacto.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostrar controles en la página de información";

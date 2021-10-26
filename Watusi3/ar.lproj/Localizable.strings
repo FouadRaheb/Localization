@@ -40,6 +40,10 @@
 "SEND_DELIVERY_RECEIPTS_BUTTON" = "إظهار مؤشر الاستلام";
 "SEND_TYPING_INDICATOR_BUTTON" = "إظهار مؤشر الكتابة";
 "SEND_RECORDING_INDICATOR_BUTTON" = "إظهار مؤشر التسجيل";
+"READ_RECEIPTS_BUTTON" = "مؤشر قراءة الرسالة";
+"DELIVERY_RECEIPTS_BUTTON" = "مؤشر الاستلام";
+"TYPING_INDICATOR_BUTTON" = "مؤشر الكتابة";
+"RECORDING_INDICATOR_BUTTON" = "مؤشر التسجيل";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "إظهار أدوات التحكم لمؤشرات قراءة الرسائل والكتابة في صفحة معلومات جهة الاتصال لتتمكن من تفعيلها/تعطيلها مباشرة من هناك لأي جهة اتصال.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "إظهار أدوات التحكم في صفحة جهة الاتصال";

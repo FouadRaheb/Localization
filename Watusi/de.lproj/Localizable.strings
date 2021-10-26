@@ -36,6 +36,9 @@
 "SEND_READ_RECEIPTS_BUTTON" = "Lesebestätigungen senden";
 "SEND_TYPING_INDICATOR_BUTTON" = "Schreibeindikator senden";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Audioaufnahme-Indikator senden";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Zeigt die Lesebestätigungen- und Schreibeindikatorensteuerung auf der Kontaktseite an, um es kontaktspezifisch zu aktivieren/deaktivieren.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Steuerung bei Kontakten anzeigen";

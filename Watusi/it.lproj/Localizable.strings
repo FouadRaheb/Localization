@@ -36,6 +36,9 @@
 "SEND_READ_RECEIPTS_BUTTON" = "Invia conferme di lettura";
 "SEND_TYPING_INDICATOR_BUTTON" = "Invia indicatore di digitazione";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Invia indicatore di registrazione";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostra le opzioni di conferme di lettura e di indicatore di digitazione nelle info contatto per attivarle/disattivarle per quel contatto.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Mostra opzioni in info contatto";

@@ -36,6 +36,9 @@
 "SEND_READ_RECEIPTS_BUTTON" = "Send Read Receipts";
 "SEND_TYPING_INDICATOR_BUTTON" = "Send Typing Indicator";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Show Read Receipts and Typing Indicator controls on your contact info page in order to directly enable/disable it for that contact.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Show Controls on Info Page";

@@ -40,6 +40,10 @@
 "SEND_DELIVERY_RECEIPTS_BUTTON" = "Send Delivery Receipts";
 "SEND_TYPING_INDICATOR_BUTTON" = "Send Typing Indicator";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"DELIVERY_RECEIPTS_BUTTON" = "Delivery Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Show Read Receipts and Typing Indicator controls on your contact info page in order to directly enable/disable it for that contact.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Show Controls on Info Page";
@@ -1000,4 +1004,4 @@
 
 "RELAUNCH_MESSAGE" = "WhatsApp needs to relaunch in order to apply changes";
 "RELAUNCH_FEATURE_MESSAGE" = "You need to relaunch WhatsApp in order to enable this feature.";
-"OLD_VERSION_ALERT" = "Watusi supports only latest WhatsApp version, please update WhatsApp from the AppStore.";
+"OLD_VERSION_ALERT" = "Watusi supports latest WhatsApp version, please update WhatsApp from the AppStore.";

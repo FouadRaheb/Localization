@@ -40,6 +40,10 @@
 "SEND_DELIVERY_RECEIPTS_BUTTON" = "Send Delivery Receipts";
 "SEND_TYPING_INDICATOR_BUTTON" = "הצג לאחרים אותי כמקליד/ה";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Send Recording Indicator";
+"READ_RECEIPTS_BUTTON" = "Read Receipts";
+"DELIVERY_RECEIPTS_BUTTON" = "Delivery Receipts";
+"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
+"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "הצג אפשרויות אלו גם בפרטי איש הקשר";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "הצגת אפשרויות אלו בפרטי איש קשר";
