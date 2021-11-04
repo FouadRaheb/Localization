@@ -500,6 +500,8 @@
 "MEDIA_DELETE_BUTTON_DESC" = "إضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
 "MEDIA_DELETE_BUTTON_LABEL" = "زر حذف الوسائط";
 "MEDIA_DELETE_ALERT_MESSAGE" = "حذف جميع الوسائط";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Delete all links";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Delete all documents";
 
 "MEDIA_FORWARD_BUTTON_DESC" = "إضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط إلى أكثر من جهة اتصال في آنٍ واحد.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "زر تحويل الوسائط";
@@ -583,6 +585,12 @@
 
 "ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "تفعيل الإشعارات الداخلية";
 "ENABLE_LOCAL_NOTIFICATIONS_DESC" = "سيعمل هذا الخيار على إبقاء واتساب نشطًا في الخلفية دائمًا، ولكنه سيزيد من استهلاك البطارية.";
+"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "طريقة التفعيل";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "صوت";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "موقع";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "سيُبقي هذا الخيار ملف صوتي فارغ (بدون صوت) مشغلًا في الخلفية، مما يسمح ببقاء واتساب نشطًا وقابلًا لتلقي الإشعارات.\nقد تتسبب هذه الطريقة أحيانًا في بعض المشكلات عند محاولة تسجيل رسالة صوتية أو الاتصال بشخصٍ ما، ويمكن حل هذه المشكلة عبر إعادة تشغيل واتساب.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING" = "لا يمكن تمكين هذه الميزة إذا كانت خدمات الموقع معطلة أو إذا لم يتم تعيين خدمات الموقع لواتساب على 'دائمًا'.\n\nانتقل إلى الإعدادات > الخصوصية > خدمات الموقع > قم بتمكين خدمات الموقع > تأكد من أن واتساب تم تعيينه على 'دائمًا'.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "سيؤدي هذا الخيار إلى تنشيط تحديثات الموقع في الخلفية للإبقاء على واتساب نشطًا.";
 
 
 /* Theme */

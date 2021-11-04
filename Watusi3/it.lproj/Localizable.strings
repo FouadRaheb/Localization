@@ -500,6 +500,8 @@
 "MEDIA_DELETE_BUTTON_DESC" = "Aggiungi un nuovo tasto elimina nella galleria dei media per eliminare tutti media del contatto con una sola azione.";
 "MEDIA_DELETE_BUTTON_LABEL" = "Tasto elimina media";
 "MEDIA_DELETE_ALERT_MESSAGE" = "Elimina tutti i media";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Delete all links";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Delete all documents";
 
 "MEDIA_FORWARD_BUTTON_DESC" = "Aggiungi un nuovo tasto inoltra in alto al browser per inoltrare il messaggio media a più contatti alla volta.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "Taso inoltro media";
@@ -583,6 +585,12 @@
 
 "ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Attiva notifiche locali";
 "ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Questa opzione mantiene WhatsApp attivo in background per ricevere notifiche, ma consuma più batteria.";
+"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "Method";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "Audio";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "Location";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "This option will keep an empty audio file playing in background so that WhatsApp can stay active and receive notifications.\nThis method can sometime cause issues when recording a voice message or calling someone on WhatsApp. This issue can be fixed by restarting WhatsApp.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING" = "This feature can not be enabled if Location Services is turned off or if WhatsApp location setting is not set to 'Always'.\n\nGo to Settings > Privacy > Location Services > Enable Location Services > Make sure WhatsApp is set to 'Always'.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "This option will activate location updates in background to keep WhatsApp active.";
 
 
 /* Theme */

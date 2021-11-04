@@ -500,6 +500,8 @@
 "MEDIA_DELETE_BUTTON_DESC" = "Adds a new delete button in media gallery to delete all contact media at once.";
 "MEDIA_DELETE_BUTTON_LABEL" = "Media Delete Button";
 "MEDIA_DELETE_ALERT_MESSAGE" = "Delete all media";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Delete all links";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Delete all documents";
 
 "MEDIA_FORWARD_BUTTON_DESC" = "Adds a new forward button on top of media browser in order to forward the media message to multiple contacts at once.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "Media Forward Button";
@@ -582,7 +584,13 @@
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Notification Icon";
 
 "ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Enable Local Notifications";
-"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This option will keep WhatsApp active in background in order to receive notifications but will increase your battery usage";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "This will keep WhatsApp active in background in order to receive notifications but will increase your battery usage.";
+"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "Method";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "Audio";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "Location";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "This option will keep an empty audio file playing in background so that WhatsApp can stay active and receive notifications.\nThis method can sometime cause issues when recording a voice message or calling someone on WhatsApp. This issue can be fixed by restarting WhatsApp.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING" = "This feature can not be enabled if Location Services is turned off or if WhatsApp location setting is not set to 'Always'.\n\nGo to Settings > Privacy > Location Services > Enable Location Services > Make sure WhatsApp is set to 'Always'.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "This option will activate location updates in background to keep WhatsApp active.";
 
 
 /* Theme */
