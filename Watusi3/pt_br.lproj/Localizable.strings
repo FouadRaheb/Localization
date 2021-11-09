@@ -40,10 +40,10 @@
 "SEND_DELIVERY_RECEIPTS_BUTTON" = "Enviar recibos de entrega";
 "SEND_TYPING_INDICATOR_BUTTON" = "Enviar indicador de digitação";
 "SEND_RECORDING_INDICATOR_BUTTON" = "Enviar indicador de gravação";
-"READ_RECEIPTS_BUTTON" = "Read Receipts";
-"DELIVERY_RECEIPTS_BUTTON" = "Delivery Receipts";
-"TYPING_INDICATOR_BUTTON" = "Typing Indicator";
-"RECORDING_INDICATOR_BUTTON" = "Recording Indicator";
+"READ_RECEIPTS_BUTTON" = "Recibos de leitura";
+"DELIVERY_RECEIPTS_BUTTON" = "Recibos de entrega";
+"TYPING_INDICATOR_BUTTON" = "Indicador de Digitação";
+"RECORDING_INDICATOR_BUTTON" = "Indicador de Gravação";
 
 "SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Mostrar os recibos de leitura e os indicadores de digitação na sua página de informações de contato para ativá-la/desativá-la diretamente para esse contato.";
 "SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Controles na página de informações";
@@ -500,8 +500,8 @@
 "MEDIA_DELETE_BUTTON_DESC" = "Adiciona um novo botão de exclusão na galeria de mídia para excluir todas as mídias de contato de uma só vez.";
 "MEDIA_DELETE_BUTTON_LABEL" = "Botão de Deletar Mídias";
 "MEDIA_DELETE_ALERT_MESSAGE" = "Deletar todas as mídias";
-"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Delete all links";
-"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Delete all documents";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Apagar todos os links";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Apagar todos o Documentos";
 
 "MEDIA_FORWARD_BUTTON_DESC" = "Adiciona um novo botão de envio no topo do navegador de mídia para encaminhar a mensagem de mídia para vários contatos de uma só vez.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "Botão de encaminhamento de mídia";
@@ -585,12 +585,12 @@
 
 "ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Ativar notificações locais";
 "ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Essa opção manterá o WhatsApp ativo em segundo plano para receber notificações, mas aumentará o uso da bateria";
-"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "Method";
-"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "Audio";
-"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "Location";
-"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "This option will keep an empty audio file playing in background so that WhatsApp can stay active and receive notifications.\nThis method can sometime cause issues when recording a voice message or calling someone on WhatsApp. This issue can be fixed by restarting WhatsApp.";
+"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "Método";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "Áudio";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "Localização";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "Esta opção manterá um arquivo de áudio vazio sendo reproduzido em segundo plano para que o WhatsApp possa permanecer ativo e receber notificações. \ NEste método pode, às vezes, causar problemas ao gravar uma mensagem de voz ou ligar para alguém no WhatsApp.  Esse problema pode ser corrigido reiniciando o WhatsApp.";
 "LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING" = "This feature can not be enabled if Location Services is turned off or if WhatsApp location setting is not set to 'Always'.\n\nGo to Settings > Privacy > Location Services > Enable Location Services > Make sure WhatsApp is set to 'Always'.";
-"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "This option will activate location updates in background to keep WhatsApp active.";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "Esta opção ativará as atualizações de localização em segundo plano para manter o WhatsApp ativo.";
 
 
 /* Theme */
@@ -826,8 +826,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Foto de Perfil";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "Primeiro Nome";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Último Nome";
-"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
-"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "Sobre";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "Sobre o Texto";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Escolher foto";
 
 
@@ -866,7 +866,7 @@
 "CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "Nome do arquivo já existe";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Erro ao tocar";
 "CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "Arquivo não pode ser reproduzido";
-"CUSTOM_TONES_HELP_LABEL" = "Notification Sound Not Playing?";
+"CUSTOM_TONES_HELP_LABEL" = "O som de notificação não está tocando?";
 
 
 /* Other Settings Section */
