@@ -189,6 +189,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "رسالة محذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "إضافة قسم داخل صفحات معلومات جهة الاتصال ومعلومات المجموعة يُعرض فيه المزيد من التفاصيل حول المحادثة.";
 "CHAT_DETAILS_SECTION_LABEL" = "قسم تفاصيل المحادثة";

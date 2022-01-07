@@ -189,6 +189,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "I messaggi eliminati dai contatti non verranno eliminati sul telefono, e presenteranno un'icona per indicare che il contatto li ha cancellati.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";

@@ -189,6 +189,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "As mensagens que os contatos revogarem não serão deletadas e um ícone para indicar que o contato revogou aparecerá.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mensagem Apagada";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name excluiu esta mensagem em #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Adicionar uma seção dentro das informações de contato e de grupo para ver mais detalhes sobre as conversas";
 "CHAT_DETAILS_SECTION_LABEL" = "Seção de detalhes do bate-papo";

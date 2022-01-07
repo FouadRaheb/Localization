@@ -189,6 +189,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que tus contactos anulen no se borrarán y se mostrará un ícono para indicar que tu contacto lo ha anulado.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mensaje Eliminado";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name eliminado es mensaje en #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Agregue una sección dentro de las páginas de información de contacto y grupo para ver más detalles sobre el chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Sección de Detalles del Chat";
