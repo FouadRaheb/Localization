@@ -190,6 +190,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mesaj Silindi";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name 'dan bu mesaj şu zamanda silindi #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Sohbet hakkında daha fazla ayrıntı görüntülemek için kişi ve grup bilgileri sayfalarının içine bir bölüm ekleyin";
 "CHAT_DETAILS_SECTION_LABEL" = "Sohbet Ayrıntıları Bölümü";
@@ -358,6 +359,19 @@
 "CLEAR_ALL_CHATS_DESCRIPTION" = "Arşivler dahil bütün sohbet içeriklerini sil";
 
 
+/* Chat List Actions */
+
+"CHAT_LIST_ACTIONS_LABEL" = "Chat List More Actions";
+"CHAT_LIST_ACTIONS_DESC" = "Adds a More button in the chats list toolbar for more actions to the list";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "Select All";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Deselect All";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Clear All Chats";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Clear all chats content and media including archived chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Clear Selected Chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Clear selected chats content and media";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Clear";
+
+
 /* Other Addons */
 
 "OTHER_ADDONS_LABEL" = "Genel";
@@ -471,6 +485,9 @@
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Ekran görüntüsü";
 "SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Başarıyla Kaydedildi";
 "SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Görüntü Oluşturulmadı";
+
+"EXPORT_AUDIO_MESSAGES_LABEL" = "Export Audio Messages";
+"EXPORT_AUDIO_MESSAGES_DESC" = "Add export button to audio messages context menu";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Profil Fotoğraflarını Kaydet";
 "SAVE_PROFILE_PHOTOS_DESC" = "WhatsApp kaydet düğmelerini kaldırdıktan sonra kaydetmek için profil fotoğraflarına uzun basın";
@@ -797,6 +814,7 @@
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Zamanlı mesajları görüntüle ve oluştur";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Zamanlanan Mesajlar";
 "MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "Kırmızı zaman mesajın işlendiğini ve artık çalışmadığını belirtir.";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "Name";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Tarih & Zaman";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Alıcılar";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Mesaj";

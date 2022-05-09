@@ -1,0 +1,1034 @@
+/* Preferences */
+
+"WATUSI_PREFERENCES_LABEL" = "Настройки Watusi";
+"DEBUG_MENU" = "Режим отладки";
+
+
+/* Privacy */
+
+"PRIVACY_LABEL" = "Конфиденциальность";
+
+"FREEZE_LASTSEEN_LABEL" = "Заморозка";
+"FREEZE_LASTSEEN_DESC" = "Ваши контакты не будут знать, что вы находитесь в сети. Они также не будут знать, когда вы в последний раз открывали WhatsApp";
+
+"DISABLE_READ_RECEIPTS_LABEL" = "Скрыть индикатор чтения сообщений";
+"READ_RECEIPTS_DESC" = "Ваши контакты не будут видеть, что вы прочли их сообщение, но вы будете видеть, что они прочли ваше. Включайте и отключайте индикатор чтения сообщений для определенных контактов, добавляя их в список или меняя соответствующие настройки в меню профиля";
+"NEVER_SEND_RECEIPTS_TO" = "Скрыть индикатор для";
+"FORCE_SEND_RECEIPTS_TO" = "Показать индикатор для";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Показ. индикатор прослуш. голосовых сообщений";
+"FORCE_RECEIPTS_ON" = "Показать индикатор, если";
+"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Сообщение отправлено";
+"FORCE_RECEIPTS_ON_START_TYPING" = "Печать или запись";
+"FORCE_RECEIPTS_ON_NEVER" = "Никогда";
+
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Бесконечный просмотр";
+"DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Открывайте исчезающие медиафайлы неограниченное количество раз, отмечайте их просмотренными с помощью специальной кнопки в интерфейсе";
+
+"DISABLE_TYPING_LABEL" = "Скрыть индикатор печати";
+"DISABLE_TYPING_DESC" = "Ваши контакты не будут знать, что вы печатаете сообщение";
+"NEVER_SEND_TYPING_TO" = "Скрыть индикатор печати для";
+"FORCE_SEND_TYPING_TO" = "Показать индикатор печати для";
+
+"DISABLE_RECORDING_LABEL" = "Скрыть индикатор записи";
+"DISABLE_RECORDING_DESC" = "Ваши контакты не будут знать, что вы записываете аудио";
+"NEVER_SEND_RECORDING_TO" = "Скрыть индикатор записи для";
+"FORCE_SEND_RECORDING_TO" = "Показать индикатор записи для";
+
+"WHITELIST" = "Белый список";
+"BLACKLIST" = "Черный список";
+"SEND_READ_RECEIPTS_BUTTON" = "Показать индикатор чтения";
+"SEND_DELIVERY_RECEIPTS_BUTTON" = "Показать индикатор получения";
+"SEND_TYPING_INDICATOR_BUTTON" = "Показать индикатор печати";
+"SEND_RECORDING_INDICATOR_BUTTON" = "Показать индикатор записи";
+"READ_RECEIPTS_BUTTON" = "Сообщение прочитано";
+"DELIVERY_RECEIPTS_BUTTON" = "Сообщение прочитано";
+"TYPING_INDICATOR_BUTTON" = "Индикатор печати";
+"RECORDING_INDICATOR_BUTTON" = "Индикатор записи";
+
+"SHOW_READ_TYPING_ON_INFO_PAGE_DESC" = "Включайте и отключайте индикаторы печати, записи, получения и чтения сообщений на странице подробной информации о контакте";
+"SHOW_READ_TYPING_ON_INFO_PAGE_LABEL" = "Элементы управления в профиле контакта";
+
+"DISABLE_DELIVERY_RECEIPTS_DESC" = "Ваши контакты не будут знать, что вы получили отправленное вам сообщение - оно будет помечено одной контрольной галочкой";
+"DISABLE_DELIVERY_RECEIPTS_LABEL" = "Скрыть индикатор получения сообщений";
+"DISABLE_DELIVERY_RECEIPTS_WARNING" = "Осторожно! Активация этой функции вызовет задержку сообщений. Вы перестанете получать новые сообщения из-за большого количества не доставленных вам сообщений на сервере WhatsApp. Это невозможно исправить - так работает сервер!";
+
+"DISABLE_INTERNET_CONNECTION_DESC" = "Запретите WhatsApp доступ в Интернет. После активации этой функции вы не сможете отправлять/получать сообщения, а WhatsApp не сможет отправлять/получать данные на/с сервера. Управлять этой функцией можно также с помощью модуля в ПУ вашего iPhone";
+"DISABLE_INTERNET_CONNECTION_LABEL" = "Отключить доступ в Интернет";
+
+"LASTSEEN_AUTO_SWITCH_DESC" = "Пока WhatsApp активен, контакты видят время вашего появления в сети. Оно автоматически скрывается ото всех при переходе в фоновый режим";
+"LASTSEEN_AUTO_SWITCH_LABEL" = "Автопереключение режимов";
+
+"MY_CONTACTS_PRIVACY_DESC" = "Выберите контакты, информация о которых не будет отправляться на сервер WhatsApp. Они не смогут просматривать фото вашего профиля, статус и время последнего посещения, если вы активируете функцию «Конфиденциальность контактов».\n\nВАЖНО!\n1. Вы не сможете редактировать/удалять контакты из черного списка, если у вас включена эта функция.\n2. Фотографии контактов из черного списка не будут меняться, пока вы не откроете их и не загрузите вручную.\n3. Вы не будете получать информацию о статусе контактов из черного списка.\n4. Если у вас установлен твик Stalky, вы не будете получать обновления для контактов из черного списка.";
+"MY_CONTACTS_PRIVACY_LABEL" = "Конфиденциальность контактов";
+"MY_CONTACTS_BLACKLISTED_LABEL" = "Черный список контактов";
+
+"HIDE_CALL_MUTE_DESC" = "Ваши контакты не будут знать, что вы отключили микрофон во время разговора";
+"HIDE_CALL_MUTE_LABEL" = "Скрыть отключение микрофона";
+
+"DISABLE_VOIP_LABEL" = "Блокировать входящие вызовы";
+"DISABLE_VOIP_DESC" = "Если эта функция включена, вы не будете получать уведомление о входящем звонке";
+"DISABLE_VOIP_FILTER_LABEL" = "Блокировать вызовы от";
+"DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Все контакты";
+"DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Все контакты, кроме";
+"DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL" = "Несохраненные номера";
+"DISABLE_VOIP_SELECTED_CONTACTS_LABEL" = "Выбранные контакты";
+"DISABLE_VOIP_BLACKLIST_LABEL" = "Заблокированные контакты";
+"DISABLE_VOIP_WHITELIST_LABEL" = "Разрешенные контакты";
+
+
+/* Status Addons */
+
+"STATUS_ADDONS_LABEL" = "Статусы";
+
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Статусы в списке чатов";
+"STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Отображение статусов ваших контактов в верхней части экрана на вкладке «Чаты»";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Не показывать скрытые статусы";
+"STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Написать";
+"STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Информация о контакте";
+
+"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Статусы в чатах";
+"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "Откройте изображение профиля контакта в чате для просмотра статуса";
+
+"STATUS_DOWNLOAD_BUTTON_LABEL" = "Кнопка загрузки";
+"STATUS_DOWNLOAD_BUTTON_DESC" = "Добавьте кнопку загрузки в правый нижний угол страницы просмотра статуса";
+
+"STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE" = "Скачать";
+"STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE" = "Отметить просмотренным";
+
+"STATUS_CAPTION_COPY" = "Скопировать подпись";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Подпись скопирована в буфер обмена";
+
+"STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Сохранить изображение в галерее";
+"STATUS_DOWNLOAD_IMAGE_SHARE" = "Поделиться изображением";
+"STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE" = "Изображение сохранено в галерее";
+
+"STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY" = "Сохранить видео в галерее";
+"STATUS_DOWNLOAD_VIDEO_SHARE" = "Поделиться видео";
+"STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE" = "Видео сохранено в галерее";
+
+"STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO" = "Сохранить как видео";
+"STATUS_DOWNLOAD_GIF_SAVE_AS_GIF" = "Сохранить как GIF";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO" = "Поделиться как видео";
+"STATUS_DOWNLOAD_GIF_SHARE_AS_GIF" = "Поделиться как GIF";
+"STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE" = "GIF сохранен в галерее";
+
+"STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY" = "Сохранить изображение в галерее";
+"STATUS_TEXT_SHARE_IMAGE" = "Поделиться изображением";
+"STATUS_TEXT_SHARE_TEXT" = "Поделиться текстом";
+"STATUS_TEXT_COPY_TEXT" = "Скопировать текст";
+"STATUS_TEXT_COPIED_TO_CLIPBOARD" = "Текст скопирован в буфер обмена";
+
+"STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL" = "Откл. автоотметку о просмотре";
+"STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL" = "Переместить просмотренные статусы вниз";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL" = "Отметить просмотренным статус";
+"STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Отключите автоматическую отметку о просмотре статуса, делайте это вручную с помощью кнопки Watusi. Она не будет отображаться, если статус уже отмечен как просмотренный";
+
+"STATUS_ARCHIVE_LABEL" = "Архив моих статусов";
+"STATUS_ARCHIVE_DESC" = "Создайте архив, в котором будут храниться все опубликованные вами статусы, а также информация о том, какие из них были просмотрены вашими контактами";
+"STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Архив";
+"STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ еще не видел(а) ни одного вашего статуса";
+"STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Вы еще не опубликовали ни одного статуса";
+"STATUS_ARCHIVE_VIEWERS_BUTTON" = "Зрители";
+"STATUS_ARCHIVE_EXPORT_BUTTON" = "Экспорт";
+"STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Все статусы";
+"STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT" = "Добавить контакт";
+"STATUS_ARCHIVE_VIEWERS_TITLE" = "Зрители";
+"STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT" = "Зрителя(ей)";
+"STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT" = "Зритель";
+"STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT" = "Дата публикации";
+"STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT" = "Дата удаления";
+"STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON" = "Удалить статус";
+"STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON" = "Экспортировать статус";
+
+"STATUS_CONTACT_GROUPS_DESC" = "Создавайте группы контактов и легко переключайтесь между ними в настройках конфиденциальности, выбирая тех, кто будет видеть ваш статус";
+"STATUS_CONTACT_GROUPS_LABEL" = "Использовать группы контактов";
+"STATUS_CONTACT_GROUPS_EMPTY_MESSAGE" = "Для создания группы контактов используйте кнопку «+»";
+"STATUS_CONTACT_GROUPS_CONTACT_LABEL" = "Контакт";
+"STATUS_CONTACT_GROUPS_CONTACTS_LABEL" = "Контакты";
+"STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL" = "Новая группа";
+"STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL" = "Обновить группу";
+"STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE" = "Введите название группы";
+"STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Название группы";
+"STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Управлять";
+"STATUS_CONTACT_GROUPS_EXPORT_BUTTON" = "Экспорт";
+"STATUS_CONTACT_GROUPS_IMPORT_BUTTON" = "Импорт";
+"STATUS_CONTACT_GROUPS_DELETE_BUTTON" = "Удалить";
+"STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON" = "Удалить группы";
+
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Статусы, удаленные вашими контактами (время удаления будет указано в заголовке), останутся в общем списке. Вы сможете просмотреть их в течение 24-х часов";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Сохранить удаленные статусы";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Статус был удален в";
+
+"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Выбрать цвет статуса";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Нажмите и удерживайте значок палитры для изменения цвета фона статуса";
+
+"STATUS_SPLIT_VIDEO_LABEL" = "Разделить длинное видео";
+"STATUS_SPLIT_VIDEO_DESC" = "WhatsApp не разрешает публиковать в статусе медиафайлы, хронометраж которых превышает 30 секунд. Эта функция автоматически разделяет длинные видео на несколько частей, обрезанных в нужное время, для последовательного воспроизведения";
+"STATUS_SPLIT_VIDEO_LIMIT_MESSAGE" = "Видео продолжительностью более 15 минут не поддерживается";
+
+"STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Отключите автоматический переход к следующему статусу";
+"STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Без автоперехода";
+
+"STATUS_HIDE_TABBAR_BADGES_DESC" = "Скройте значок, который появляется на панели вкладок, когда ваш контакт публикует новый статус";
+"STATUS_HIDE_TABBAR_BADGES_LABEL" = "Убрать синюю точку";
+
+
+/* Chats Addons */
+
+"CHATS_ADDONS_LABEL" = "Чаты";
+
+"CONTINUED_AUDIO_MESSAGES_LABEL" = "Продолжить прослушивание";
+"CONTINUED_AUDIO_MESSAGES_DESC" = "Эта функция дает вам возможность выйти из чата и продолжить прослушивание аудиосообщения. Она также добавляет в верхнюю часть экрана небольшую панель для управления воспроизведением";
+"CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Аудиозапись";
+"CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Голосовое сообщение";
+
+"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Отключить таймер удаления";
+"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Активируйте эту настройку, чтобы снять ограничение по времени для функции «Удалить для всех»";
+
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Сохранить удаленные сообщения";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Сообщения, удаленные вашими контактами, получат соответствующую метку и останутся у вас на устройстве";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Удаленное сообщение";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name удалил(а) это сообщение #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Администратор группы #admin удалил(а) это сообщение #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
+
+"CHAT_DETAILS_SECTION_DESC" = "Добавьте раздел на страницу сведений о контакте/группе, в котором будет отображаться подробная информация о чате";
+"CHAT_DETAILS_SECTION_LABEL" = "Статистика чата";
+"CHAT_DETAILS_SECTION_TITLE" = "Статистика чата";
+"CHAT_DETAILS_INF_HEADER" = "Информация";
+"CHAT_DETAILS_PROFILE_NAME" = "Имя контакта";
+"CHAT_DETAILS_ALL_MESSAGES_HEADER" = "Отправленные и полученные сообщения";
+"CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER" = "Отправленные сообщения";
+"CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER" = "Полученные сообщения";
+"CHAT_DETAILS_ALL_MESSAGES_FOOTER" = "Медиафайлы включают изображения, видео, аудио, GIF";
+"CHAT_DETAILS_ALL_MESSAGES" = "Всего сообщений";
+"CHAT_DETAILS_ALL_MEDIA" = "Всего медиафайлов";
+"CHAT_DETAILS_TEXT" = "Текст";
+"CHAT_DETAILS_IMAGE" = "Изображения";
+"CHAT_DETAILS_VIDEO" = "Видео";
+"CHAT_DETAILS_VOICE" = "Голосовые сообщения";
+"CHAT_DETAILS_AUDIO" = "Аудио";
+"CHAT_DETAILS_STICKER" = "Стикеры";
+"CHAT_DETAILS_DOCUMENT" = "Документы";
+"CHAT_DETAILS_GIF" = "GIF";
+"CHAT_DETAILS_CONTACT" = "Контакты";
+"CHAT_DETAILS_LOCATION" = "Местоположение";
+"CHAT_DETAILS_LINKS" = "Ссылки";
+"CHAT_DETAILS_DELETED" = "Удаленные";
+
+"ABOUT_ON_CHATS_DESC" = "Добавьте в верхнюю часть окна чата небольшую панель с отображением текущих сведений о контакте";
+"ABOUT_ON_CHATS_LABEL" = "Текущие сведения";
+
+"TAP_TO_RECORD_DESC" = "Нажмите на значок микрофона один раз, чтобы начать запись голосового сообщения, и еще один раз, чтобы его отправить. Нажмите и проведите пальцем влево, чтобы удалить запись";
+"TAP_TO_RECORD_LABEL" = "Запись по нажатию";
+"TAP_TO_RECORD_SLIDE_LABEL" = "Свайп влево, чтобы удалить";
+
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Стоп-игра";
+"DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Эта функция отключает автоматическое воспроизведение следующего аудиосообщения в чате";
+
+"DISABLE_FORWARD_INDICATOR_LABEL" = "Скрыть переадресацию";
+"DISABLE_FORWARD_INDICATOR_DESC" = "Эта функция убирает индикатор, который появляется, когда вы пересылаете сообщение";
+
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Лимит переадресации";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Увеличьте лимит на переадресацию сообщений с 5 до 20 контактов. Раньше эта функция не имела ограничений, но WhatsApp начал проверять подозрительную активность на сервере, и мне пришлось внести изменения, чтобы защитить вашу учетную запись";
+
+"CONFIRM_SENDING_STICKER_LABEL" = "Подтверждение для стикеров";
+"CONFIRM_SENDING_STICKER_DESC" = "Показывать предупреждение перед отправкой стикеров";
+"CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON" = "Отправить стикер";
+
+"CALL_CONFIRM_DESC" = "Показывать предупреждение перед началом голосового или видеовызова. Эта функция также предоставляет возможность выбора между звонком через WhatsApp и через оператора мобильной связи";
+"CALL_CONFIRM_LABEL" = "Подтверждение для звонков";
+"CALL_CONFIRM_RECENTS_LABEL" = "Подтверждение для списка вызовов";
+"START_VIDEO_CALL_WITH" = "Видеозвонок. Вызываемый контакт: ";
+"START_VOICE_CALL_WITH" = "Аудиозвонок. Вызываемый контакт: ";
+"START_GROUP_VIDEO_CALL_WITH" = "Групповой видеозвонок";
+"START_GROUP_VOICE_CALL_WITH" = "Групповой аудиозвонок";
+"WHATSAPP_VIDEO_CALL_BUTTON" = "Видеозвонок WhatsApp";
+"WHATSAPP_VOICE_CALL_BUTTON" = "Аудиозвонок WhatsApp";
+"CARRIER_CALL_BUTTON" = "Мобильная связь";
+"CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Мобильная связь недоступна";
+
+"GROUP_MEMBERS_PICTURE_DESC" = "Показывать фото профиля участника группы рядом с его сообщением в чате. Вы можете нажать на изображение для перехода в режим предварительного просмотра";
+"GROUP_MEMBERS_PICTURE_LABEL" = "Группа в лицах";
+
+"GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Группа в числах";
+"GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Показывать количество сообщений, отправленных каждым участником группового чата";
+
+"BATCH_DELETE_MESSAGES_DESC" = "Эта функция добавляет на панель инструментов редактирования чата кнопку для одновременного удаления нескольких сообщений";
+"BATCH_DELETE_MESSAGES_LABEL" = "Пакетное удаление сообщений";
+
+"MESSAGE_FORWARD_DESC" = "Эта функция добавляет на панель инструментов редактирования чата кнопку для пересылки сообщений нескольким контактам одновременно";
+"MESSAGE_FORWARD_LABEL" = "Быстрая пересылка";
+"MESSAGE_FORWARD_NO_CONTACTS_MESSAGE" = "Контакты не выбраны";
+"MESSAGE_FORWARD_BUTTON_TITLE" = "Переслать";
+"FORWARD_%zd_MESSAGE_TO_%zd_CONTACT" = "Переслать %zd сообщение(я/ий) %zd контакту(ам)";
+
+"BROADCAST_MESSAGE_INDICATOR_DESC" = "Эта функция добавляет значок рядом с сообщениями из рассылки, чтобы они отличались от сообщений, отправленных непосредственно вам";
+"BROADCAST_MESSAGE_INDICATOR_LABEL" = "Индикатор рассылки";
+
+"IN_APP_BROWSER_DESC" = "Открывайте ссылки в приложении WhatsApp, не переходя в браузер по умолчанию";
+"IN_APP_BROWSER_LABEL" = "Встроенный браузер";
+
+"CLEAR_BROADCAST_BUTTON_DESC" = "При удалении сообщений в списке рассылки в левом верхнем углу появится кнопка, с помощью которой вы сможете очистить чат";
+"CLEAR_BROADCAST_BUTTON_LABEL" = "Очистить список рассылки";
+"CLEAR_BROADCAST_ALERT_MESSAGE" = "Удалить все сообщения в этом списке";
+"CLEAR_BROADCAST_ALERT_BUTTON" = "Очистить";
+"CLEAR_BROADCAST_NAVBAR_BUTTON" = "Очистить чат";
+
+"SEND_RETURN_KEY_DESC" = "Замените кнопку «Ввод» на клавиатуре кнопкой «Отправить»";
+"SEND_RETURN_KEY_LABEL" = "Нажать, чтобы отправить";
+
+
+/* Chat List Addons */
+
+"CHAT_LIST_ADDONS_LABEL" = "Список чатов";
+
+"CHAT_LIST_FILTER_DESC" = "Эта функция меняет интерфейс панели навигации, предоставляя вам возможность фильтрации и сортировки чатов";
+"CHAT_LIST_FILTER_LABEL" = "Фильтрация и сортировка";
+"CHAT_LIST_FILTER_SECTION_HEADER" = "Показать";
+"CHAT_LIST_FILTER_ALL_TITLE" = "Все";
+"CHAT_LIST_FILTER_ALL_SHORT_TITLE" = "Все";
+"CHAT_LIST_FILTER_UNREAD_TITLE" = "Непрочитанные";
+"CHAT_LIST_FILTER_UNREAD_SHORT_TITLE" = "Непрочитанные";
+"CHAT_LIST_FILTER_CONTACTS_TITLE" = "Контакты";
+"CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE" = "Контакты";
+"CHAT_LIST_FILTER_GROUPS_TITLE" = "Группы";
+"CHAT_LIST_FILTER_GROUPS_SHORT_TITLE" = "Группы";
+"CHAT_LIST_FILTER_UNSAVED_TITLE" = "Несохраненные";
+"CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE" = "Несохраненные";
+"CHAT_LIST_SORT_SECTION_HEADER" = "Сортировать";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "По умолчанию";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "По умолчанию";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE" = "По дате сообщения (старые-новые)";
+"CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE" = "Дата ↓";
+"CHAT_LIST_SORT_NAME_ASC_TITLE" = "По названию (А-Я)";
+"CHAT_LIST_SORT_NAME_ASC_SHORT_TITLE" = "Название ↓";
+"CHAT_LIST_SORT_NAME_DESC_TITLE" = "По названию (Я-А)";
+"CHAT_LIST_SORT_NAME_DESC_SHORT_TITLE" = "Название ↑";
+
+"ARCHIVE_LOCK_DESC" = "Нажмите и удерживайте находящийся в архиве чат, чтобы его заблокировать, и тогда он не вернется в общий список при получении нового сообщения. Вы можете управлять заблокированными чатами с помощью кнопки в верхней части экрана на панели навигации";
+"ARCHIVE_LOCK_LABEL" = "Блокировка архивных чатов";
+"ARCHIVE_LOCK_MUTE_LABEL" = "Заглушить уведом. заблокированных чатов";
+"ARCHIVE_LOCKED_CHATS" = "Заблокировано в архиве";
+"ARCHIVE_LOCK_UNLOCK_TITLE" = "Разблокировать чат";
+"ARCHIVE_LOCK_LOCK_TITLE" = "Заблокировать чат";
+"ARCHIVE_LOCK_UNLOCK_MESSAGE" = "При получении нового сообщения чат вернется в общий список";
+"ARCHIVE_LOCK_LOCK_MESSGAE" = "Если вы получите новое сообщение из этого чата, он не вернется в общий список";
+"ARCHIVE_LOCK_LOCK_BUTTON" = "Заблокировать";
+"ARCHIVE_LOCK_UNLOCK_BUTTON" = "Разблокировать";
+"ARCHIVE_LOCK_TABLE_TITLE" = "Заблокированные чаты";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE" = "Чат заблокирован в архиве.\nХотите разблокировать его и разархивировать?";
+"ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON" = "Разблокировать и разархивировать";
+"ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON" = "Заблокировать в архиве";
+"ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON" = "Разблокировать из архива";
+
+"UNLIMITED_PINNED_CHATS_LABEL" = "Больше закрепленных чатов";
+"UNLIMITED_PINNED_CHATS_DESC" = "Эта функция снимает лимит на количество закрепленных чатов вверху общего списка";
+
+"GROUPS_LIST_DESC" = "Добавьте на панель навигации кнопку для быстрого доступа к спискам групп и рассылки";
+"GROUPS_LIST_LABEL" = "Список групп";
+"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "Страница по умолчанию";
+"GROUPS_LIST_GROUP_LABEL" = "Группы";
+"GROUPS_LIST_BROADCAST_LABEL" = "Рассылки";
+
+"OPEN_PICTURE_ON_TAP_DESC" = "Откройте изображение профиля контакта, нажав на миниатюру в списке чатов или на вкладке «Избранное»";
+"OPEN_PICTURE_ON_TAP_LABEL" = "Открыть одним касанием";
+
+"NEW_CHAT_OPTIONS_DESC" = "Tapping new chat button will show an alert with the option to enter a phone number to message on WhatsApp without creating a contact for it.";
+"NEW_CHAT_OPTIONS_LABEL" = "Опции нового чата";
+"NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "Начать новый чат";
+"NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "Выбрать контакт";
+"NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON" = "Ввести номер телефона";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE" = "Введите код страны и номер телефона без каких-либо дополнительных символов";
+"NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON" = "Открыть чат";
+
+"SWIPE_TO_DELETE_DESC" = "Эта функция позволяет удалять любой чат в общем списке с помощью длинного свайпа влево";
+"SWIPE_TO_DELETE_LABEL" = "Свайп-удаление";
+"SWIPE_TO_DELETE_BUTTON" = "Удалить чат свайпом";
+"SWIPE_TO_DELETE_MESSAGE" = "Удалить чат";
+
+"SWIPE_FOR_CONTACT_INFO_DESC" = "Получите доступ к подробной информации о контакте с помощью длинного свайпа вправо";
+"SWIPE_FOR_CONTACT_INFO_LABEL" = "Свайп-подробности";
+"SWIPE_FOR_CONTACT_INFO_BUTTON" = "Данные";
+
+"CLEAR_CHATS_BUTTON_DESC" = "Эта функция добавляет в меню редактирования списка чатов кнопку, с помощью которой можно очистить историю переписки";
+"CLEAR_CHATS_BUTTON_LABEL" = "Кнопка очистки";
+"CLEAR_CHATS_CLEAR_BUTTON" = "Очистить";
+"CLEAR_SELECTED_CHATS_BUTTON" = "Очистить выбранные чаты";
+"CLEAR_ALL_CHATS_BUTTON" = "Очистить все чаты";
+"CLEAR_ALL_CHATS_DESCRIPTION" = "Удалить содержимое всех чатов, в том числе архивных";
+
+
+/* Chat List Actions */
+
+"CHAT_LIST_ACTIONS_LABEL" = "Chat List More Actions";
+"CHAT_LIST_ACTIONS_DESC" = "Adds a More button in the chats list toolbar for more actions to the list";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "Select All";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Deselect All";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Clear All Chats";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Clear all chats content and media including archived chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Clear Selected Chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Clear selected chats content and media";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Clear";
+
+
+/* Other Addons */
+
+"OTHER_ADDONS_LABEL" = "Основные";
+
+"MANAGE_TABS_ENABLE_LABEL" = "Управление панелью вкладок";
+"MANAGE_TABS_ORGANIZE_LABEL" = "Элементы панели вкладок";
+"MANAGE_TABS_DESC" = "Вы можете изменить порядок или удалить вкладки WhatsApp, а также добавить собственные";
+"MANAGE_TABS_ORGANIZE_TITLE" = "Элементы панели вкладок";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Включено";
+"MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "Вы можете включить только 5 элементов одновременно";
+"MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER" = "Отключено";
+"MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE" = "Звонки";
+"MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE" = "Камера";
+"MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Избранное";
+"MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Группы";
+"MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "Система";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Восстановить настройки по умолчанию";
+
+"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Удалить все избранные контакты";
+"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Удалить все";
+"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Добавить все избранные контакты";
+"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Добавить все";
+
+"GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "Добавьте кнопку выбора/отмены выбора всех контактов при создании группы или списка рассылки. Эта функция также снимает лимит на добавление в группу/список более 256 контактов. ПРИМЕЧАНИЕ: возможно, у вас не получится обойти ограничение сервера, но попробовать стоит";
+"GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "Добавить всех в группу/список рассылки";
+"GROUP_AND_BROADCAST_SELECT_ALL_BUTTON" = "Все";
+"GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON" = "Никто";
+
+"GENERATE_BROADCAST_LISTS_LABEL" = "Генерировать списки рассылки";
+"GENERATE_BROADCAST_LISTS_DESC" = "Добавьте кнопку автоматического создания нескольких списков рассылки из ваших контактов WhatsApp";
+"GENERATE_BROADCAST_LISTS_BUTTON_TITLE" = "Сгенерировать списки";
+"GENERATE_BROADCAST_LISTS_ALERT_TITLE" = "Сгенерировать списки рассылки";
+"GENERATE_BROADCAST_LISTS_ALERT_MESSAGE" = "Автоматически создать несколько списков рассылки, каждый из которых будет включать 256 ваших контактов";
+"GENERATE_BROADCAST_LISTS_ALERT_ACTION" = "Сгенерировать";
+
+"INCREASE_ABOUT_LENGHT_DESC" = "Увеличьте количество символов в графе «Сведения» в настройках вашего профиля со 139 до 256";
+"INCREASE_ABOUT_LENGHT_LABEL" = "Больше сведений";
+
+
+/* Protection */
+
+"PROTECTION_LABEL" = "Защита";
+
+"APP_PROTECTION_LABEL" = "Защита приложения";
+"DELETE_APP_PASSCODE" = "Удалить пароль WhatsApp";
+"SET_APP_PASSCODE" = "Установить пароль WhatsApp";
+"USE_TOUCH_ID" = "Использовать Touch ID";
+"USE_FACE_ID" = "Использовать Face ID";
+
+"CHAT_PROTECTION_LABEL" = "Защита чатов";
+"CHAT_PROTECTION_LOCKED_CHATS" = "Чаты под паролем";
+"CHAT_PROTECTION_LOCK_ALL_CHATS" = "Пароль на все чаты";
+"CHAT_PROTECTION_USE_TOUCH_ID" = "Использовать Touch ID";
+"CHAT_PROTECTION_USE_FACE_ID" = "Использовать Face ID";
+"CHAT_PROTECTION_UNLOCK_BUTTON" = "Отключить пароль";
+"CHAT_PROTECTION_LOCK_BUTTON" = "Установить пароль";
+
+"HIDE_LAST_MESSAGE_LABEL" = "Скрыть последнее сообщение";
+"HIDE_LAST_MESSAGE_NONE" = "Нигде";
+"HIDE_LAST_MESSAGE_LOCKED" = "Под паролем";
+"HIDE_LAST_MESSAGE_ALL" = "Везде";
+
+"STARRED_MESSAGES_PROTECTION_SECTION" = "Защита избранных сообщений";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Пароль на избранные сообщения";
+
+"BYPASS_PROTECTION_LABEL" = "Отключение защиты";
+"BYPASS_PROTECTION_DESC" = "Введите название сети WiFi, при подключении к которой установленные пароли действовать не будут";
+"BYPASS_APP_PROTECTION_LABEL" = "Отключить защиту приложения";
+"BYPASS_CHAT_PROTECTION_LABEL" = "Отключить защиту чатов";
+"BYPASS_STARRED_MESSAGES_PROTECTION_LABEL" = "Откл. защиту избранных сообщений";
+"BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL" = "Безопасные сети WiFi";
+
+
+/* Media */
+
+"MEDIA_LABEL" = "Медиа";
+
+"SHARE_SHEET_DESC" = "Добавьте дополнительные пункты в меню «Отправить». Например, вы можете заблокировать контакт, поделиться музыкой или последней фотографией из галереи";
+"SHARE_SHEET_LABEL" = "Расширенные возможности";
+"SHARE_SHEET_ACTIVE_BUTTONS" = "Активные пункты";
+"SHARE_SHEET_STYLE" = "Стиль";
+"SHARE_SHEET_STYLE_DEFAULT" = "По умолчанию";
+"SHARE_SHEET_STYLE_IMAGE_PICKER" = "Миниатюры изображений";
+"SHARE_SHEET_STYLE_DARK" = "Темный";
+"SHARE_SHEET_STYLE_WHITE" = "Светлый";
+
+"SHARE_SHEET_BUTTONS_LABEL" = "Активные пункты";
+"SHARE_SHEET_ENABLED_LABEL" = "Включено";
+"SHARE_SHEET_DISABLED_LABEL" = "Отключено";
+
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Отправить выбранные изображения";
+"SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Сделать фото или снять видео";
+"SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Отправить фото/видео из галереи";
+"SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Отправить фото из галереи";
+"SHARE_SHEET_VIDEO_LIBRARY_BUTTON" = "Отправить видео из галереи";
+"SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON" = "Поделиться последней фотографией";
+"SHARE_SHEET_SHARE_DOCUMENT_BUTTON" = "Поделиться документом";
+"SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON" = "Поделиться файлом";
+"SHARE_SHEET_SHARE_LOCATION_BUTTON" = "Поделиться местоположением";
+"SHARE_SHEET_SHARE_CONTACT_BUTTON" = "Поделиться контактом";
+"SHARE_SHEET_SHARE_MUSIC_BUTTON" = "Поделиться музыкой";
+"SHARE_SHEET_BLOCK_UNBLOCK_BUTTON" = "Заблокировать/разблокировать контакт";
+"SHARE_SHEET_BLOCK_CONTACT_BUTTON" = "Заблокировать контакт";
+"SHARE_SHEET_UNBLOCK_CONTACT_BUTTON" = "Разблокировать контакт";
+"SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Поделиться изображением из Интернета";
+"SHARE_SHEET_PAYMENT_BUTTON" = "Отправить платеж";
+"SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Длинный скриншот";
+"SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Фото из галереи как документ";
+
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Будет сохранена область от выбранного вами сообщения и до конца переписки. Прокрутите чат вверх, определите начало скриншота, а затем нажмите кнопку «Снимок экрана»";
+"SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Снимок экрана";
+"SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Успешно сохранено";
+"SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Не удалось сохранить";
+
+"EXPORT_AUDIO_MESSAGES_LABEL" = "Export Audio Messages";
+"EXPORT_AUDIO_MESSAGES_DESC" = "Add export button to audio messages context menu";
+
+"SAVE_PROFILE_PHOTOS_LABEL" = "Сохранить фото профиля";
+"SAVE_PROFILE_PHOTOS_DESC" = "Используйте долгое нажатие, чтобы сохранить фотографию контакта";
+
+"SAVE_VIEW_ONCE_MEDIA_LABEL" = "Сохранить исчезающий контент";
+"SAVE_VIEW_ONCE_MEDIA_DESC" = "Добавьте кнопку сохранения фото и видео однократного просмотра";
+
+"BLOCK" = "Заблокировать";
+"UNBLOCK" = "Разблокировать";
+"BLOCK_CONTACT" = "Заблокировать контакт";
+"UNBLOCK_CONTACT" = "Разблокировать контакт";
+"BLOCK_CONTACT_MESSAGE" = "Нажмите «Заблокировать», чтобы прекратить получать сообщения от контакта";
+"UNBLOCK_CONTACT_MESSAGE" = "Нажмите «Разблокировать», чтобы начать получать сообщения от контакта";
+
+"SHARE_DEVICE_FILES_DESC" = "В меню «Поделиться документом» будет добавлена новая кнопка, которая позволит вам отправлять контактам любые сохраненные на устройстве файлы";
+"SHARE_DEVICE_FILES_LABEL" = "Поделиться файлом";
+"SHARE_DEVICE_FILES_BUTTON" = "Файлы устройства";
+
+"PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE" = "Выберите файл";
+"PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER" = "Название файла";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE" = "Не удалось получить URL-адрес файла";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT" = "Не удалось отправить документ";
+"PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT" = "Не удалось создать документ";
+
+"SELECT_UNLIMITED_PHOTOS_DESC" = "Включите эту функцию, чтобы отправлять контактам неограниченное количество фотографий в одном сообщении";
+"SELECT_UNLIMITED_PHOTOS_LABEL" = "Снять лимит на фото";
+
+"MEDIA_DELETE_BUTTON_DESC" = "Эта функция добавляет в галерею чата с контактом кнопку удаления отправленных/полученных фото, видео, ссылок и документов";
+"MEDIA_DELETE_BUTTON_LABEL" = "Корзина для медиа";
+"MEDIA_DELETE_ALERT_MESSAGE" = "Удалить все медиа";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Удалить все ссылки";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Удалить все документы";
+
+"MEDIA_FORWARD_BUTTON_DESC" = "Добавьте в верхнюю часть медиабраузера кнопку и с ее помощью пересылайте фото и видео сразу нескольким контактам";
+"MEDIA_FORWARD_BUTTON_LABEL" = "Переслать медиа";
+"MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT" = "Переслать медиа %zd контакту(ам)";
+
+"MEDIA_DISABLE_SAVE_OUTGOING_DESC" = "Отключите сохранение в галереи вашего устройства фото и видео, снятых встроенной камерой WhatsApp";
+"MEDIA_DISABLE_SAVE_OUTGOING_LABEL" = "Не сохранять медиа";
+
+
+/* User Interface */
+
+"USER_INTERFACE_LABEL" = "Интерфейс";
+
+"MY_NUMBER" = "Мой номер:";
+"%zd_CONTACTS" = "%zd контакт(а/ов)";
+
+"DISABLE_LARGE_EMOJI_DESC" = "По умолчанию WhatsApp увеличивает размер отправляемых эмодзи. Активируйте эту функцию, если языку идеограмм и смайлов предпочитаете великий и могучий";
+"DISABLE_LARGE_EMOJI_LABEL" = "Отключить большие эмодзи";
+
+"SHOW_SECONDS_DESC" = "Активируйте эту функцию, если хотите знать до секунды, когда ваш контакт был в сети в последний раз (или, например, вас интересует точное время отправки сообщения)";
+"SHOW_SECONDS_LABEL" = "Секунды везде";
+
+"AUTO_SHOW_KEYBOARD_DESC" = "Показывать клавиатуру сразу после открытия чата";
+"AUTO_SHOW_KEYBOARD_LABEL" = "Быстрая клавиатура";
+
+"DISABLE_LANDSCAPE_DESC" = "Если эта функция включена, то при повороте экрана WhatsApp продолжит работать в портретном режиме";
+"DISABLE_LANDSCAPE_LABEL" = "Не менять ориентацию";
+
+"DISABLE_LARGE_TITLES_DESC" = "Активируйте эту функцию, если вам не нравятся большие заголовки (iOS 11+) в верхней части экрана на вкладках WhatsApp";
+"DISABLE_LARGE_TITLES_LABEL" = "Отключить большие заголовки";
+
+"MUTE_SOUND_DESC" = "Отключите звуки отправления/получения сообщений и набора текста (щелчки клавиатуры)";
+"MUTE_SOUND_LABEL" = "Тихие сообщения";
+"MUTE_SOUND_KEY_CLICKS_LABEL" = "Тихая клавиатура";
+
+"HIDE_WEB_SETTINGS_ROW_LABEL" = "Скрыть «Связанные устройства»";
+"HIDE_WEB_SETTINGS_ROW_DESC" = "Активируйте эту функцию, если хотите убрать из общего меню настроек WhatsApp раздел привязки устройств";
+
+"HIDE_CHAT_BUTTONS_DESC" = "Увеличьте длину поля для ввода текста, скрыв значки активации камеры, включения микрофона и выбора стикеров";
+"HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Скрыть камеру";
+"HIDE_CHAT_MIC_BUTTON_LABEL" = "Скрыть микрофон";
+"HIDE_CHAT_STICKERS_BUTTON_LABEL" = "Скрыть стикеры";
+
+"HIDE_CHAT_CONTACT_PICTURE_DESC" = "Скройте изображение профиля контакта из чата (отображается в верхней части экрана слева от имени) и из списка чатов";
+"HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Обезличенные чаты";
+"HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Обезличенный список чатов";
+
+"HIDE_CHAT_CALL_BUTTONS_DESC" = "Вы можете облегчить интерфейс ваших чатов, скрыв кнопки управления вызовами WhatsApp";
+"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Скрыть кнопку голосового вызова";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Скрыть кнопку видеозвонка";
+"HIDE_GROUP_CALL_BUTTON_LABEL" = "Скрыть кнопку группового вызова";
+
+"FULLSCREEN_MODE_DESC" = "Эта функция позволяет скрыть строку состояния (статус-бар) при использовании WhatsApp";
+"FULLSCREEN_MODE_LABEL" = "Полноэкранный режим";
+
+"IPAD_FULLSCREEN_MODE_DESC" = "Используйте WhatsApp в полноэкранном режиме, как любое другое приложение, совместимое с iPad";
+"IPAD_FULLSCREEN_MODE_LABEL" = "Полноэкранный режим для iPad";
+
+
+/* Notifications */
+
+"NOTIFICATIONS_LABEL" = "Уведомления";
+
+"PRIVATE_NOTIFICATION_DESC" = "Замените содержимое уведомлений WhatsApp шаблоном сообщения, чтобы скрыть информацию от посторонних.\n\nВы можете использовать данные исходного уведомления, где:\n«Заголовок» - это имя контакта\n«Сообщение» - текст входящего уведомления";
+"PRIVATE_NOTIFICATION_LABEL" = "Приватные уведомления";
+"PRIVATE_NOTIFICATION_MESSAGE_LABEL" = "Сообщение";
+"PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Текст уведомления";
+"PRIVATE_NOTIFICATION_TITLE_LABEL" = "Заголовок";
+"PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Имя контакта";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Фильтр";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "Нет";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Белый список";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Черный список";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Список";
+
+"HIDE_MUTED_BADGES_DESC" = "Активируйте эту функцию, если хотите скрыть бейджи уведомлений для беззвучных чатов и групп.";
+"HIDE_MUTED_BADGES_LABEL" = "Нет звука - нет бейджа";
+
+"CONTACT_ICON_NOTIFICATIONS_DESC" = "Замените значок WhatsApp в уведомлениях изображением вашего контакта";
+"CONTACT_ICON_NOTIFICATION_LABEL" = "Персональные иконки";
+
+"ENABLE_LOCAL_NOTIFICATIONS_LABEL" = "Включить локальные уведомления";
+"ENABLE_LOCAL_NOTIFICATIONS_DESC" = "Активируйте эту функцию, чтобы WhatsApp оставался активным в фоновом режиме. Вы будете получать уведомления, но у вас увеличится расход заряда батареи";
+"LOCAL_NOTIFICATIONS_TYPE_LABEL" = "Метод";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO" = "Аудио";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION" = "Локация";
+"LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC" = "При использовании этого метода, чтобы WhatsApp оставался активным и получал уведомления, в фоновом режиме будет воспроизводиться пустой аудиофайл.\nЕсли у вас возникнут проблемы при записи голосового сообщения или звонке, перезапустите WhatsApp";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING" = "Этот метод нельзя использовать, если у вас отключены службы определения местоположения или если в настройках доступа к вашим геоданным для WhatsApp не установлено значение «Всегда».\n\nПерейдите в Настройки -> Конфиденциальность -> Службы геолокации и убедитесь, что для WhatsApp установлено значение «Всегда»";
+"LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC" = "Этот метод поддерживает обновление местоположения в фоновом режиме, чтобы WhatsApp оставался активным";
+
+
+/* Theme */
+
+"THEME_LABEL" = "Темы";
+
+"CREATE_NEW_THEME_ACTION_BUTTON" = "Создать новую тему";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "Импортировать тему";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "Ошибка импорта";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "Файл должен иметь расширение PLIST";
+
+"NEW_THEME_ALERT_TITLE" = "Новая тема";
+"NEW_THEME_ALERT_MESSAGE" = "Введите название темы";
+"NEW_THEME_ALERT_PLACEHOLDER" = "Тема";
+
+"THEMES_SECTION_HEADER" = "Темы";
+"THEMES_SECTION_FOOTER" = "Используйте кнопку «+», чтобы создать новую тему.\nИспользуйте свайп влево или долгое нажатие, чтобы изменить тему.\nВыберите тему, чтобы сделать ее активной";
+"THEMES_STORE_LABEL" = "Магазин тем";
+
+"EDIT_THEME" = "Редактор темы";
+"THEME_NAME" = "Название темы";
+
+"THEME_GENERAL_SECTION_TITLE" = "Основные";
+"APP_TINTCOLOR_LABEL" = "Цвет оттенка приложения";
+"DARK_MODE_LABEL" = "Темный режим";
+"DARK_MODE_ENABLE_LABEL" = "Включить темный режим";
+"BLACK_WALLPAPER_LABEL" = "Черный фон чатов";
+"KEYBOARD_STYLE_LABEL" = "Стиль клавиатуры";
+"KEYBOARD_STYLE_DEFAULT" = "По умолчанию";
+"KEYBOARD_STYLE_DARK" = "Темный";
+"KEYBOARD_STYLE_DARK_BLUE" = "Темно-синий";
+"BARS_BACKGROUND_COLOR_LABEL" = "Цвет фона панелей";
+
+"THEME_CHATS_SECTION_TITLE" = "Чаты";
+
+"CHATS_TEXT_STYLE_LABEL" = "Стиль текста";
+"FONT_NAME_LABEL" = "Название шрифта";
+"TEXT_SIZE_LABEL" = "Размер текста";
+"CONTACT_NAME_SIZE_LABEL" = "Размер имени контакта";
+"ENABLE_FONT_STYLE_LABEL" = "Включить стиль шрифта";
+"RECEIVED_MESSAGE_COLOR_LABEL" = "Цвет полученных сообщений";
+"SENT_MESSAGE_COLOR_LABEL" = "Цвет отправленных сообщений";
+"URL_COLOR_LABEL" = "Цвет ссылок";
+"GROUP_EVENT_COLOR_LABEL" = "Цвет групповых событий";
+"SYSTEM_EVENT_COLOR_LABEL" = "Цвет системных событий";
+"DATE_BUBBLE_COLOR_LABEL" = "Цвет даты в чате";
+"TEXT_INPUT_COLOR_LABEL" = "Цвет ввода текста";
+
+"CHATS_BACKGROUND_COLOR_LABEL" = "Цвет фона";
+"RECEIVE_BUBBLE_BACKGROUND_LABEL" = "Цвет фона полученных сообщений";
+"SENT_BUBBLE_BACKGROUND_LABEL" = "Цвет фона отправленных сообщений";
+"OPACITY_LABEL" = "Непрозрачность";
+"RECEIVED_BUBBLE_OPACITY_LABEL" = "Непрозрачность полученных сообщений";
+"SENT_BUBBLE_OPACITY_LABEL" = "Непрозрачность отправленных сообщений";
+"DATE_BUBBLE_BACKGROUND_LABEL" = "Цвет фона даты";
+
+"CHATS_MESSAGES_STATUS_ITEMS_LABEL" = "Элементы статуса сообщения";
+"MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE" = "Контрольные метки";
+"MESSAGE_TIMESTAMP_SECTION_TITLE" = "Метки времени";
+"MESSAGE_STATUS_FOOTER_SECTION_TITLE" = "Нижняя сноска";
+"MESSAGE_STATUS_FOOTER_SECTION_FOOTER" = "Текст рядом с меткой времени, в основном на документах";
+"SENT_COLOR_LABEL" = "Цвет метки «Отправлено»";
+"DELIVERED_COLOR_LABEL" = "Цвет метки «Доставлено»";
+"READ_COLOR_LABEL" = "Цвет метки «Прочитано»";
+"RECEIVED_COLOR_LABEL" = "Цвет метки «Получено»";
+"STARRED_INDICATOR_COLOR_LABEL" = "Индикатор избранных сообщений";
+"REVOKED_INDICATOR_COLOR_LABEL" = "Индикатор удаленных сообщений";
+"REVOKED_INDICATOR_COLOR_DESC" = "Значок Watusi рядом с удаленным сообщением";
+
+"THEME_TABLES_SECTION_TITLE" = "Таблицы";
+"TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Цвет фона группы элементов";
+"TABLES_SEPARATORS_LABEL" = "Разделители";
+"SEPARATOR_COLOR_LABEL" = "Цвет разделителей";
+"HIDE_SEPARATOR_LABEL" = "Скрыть разделители";
+
+
+/* Hide Chats */
+
+"ENABLE_HIDE_CHATS" = "Включить";
+"HIDE_CHATS_LABEL" = "Невидимые чаты";
+"HIDE_CHATS_DESC" = "Невидимые чаты будут скрыты из общего списка. Вы не увидите содержимое таких чатов, если откроете их из другого места. Просматривать сообщения в невидимых чатах можно только на этой странице";
+"HIDDEN_CHATS" = "Список невидимых чатов";
+"HIDDEN_CHATS_MESSAGES" = "Содержимое невидимых чатов";
+"STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Скрыть уведомления в приложении";
+"STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Скрыть системные уведомления";
+"STOP_HIDDEN_CHATS_NOTIF_DESC" = "Невидимые чаты не будут показывать уведомления о новых сообщениях";
+"PROTECT_HIDDEN_CHATS_SETTINGS" = "Защита настроек невидимых чатов";
+"CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Вы не можете отправлять сообщения в невидимые чаты";
+
+
+/* Auto Reply */
+
+"AUTO_REPLY_LABEL" = "Автоматический ответ";
+"AUTO_REPLY_ENABLE_LABEL" = "Включить";
+"AUTO_REPLY_DESC" = "Если эта функция включена, то каждый раз, когда вы получаете сообщение, Watusi будет просматривать ваши включенные автоматические ответы, чтобы найти совпадения. Один или несколько автоматических ответов могут быть отправлены, если их конфигурация соответствует входящему сообщению/отправителю";
+
+"AUTO_REPLY_LIST_TITLE" = "Автоматические ответы";
+
+"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "ВКЛ.";
+"AUTO_REPLY_CONFIGURATION_VALUE_OFF" = "ВЫКЛ.";
+
+"AUTO_REPLY_EDIT_NAME_HEADER" = "Название";
+"AUTO_REPLY_EDIT_NAME_PLACEHOLDER" = "Название автоматического ответа";
+"AUTO_REPLY_EDIT_REPLY_CONDITIONS_HEADER" = "Условия ответа";
+
+"AUTO_REPLY_EDIT_RECIPIENTS_LABEL" = "Получатели";
+"AUTO_REPLY_RECIPIENTS_NONE" = "Нет";
+"AUTO_REPLY_RECIPIENTS_CONTACTS" = "Контакты";
+"AUTO_REPLY_RECIPIENTS_GROUPS" = "Группы";
+"AUTO_REPLY_RECIPIENTS_UNKNOWN_CONTACTS" = "Неизвестные контакты";
+"AUTO_REPLY_RECIPIENTS_ALL_CHATS" = "Все чаты";
+"AUTO_REPLY_RECIPIENTS_ALL_CONTACTS_EXCEPT" = "Исключить контакты";
+"AUTO_REPLY_RECIPIENTS_ALL_GROUPS_EXCEPT" = "Исключить группы";
+"AUTO_REPLY_RECIPIENTS_ALL_CHATS_EXCEPT" = "Исключить все чаты";
+"AUTO_REPLY_RECIPIENTS_EXCLUDED_CHATS" = "Исключенные чаты";
+"AUTO_REPLY_RECIPIENTS_SELECTED_CHATS" = "Выбранные чаты";
+"AUTO_REPLY_RECIPIENTS_SELECTED_CHATS_LABEL" = "Чаты";
+
+"AUTO_REPLY_EDIT_MESSAGE_TYPE_LABEL" = "Тип сообщения";
+"AUTO_REPLY_MESSAGE_TYPE_ALL_TYPES" = "Все";
+"AUTO_REPLY_MESSAGE_TYPE_TEXT" = "Текст";
+"AUTO_REPLY_MESSAGE_TYPE_IMAGE" = "Изображение";
+"AUTO_REPLY_MESSAGE_TYPE_VIDEO" = "Видео";
+"AUTO_REPLY_MESSAGE_TYPE_AUDIO" = "Аудио";
+"AUTO_REPLY_MESSAGE_TYPE_GIF" = "GIF";
+"AUTO_REPLY_MESSAGE_TYPE_LOCATION" = "Местоположение";
+"AUTO_REPLY_MESSAGE_TYPE_CONTACT" = "Контакт";
+"AUTO_REPLY_MESSAGE_TYPE_WEB_PAGE" = "Веб-страница";
+"AUTO_REPLY_MESSAGE_TYPE_DOCUMENT" = "Документ";
+"AUTO_REPLY_MESSAGE_TYPE_STICKER" = "Стикер";
+
+"AUTO_REPLY_EDIT_TEXT_MATCHING_LABEL" = "Сопоставление текста";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_DESC" = "Сопоставление текста будет выполняться только для текстовых сообщений";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ENABLE_LABEL" = "Включить сопоставление текста";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_LABEL" = "Тип сопоставления";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_CONTAINS" = "Сообщение содержит";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_EQUALS" = "Сообщение содержит";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH" = "Без учета регистра";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH_DESC" = "Считать прописные и строчные буквы одинаковыми";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_MATCHING_TEXT" = "Добавить текст для сопоставления";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_FILTER_CONTENT" = "Добавить содержимое фильтра";
+"AUTO_REPLY_EDIT_TEXT_MATCHING_EDIT_FILTER_CONTENT" = "Редактировать содержимое фильтра";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS" = "Сообщение содержит";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS" = "Сообщение соответствует";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS_SHORT" = "Содержит";
+"AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS_SHORT" = "Соответствует";
+
+"AUTO_REPLY_MESSAGE_HEADER" = "Содержимое ответа";
+"AUTO_REPLY_MESSAGE_LABEL" = "Сообщение";
+"AUTO_REPLY_MESSAGE_SOURCE_LABEL" = "Источник сообщения";
+"AUTO_REPLY_MESSAGE_SOURCE_DESC" = "Источник ответного сообщения";
+"AUTO_REPLY_MESSAGE_SOURCE_LOCAL" = "Локальный";
+"AUTO_REPLY_MESSAGE_SOURCE_WEBSERVER" = "Интернет";
+"AUTO_REPLY_MESSAGE_REPLY_MESSAGE_LABEL" = "Ответное сообщение";
+"AUTO_REPLY_MESSAGE_REPLY_MESSAGE_DESC" = "Сообщение, которое будет автоматически отправлено в ответ";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "Доступные теги";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "Теги можно включить в текст автоматического ответа, они будут заменены соответствующим значением (напрмер, именем контакта)";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "Тег будет заменен именем сохраненного контакта или темой группы";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "Тег будет заменен полученным сообщением";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "Тег будет заменен датой получения сообщения в формате 1 января 2020, 1:20";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "Скопируйте нужный тег и вставьте в текст автоматического ответа, он будет заменен соответствующим значением";
+"AUTO_REPLY_MESSAGE_WEB_URL_LABEL" = "Веб-адрес";
+"AUTO_REPLY_MESSAGE_WEB_URL_DESC" = "Веб-адрес, с которого будет запрошено ответное текстовое сообщение";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_FORMAT_LABEL" = "Формат веб-запроса";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_POST_DATA_HEADER" = "Запрос данных";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_HEADER" = "Ответ";
+"AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_FORMAT_LABEL" = "Формат";
+
+"AUTO_REPLY_TIME_RANGE_HEADER" = "Ответ по времени";
+"AUTO_REPLY_TIME_RANGE_LABEL" = "Временной интервал";
+"AUTO_REPLY_TIME_RANGE_NO_RANGE" = "Без интервала";
+"AUTO_REPLY_TIME_RANGE_ENABLE_LABEL" = "Включить временной интервал";
+"AUTO_REPLY_TIME_RANGE_START_HEADER" = "Начало";
+"AUTO_REPLY_TIME_RANGE_END_HEADER" = "Конец";
+"AUTO_REPLY_TIME_RANGE_TIME_LABEL" = "Время";
+"AUTO_REPLY_TIME_RANGE_DAY_LABEL" = "День";
+
+"AUTO_REPLY_DELAY_HEADER" = "Задержка";
+"AUTO_REPLY_DELAY_LABEL" = "Задержка между ответами";
+"AUTO_REPLY_DELAY_NONE" = "Без задержки";
+"AUTO_REPLY_DELAY_ONE_MINUTE" = "1 минута";
+"AUTO_REPLY_DELAY_FIVE_MINUTES" = "5 минут";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES" = "30 минут";
+"AUTO_REPLY_DELAY_ONE_HOUR" = "1 час";
+"AUTO_REPLY_DELAY_ONE_MINUTE_SHORT" = "1 мин";
+"AUTO_REPLY_DELAY_FIVE_MINUTES_SHORT" = "5 мин";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES_SHORT" = "30 мин";
+"AUTO_REPLY_DELAY_ONE_HOUR_SHORT" = "1 ч";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES" = "Свое время";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES_PLACEHOLDER" = "Минуты";
+"AUTO_REPLY_DELAY_CUSTOM_MINUTES_SHORT" = "мин";
+
+"AUTO_REPLY_DELETE_REPLY_BUTTON" = "Удалить автоматический ответ";
+"AUTO_REPLY_DELETE_ALERT_ACTION" = "Удалить ответ";
+"AUTO_REPLY_DELETE_CONFIRMATION_ALERT_MESSAGE" = "Удалить автоматический ответ";
+
+
+/* Scheduled Messages */
+
+"MESSAGE_SCHEDULER_LABEL" = "График сообщений";
+"MESSAGE_SCHEDULER_ENABLE_LABEL" = "Включить";
+
+"MESSAGE_SCHEDULER_MESSAGES_DESC" = "Просмотр и создание запланированных сообщений";
+"MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Запланированные сообщения";
+"MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "Красный символ означает, что все запланированные сообщения отправлены и график больше не актуален";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "Name";
+"MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Дата и время";
+"MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Получатели";
+"MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Сообщение";
+"MESSAGE_SCHEDULER_CREATE_IMAGE" = "Изображение";
+
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Показывать уведомление при отправке сообщения получателям, указанным в графике";
+"MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Показывать уведомление";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Отправка запланированного сообщения";
+
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Эта функция добавляет возможность создания запланированного сообщения в чате с помощью долгого нажатия на кнопку отправки";
+"MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Запланировать в чате";
+
+"MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW" = "Отправить сообщение сейчас";
+"MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE" = "График сообщений";
+"MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES" = "Просмотр запланированных сообщений";
+
+"MESSAGE_SCHEDULER_CREATE_EDIT" = "Редактировать график";
+"MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE" = "Новый график";
+
+
+/* Contacts Spoofing */
+
+"CONTACTS_SPOOFING_LABEL" = "Подмена контактов";
+"CONTACTS_SPOOFING_ENABLE_LABEL" = "Включить";
+"CONTACTS_SPOOFING_CONTACTS" = "Контакты";
+"CONTACTS_SPOOFING_ADD_CONTACT" = "Добавить контакт";
+"CONTACTS_SPOOFING_NAME_HEADER" = "Имя";
+"CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Фото профиля";
+"CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "Имя";
+"CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "Фамилия";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "Сведения";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "Текст";
+"CONTACTS_SPOOFING_CHOOSE_PHOTO" = "Выберите фото";
+
+
+/* Stickers */
+
+"STICKERS_MANAGER_LABEL" = "Менеджер стикеров";
+"STICKERS_LABEL" = "Стикеры";
+
+"STICKER_PACKS_PAGE_TITLE" = "Пакеты стикеров";
+"STICKER_PACKS_DEFAULT_TAB" = "По умолчанию";
+"STICKER_PACKS_CUSTOM_TAB" = "Пользовательский";
+"LOADING_STICKER_PACKS_LABEL" = "Загрузка пакета стикеров...";
+
+"ADD_STICKERS_ALERT_TITLE" = "Добавить пакет стикеров";
+"ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Создать пакет стикеров";
+"ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP" = "Импортировать ZIP из приложения «Файлы»";
+"ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES" = "Импортировать ZIP из внутреннего хранилища";
+"ADD_STICKERS_IMPORT_ZIP_FROM_URL" = "Импортировать ZIP по ссылке";
+
+"CUSTOM_TONES_SECTION_LABEL" = "Пользовательские звуки";
+"CUSTOM_TONES_TABLE_SECTION_FOOTER" = "Импортированные файлы будут доступны в разделе пользовательских звуков чата";
+"CUSTOM_TONES_CELL_INVALID_FILE" = "Неверный файл";
+"CUSTOM_TONES_ADD_ALERT_TITLE" = "Добавить звуковой файл";
+"CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION" = "Импортировать из приложения «Файлы»";
+"CUSTOM_TONES_ADD_ALERT_DOWNLOAD_ACTION" = "Загрузить по ссылке";
+"CUSTOM_TONES_DOWNLOAD_ALERT_MESSAGE" = "Введите URL-адрес аудиофайла";
+"CUSTOM_TONES_DOWNLOAD_ALERT_FIELD_PLACEHOLDER" = "URL-адрес";
+"CUSTOM_TONES_ERROR_IMPORT_ALERT_TITLE" = "Ошибка импорта";
+"CUSTOM_TONES_ERROR_IMPORT_ALERT_MESSAGE" = "Файл не поддерживается";
+"CUSTOM_TONES_DOWNLOADING_ALERT_TITLE" = "Загрузка...";
+"CUSTOM_TONES_DOWNLOAD_ERROR_ALERT_TITLE" = "Ошибка загрузки";
+"CUSTOM_TONES_RENAME_ALERT_TITLE" = "Переименовать";
+"CUSTOM_TONES_RENAME_ALERT_MESSAGE" = "Введите новое имя файла";
+"CUSTOM_TONES_RENAME_ALERT_FIELD_PLACEHOLDER" = "Имя файла";
+"CUSTOM_TONES_RENAME_ERROR_ALERT_TITLE" = "Ошибка";
+"CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE" = "Имя файла уже существует";
+"CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE" = "Ошибка воспроизведения";
+"CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE" = "Файл не может быть воспроизведен";
+"CUSTOM_TONES_HELP_LABEL" = "Звук уведомлений не воспроизводится?";
+
+
+/* Other Settings Section */
+
+"OTHER_SETTINGS_LABEL" = "Другие настройки";
+
+"UPDATES_SECTION_TITLE" = "Обновления";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "Автоматическая проверка обновлений";
+"CHECK_FOR_UPDATES_BUTTON" = "Проверить обновления";
+
+"SETTINGS_SECTION_TITLE" = "Настройки";
+"MANAGE_SETTINGS_LABEL" = "Управление настройками";
+
+"MANAGE_SETTINGS_ALL_DATA_LABEL" = "Все настройки и данные";
+"MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL" = "Настройки твика";
+"MANAGE_SETTINGS_AUTO_REPLIES_LABEL" = "Автоматические ответы";
+"MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL" = "Запланированные сообщения";
+"MANAGE_SETTINGS_THEMES_LABEL" = "Темы";
+
+"EXPORT_SETTINGS_LABEL" = "Экспортировать настройки";
+"EXPORT_SETTINGS_ALL_DATA_FOOTER" = "Настройки будут экспортированы ZIP-файлом, позже вы сможете его импортировать";
+"EXPORT_SETTINGS_FILES_FOOTER" = "Настройки будут экспортированы PLIST-файлом";
+"EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE" = "Файл настроек не найден или настройки не сохранены";
+
+"IMPORT_SETTINGS_LABEL" = "Импортировать настройки";
+"IMPORT_SETTINGS_ALL_DATA_FOOTER" = "Можно импортировать только ZIP-файл, содержащий файлы настроек PLIST";
+"IMPORT_SETTINGS_FILES_FOOTER" = "Можно импортировать только PLIST-файл";
+"IMPORT_SETTINGS_BUTTON" = "Импортировать";
+"IMPORT_SETTINGS_CONFIRM_MESSAGE" = "Ваши текущие настройки будут заменены, отменить это действие невозможно";
+"IMPORT_SETTINGS_INVALID_FILE_TITLE" = "Неверный файл";
+"IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE" = "Выбранный файл не является допустимым PLIST-файлом";
+"IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE" = "Выбранный файл не является допустимым ZIP-файлом";
+"IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE" = "Некоторые файлы не были импортированы из-за ошибки формата";
+
+"RESET_SETTINGS_LABEL" = "Сбросить настройки";
+"RESET_SETTINGS_ALL_DATA_FOOTER" = "Сброс всех настроек Watusi";
+"RESET_SETTINGS_FILES_FOOTER" = "Сброс определенных настроек";
+"RESET_SETTINGS_BUTTON" = "Сбросить";
+"RESET_SETTINGS_CONFIRM_MESSAGE" = "Ваши текущие настройки будут удалены, отменить это действие невозможно";
+
+"HIDE_SETTINGS_LABEL" = "Скрыть настройки";
+"HIDE_SETTINGS_ALERT_TITLE" = "ВНИМАНИЕ!";
+"HIDE_SETTINGS_ALERT_MESSAGE" = "Раздел настроек Watusi не будет отображаться в меню. Чтобы войти в него, нажмите прозрачную кнопку в правом верхнем углу на вкладке общих настроек WhatsApp";
+
+"TWEAK_LANGUAGE_LABEL" = "Язык";
+"TWEAK_LANGUAGE_AUTO_OPTION" = "Авто";
+
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL" = "Связь с модулем ПУ";
+"UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC" = "По умолчанию из ПУ можно управлять настройками основного приложения WhatsApp. Включите эту функцию, если вы хотите, чтобы модуль взаимодействовал и с этим приложением/клиентом";
+
+
+/* Developer Section */
+
+"DEVELOPER_SECTION_HEADER" = "Разработчик";
+"CONTRIBUTE_LABEL" = "Поддержать автора";
+
+
+/* Support Section */
+
+"SUPPORT_SECTION_TITLE" = "Поддержка";
+"HELP_AND_SUPPORT_LABEL" = "Помощь и поддержка";
+
+"HELP_LABEL" = "Помощь";
+"CONTACT_SUPPORT_LABEL" = "Написать на почту";
+
+"ACCOUNT_AD_REMOVAL_LABEL" = "Аккаунт и реклама";
+"ACCOUNT" = "Аккаунт";
+"MANAGE_ACCOUNT" = "Управление аккаунтом";
+"LOGIN_OR_REGISTER" = "Войти или зарегистрироваться";
+"LOGOUT" = "Выйти";
+"HOW_TO_REMOVE_ADS" = "Как удалить рекламу";
+"PURCHASE_WATUSI_LICENSE_BUTTON" = "Купить лицензию Watusi";
+"TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "2 дня без рекламы за пост в Твиттере";
+"LOGIN_TO_PURCHASE_MESSAGE" = "Вы должны войти в свой аккаунт, чтобы купить лицензию Watusi";
+"LOADING" = "Загрузка...";
+
+"MORE_TWEAKS_TITLE" = "Другие твики";
+
+
+/* Help */
+
+"ALL_SECTION_SHORT_TITLE" = "Все";
+
+"FAQ_SECTION_SHORT_TITLE" = "FAQ";
+"HOW_TO_ENABLE_CC_TOGGLES_TITLE" = "Как активировать модуль в ПУ?";
+"HOW_TO_ENABLE_CC_TOGGLES_CONTENT" = "Установите пакет CCSupport, перейдите в настройки Пункта управления вашего iPhone и добавьте модуль Watusi.";
+"HOW_TO_REMOVE_ADS_TITLE" = "Как удалить рекламу?";
+"HOW_TO_REMOVE_ADS_CONTENT" = "Чтобы купить лицензию, которая удалит рекламу, вам нужно зарегистрироваться или ввести данные своего аккаунта (для этого перейдите в настройки Watusi > Аккаунт и реклама).";
+
+"LICENSE_SECTION_SHORT_TITLE" = "Лицензия";
+"MAX_DEVICES_TITLE" = "На скольких устройствах я могу активировать лицензию?";
+"MAX_DEVICES_CONTENT" = "Активировать лицензию можно в трех приложениях WhatsApp одновременно (для управления устройствами перейдите в настройки аккаунта).";
+
+"ISSUES_SECTION_SHORT_TITLE" = "Проблемы";
+"CANT_VIEW_CONTACTS_LASTSEEN_TITLE" = "Почему я не вижу время последнего посещения контактов?";
+"CANT_VIEW_CONTACTS_LASTSEEN_CONTENT" = "Если у вас активирована функция заморозки, вы не можете видеть, активен ли ваш контакт в настоящее время, и знать, когда он был онлайн в последний раз. WhatsApp при запросе времени последнего посещения требует, чтобы вы находились в сети, а функция заморозки прекращает отправку вашего онлайн-статуса на сервер.";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE" = "Не можете отправлять и получать сообщения?";
+"UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT" = "Это может быть связано с функцией «Скрыть индикатор получения сообщений», при активации которой WhatsApp перестанет что-либо отправлять/получать, обнаружив на сервере большое количество не доставленных вам сообщений (без соответствующей отметки). Решения проблемы нет, так как это серверная часть.";
+
+
+/* Promo Code */
+
+"REDEEM_TITLE" = "Активация";
+"REDEEM_BUTTON" = "Активировать";
+"REDEEM_CODE" = "Активировать код";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Недействительный промо-код";
+"ENTER_PROMO_CODE_MESSAGE" = "Введите промо-код";
+"REDEEM_SUCCESSFULL_TITLE" = "Код активирован";
+"REDEEM_SUCCESSFULL_MESSAGE" = "Лицензия Watusi была добавлена в вашу учетную запись";
+"REDEEM_FAILED_TITLE" = "Не удалось активировать";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Недействительный промо-код";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Неверные данные";
+
+
+/* Button */
+
+"GROUPS" = "Группы";
+"DEFAULT" = "По умолчанию";
+"DELETE" = "Удалить";
+"UPDATE" = "Обновить";
+"CANCEL" = "Отмена";
+"OKAY" = "Хорошо";
+"ENABLE" = "Включить";
+"MORE" = "Еще";
+"RELAUNCH" = "Перезапустить";
+"LATER" = "Позже";
+"SEND" = "Отправить";
+"ADD" = "Добавить";
+"EDIT" = "Править";
+"DUPLICATE" = "Дублировать";
+"EXPORT" = "Экспортировать";
+"PUBLISH" = "Опубликовать";
+"RENAME" = "Переименовать";
+"TO" = "to";
+"DISMISS" = "Отклонить";
+"DUPLICATE" = "Дублировать";
+"SELECT_ALL" = "Выбрать все";
+"DESELECT_ALL" = "Отменить выбор";
+"DOWNLOAD" = "Загрузить";
+
+
+/* Messages */
+
+"RELAUNCH_MESSAGE" = "WhatsApp необходимо перезапустить, чтобы изменения вступили в силу";
+"RELAUNCH_FEATURE_MESSAGE" = "Вам необходимо перезапустить WhatsApp, чтобы активировать эту функцию";
+"OLD_VERSION_ALERT" = "Watusi поддерживает последнюю версию WhatsApp. Пожалуйста, обновите приложение";

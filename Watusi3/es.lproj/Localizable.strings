@@ -190,6 +190,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Mensaje Eliminado";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name eliminado es mensaje en #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Agregue una sección dentro de las páginas de información de contacto y grupo para ver más detalles sobre el chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Sección de Detalles del Chat";
@@ -358,6 +359,19 @@
 "CLEAR_ALL_CHATS_DESCRIPTION" = "Borrar todo el contenido de los chats, incluido lo archivado";
 
 
+/* Chat List Actions */
+
+"CHAT_LIST_ACTIONS_LABEL" = "Chat List More Actions";
+"CHAT_LIST_ACTIONS_DESC" = "Adds a More button in the chats list toolbar for more actions to the list";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "Select All";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Deselect All";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Clear All Chats";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Clear all chats content and media including archived chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Clear Selected Chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Clear selected chats content and media";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Clear";
+
+
 /* Other Addons */
 
 "OTHER_ADDONS_LABEL" = "General";
@@ -471,6 +485,9 @@
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Captura de Pantalla";
 "SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Guardado Exitosamente";
 "SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Imagen no Creada";
+
+"EXPORT_AUDIO_MESSAGES_LABEL" = "Export Audio Messages";
+"EXPORT_AUDIO_MESSAGES_DESC" = "Add export button to audio messages context menu";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Guardar Fotos de Perfil";
 "SAVE_PROFILE_PHOTOS_DESC" = "Mantenga presionadas las fotos de perfil para guardarlas después de que WhatsApp elimine su botón de guardar";
@@ -797,6 +814,7 @@
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Ver y crear mensajes programados";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Mensajes programados";
 "MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "El programado en rojo significa que se procesó y ya no se está ejecutando.";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "Name";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Fecha y Hora";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Destinatarios";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Mensaje";

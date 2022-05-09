@@ -264,7 +264,7 @@
 
 /* Contact Info / Group Info Buttons */
 
-"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Hikayeler ve Profil Fotoğrafı";
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Fotoğrafı ve Hikayeler";
 "CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "Hakkında Mesajları";
 "CONTACT_INFO_GROUP_PICTURES_BUTTON" = "Grup Profil Fotoğrafları";
 "CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "Grup Tanıları";

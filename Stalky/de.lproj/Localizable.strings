@@ -264,7 +264,7 @@
 
 /* Contact Info / Group Info Buttons */
 
-"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Status & Profilbilder";
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "Profilbilder & Status";
 "CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "Über Nachrichten";
 "CONTACT_INFO_GROUP_PICTURES_BUTTON" = "Gruppenbilder";
 "CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "Gruppenbetreffe";

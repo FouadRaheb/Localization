@@ -264,7 +264,7 @@
 
 /* Contact Info / Group Info Buttons */
 
-"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "الحالات والصور الشخصية";
+"CONTACT_INFO_STATUSES_AND_PROFILES_BUTTON" = "الحالات والصور";
 "CONTACT_INFO_ABOUT_UPDATES_BUTTON" = "رسائل الخبر";
 "CONTACT_INFO_GROUP_PICTURES_BUTTON" = "صور المجموعة";
 "CONTACT_INFO_GROUP_SUBJECTS_BUTTON" = "أوصاف المجموعة";

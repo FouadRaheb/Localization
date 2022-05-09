@@ -189,7 +189,8 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "رسالة محذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "تم حذف الرسالة بواسطة مشرف المجموعة #admin بتاريخ #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "لقد حذفت هذه الرسالة من جهاز مرتبط بتاريخ #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "إضافة قسم داخل صفحات معلومات جهة الاتصال ومعلومات المجموعة يُعرض فيه المزيد من التفاصيل حول المحادثة.";
 "CHAT_DETAILS_SECTION_LABEL" = "قسم تفاصيل المحادثة";
@@ -358,6 +359,19 @@
 "CLEAR_ALL_CHATS_DESCRIPTION" = "مسح كل الدردشات بما في ذلك المؤرشفة.";
 
 
+/* Chat List Actions */
+
+"CHAT_LIST_ACTIONS_LABEL" = "خيارات أكثر لقائمة الدردشة";
+"CHAT_LIST_ACTIONS_DESC" = "إضافة زر المزيد في شريط أدوات قائمة الدردشات لمزيد من الخيارات في القائمة.";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "تحديد الكل";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "إلغاء تحديد الكل";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "مسح كل الدردشات";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "مسح كل محتويات الدردشات والوسائط بما في ذلك الدردشات المؤرشفة.";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "مسح الدردشات المحددة";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "مسح محتويات الدردشات والوسائط المحددة.";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "مسح";
+
+
 /* Other Addons */
 
 "OTHER_ADDONS_LABEL" = "إضافات أخرى";
@@ -471,6 +485,9 @@
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "لقطة شاشة";
 "SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "تم الحفظ بنجاح";
 "SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "لم يتم إنشاء الصورة";
+
+"EXPORT_AUDIO_MESSAGES_LABEL" = "تصدير الرسائل الصوتية";
+"EXPORT_AUDIO_MESSAGES_DESC" = "إضافة زر تصدير لقائمة خيارات الرسائل الصوتية.";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "حفظ الصور الشخصية";
 "SAVE_PROFILE_PHOTOS_DESC" = "اضغط مطولًا على الصور الشخصية لحفظها بعد إزالة واتساب لزر الحفظ الخاص بها.";
@@ -797,6 +814,7 @@
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "عرض وإضافة رسائل مجدولة.";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "الرسائل المجدولة";
 "MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "الخط الأحمر يعني أنه قد تمت المعالجة، ولن يتم العمل به بعد الآن.";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "الاسم";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "التاريخ والوقت";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "المستلمون";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "الرسالة";

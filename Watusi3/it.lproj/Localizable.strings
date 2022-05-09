@@ -190,6 +190,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Message Deleted";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";
@@ -358,6 +359,19 @@
 "CLEAR_ALL_CHATS_DESCRIPTION" = "Elimina tutte le chat, incluse quelle archiviate";
 
 
+/* Chat List Actions */
+
+"CHAT_LIST_ACTIONS_LABEL" = "Chat List More Actions";
+"CHAT_LIST_ACTIONS_DESC" = "Adds a More button in the chats list toolbar for more actions to the list";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "Select All";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Deselect All";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Clear All Chats";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Clear all chats content and media including archived chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Clear Selected Chats";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Clear selected chats content and media";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Clear";
+
+
 /* Other Addons */
 
 "OTHER_ADDONS_LABEL" = "General";
@@ -471,6 +485,9 @@
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Screenshot";
 "SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Saved Successfully";
 "SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Image Not Created";
+
+"EXPORT_AUDIO_MESSAGES_LABEL" = "Export Audio Messages";
+"EXPORT_AUDIO_MESSAGES_DESC" = "Add export button to audio messages context menu";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Save Profile Photos";
 "SAVE_PROFILE_PHOTOS_DESC" = "Long press on profile photos to save them after WhatsApp removed their save button";
@@ -797,6 +814,7 @@
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Visualizza e crea messaggi programmati";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Messaggi programmati";
 "MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "Il programma in rosso indica che è stato già processato e non verrà avviato nuovamente.";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "Name";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Data e ora";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Destinatari";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Messaggio";
