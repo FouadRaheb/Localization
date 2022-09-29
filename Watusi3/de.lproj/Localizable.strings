@@ -83,6 +83,7 @@
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Status Bar in der Chatliste";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Zeige die Status deiner Kontakte in der Leiste über der Chatliste an";
 "STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
+"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Nachricht";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kontakt Info";
 
@@ -179,6 +180,7 @@
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "Audio weiter anhören";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "Wenn du eine Audionachricht abspielst, kannst du den Chat verlassen und die Nachricht weiter anhören. Eine kleine Leiste ist über der Chat-Liste, in der du die Audionachricht steuern kannst.";
+"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audionachricht";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sprachnachricht";
 
@@ -191,6 +193,9 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name löschte diese Nachricht am #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
+
+"SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
+"SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Fügt einen Abschnitt in der Gruppen oder Chat Info-Seite hinzu um mehr Details über den Chat zu erfahren";
 "CHAT_DETAILS_SECTION_LABEL" = "Chat Detail Abschnitt";
@@ -704,6 +709,7 @@
 "AUTO_REPLY_LABEL" = "Automatische Antworten";
 "AUTO_REPLY_ENABLE_LABEL" = "Aktivieren";
 "AUTO_REPLY_DESC" = "Wenn diese Option aktiviert ist, durchsucht Watusi deine aktivierten automatischen Antworten, wenn du eine Nachricht aus einem Chat erhälst, um Übereinstimmungen zu finden. Eine oder mehrere automatische Antworten können gesendet werden, wenn deine Konfigurationen mit der eingehenden Nachricht / dem Absender übereinstimmen.";
+"AUTO_REPLY_SIDELOAD_NOTE" = "NOTE: Auto Reply will not work properly when WhatsApp is not open on non-jailbroken devices";
 
 "AUTO_REPLY_LIST_TITLE" = "Automatische Antworten";
 
@@ -859,6 +865,8 @@
 "STICKER_PACKS_DEFAULT_TAB" = "Standard";
 "STICKER_PACKS_CUSTOM_TAB" = "Benutzerdefiniert";
 "LOADING_STICKER_PACKS_LABEL" = "Lade Sticker Packs...";
+"STICKERS_NO_STICKERS_TITLE" = "No Stickers";
+"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="You can create your own sticker packs\nby using the + button on top right";
 
 "ADD_STICKERS_ALERT_TITLE" = "Füge Sticker Pack hinzu";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Sticker Pack erstellen";
@@ -963,6 +971,10 @@
 "LOADING" = "Lädt...";
 
 "MORE_TWEAKS_TITLE" = "Mehr Tweaks";
+"MORE_TWEAKS_DESC" = "These tweaks are separate from Watusi but merged together in a single IPA for non-jailbroken devices.\n\nEach tweak might require a specific license in order to be activated or to remove ads.";
+"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
 
 
 /* Help */

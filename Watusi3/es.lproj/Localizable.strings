@@ -83,6 +83,7 @@
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Barra de Estados en la Lista de Chats";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Ver todos los estados de sus contactos dentro de la barra en la parte superior de la lista de chats";
 "STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
+"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Mensaje";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Información del Contacato";
 
@@ -179,6 +180,7 @@
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "Mensajes de Audio Continuos";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "Cuando esté reproduciendo un mensaje de audio, podrá salir del chat y seguir escuchando el mensaje. También verá una pequeña barra en la parte superior de los chats y la lista de chats en la que puede controlar el mensaje de audio.";
+"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Mensaje de Audio";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Mensaje de Voz";
 
@@ -191,6 +193,9 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name eliminado es mensaje en #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
+
+"SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
+"SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Agregue una sección dentro de las páginas de información de contacto y grupo para ver más detalles sobre el chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Sección de Detalles del Chat";
@@ -704,6 +709,7 @@
 "AUTO_REPLY_LABEL" = "Respuesta Automática";
 "AUTO_REPLY_ENABLE_LABEL" = "Activar";
 "AUTO_REPLY_DESC" = "Cuando está activó, siempre que reciba un mensaje de un chat, Watusi revisará sus respuestas automáticas habilitadas para encontrar coincidencias. Se pueden enviar una o más Respuestas automáticas si sus configuraciones coinciden con el mensaje / remitente entrante.";
+"AUTO_REPLY_SIDELOAD_NOTE" = "NOTE: Auto Reply will not work properly when WhatsApp is not open on non-jailbroken devices";
 
 "AUTO_REPLY_LIST_TITLE" = "Respuestas Automáticas";
 
@@ -859,6 +865,8 @@
 "STICKER_PACKS_DEFAULT_TAB" = "Por Defecto";
 "STICKER_PACKS_CUSTOM_TAB" = "Personalizado";
 "LOADING_STICKER_PACKS_LABEL" = "Cargando Paquetes de Stikers...";
+"STICKERS_NO_STICKERS_TITLE" = "No Stickers";
+"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="You can create your own sticker packs\nby using the + button on top right";
 
 "ADD_STICKERS_ALERT_TITLE" = "Añadir Paquete de Stikers";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Crear Paquete de Stikers";
@@ -963,6 +971,10 @@
 "LOADING" = "Cargando...";
 
 "MORE_TWEAKS_TITLE" = "Más Tweaks";
+"MORE_TWEAKS_DESC" = "These tweaks are separate from Watusi but merged together in a single IPA for non-jailbroken devices.\n\nEach tweak might require a specific license in order to be activated or to remove ads.";
+"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
 
 
 /* Help */

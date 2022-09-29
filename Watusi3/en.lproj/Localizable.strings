@@ -83,6 +83,7 @@
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Statuses Bar in Chats List";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "View all your contacts statuses inside bar on top of the chats list";
 "STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
+"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Message";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Contact Info";
 
@@ -179,6 +180,7 @@
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "Continued Audio Messages";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.";
+"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
 
@@ -191,6 +193,9 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name deleted this message on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
+
+"SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
+"SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
 
 "CHAT_DETAILS_SECTION_DESC" = "Add a section inside contact and group info pages to view more details about the chat";
 "CHAT_DETAILS_SECTION_LABEL" = "Chat Details Section";
@@ -704,6 +709,7 @@
 "AUTO_REPLY_LABEL" = "Auto Reply";
 "AUTO_REPLY_ENABLE_LABEL" = "Enable";
 "AUTO_REPLY_DESC" = "When enabled, whenever you receive a message from a chat, Watusi will go through your enabled auto replies to find matches. One or more Auto Reply can be sent if their configurations match the incoming message/sender.";
+"AUTO_REPLY_SIDELOAD_NOTE" = "NOTE: Auto Reply will not work properly when WhatsApp is not open on non-jailbroken devices";
 
 "AUTO_REPLY_LIST_TITLE" = "Auto Replies";
 
@@ -859,6 +865,8 @@
 "STICKER_PACKS_DEFAULT_TAB" = "Default";
 "STICKER_PACKS_CUSTOM_TAB" = "Custom";
 "LOADING_STICKER_PACKS_LABEL" = "Loading Sticker Packs...";
+"STICKERS_NO_STICKERS_TITLE" = "No Stickers";
+"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="You can create your own sticker packs\nby using the + button on top right";
 
 "ADD_STICKERS_ALERT_TITLE" = "Add Sticker Pack";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Create Sticker Pack";
@@ -963,6 +971,10 @@
 "LOADING" = "Loading...";
 
 "MORE_TWEAKS_TITLE" = "More Tweaks";
+"MORE_TWEAKS_DESC" = "These tweaks are separate from Watusi but merged together in a single IPA for non-jailbroken devices.\n\nEach tweak might require a specific license in order to be activated or to remove ads.";
+"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
 
 
 /* Help */

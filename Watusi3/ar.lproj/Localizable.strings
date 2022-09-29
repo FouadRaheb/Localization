@@ -82,7 +82,8 @@
 
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "شريط حالات في قائمة الدردشات";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "عرض كل حالات جهات اتصالك داخل شريط أعلى قائمة الدردشات.";
-"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Hide Muted Statuses";
+"STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "إخفاء الحالات المكتومة";
+"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "حالاتي";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "رسالة";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "معلومات جهة الاتصال";
 
@@ -159,8 +160,8 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "إبقاء حالات جهات الاتصال المحذوفة";
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
 
-"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Custom Status Color";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Long press on status color button to set a custom background color";
+"STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "لون حالة مخصص";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "اضغط مطولًا على زر لون الحالة لتعيين لون خلفية مخصص.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
 "STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
@@ -179,6 +180,7 @@
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "استمرار الرسائل الصوتية";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "عندما تقوم بتشغيل رسالة صوتية، ستكون قادرًا على الخروج من الدردشة مع الاستمرار في استماع هذه الرسالة الصوتية. سترى شريطًا صغيرًا في أعلى المحادثة النشطة وفي أعلى قائمة الدردشات أيضًا، والذي من خلاله يمكنك التحكم بالرسالة الصوتية.";
+"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "إخفاء شريط الصوت عند الانتهاء";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "تسجيل صوتي";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "رسالة صوتية";
 
@@ -191,6 +193,9 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "حذف #name هذه الرسالة في #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "تم حذف الرسالة بواسطة مشرف المجموعة #admin بتاريخ #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "لقد حذفت هذه الرسالة من جهاز مرتبط بتاريخ #date";
+
+"SHOW_REACTIONS_DATE_LABEL" = "إظهار تواريخ التفاعلات";
+"SHOW_REACTIONS_DATE_DESC" = "رؤية تواريخ تفاعلات الرسائل.";
 
 "CHAT_DETAILS_SECTION_DESC" = "إضافة قسم داخل صفحات معلومات جهة الاتصال ومعلومات المجموعة يُعرض فيه المزيد من التفاصيل حول المحادثة.";
 "CHAT_DETAILS_SECTION_LABEL" = "قسم تفاصيل المحادثة";
@@ -390,10 +395,10 @@
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "الإعدادات";
 "MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "إعادة التعيين";
 
-"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
-"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Delete All";
-"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "Add all favorite contacts";
-"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "Add All";
+"FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "حذف كل جهات الاتصال المفضلة";
+"FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "حذف الكل";
+"FAVORITES_CONTROLLER_ADD_ALL_MESSAGE" = "إضافة كل جهات الاتصال المفضلة";
+"FAVORITES_CONTROLLER_ADD_ALL_BUTTON" = "إضافة الكل";
 
 "GROUP_AND_BROADCAST_SELECT_ALL_DESC" = "إضافة زر جديد عند إنشاء مجموعة/قائمة رسالة جماعية يمكنك من خلاله تحديد/إلغاء تحديد جميع جهات اتصالك.\nربما يؤدي هذا أيضًا إلى إمكانية تجاوز حد ٢٥٦ جهة اتصال.\nملاحظة: قد لا يكون من الممكن أن تضيف أكثر من ٢٥٦ جهة اتصال ولكن لم لا تجرب ذلك.";
 "GROUP_AND_BROADCAST_SELECT_ALL_LABEL" = "زر اختيار الكل في المجموعات/قوائم الرسائل الجماعية";
@@ -434,8 +439,8 @@
 "HIDE_LAST_MESSAGE_LOCKED" = "مقفل";
 "HIDE_LAST_MESSAGE_ALL" = "الكل";
 
-"STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
-"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
+"STARRED_MESSAGES_PROTECTION_SECTION" = "حماية الرسائل المميزة بنجمة";
+"STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "حماية الرسائل المميزة بنجمة";
 
 "BYPASS_PROTECTION_LABEL" = "تخطي حماية التطبيق";
 "BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";
@@ -518,8 +523,8 @@
 "MEDIA_DELETE_BUTTON_DESC" = "إضافة زر حذف جديد في معرض الوسائط لحذف جميع وسائط جهات اتصالك دفعة واحدة.";
 "MEDIA_DELETE_BUTTON_LABEL" = "زر حذف الوسائط";
 "MEDIA_DELETE_ALERT_MESSAGE" = "حذف جميع الوسائط";
-"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "Delete all links";
-"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "Delete all documents";
+"MEDIA_LINKS_DELETE_ALERT_MESSAGE" = "حذف كل الروابط";
+"MEDIA_DOCS_DELETE_ALERT_MESSAGE" = "حذف كل المستندات";
 
 "MEDIA_FORWARD_BUTTON_DESC" = "إضافة زر تحويل جديد في معرض الوسائط يتيح لك تحويل رسالة الوسائط إلى أكثر من جهة اتصال في آنٍ واحد.";
 "MEDIA_FORWARD_BUTTON_LABEL" = "زر تحويل الوسائط";
@@ -704,6 +709,7 @@
 "AUTO_REPLY_LABEL" = "الرد التلقائي";
 "AUTO_REPLY_ENABLE_LABEL" = "تفعيل";
 "AUTO_REPLY_DESC" = "عند التفعيل، كلما تلقيت رسالة من محادثة، ستقوم Watusi بتصفح الردود التلقائية المفعلة للعثور على المتطابقة منها. يمكن إرسال رد تلقائي واحد أو أكثر إذا كانت تكوينات تلك الردود التلقائية تتطابق مع الرسالة الواردة أو المرسل.";
+"AUTO_REPLY_SIDELOAD_NOTE" = "ملاحظة: الرد التلقائي لن يعمل بالشكل المطلوب على الأجهزة التي بدون جيلبريك عندما يكون واتساب غير مفتوحًا.";
 
 "AUTO_REPLY_LIST_TITLE" = "الردود التلقائية";
 
@@ -859,6 +865,8 @@
 "STICKER_PACKS_DEFAULT_TAB" = "افتراضي";
 "STICKER_PACKS_CUSTOM_TAB" = "مخصص";
 "LOADING_STICKER_PACKS_LABEL" = "جارِ تحميل حزم الملصقات...";
+"STICKERS_NO_STICKERS_TITLE" = "لا توجد ملصقات";
+"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="يمكنك إنشاء حزم ملصقات خاصة بك\nوذلك عن طريق استخدام زر + في أعلى اليسار.";
 
 "ADD_STICKERS_ALERT_TITLE" = "إضافة حزمة ملصقات";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "إنشاء حزمة ملصقات";
@@ -963,6 +971,10 @@
 "LOADING" = "جارِ التحميل...";
 
 "MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
+"MORE_TWEAKS_DESC" = "هذه الأدوات منفصلة عن Watusi ولكنها مدمجة معًا في IPA واحد للأجهزة بدون جيلبريك.\n\nقد يتطلب ترخيص منفصل لكل أداة لتنشيطها أو حذف الإعلانات فيها.";
+"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
 
 
 /* Help */
