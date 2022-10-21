@@ -1,11 +1,16 @@
 /* Preferences */
 
-"STALKY_PREFERENCES_LABEL" = "إعدادات Stalky";
+"STALKY_PREFERENCES_LABEL" = "إعدادات وتحديثات Stalky";
 
 
 /* Updates Table Settings */
 
 "UPDATES_TABLE_TITLE" = "جدول التحديثات";
+
+"BUTTON_LOCATION_LABEL" = "زر التحديثات";
+"BUTTON_LOCATION_DESC" = "موقع زر تحديثات Stalky في قائمة الدردشات";
+"BUTTON_LOCATION_REPLACE_CAM" = "إستبدال زر الكاميرا";
+"BUTTON_LOCATION_DISABLED" = "تعطيل";
 
 "DEFAULT_UPDATES_PAGE_LABEL" = "الصفحة الافتراضية";
 "DEFAULT_UPDATES_PAGE_DESC" = "اختر الصفحة التي تريدها أن تفتح افتراضيًا، رقم الشارة سيكون للصفحة الافتراضية.";

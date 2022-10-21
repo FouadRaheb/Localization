@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Fügt ein Icon neben Broadcast-Nachrichten hinzu, welches hilft diese von normalen Nachrichten zu unterscheiden.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Broadcast-Nachricht Indikator";
 
-"IN_APP_BROWSER_DESC" = "Öffnet Links direkt in WhatsApp, statt zu Safari zu wechseln.";
 "IN_APP_BROWSER_LABEL" = "In-App Browser";
+"IN_APP_BROWSER_DESC" = "Öffnet Links direkt in WhatsApp, statt zu Safari zu wechseln. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Fügt einen Button oben links im Broadcast-Chat beim Löschen von Nachrichten hinzu, um den Chat zu löschen.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Broadcast-Chat löschen";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Alles auswählen";
 "DESELECT_ALL" = "Alles abwählen";
 "DOWNLOAD" = "Download";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

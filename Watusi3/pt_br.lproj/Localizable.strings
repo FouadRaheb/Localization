@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Adiciona um ícone ao lado das mensagens dos contatos que são enviadas para você por meio de transmissão, para ajudá-lo a diferenciá-lo das mensagens que são enviadas diretamente para você.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de transmissão";
 
-"IN_APP_BROWSER_DESC" = "Abra URLs da web dentro do WhatsApp em vez de alternar para safari";
 "IN_APP_BROWSER_LABEL" = "Navegador Dentro do App";
+"IN_APP_BROWSER_DESC" = "Abra URLs da web dentro do WhatsApp em vez de alternar para safari. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Adicione um botão na parte superior esquerda das transmissões quando as mensagens forem apagadas para limpar o chat.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Apagar mensagens de transmissão";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Selecionar Todos";
 "DESELECT_ALL" = "Desselecionar Todos";
 "DOWNLOAD" = "Download";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

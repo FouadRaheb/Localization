@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "מוסיף סמל לצד הודעות האנשי הקשר שנשלחו אליך בהודעות שידור כדי להבדיל בין הודעות רגילות לשידור.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "סימון הודעות שידור";
 
-"IN_APP_BROWSER_DESC" = "פתח בחלון אינטרנט במקום בדפדפן הספארי.";
 "IN_APP_BROWSER_LABEL" = "חלון אינטרנט בתוך האפליקצייה";
+"IN_APP_BROWSER_DESC" = "פתח בחלון אינטרנט במקום בדפדפן הספארי. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "הוסף לחצן בפינה השמאלית עליונהה של השידור בעת מחיקת הודעות כדי לנקות את כל הצ'אט.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "מחיקת הודעות שידור";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "בחר הכל";
 "DESELECT_ALL" = "בטל בחירת הכל";
 "DOWNLOAD" = "Download";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

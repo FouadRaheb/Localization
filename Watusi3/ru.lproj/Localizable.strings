@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Эта функция добавляет значок рядом с сообщениями из рассылки, чтобы они отличались от сообщений, отправленных непосредственно вам";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Индикатор рассылки";
 
-"IN_APP_BROWSER_DESC" = "Открывайте ссылки в приложении WhatsApp, не переходя в браузер по умолчанию";
 "IN_APP_BROWSER_LABEL" = "Встроенный браузер";
+"IN_APP_BROWSER_DESC" = "Открывайте ссылки в приложении WhatsApp, не переходя в браузер по умолчанию. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "При удалении сообщений в списке рассылки в левом верхнем углу появится кнопка, с помощью которой вы сможете очистить чат";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Очистить список рассылки";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Выбрать все";
 "DESELECT_ALL" = "Отменить выбор";
 "DOWNLOAD" = "Загрузить";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

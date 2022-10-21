@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "إضافة رمز بجانب الرسائل التي يتم إرسالها عبر قوائم الرسائل الجماعية وذلك لتستطيع التمييز بينها وبين الرسائل الموجهة إليك بشكل مباشر.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "تمييز الرسائل الجماعية";
 
-"IN_APP_BROWSER_DESC" = "فتح الروابط وصفحات الويب داخل واتساب بدلًا من الانتقال إلى متصفح Safari.";
 "IN_APP_BROWSER_LABEL" = "متصفح داخل التطبيق";
+"IN_APP_BROWSER_DESC" = "فتح الروابط وصفحات الويب داخل واتساب بدلًا من الانتقال إلى متصفح Safari. لن يتم فتح النطاقات المسموح بها داخل متصفح التطبيق، ولكن سيتم عمل إعادة توجيه إلى التطبيقات الخاصة بها إن وجدت أو إلى Safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "النطاقات المسموح بها";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "إضافة نطاق";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "النطاقات";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "أدخل أي عنوان URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "إضافة زر في الجزء العلوي الأيسر من دردشات قوائم الرسائل الجماعية يتيح لك إزالة الدردشة عند حذف الرسائل.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "إزالة دردشات قوائم الرسائل الجماعية";
@@ -851,8 +855,8 @@
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "الصورة الشخصية";
 "CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER" = "الاسم الأول";
 "CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER" = "اسم العائلة";
-"CONTACTS_SPOOFING_ABOUT_HEADER" = "About";
-"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "About Text";
+"CONTACTS_SPOOFING_ABOUT_HEADER" = "الخبر";
+"CONTACTS_SPOOFING_ABOUT_PLACEHOLDER" = "نص الخبر";
 "CONTACTS_SPOOFING_CHOOSE_PHOTO" = "اختيار صورة";
 
 
@@ -972,9 +976,9 @@
 
 "MORE_TWEAKS_TITLE" = "أدوات أخرى قد تهمك";
 "MORE_TWEAKS_DESC" = "هذه الأدوات منفصلة عن Watusi ولكنها مدمجة معًا في IPA واحد للأجهزة بدون جيلبريك.\n\nقد يتطلب ترخيص منفصل لكل أداة لتنشيطها أو حذف الإعلانات فيها.";
-"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
-"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
-"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
+"MORE_TWEAKS_STALKY_DESC" = "تتبع وتخزين آخر تحديثات الملفات الشخصية وحالات جهات اتصالك.";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "عرض وتتبع حالة متصل الآن، وإيصالات الرسائل والحالات لجهات اتصالك.";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "مزامنة صور ملف تعريف واتساب مع جهات اتصالك.";
 
 
 /* Help */
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "تحديد الكل";
 "DESELECT_ALL" = "إلغاء تحديد الكل";
 "DOWNLOAD" = "تنزيل";
+"EMPTY" = "فارغ";
+"CUSTOM" = "تخصيص";
 
 
 /* Messages */

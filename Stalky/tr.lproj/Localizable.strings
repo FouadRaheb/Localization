@@ -1,11 +1,16 @@
 /* Preferences */
 
-"STALKY_PREFERENCES_LABEL" = "Stalky Tercihleri";
+"STALKY_PREFERENCES_LABEL" = "Stalky Updates & Preferences";
 
 
 /* Updates Table Settings */
 
 "UPDATES_TABLE_TITLE" = "Tablo Ayarları";
+
+"BUTTON_LOCATION_LABEL" = "Updates Button";
+"BUTTON_LOCATION_DESC" = "Location of Stalky updates button on the Chats List";
+"BUTTON_LOCATION_REPLACE_CAM" = "Replace Camera Button";
+"BUTTON_LOCATION_DISABLED" = "Disabled";
 
 "DEFAULT_UPDATES_PAGE_LABEL" = "Ana Sayfa";
 "DEFAULT_UPDATES_PAGE_DESC" = "Listede herkesin mi yoksa Seçilmiş favorilerinizin mi çıkacağını seçin.";

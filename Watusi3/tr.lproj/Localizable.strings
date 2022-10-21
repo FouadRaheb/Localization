@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Kişilerden yayınla gelen mesajların yanına bir ikon ekler. Bu özellik sadece size gelen mesajları ayırt etmenizi sağlar.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Mesaj Göstergesini Yayınla";
 
-"IN_APP_BROWSER_DESC" = "Web sayfası linklerini Safari'den açmak yerine WhatsApp'ta açın.";
 "IN_APP_BROWSER_LABEL" = "Uygulama İçi Tarayıcı";
+"IN_APP_BROWSER_DESC" = "Web sayfası linklerini Safari'den açmak yerine WhatsApp'ta açın. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Yayınlanan sohbeti temizlerken mesajın sol üst kısmına bir ikon ekler.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Yayınlanan Sohbeti Sil";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Tümünü Seç";
 "DESELECT_ALL" = "Tüm Seçimi Kaldır";
 "DOWNLOAD" = "İndir";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

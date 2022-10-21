@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Ajoute une icône à côté des contacts qui vous sont envoyés par diffusion, pour vous aider à le différencier des messages directement envoyés à vous.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicateur de message";
 
-"IN_APP_BROWSER_DESC" = "Ouvrir les URL Web dans WhatsApp au lieu de passer par safari.";
-"IN_APP_BROWSER_LABEL" = "Navigateur internet dans l'app";
+"IN_APP_BROWSER_LABEL" = "Navigateur Internet dans l'App";
+"IN_APP_BROWSER_DESC" = "Ouvrir les URL Web dans WhatsApp au lieu de passer par safari. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Ajouter un bouton en haut à gauche de la conversation diffusée lors de la suppression de messages afin d'effacer la discussion.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Effacer les diffusions des convs";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Sélectionner tout";
 "DESELECT_ALL" = "Désélectionner tout";
 "DOWNLOAD" = "Download";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */

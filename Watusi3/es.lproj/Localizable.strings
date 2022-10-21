@@ -271,8 +271,12 @@
 "BROADCAST_MESSAGE_INDICATOR_DESC" = "Agrega un icono junto a los mensajes de los contactos que recibiste vía difusión, para ayudar a que diferenciarlos de que los mensajes se envían directamente solo a ti.";
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Indicador de mensaje vía difusión";
 
-"IN_APP_BROWSER_DESC" = "Abrir las páginas web dentro de WhatsApp en lugar de cambiar a Safari.";
 "IN_APP_BROWSER_LABEL" = "Navegador integrado";
+"IN_APP_BROWSER_DESC" = "Abrir las páginas web dentro de WhatsApp en lugar de cambiar a Safari. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "Añadir un botón en la parte superior izquierda del chat de difusión al eliminar mensajes con el fin de limpiar el chat.";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Limpiar chat vía disfusión";
@@ -1037,6 +1041,8 @@
 "SELECT_ALL" = "Seleccionar Todo";
 "DESELECT_ALL" = "Deseleccionar Todo";
 "DOWNLOAD" = "Descargar";
+"EMPTY" = "Empty";
+"CUSTOM" = "Custom";
 
 
 /* Messages */
