@@ -306,8 +306,8 @@
 "CHAT_LIST_FILTER_UNSAVED_TITLE" = "Nicht gespeichert";
 "CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE" = "Nicht gespeichert";
 "CHAT_LIST_SORT_SECTION_HEADER" = "Sortieren";
-"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "Standart";
-"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "Standart";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE" = "Standard";
+"CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE" = "Standard";
 "CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE" = "Nachrichten nach Datum aufsteigend";
 "CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE" = "Datum ↓";
 "CHAT_LIST_SORT_NAME_ASC_TITLE" = "Chat Name A-Z";
@@ -336,7 +336,7 @@
 
 "GROUPS_LIST_DESC" = "Fügt einen Button in der Navigationsleiste hinzu, welcher eine Liste aller Gruppen öffnet.";
 "GROUPS_LIST_LABEL" = "Gruppenliste";
-"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "Standartseite";
+"GROUPS_LIST_DEFAULT_PAGE_LABEL" = "Standardseite";
 "GROUPS_LIST_GROUP_LABEL" = "Gruppen";
 "GROUPS_LIST_BROADCAST_LABEL" = "Broadcasts";
 
@@ -387,7 +387,7 @@
 
 "MANAGE_TABS_ENABLE_LABEL" = "Navigationsleiste bearbeiten";
 "MANAGE_TABS_ORGANIZE_LABEL" = "Navigationsleisten Tabs";
-"MANAGE_TABS_DESC" = "Sortiere die Standart Whatsapp Navigationsleiste oder füge andere hinzu";
+"MANAGE_TABS_DESC" = "Sortiere die Standard Whatsapp Navigationsleiste oder füge andere hinzu";
 "MANAGE_TABS_ORGANIZE_TITLE" = "Navigationsleisten Tabs";
 "MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER" = "Aktiviert";
 "MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER" = "Sie können nur 5 Tabs gleichzeitig aktivieren";
@@ -397,7 +397,7 @@
 "MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE" = "Favoriten";
 "MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE" = "Gruppen";
 "MANAGE_TABS_ORGANIZE_SYSTEM_LABEL" = "System";
-"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Standart wiederherstellen";
+"MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON" = "Standard wiederherstellen";
 
 "FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE" = "Delete all favorite contacts";
 "FAVORITES_CONTROLLER_DELETE_ALL_BUTTON" = "Delete All";
