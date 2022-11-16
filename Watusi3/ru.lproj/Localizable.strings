@@ -83,7 +83,7 @@
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL" = "Статусы в списке чатов";
 "STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC" = "Отображение статусов ваших контактов в верхней части экрана на вкладке «Чаты»";
 "STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL" = "Не показывать скрытые статусы";
-"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "Мой статус";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Написать";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Информация о контакте";
 
@@ -180,7 +180,7 @@
 
 "CONTINUED_AUDIO_MESSAGES_LABEL" = "Продолжить прослушивание";
 "CONTINUED_AUDIO_MESSAGES_DESC" = "Эта функция дает вам возможность выйти из чата и продолжить прослушивание аудиосообщения. Она также добавляет в верхнюю часть экрана небольшую панель для управления воспроизведением";
-"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
+"CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Скрыть аудиопанель после прослушивания";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Аудиозапись";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Голосовое сообщение";
 
@@ -192,7 +192,7 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Удаленное сообщение";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name удалил(а) это сообщение #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Администратор группы #admin удалил(а) это сообщение #date";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "Вы удалили это сообщение со связанного устройства #date";
 
 "SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
 "SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
@@ -272,11 +272,11 @@
 "BROADCAST_MESSAGE_INDICATOR_LABEL" = "Индикатор рассылки";
 
 "IN_APP_BROWSER_LABEL" = "Встроенный браузер";
-"IN_APP_BROWSER_DESC" = "Открывайте ссылки в приложении WhatsApp, не переходя в браузер по умолчанию. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.";
-"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Allowed Domains";
-"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Add Domain";
-"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Domains";
-"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Enter any URL";
+"IN_APP_BROWSER_DESC" = "Открывайте ссылки в приложении WhatsApp, не переходя в браузер по умолчанию. Разрешенные домены будут перенапрявляться в соответствующее приложение, если оно установлено, или в Сафари.";
+"IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL" = "Разрешенные домены";
+"IN_APP_BROWSER_ADD_DOMAIN_LABEL" = "Добавить домен";
+"IN_APP_BROWSER_DOMAINS_LIST_HEADER" = "Домены";
+"IN_APP_BROWSER_DOMAIN_PLACEHOLDER" = "Введите любой URL-адрес";
 
 "CLEAR_BROADCAST_BUTTON_DESC" = "При удалении сообщений в списке рассылки в левом верхнем углу появится кнопка, с помощью которой вы сможете очистить чат";
 "CLEAR_BROADCAST_BUTTON_LABEL" = "Очистить список рассылки";
@@ -343,7 +343,7 @@
 "OPEN_PICTURE_ON_TAP_DESC" = "Откройте изображение профиля контакта, нажав на миниатюру в списке чатов или на вкладке «Избранное»";
 "OPEN_PICTURE_ON_TAP_LABEL" = "Открыть одним касанием";
 
-"NEW_CHAT_OPTIONS_DESC" = "Tapping new chat button will show an alert with the option to enter a phone number to message on WhatsApp without creating a contact for it.";
+"NEW_CHAT_OPTIONS_DESC" = "Эта функция позволяет начать новый чат без предварительного сохранения номера в контактах";
 "NEW_CHAT_OPTIONS_LABEL" = "Опции нового чата";
 "NEW_CHAT_OPTIONS_ALERT_MESSAGE" = "Начать новый чат";
 "NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON" = "Выбрать контакт";
