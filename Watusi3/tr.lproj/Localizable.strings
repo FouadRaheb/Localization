@@ -489,6 +489,7 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "Ödemeyi Yolla";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Tam Ekran Görüntüsü";
 "SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Belge Olarak Fotoğraf Kütüphanesi";
+"SHARE_SHEET_POLL_BUTTON" = "Create Poll";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Bu, yalnızca mevcut konumdan daha yeni mesajları içerecektir, başlangıç konumunuza ve ardından ekran görüntüsüne ilerlemelisiniz.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Ekran görüntüsü";
@@ -566,6 +567,9 @@
 
 "HIDE_WEB_SETTINGS_ROW_LABEL" = "WhatsApp Web'i Gizle";
 "HIDE_WEB_SETTINGS_ROW_DESC" = "WhatsApp Web bölümünü ayarlardan kaldırın";
+
+"HIDE_FREQUENTLY_CONTACTED_DESC" = "Hide frequently contacted section from chat picker";
+"HIDE_FREQUENTLY_CONTACTED_LABEL" = "Hide Frequently Contacted";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Sohbette Kamera,Kayıt ve Sticker butonlarını gizler.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Kamerayı Gizle";
@@ -706,6 +710,8 @@
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Gizli sohbetler yeni mesaj bildirimleri göstermez";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Gizli Sohbet Ayarlarını Koru";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Gizli bir sohbete mesaj gönderemezsiniz..";
+"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
+"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
 
 
 /* Auto Reply */

@@ -489,6 +489,7 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pago";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Captura de Pantalla Completa";
 "SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Photo Library as Document";
+"SHARE_SHEET_POLL_BUTTON" = "Create Poll";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Esto incluirá solo los mensajes más nuevos de la posición actual, debe desplazarse hacia arriba hasta su posición inicial y luego hacer una captura de pantalla.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Captura de Pantalla";
@@ -566,6 +567,9 @@
 
 "HIDE_WEB_SETTINGS_ROW_LABEL" = "Ocultar WhatsApp Web";
 "HIDE_WEB_SETTINGS_ROW_DESC" = "Eliminar la sección web de WhatsApp de la configuración";
+
+"HIDE_FREQUENTLY_CONTACTED_DESC" = "Hide frequently contacted section from chat picker list";
+"HIDE_FREQUENTLY_CONTACTED_LABEL" = "Hide Frequently Contacted";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Ocultar botones de cámara, grabación y pegatinas en chats.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Ocultar cámara";
@@ -706,6 +710,8 @@
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Los chats ocultos no mostrarán notificaciones de mensajes nuevos.";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Proteger la configuración de chats ocultos";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "No puede enviar mensajes a un chat oculto.";
+"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
+"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
 
 
 /* Auto Reply */

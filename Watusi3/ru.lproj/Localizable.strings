@@ -489,6 +489,7 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "Отправить платеж";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Длинный скриншот";
 "SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Фото из галереи как документ";
+"SHARE_SHEET_POLL_BUTTON" = "Create Poll";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Будет сохранена область от выбранного вами сообщения и до конца переписки. Прокрутите чат вверх, определите начало скриншота, а затем нажмите кнопку «Снимок экрана»";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Снимок экрана";
@@ -566,6 +567,9 @@
 
 "HIDE_WEB_SETTINGS_ROW_LABEL" = "Скрыть «Связанные устройства»";
 "HIDE_WEB_SETTINGS_ROW_DESC" = "Активируйте эту функцию, если хотите убрать из общего меню настроек WhatsApp раздел привязки устройств";
+
+"HIDE_FREQUENTLY_CONTACTED_DESC" = "Hide frequently contacted section from chat picker list";
+"HIDE_FREQUENTLY_CONTACTED_LABEL" = "Hide Frequently Contacted";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Увеличьте длину поля для ввода текста, скрыв значки активации камеры, включения микрофона и выбора стикеров";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Скрыть камеру";
@@ -706,6 +710,8 @@
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Невидимые чаты не будут показывать уведомления о новых сообщениях";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Защита настроек невидимых чатов";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Вы не можете отправлять сообщения в невидимые чаты";
+"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
+"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
 
 
 /* Auto Reply */

@@ -489,6 +489,7 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "إرسال الدفع";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "لقطة شاشة كاملة";
 "SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "مكتبة الصور كمستند";
+"SHARE_SHEET_POLL_BUTTON" = "إنشاء استطلاع";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "لقطة الشاشة الكاملة ستتضمن المحادثات من الموضع الحالي إلى النهاية فقط. يرجى الذهاب إلى الرسالة التي تود أخذ لقطة الشاشة الكاملة من عندها ثم أخذ اللقطة.";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "لقطة شاشة";
@@ -566,6 +567,9 @@
 
 "HIDE_WEB_SETTINGS_ROW_LABEL" = "إخفاء واتساب ويب";
 "HIDE_WEB_SETTINGS_ROW_DESC" = "إزالة قسم واتساب ويب من الإعدادات.";
+
+"HIDE_FREQUENTLY_CONTACTED_DESC" = "إخفاء الدردشات المُتحدث معها بشكل مُتكرر من قائمة دردشة جديدة";
+"HIDE_FREQUENTLY_CONTACTED_LABEL" = "إخفاء جهات الإتصال المُتكررة";
 
 "HIDE_CHAT_BUTTONS_DESC" = "إخفاء أزرار الكاميرا، التسجيل، والملصقات داخل الدردشة.";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "إخفاء زر الكاميرا";
@@ -706,6 +710,8 @@
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "لن تُظهر الدردشات المخفية إشعارات الرسائل الجديدة";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "إعدادات حماية الدردشات المخفية";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل لدردشة مخفية.";
+"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
+"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
 
 
 /* Auto Reply */
