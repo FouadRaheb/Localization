@@ -965,6 +965,7 @@
 
 "SUPPORT_SECTION_TITLE" = "Suporte";
 "HELP_AND_SUPPORT_LABEL" = "Ajuda e Suporte";
+"LICENSE_REQUIRED_MESSAGE" = "A license is required to unlock this feature, you can get a license from inside Accounts & Ad Removal section.";
 
 "HELP_LABEL" = "Ajuda";
 "CONTACT_SUPPORT_LABEL" = "Contatar Suporte";

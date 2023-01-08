@@ -965,6 +965,7 @@
 
 "SUPPORT_SECTION_TITLE" = "Destek";
 "HELP_AND_SUPPORT_LABEL" = "Yardım";
+"LICENSE_REQUIRED_MESSAGE" = "A license is required to unlock this feature, you can get a license from inside Accounts & Ad Removal section.";
 
 "HELP_LABEL" = "Yardım";
 "CONTACT_SUPPORT_LABEL" = "Kişi Desteği";

@@ -965,6 +965,7 @@
 
 "SUPPORT_SECTION_TITLE" = "الدعم";
 "HELP_AND_SUPPORT_LABEL" = "المساعدة والدعم";
+"LICENSE_REQUIRED_MESSAGE" = "تتطلب هذه الميزة ترخيص لإلغاء القفل ، يمكنك الحصول على ترخيص من داخل قسم إزالة الحسابات والإعلانات";
 
 "HELP_LABEL" = "المساعدة";
 "CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
