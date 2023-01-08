@@ -190,12 +190,12 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Сохранить удаленные сообщения";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Сообщения, удаленные вашими контактами, получат соответствующую метку и останутся у вас на устройстве";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE" = "Удаленное сообщение";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name удалил(а) это сообщение #date";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Администратор группы #admin удалил(а) это сообщение #date";
-"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "Вы удалили это сообщение со связанного устройства #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE" = "#name удалил(а) это сообщение в #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Администратор группы #admin удалил(а) это сообщение в #date";
+"REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "Вы удалили это сообщение со связанного устройства в #date";
 
-"SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
-"SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
+"SHOW_REACTIONS_DATE_LABEL" = "Дата реакции";
+"SHOW_REACTIONS_DATE_DESC" = "Активируйте эту настройку, чтобы видеть дату реакции на ваше сообщение";
 
 "CHAT_DETAILS_SECTION_DESC" = "Добавьте раздел на страницу сведений о контакте/группе, в котором будет отображаться подробная информация о чате";
 "CHAT_DETAILS_SECTION_LABEL" = "Статистика чата";
@@ -370,15 +370,15 @@
 
 /* Chat List Actions */
 
-"CHAT_LIST_ACTIONS_LABEL" = "Chat List More Actions";
-"CHAT_LIST_ACTIONS_DESC" = "Adds a More button in the chats list toolbar for more actions to the list";
-"CHAT_LIST_ACTIONS_SELECT_ALL" = "Select All";
-"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Deselect All";
-"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Clear All Chats";
-"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Clear all chats content and media including archived chats";
-"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Clear Selected Chats";
-"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Clear selected chats content and media";
-"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Clear";
+"CHAT_LIST_ACTIONS_LABEL" = "Дополнительные действия";
+"CHAT_LIST_ACTIONS_DESC" = "Добавьте на нижнюю панель кнопку для вызова дополнительных функций в режиме редактирования списка чатов";
+"CHAT_LIST_ACTIONS_SELECT_ALL" = "Выбрать все";
+"CHAT_LIST_ACTIONS_DESELECT_ALL" = "Отменить выбор всех";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS" = "Очистить все чаты";
+"CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC" = "Очистить содержимое всех чатов, в том числе архивных";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS" = "Очистить выбранные чаты";
+"CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC" = "Очистить содержимое выбранных чатов";
+"CHAT_LIST_ACTIONS_CLEAR_BUTTON" = "Очистить";
 
 
 /* Other Addons */
@@ -489,15 +489,15 @@
 "SHARE_SHEET_PAYMENT_BUTTON" = "Отправить платеж";
 "SHARE_SHEET_FULL_SCREENSHOT_BUTTON" = "Длинный скриншот";
 "SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON" = "Фото из галереи как документ";
-"SHARE_SHEET_POLL_BUTTON" = "Create Poll";
+"SHARE_SHEET_POLL_BUTTON" = "Создать опрос";
 
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE" = "Будет сохранена область от выбранного вами сообщения и до конца переписки. Прокрутите чат вверх, определите начало скриншота, а затем нажмите кнопку «Снимок экрана»";
 "SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON" = "Снимок экрана";
 "SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE" = "Успешно сохранено";
 "SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE" = "Не удалось сохранить";
 
-"EXPORT_AUDIO_MESSAGES_LABEL" = "Export Audio Messages";
-"EXPORT_AUDIO_MESSAGES_DESC" = "Add export button to audio messages context menu";
+"EXPORT_AUDIO_MESSAGES_LABEL" = "Экспорт аудио";
+"EXPORT_AUDIO_MESSAGES_DESC" = "Добавьте в контекстное меню кнопку экспорта аудиосообщений";
 
 "SAVE_PROFILE_PHOTOS_LABEL" = "Сохранить фото профиля";
 "SAVE_PROFILE_PHOTOS_DESC" = "Используйте долгое нажатие, чтобы сохранить фотографию контакта";
@@ -568,8 +568,8 @@
 "HIDE_WEB_SETTINGS_ROW_LABEL" = "Скрыть «Связанные устройства»";
 "HIDE_WEB_SETTINGS_ROW_DESC" = "Активируйте эту функцию, если хотите убрать из общего меню настроек WhatsApp раздел привязки устройств";
 
-"HIDE_FREQUENTLY_CONTACTED_DESC" = "Hide frequently contacted section from chat picker list";
-"HIDE_FREQUENTLY_CONTACTED_LABEL" = "Hide Frequently Contacted";
+"HIDE_FREQUENTLY_CONTACTED_DESC" = "Активируйте эту функцию, если хотите убрать соответствующий раздел из меню выбора чата при отправке сообщения";
+"HIDE_FREQUENTLY_CONTACTED_LABEL" = "Скрыть «Часто контактируемые»";
 
 "HIDE_CHAT_BUTTONS_DESC" = "Увеличьте длину поля для ввода текста, скрыв значки активации камеры, включения микрофона и выбора стикеров";
 "HIDE_CHAT_CAMERA_BUTTON_LABEL" = "Скрыть камеру";
@@ -710,8 +710,8 @@
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Невидимые чаты не будут показывать уведомления о новых сообщениях";
 "PROTECT_HIDDEN_CHATS_SETTINGS" = "Защита настроек невидимых чатов";
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Вы не можете отправлять сообщения в невидимые чаты";
-"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
-"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
+"HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Нажать и показать";
+"HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Нажмите и удерживайте кнопку создания нового чата в правом верхнем углу для просмотра содержимого невидимых чатов";
 
 
 /* Auto Reply */
@@ -719,7 +719,7 @@
 "AUTO_REPLY_LABEL" = "Автоматический ответ";
 "AUTO_REPLY_ENABLE_LABEL" = "Включить";
 "AUTO_REPLY_DESC" = "Если эта функция включена, то каждый раз, когда вы получаете сообщение, Watusi будет просматривать ваши включенные автоматические ответы, чтобы найти совпадения. Один или несколько автоматических ответов могут быть отправлены, если их конфигурация соответствует входящему сообщению/отправителю";
-"AUTO_REPLY_SIDELOAD_NOTE" = "NOTE: Auto Reply will not work properly when WhatsApp is not open on non-jailbroken devices";
+"AUTO_REPLY_SIDELOAD_NOTE" = "Важно: функция автоматического ответа не будет работать должным образом на устройствах без джейлбрейка, если WhatsApp закрыт";
 
 "AUTO_REPLY_LIST_TITLE" = "Автоматические ответы";
 
@@ -830,7 +830,7 @@
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Просмотр и создание запланированных сообщений";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Запланированные сообщения";
 "MESSAGE_SCHEDULER_MESSAGES_FOOTER" = "Красный символ означает, что все запланированные сообщения отправлены и график больше не актуален";
-"MESSAGE_SCHEDULER_CREATE_NAME" = "Name";
+"MESSAGE_SCHEDULER_CREATE_NAME" = "Название";
 "MESSAGE_SCHEDULER_CREATE_DATE_TIME" = "Дата и время";
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Получатели";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Сообщение";
@@ -875,8 +875,8 @@
 "STICKER_PACKS_DEFAULT_TAB" = "По умолчанию";
 "STICKER_PACKS_CUSTOM_TAB" = "Пользовательский";
 "LOADING_STICKER_PACKS_LABEL" = "Загрузка пакета стикеров...";
-"STICKERS_NO_STICKERS_TITLE" = "No Stickers";
-"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="You can create your own sticker packs\nby using the + button on top right";
+"STICKERS_NO_STICKERS_TITLE" = "Нет стикеров";
+"STICKERS_CREATE_STICKER_PACK_MESSAGE" ="Для создания пакета стикеров нажмите «+» в правом верхнем углу";
 
 "ADD_STICKERS_ALERT_TITLE" = "Добавить пакет стикеров";
 "ADD_STICKERS_ALERT_CREATE_STICKER_PACK" = "Создать пакет стикеров";
