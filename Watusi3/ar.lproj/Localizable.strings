@@ -712,6 +712,9 @@
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "لا يمكنك إرسال رسائل لدردشة مخفية.";
 "HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Long Press on Compose Button";
 "HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Add a long press gesture to Chat's List compose button to access hidden chats messages";
+"UNHIDE_CHAT_ALERT_TITLE" = "Unhide Chat";
+"UNHIDE_CHAT_ALERT_MESSAGE" = "Remove chat from Hidden Chats?";
+"UNHIDE_CHAT_ALERT_BUTTON" = "Unhide";
 
 
 /* Auto Reply */

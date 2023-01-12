@@ -712,6 +712,9 @@
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Вы не можете отправлять сообщения в невидимые чаты";
 "HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Нажать и показать";
 "HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Нажмите и удерживайте кнопку создания нового чата в правом верхнем углу для просмотра содержимого невидимых чатов";
+"UNHIDE_CHAT_ALERT_TITLE" = "Unhide Chat";
+"UNHIDE_CHAT_ALERT_MESSAGE" = "Remove chat from Hidden Chats?";
+"UNHIDE_CHAT_ALERT_BUTTON" = "Unhide";
 
 
 /* Auto Reply */
