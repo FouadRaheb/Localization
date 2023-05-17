@@ -86,9 +86,10 @@
 "STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "حالاتي";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "رسالة";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "معلومات جهة الاتصال";
-
-"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "الحالات في الدردشات";
-"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "عرض حالات جهات اتصالك والوصول إليها من صور ملفاتهم الشخصية في الدردشات.";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "إضافة حالة نصية";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "إضافة حالة وسائط";
+"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "الأرشيف";
+"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "الخصوصية";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "إظهار زر التنزيل";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "إضافة زر في الجزء السفلي الأيمن في الحالة لتنزيلها.";
@@ -129,6 +130,7 @@
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "الأرشيف";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ لم يشاهد أيًّا من حالاتك";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "أنت لم تنشر أي حالات بعد";
+"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "حذف جميع الحالات المؤرشفة";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "المشاهدون";
 "STATUS_ARCHIVE_EXPORT_BUTTON" = "تصدير";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "كل الحالات";
@@ -252,9 +254,6 @@
 "WHATSAPP_VOICE_CALL_BUTTON" = "مكالمة واتساب صوتية";
 "CARRIER_CALL_BUTTON" = "اتصال عادي";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "الاتصال العادي غير متاح!";
-
-"GROUP_MEMBERS_PICTURE_DESC" = "إظهار الصورة الشخصية لكل عضو في المجموعة بجانب رسائله.\nيمكن أيضًا النقر على الصورة لعرضها.";
-"GROUP_MEMBERS_PICTURE_LABEL" = "صور أعضاء المجموعة";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "عدد رسائل أعضاء المجموعة";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "عرض عدد رسائل كل عضو في المجموعة بجانب صورته الشخصية في معلومات المجموعة.";
@@ -785,7 +784,9 @@
 "AUTO_REPLY_MESSAGE_REPLY_MESSAGE_DESC" = "الرسالة التي سيتم الرد بها تلقائيًا.";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "العلامات المتاحة";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "يمكن تضمين العلامات في نص الرسالة لاستبدالها بقيمتها المقابلة.";
-"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "استبدال باسم جهة الاتصال التي قمت بحفظها أو بوصف المجموعة.";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "سيتم استبداله باسم جهة الاتصال التي حفظتها أو موضوع المجموعة";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "سيتم استبداله باسم ملف تعريف جهة الاتصال أو موضوع المجموعة";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "استبدال باسم جهة الاتصال التي قمت بحفظها أو بوصف المجموعة.";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "استبدال بالرسالة المستلمة.";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "استبدال بتاريخ الرسالة المستلمة بالتنسيق ١ يناير ٢٠٢٠، ١:٢٠";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "سيتم استبدال العلامات بقيمتها المقابلة";

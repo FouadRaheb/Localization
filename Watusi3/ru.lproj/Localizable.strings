@@ -86,9 +86,10 @@
 "STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "Мой статус";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Написать";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Информация о контакте";
-
-"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Статусы в чатах";
-"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "Откройте изображение профиля контакта в чате для просмотра статуса";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "Add Text Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "Add Media Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "Archive";
+"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "Privacy";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Кнопка загрузки";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Добавьте кнопку загрузки в правый нижний угол страницы просмотра статуса";
@@ -129,6 +130,7 @@
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Архив";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ еще не видел(а) ни одного вашего статуса";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Вы еще не опубликовали ни одного статуса";
+"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "Delete all archived statuses";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Зрители";
 "STATUS_ARCHIVE_EXPORT_BUTTON" = "Экспорт";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Все статусы";
@@ -252,9 +254,6 @@
 "WHATSAPP_VOICE_CALL_BUTTON" = "Аудиозвонок WhatsApp";
 "CARRIER_CALL_BUTTON" = "Мобильная связь";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Мобильная связь недоступна";
-
-"GROUP_MEMBERS_PICTURE_DESC" = "Показывать фото профиля участника группы рядом с его сообщением в чате. Вы можете нажать на изображение для перехода в режим предварительного просмотра";
-"GROUP_MEMBERS_PICTURE_LABEL" = "Группа в лицах";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Группа в числах";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Показывать количество сообщений, отправленных каждым участником группового чата";
@@ -786,6 +785,7 @@
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "Доступные теги";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "Теги можно включить в текст автоматического ответа, они будут заменены соответствующим значением (напрмер, именем контакта)";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "Тег будет заменен именем сохраненного контакта или темой группы";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "Replaced with contact profile name or group subject";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "Тег будет заменен полученным сообщением";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "Тег будет заменен датой получения сообщения в формате 1 января 2020, 1:20";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "Скопируйте нужный тег и вставьте в текст автоматического ответа, он будет заменен соответствующим значением";

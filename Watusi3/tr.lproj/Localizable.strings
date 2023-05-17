@@ -86,9 +86,10 @@
 "STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Mesaj";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kişi Bilgileri";
-
-"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Sohbetlerdeki Durumlar";
-"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "Kişilerinizin durumlarını sohbetlerdeki profil resimlerinden görüntüleyin ve bunlara erişin";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "Add Text Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "Add Media Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "Archive";
+"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "Privacy";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "İndirme Butonunu Göster";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Durumları indirmek için sağ alta indirme tuşu ekle.";
@@ -129,6 +130,7 @@
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Arşiv";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ hiçbir durumunuzu görüntülemedi";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Henüz herhangi bir durum göndermediniz";
+"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "Delete all archived statuses";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Görüntüleyenler";
 "STATUS_ARCHIVE_EXPORT_BUTTON" = "Dışa Aktar";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Tüm Durumlar";
@@ -252,9 +254,6 @@
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sesli Arama";
 "CARRIER_CALL_BUTTON" = "Operatör Araması";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Operatör Araması Mevcut Değil!";
-
-"GROUP_MEMBERS_PICTURE_DESC" = "Grup üyelerinin profil fotoğraflarını sohbette mesajların yanında göster. Fotoğraflara tıklayarak önizleyebilirsiniz.";
-"GROUP_MEMBERS_PICTURE_LABEL" = "Grup Üyelerinin Fotoğrafı";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Grup Üyeleri Mesaj Sayısı";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Her grup üyesinin mesaj sayısını grup sayfasında göster.";
@@ -786,6 +785,7 @@
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "Mevcut Etiketler";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "Etiketler, karşılık gelen değeriyle değiştirilmek üzere bir mesaj metnine dahil edilebilir";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "Kaydettiğiniz kişi adınız veya grup konunuzla değiştirildi";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "Replaced with contact profile name or group subject";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "Alınan mesajla değiştirildi";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "1 Ocak 2020, 1:20 biçiminde alınan mesaj tarihi ile değiştirildi";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "Etiketler, karşılık gelen değeriyle değiştirilecek";

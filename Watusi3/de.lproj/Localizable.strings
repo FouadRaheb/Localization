@@ -86,9 +86,10 @@
 "STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "My Status";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Nachricht";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Kontakt Info";
-
-"STATUS_SHOW_STATUSES_ON_CHATS_LABEL" = "Status in Chats";
-"STATUS_SHOW_STATUSES_ON_CHATS_DESC" = "Zeige die Status deiner Kontakte über ihr Profilbild in den Chats an";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "Add Text Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "Add Media Status";
+"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "Archive";
+"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "Privacy";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Download Button anzeigen";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Fügt einen Button rechts unten bei den Status hinzu, um diese herunterzuladen.";
@@ -129,6 +130,7 @@
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ hat deinen Status nicht gesehen";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Du hast noch keinen Status hochgeladen";
+"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "Delete all archived statuses";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Ansichten";
 "STATUS_ARCHIVE_EXPORT_BUTTON" = "Exportieren";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Alle Status";
@@ -252,9 +254,6 @@
 "WHATSAPP_VOICE_CALL_BUTTON" = "WhatsApp Sprachanruf";
 "CARRIER_CALL_BUTTON" = "Mobilfunk Anruf";
 "CARRIER_CALL_UNAVAILABLE_MESSAGE" = "Mobilfunk Anruf ist nicht verfügbar!";
-
-"GROUP_MEMBERS_PICTURE_DESC" = "Zeigt das Profilbild von Gruppenmitgliedern neben ihrer Nachricht. Außerdem kannst auf das Bild tippen, für eine Vorschau.";
-"GROUP_MEMBERS_PICTURE_LABEL" = "Bilder von Gruppenmitgliedern";
 
 "GROUP_MEMBERS_MESSAGES_COUNT_LABEL" = "Nachrichtenanzahl von Gruppenmitgliedern";
 "GROUP_MEMBERS_MESSAGES_COUNT_DESC" = "Zeigt die Anzahl der Nachrichten von den einzelnen Gruppenmitgliedern in der Gruppen-Ansicht an.";
@@ -786,6 +785,7 @@
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "Verfügbare Tags";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "Tags können in einen Nachrichtentext aufgenommen werden, um durch den entsprechenden Wert ersetzt zu werden";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "Ersetzt durch den gespeicherten Kontaktnamen oder Gruppennamen";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "Replaced with contact profile name or group subject";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "Ersetzt durch die empfangene Nachricht";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "Ersetzt durch das Datum der empfangenen Nachricht im Format 1. Januar 2020, 1:20";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "Tags werden durch den entsprechenden Wert ersetzt";
