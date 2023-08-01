@@ -196,6 +196,15 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "تم حذف الرسالة بواسطة مشرف المجموعة #admin بتاريخ #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "لقد حذفت هذه الرسالة من جهاز مرتبط بتاريخ #date";
 
+"SAVE_EDITED_MESSAGES_HISTORY_LABEL" = "إبقاء سجل الرسائل المحررة";
+"SAVE_EDITED_MESSAGES_HISTORY_DESC" = "حفظ سجل الرسالة عند تحرير رسالة.";
+"MESSAGE_HISTORY_ALERT_TITLE" = "سجل الرسالة";
+"MESSAGE_HISTORY_DELETED_MESSAGE" = "رسالة محذوفة";
+"MESSAGE_HISTORY_DELETED_FROM_LINKED_DEVICE" = "محذوفة من الجهاز المرتبط";
+"MESSAGE_HISTORY_DELETED_BY_ADMIN" = "محذوفة بواسطة المشرف #name";
+"MESSAGE_HISTORY_RECEIVED_DATE" = "وصلت بتاريخ #date";
+"MESSAGE_HISTORY_EDITED_DATE" = "حررت بتاريخ #date";
+
 "SHOW_REACTIONS_DATE_LABEL" = "إظهار تواريخ التفاعلات";
 "SHOW_REACTIONS_DATE_DESC" = "رؤية تواريخ تفاعلات الرسائل.";
 

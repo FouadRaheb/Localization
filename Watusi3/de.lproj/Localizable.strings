@@ -196,6 +196,15 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Message deleted by group admin #admin on #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "You deleted this message from a linked device on #date";
 
+"SAVE_EDITED_MESSAGES_HISTORY_LABEL" = "Keep Edited Messages History";
+"SAVE_EDITED_MESSAGES_HISTORY_DESC" = "Save message history when a message is edited";
+"MESSAGE_HISTORY_ALERT_TITLE" = "Message History";
+"MESSAGE_HISTORY_DELETED_MESSAGE" = "Deleted Message";
+"MESSAGE_HISTORY_DELETED_FROM_LINKED_DEVICE" = "Deleted from Linked Device";
+"MESSAGE_HISTORY_DELETED_BY_ADMIN" = "Deleted by Admin #name";
+"MESSAGE_HISTORY_RECEIVED_DATE" = "Received on #date";
+"MESSAGE_HISTORY_EDITED_DATE" = "Edited on #date";
+
 "SHOW_REACTIONS_DATE_LABEL" = "Show Reactions Date";
 "SHOW_REACTIONS_DATE_DESC" = "View message reactions date";
 
@@ -221,7 +230,7 @@
 "CHAT_DETAILS_CONTACT" = "Kontakt";
 "CHAT_DETAILS_LOCATION" = "Ort";
 "CHAT_DETAILS_LINKS" = "Links";
-"CHAT_DETAILS_DELETED" = "Geslöscht";
+"CHAT_DETAILS_DELETED" = "Gelöscht";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
 "ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";

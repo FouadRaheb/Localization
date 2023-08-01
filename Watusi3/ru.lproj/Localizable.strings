@@ -196,6 +196,15 @@
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE" = "Администратор группы #admin удалил(а) это сообщение в #date";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE" = "Вы удалили это сообщение со связанного устройства в #date";
 
+"SAVE_EDITED_MESSAGES_HISTORY_LABEL" = "Keep Edited Messages History";
+"SAVE_EDITED_MESSAGES_HISTORY_DESC" = "Save message history when a message is edited";
+"MESSAGE_HISTORY_ALERT_TITLE" = "Message History";
+"MESSAGE_HISTORY_DELETED_MESSAGE" = "Deleted Message";
+"MESSAGE_HISTORY_DELETED_FROM_LINKED_DEVICE" = "Deleted from Linked Device";
+"MESSAGE_HISTORY_DELETED_BY_ADMIN" = "Deleted by Admin #name";
+"MESSAGE_HISTORY_RECEIVED_DATE" = "Received on #date";
+"MESSAGE_HISTORY_EDITED_DATE" = "Edited on #date";
+
 "SHOW_REACTIONS_DATE_LABEL" = "Дата реакции";
 "SHOW_REACTIONS_DATE_DESC" = "Активируйте эту настройку, чтобы видеть дату реакции на ваше сообщение";
 
