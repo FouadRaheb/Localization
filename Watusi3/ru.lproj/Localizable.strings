@@ -86,10 +86,10 @@
 "STATUS_SHOW_STATUSES_MY_STATUS_LABEL" = "Мой статус";
 "STATUS_SHOW_STATUSES_MESSAGE_BUTTON" = "Написать";
 "STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON" = "Информация о контакте";
-"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "Add Text Status";
-"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "Add Media Status";
-"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "Archive";
-"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "Privacy";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS" = "Добавить текст";
+"STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS" = "Добавить фото/видео";
+"STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE" = "Архив";
+"STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY" = "Конфиденциальность";
 
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Кнопка загрузки";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Добавьте кнопку загрузки в правый нижний угол страницы просмотра статуса";
@@ -130,7 +130,7 @@
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Архив";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ еще не видел(а) ни одного вашего статуса";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "Вы еще не опубликовали ни одного статуса";
-"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "Delete all archived statuses";
+"STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE" = "Удалить все архивные статусы";
 "STATUS_ARCHIVE_VIEWERS_BUTTON" = "Зрители";
 "STATUS_ARCHIVE_EXPORT_BUTTON" = "Экспорт";
 "STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES" = "Все статусы";
@@ -720,9 +720,9 @@
 "CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE" = "Вы не можете отправлять сообщения в невидимые чаты";
 "HIDE_CHATS_CHAT_LIST_ACCESS_LABEL" = "Нажать и показать";
 "HIDE_CHATS_CHAT_LIST_ACCESS_DESC" = "Нажмите и удерживайте кнопку создания нового чата в правом верхнем углу для просмотра содержимого невидимых чатов";
-"UNHIDE_CHAT_ALERT_TITLE" = "Unhide Chat";
-"UNHIDE_CHAT_ALERT_MESSAGE" = "Remove chat from Hidden Chats?";
-"UNHIDE_CHAT_ALERT_BUTTON" = "Unhide";
+"UNHIDE_CHAT_ALERT_TITLE" = "Раскрыть чать";
+"UNHIDE_CHAT_ALERT_MESSAGE" = "Удалить чат из списка невидимых?";
+"UNHIDE_CHAT_ALERT_BUTTON" = "Раскрыть";
 
 
 /* Auto Reply */
@@ -794,7 +794,7 @@
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL" = "Доступные теги";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC" = "Теги можно включить в текст автоматического ответа, они будут заменены соответствующим значением (напрмер, именем контакта)";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC" = "Тег будет заменен именем сохраненного контакта или темой группы";
-"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "Replaced with contact profile name or group subject";
+"AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC" = "Тег будет заменен именем профиля контакта или темой группы";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC" = "Тег будет заменен полученным сообщением";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC" = "Тег будет заменен датой получения сообщения в формате 1 января 2020, 1:20";
 "AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER" = "Скопируйте нужный тег и вставьте в текст автоматического ответа, он будет заменен соответствующим значением";
@@ -977,7 +977,7 @@
 
 "SUPPORT_SECTION_TITLE" = "Поддержка";
 "HELP_AND_SUPPORT_LABEL" = "Помощь и поддержка";
-"LICENSE_REQUIRED_MESSAGE" = "A license is required to unlock this feature, you can get a license from inside Accounts & Ad Removal section.";
+"LICENSE_REQUIRED_MESSAGE" = "Для разблокировки этой функции требуется лицензия, которую вы можете активировать в разделе «Аккаунт и реклама».";
 
 "HELP_LABEL" = "Помощь";
 "CONTACT_SUPPORT_LABEL" = "Написать на почту";
@@ -994,10 +994,10 @@
 "LOADING" = "Загрузка...";
 
 "MORE_TWEAKS_TITLE" = "Другие твики";
-"MORE_TWEAKS_DESC" = "These tweaks are separate from Watusi but merged together in a single IPA for non-jailbroken devices.\n\nEach tweak might require a specific license in order to be activated or to remove ads.";
-"MORE_TWEAKS_STALKY_DESC" = "Track and store your contacts latest profile & statuses updates";
-"MORE_TWEAKS_ONLINENOTIFY_DESC" = "View and track your contacts online status, messages and status receipts";
-"MORE_TWEAKS_CONTACTSYNC_DESC" = "Sync WhatsApp profile pictures with your Contacts";
+"MORE_TWEAKS_DESC" = "Это самостоятельные твики, добавленные в IPA-файл для устройств без джейлбрейка.\n\nДля их активации или удаления рекламы может потребоваться отдельная лицензия.";
+"MORE_TWEAKS_STALKY_DESC" = "Отслеживайте и сохраняйте обновления профилей и статусов ваших контактов";
+"MORE_TWEAKS_ONLINENOTIFY_DESC" = "Просматривайте и отслеживайте онлайн-статусы ваших контактов, сообщения и отчеты";
+"MORE_TWEAKS_CONTACTSYNC_DESC" = "Синхронизируйте изображения профилей WhatsApp с вашими контактами";
 
 
 /* Help */
