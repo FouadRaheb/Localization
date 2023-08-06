@@ -235,9 +235,10 @@
 "ABOUT_ON_CHATS_DESC" = "Show your contact about message on a little bar at the top of chat view";
 "ABOUT_ON_CHATS_LABEL" = "About On Chat";
 
-"TAP_TO_RECORD_DESC" = "Tap once to start recording and tap again to send or tap and slide to delete.";
+"TAP_TO_RECORD_DESC" = "Tap once to start voice recording and tap again to send or tap and slide to delete.";
 "TAP_TO_RECORD_LABEL" = "Tap To Record";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Tap & Slide to Cancel";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
@@ -981,6 +982,7 @@
 
 "HELP_LABEL" = "Help";
 "CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSION_HISTORY_LABEL" = "Version History";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Account & Ad Removal";
 "ACCOUNT" = "Account";

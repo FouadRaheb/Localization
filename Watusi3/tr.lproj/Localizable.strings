@@ -238,6 +238,7 @@
 "TAP_TO_RECORD_DESC" = "Bir kere dokunarak kayda başla ve tekrar basarak gönder ya da silmek için bas ve kaydır.";
 "TAP_TO_RECORD_LABEL" = "Kayıt Yapmak İçin Bas";
 "TAP_TO_RECORD_SLIDE_LABEL" = "İptal İçin Dokun ve Kaydır";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Devamlı Oynatmayı Devre Dışı Bırak";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "WhatsApp'ın Sonraki Ses Mesajını Oynatmasını Devre Dışı Bırak";
@@ -981,6 +982,7 @@
 
 "HELP_LABEL" = "Yardım";
 "CONTACT_SUPPORT_LABEL" = "Kişi Desteği";
+"VERSION_HISTORY_LABEL" = "Version History";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Hesap ve Reklam Kaldırma";
 "ACCOUNT" = "Hesap";

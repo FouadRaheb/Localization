@@ -238,6 +238,7 @@
 "TAP_TO_RECORD_DESC" = "انقر مرة واحدة لبدء تسجيل مقطع صوتي وانقر مرة أخرى لإرسال هذا التسجيل أو انقر مع السحب إلى اليسار لحذف هذا التسجيل.";
 "TAP_TO_RECORD_LABEL" = "انقر للتسجيل";
 "TAP_TO_RECORD_SLIDE_LABEL" = "انقر واسحب إلى اليسار للإلغاء";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "إن تفعيل النقر للتسجيل سيعطل خيار واتساب الذي يغير بين تسجيل مقطع الصوتي وتسجيل فيديو بشكل كامل.";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "تعطيل التشغيل التلقائي للصوتيات";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "إيقاف واتساب من تشغيل الرسالة الصوتية التالية تلقائيًا.";
@@ -982,6 +983,7 @@
 
 "HELP_LABEL" = "المساعدة";
 "CONTACT_SUPPORT_LABEL" = "تواصل مع الدعم";
+"VERSION_HISTORY_LABEL" = "سجل التغييرات";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وإزالة الاعلانات";
 "ACCOUNT" = "الحساب";

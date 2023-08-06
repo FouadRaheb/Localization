@@ -238,6 +238,7 @@
 "TAP_TO_RECORD_DESC" = "Нажмите на значок микрофона один раз, чтобы начать запись голосового сообщения, и еще один раз, чтобы его отправить. Нажмите и проведите пальцем влево, чтобы удалить запись";
 "TAP_TO_RECORD_LABEL" = "Запись по нажатию";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Свайп влево, чтобы удалить";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Стоп-игра";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Эта функция отключает автоматическое воспроизведение следующего аудиосообщения в чате";
@@ -981,6 +982,7 @@
 
 "HELP_LABEL" = "Помощь";
 "CONTACT_SUPPORT_LABEL" = "Написать на почту";
+"VERSION_HISTORY_LABEL" = "Version History";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Аккаунт и реклама";
 "ACCOUNT" = "Аккаунт";

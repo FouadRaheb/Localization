@@ -238,6 +238,7 @@
 "TAP_TO_RECORD_DESC" = "Toque una vez para iniciar la grabación y toque nuevamente para enviar o toque y deslice para eliminar.";
 "TAP_TO_RECORD_LABEL" = "Toque para grabar";
 "TAP_TO_RECORD_SLIDE_LABEL" = "Toque y deslice para cancelar";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Desactivar Reproducción Continua";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Evita que WhatsApp reproduzca continuamente el siguiente mensaje de audio automáticamente";
@@ -981,6 +982,7 @@
 
 "HELP_LABEL" = "Ayuda";
 "CONTACT_SUPPORT_LABEL" = "Contacto con Soporte";
+"VERSION_HISTORY_LABEL" = "Version History";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "Cuenta y eliminar publicidad";
 "ACCOUNT" = "Cuenta";

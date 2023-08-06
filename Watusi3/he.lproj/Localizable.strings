@@ -238,6 +238,7 @@
 "TAP_TO_RECORD_DESC" = "לחץ לחיצה קצרה כדי להתחיל הקלטה ולסיים אותה";
 "TAP_TO_RECORD_LABEL" = "לחיצה קצרה במקום ארוכה להקלטה";
 "TAP_TO_RECORD_SLIDE_LABEL" = "החלק כדי לבטל את ההקלטה";
+"TAP_TO_RECORD_WARNING_MESSAGE" = "Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording";
 
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL" = "Disable Continous Playback";
 "DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC" = "Stop WhatsApp from continously playing the next audio message automatically";
@@ -981,6 +982,7 @@
 
 "HELP_LABEL" = "Help";
 "CONTACT_SUPPORT_LABEL" = "Contact Support";
+"VERSION_HISTORY_LABEL" = "Version History";
 
 "ACCOUNT_AD_REMOVAL_LABEL" = "חשבון & הסרת מודעות";
 "ACCOUNT" = "חשבון";
