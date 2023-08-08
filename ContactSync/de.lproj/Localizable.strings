@@ -24,11 +24,11 @@
 "CONTACTS_TO_SYNC_EXCLUDED_CONTACTS_LABEL" = "Ausgeschlossene Kontakte";
 "CONTACTS_TO_SYNC_SELECTED_CONTACTS_LABEL" = "Ausgewählte Kontakte";
 
-"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Dadurch werden hochauflösende Profilbilder deiner Kontakte heruntergeladen und fpr die Synchronisierung verwendet. Wenn deaktiviert, werden die Miniaturbilder deiner Kontakte verwendet.";
+"DOWNLOAD_HIGH_RESOLUTION_PICTURES_FOOTER" = "Dadurch werden hochauflösende Profilbilder deiner Kontakte heruntergeladen und für die Synchronisierung verwendet. Wenn deaktiviert, werden die Miniaturbilder deiner Kontakte verwendet.";
 "DOWNLOAD_HIGH_RESOLUTION_PICTURES_LABEL" = "Hochauflösende Bilder herunterladen";
 
-"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Dadurch wird das vorhandene Foto deines Kontakts entfernt, wenn auf WhatsApp kein Profilfoto (mehr) vorhanden ist";
-"REMOVE_PHOTO_IF_DELETED_LABEL" = "Foto entfernen falls gelöscht";
+"REMOVE_PHOTO_IF_DELETED_FOOTER" = "Dadurch wird das vorhandene Foto deines Kontakts entfernt, wenn auf WhatsApp kein Profilfoto (mehr) vorhanden ist.";
+"REMOVE_PHOTO_IF_DELETED_LABEL" = "Foto entfernen, falls gelöscht";
 
 "RELAUNCH_ALERT_BUTTON" = "Neu starten";
 "RELAUNCH_TO_ACTIVATE_MESSAGE" = "Starte WhatsApp neu, um deine Lizenz zu aktivieren";
@@ -41,12 +41,12 @@
 "CONTRIBUTE_LABEL" = "Spenden";
 
 "SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
+"CONTACT_AND_MORE_LABEL" = "Kontakt & Mehr";
 "CONTACT_AND_MORE_PAGE_TITLE" = "Support";
 "CONTACT_SUPPORT_SECTION_HEADER" = "Support";
 "CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
 "VERSIONS_TITLE" = "Versionen";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Accountverwaltung";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Kontenverwaltung";
 
 "SETTINGS_SECTION_TITLE" = "Einstellungen";
 "SETTINGS_EXPORT_LABEL" = "Einstellungen exportieren";
@@ -74,7 +74,7 @@
 "USER_GUIDE_SYNC_ERROR_DETAIL" = "Wenn nach der Synchronisierung ein Fehler auftritt, geschieht dies normalerweise aufgrund einer Einschränkung in Contactsd (Prozess, der das Kontakt-Framework verwaltet) die uns nicht erlaubt, eine große Anzahl von Kontakten in kurzer Zeit zu aktualisieren. Ein Neustart oder Respring löst dieses Problem meistens.";
 
 "USER_GUIDE_MULTIPLE_NUMBERS_TITLE" = "Kontakt mit mehreren Nummern";
-"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Bei der Synchronisierung wird die Nummer mit einem verfügbaren Profilbild verwendet, wenn 2 oder mehr Nummern mit Profilbildern verfügbar sind, wird eine zufälliges verwendet.\nDu kannst eine Nummer auf der Seite 'Meine Kontakte' auswählen, um sie beim Synchronisieren des Kontakts zu verwenden.";
+"USER_GUIDE_MULTIPLE_NUMBERS_DETAIL" = "Bei der Synchronisierung wird die Nummer mit einem verfügbaren Profilbild verwendet, wenn 2 oder mehr Nummern mit Profilbildern verfügbar sind, wird eine Zufälliges verwendet.\nDu kannst eine Nummer auf der Seite 'Meine Kontakte' auswählen, um sie beim Synchronisieren des Kontakts zu verwenden.";
 
 /* Contacts Page */
 

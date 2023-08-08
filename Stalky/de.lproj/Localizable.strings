@@ -1,16 +1,16 @@
 /* Preferences */
 
-"STALKY_PREFERENCES_LABEL" = "Stalky Updates & Preferences";
+"STALKY_PREFERENCES_LABEL" = "Stalky";
 
 
 /* Updates Table Settings */
 
-"UPDATES_TABLE_TITLE" = "Update Tabelle";
+"UPDATES_TABLE_TITLE" = "Updates-Tabelle";
 
-"BUTTON_LOCATION_LABEL" = "Updates Button";
-"BUTTON_LOCATION_DESC" = "Location of Stalky updates button on the Chats List";
-"BUTTON_LOCATION_REPLACE_CAM" = "Replace Camera Button";
-"BUTTON_LOCATION_DISABLED" = "Disabled";
+"BUTTON_LOCATION_LABEL" = "Updates-Taste";
+"BUTTON_LOCATION_DESC" = "Position der Stalky-Updates-Taste in der Chats-Liste.";
+"BUTTON_LOCATION_REPLACE_CAM" = "Kamera-Taste ersetzen";
+"BUTTON_LOCATION_DISABLED" = "Deaktiviert";
 
 "DEFAULT_UPDATES_PAGE_LABEL" = "Standardseite";
 "DEFAULT_UPDATES_PAGE_DESC" = "Wähle aus, welche Seite standardmäßig geöffnet werden soll.";
@@ -18,33 +18,33 @@
 "COLORIZE_UPDATES_TABLE" = "Updates farbig markieren";
 "COLORIZE_UPDATES_DESC" = "Jeden Aktualisierungstyp wird eine Hintergrundfarbe hinzugefügt: Profilbilder/Rot, Status/Blau, Über/Gelb, Gruppe/Grün).";
 
-"BLACKLISTED_CONTACTS" = "Geblacklistete Kontakte";
+"BLACKLISTED_CONTACTS" = "Kontakte-Blacklist";
 "BLACKLISTED_CONTACTS_DESCRIPTION" = "Füge Kontakte zur Blacklist hinzu, um deren Updates nicht mehr zu erhalten.";
 
 
 /* Download */
 
-"SAVE_AND_DOWNLOAD_TITLE" = "Speichern & automatisch herunterladen";
+"SAVE_AND_DOWNLOAD_TITLE" = "Speichern & herunterladen";
 
 "SAVE_TITLE" = "Updates speichern";
-"SAVE_DESCRIPTION" = "Deaktiviere Updates, die nicht gespeichert werden sollen. Die Medien der nicht gespeicherten Updates werden nicht heruntergeladen.";
+"SAVE_DESCRIPTION" = "Deaktiviere Updates, die nicht gespeichert werden sollen. Die Medien, der nicht gespeicherten Updates, werden nicht heruntergeladen.";
 "SAVE_PICTURES_LABEL" = "Profilbilder-Updates speichern";
-"SAVE_ABOUT_LABEL" = "Textstatus Updates speichern";
-"SAVE_GROUP_LABEL" = "Gruppen Updates speichern";
+"SAVE_ABOUT_LABEL" = "Textstatus-Updates speichern";
+"SAVE_GROUP_LABEL" = "Gruppen-Updates speichern";
 "SAVE_STATUS_LABEL" = "Statusaktualisierungen speichern";
 
 "AUTO_DOWNLOAD_PROFILE_PICTURES_LABEL" = "Bilder automatisch herunterladen";
-"AUTO_DOWNLOAD_STATUSES_LABEL" = "Statusmedien automatisch herunterladen";
-"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Lade automatisch Kontaktprofilbilder herunter. Das Bild kann weiterhin manuell herunterladen werden, indem es in der Aktualisierungstabelle angetippt wird.";
-"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Lade Statusmedien deiner Kontakte automatisch runter. Wenn diese Option deaktiviert ist, versucht Stalky, das Medium herunterzuladen, indem nur dann auf das Update getippt wird, wenn es im Status noch verfügbar ist.";
-"AUTO_DOWNLOAD_WIFI_CELLULAR" = "Wlan & Mobilfunk";
-"AUTO_DOWNLOAD_WIFI" = "Wlan";
+"AUTO_DOWNLOAD_STATUSES_LABEL" = "Statusmedien autom. herunterladen";
+"AUTO_DOWNLOAD_PROFILE_DESCRIPTION" = "Lade automatisch Kontakt-Profilbilder herunter. Das Bild kann weiterhin manuell herunterladen werden, indem es in der Updates-Tabelle angetippt wird.";
+"AUTO_DOWNLOAD_STATUS_DESCRIPTION" = "Lade Statusmedien deiner Kontakte automatisch herunter. Wenn diese Option deaktiviert ist, versucht Stalky, das Medium herunterzuladen, indem nur dann auf das Update getippt wird, wenn es im Status noch verfügbar ist.";
+"AUTO_DOWNLOAD_WIFI_CELLULAR" = "WLAN & Mobilfunk";
+"AUTO_DOWNLOAD_WIFI" = "WLAN";
 "AUTO_DOWNLOAD_NEVER" = "Niemals";
 
-"BACKGROUND_FETCH" = "Hintergrundabruf";
+"BACKGROUND_FETCH" = "Hintergrundaktualisierung";
 "BACKGROUND_FETCH_DESC" = "Diese Option wird verwendet, wenn ein Kontakt sein Profilbild mehrmals ändert, während du offline bist. Da der WhatsApp-Server das alte Kontaktbild durch ein neues ersetzt, bleibt WhatsApp im Hintergrund aktiv, um die Bilder direkt herunterzuladen, wenn der Kontakt diese ändert.";
-"BG_FETCH_TURN_OFF_ALERT" = "Wenn der Hintergrundabruf deaktiviert wird, werden keine neuen Aktualisierungen im Hintergrund abgerufen, und du erhältst daher keine Push-Benachrichtigungen außerhalb von WhatsApp.";
-"BG_FETCH_ALERT" = "Um den Hintergrundabruf zu ermöglichen, hält Stalky WhatsApp im Hintergrund aktiv und behält die WLAN-Verbindung aktiv, wenn du dein Gerät sperrst. Dadurch wird der Batterieverbrauch etwas erhöht.";
+"BG_FETCH_TURN_OFF_ALERT" = "Wenn die Hintergrundaktualisierung deaktiviert wird, werden keine neuen Aktualisierungen im Hintergrund abgerufen, und du erhältst daher keine Push-Benachrichtigungen außerhalb von WhatsApp.";
+"BG_FETCH_ALERT" = "Um die Hintergrundaktualisierung zu ermöglichen, hält Stalky WhatsApp im Hintergrund aktiv und behält die WLAN-Verbindung aktiv, wenn du dein Gerät sperrst. Dadurch wird der Batterieverbrauch etwas erhöht.";
 
 
 /* Notifications */
@@ -55,10 +55,10 @@
 "INSIDE_NOTIFICATIONS_DESC" = "Benachrichtigungen für neue Updates in WhatsApp anzeigen.";
 
 "OUTSIDE_NOTIFICATIONS" = "Äußere Benachrichtigungen";
-"OUTSIDE_NOTIFICATIONS_DESC" = "Erhalte Benachrichtigungen zu neuen Updates außerhalb von WhatsApp. Der Hintergrundabruf muss aktiviert sein.";
-"OUTSIDE_NOTIFICATIONS_ALERT" = "Der Hintergrundabruf sollte aktiviert sein, um die neuesten Aktualisierungen im Hintergrund abzurufen und außerhalb von WhatsApp anzuzeigen.";
+"OUTSIDE_NOTIFICATIONS_DESC" = "Erhalte Benachrichtigungen zu neuen Updates außerhalb von WhatsApp. Die Hintergrundaktualisierung muss aktiviert sein.";
+"OUTSIDE_NOTIFICATIONS_ALERT" = "Die Hintergrundaktualisierung sollte aktiviert sein, um die neuesten Aktualisierungen im Hintergrund abzurufen und außerhalb von WhatsApp anzuzeigen.";
 
-"NOTIFICATIONS_TYPE_LABEL" = "Kontaktbenachrichtigungen";
+"NOTIFICATIONS_TYPE_LABEL" = "Benachrichtigungen";
 "NOTIFICATIONS_TYPE_DESC" = "Wähle für welche Kontakte Benachrichtigungen erhalten werden sollen.";
 
 "NOTIFICATION_SOUND" = "Benachrichtigungston";
@@ -100,12 +100,12 @@
 "DELETE_PROFILE_PICTURES_ALERT_MESSAGE" = "Lösche entweder alle Profilbilder oder behalte die Favoriten der bevorzugten Kontakte bei.";
 "DELETE_ALL_PROFILE_PICTURES_ALERT_BUTTON" = "Alles löschen";
 "DELETE_ALL_KEEP_FAVORITES_PROFILE_PICTURES_ALERT_BUTTON" = "Alle außer Favoriten";
-"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Wähle Kontakte zum löschen";
+"DELETE_SELECTED_CONTACTS_PROFILE_PICTURES_ALERT_BUTTON" = "Kontakte zum Löschen auswählen";
 
 "DELETE_STATUSES_ALERT_MESSAGE" = "Lösche entweder alle Statusmedien oder behalte Statusmedien bevorzugter Kontakte bei.";
 "DELETE_ALL_STATUSES_ALERT_BUTTON" = "Alles löschen";
 "DELETE_ALL_KEEP_FAVORITES_STATUSES_ALERT_BUTTON" = "Alle außer Favoriten";
-"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Kontakte zum löschen auswählen";
+"DELETE_SELECTED_CONTACTS_STATUSES_ALERT_BUTTON" = "Kontakte zum Löschen auswählen";
 
 "SAVED_PICTURES_LABEL" = "Gespeicherte Bilder";
 "SAVED_STATUSES_LABEL" = "Gespeicherte Statusmedien";
@@ -113,10 +113,10 @@
 "MEDIA_BACKUP_HEADER" = "Backup";
 "MEDIA_BACKUP_EXPORT_TITLE" = "Kontaktmedien exportieren";
 "MEDIA_BACKUP_IMPORT_TITLE" = "Kontaktmedien importieren";
-"MEDIA_BACKUP_FOOTER" = "Exportiere die mit deinen Kontakten gespeicherten Updates auf deinem PC und importiere sie jederzeit wieder.";
+"MEDIA_BACKUP_FOOTER" = "Exportiere die, mit deinen Kontakten gespeicherten, Updates auf deinem PC und importiere sie jederzeit wieder.";
 
 "BACKUP_IMPORT_ALERT_TITLE" = "Medien importieren";
-"BACKUP_IMPORT_ALERT_MESSAGE" = "Importiere eine ZIP-Datei, um Medien wiederherzustellen. Die ZIP-Datei sollte dieselbe Struktur wie die exportierten ZIP-Dateien haben.\nSie kann 2 Ordner enthalten (Profiles) und/oder (Statuses). Wenn jeder Ordner einen Ordner mit seiner WhatsApp-ID enthält, sollten auch die Dateinamen das richtige Format haben)";
+"BACKUP_IMPORT_ALERT_MESSAGE" = "Importiere eine ZIP-Datei, um Medien wiederherzustellen. Die ZIP-Datei sollte dieselbe Struktur, wie die exportierten ZIP-Dateien, haben.\nSie kann 2 Ordner enthalten (Profiles) und/oder (Statuses). Wenn jeder Ordner einen Ordner mit seiner WhatsApp-ID enthält, sollten auch die Dateinamen das richtige Format haben)";
 "BACKUP_IMPORT_ALERT_WEBSERVER_BUTTON" = "Import vom WebServer";
 "BACKUP_IMPORT_ALERT_FILES_BUTTON" = "Aus Dateien importieren";
 "BACKUP_IMPORT_WEBSERVER_WAITING_ZIP_MESSAGE" = "Öffne %@ auf deinem PC und lade die ZIP-Datei hoch.\nDie Datei wird nach dem Hochladen automatisch erkannt.";
@@ -128,7 +128,7 @@
 "BACKUP_IMPORT_PROCESS_COMPLETED_MESSAGE" = "Import abgeschlossen";
 
 "BACKUP_EXPORT_ALERT_TITLE" = "Medien exportieren";
-"BACKUP_EXPORT_ALERT_MESSAGE" = "Erstelle eine Sicherungs-ZIP-Datei deiner gespeicherten Profilbilder Status. Dies wird nicht die Stalky-Datenbank, die die Updates deiner Kontake enthält exportieren.";
+"BACKUP_EXPORT_ALERT_MESSAGE" = "Erstelle eine Sicherungs-ZIP-Datei deiner gespeicherten Profilbilder und Statuse. Dies wird nicht die Stalky-Datenbank, die die Updates deiner Kontake enthält, exportieren.";
 "BACKUP_EXPORT_ALERT_ALL_MEDIA_BUTTON" = "Alle Medien";
 "BACKUP_EXPORT_ALERT_FAVORITES_BUTTON" = "Von favorisierten Kontakten";
 "BACKUP_EXPORT_FAVORITES_EMPTY_MESSAGE" = "Keine favorisierten Kontakte";
@@ -199,10 +199,10 @@
 /* Updates Table */
 
 "ALL_UPDATES_FILTER" = "Alle Updates";
-"ABOUT_UPDATES_FILTER" = "Textstatus Updates";
-"PICTURE_UPDATES_FILTER" = "Profilbilder Updates";
-"STATUS_UPDATES_FILTER" = "Statusmedien Updates";
-"GROUP_UPDATES_FILTER" = "Gruppen Updates";
+"ABOUT_UPDATES_FILTER" = "Textstatus-Updates";
+"PICTURE_UPDATES_FILTER" = "Profilbilder-Updates";
+"STATUS_UPDATES_FILTER" = "Statusmedien-Updates";
+"GROUP_UPDATES_FILTER" = "Gruppen-Updates";
 
 "SHOWING_%zd_OF_%zd_UPDATES_BUTTON" = "Anzeigen %zd von %zd Updates, zeige mehr...";
 "DELETE_ALL_UPDATE_WARNING" = "Diese Aktion löscht alle Updates.";
@@ -304,10 +304,10 @@
 "CONTRIBUTE_LABEL" = "Spenden";
 
 "SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Werbungsentfernung";
+"CONTACT_AND_MORE_LABEL" = "Kontakt & Mehr";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Konto & Werbungsentfernung";
 "CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
-"VERSIONS_SECTION_HEADER" = "Versions";
+"VERSIONS_SECTION_HEADER" = "Versionen";
 
 
 /* Date */

@@ -1,6 +1,6 @@
 /* Settings */
 
-"PREFERENCES" = "OnlineNotify Einstellungen";
+"PREFERENCES" = "OnlineNotify";
 
 "ONLINE_CONTACTS" = "Kontakte die online sind";
 
@@ -73,9 +73,9 @@
 "ONLINE_INDICATORS_LABEL" = "Online-Indikator";
 "ONLINE_INDICATORS_SECTION_DESCRIPTION" = "Fügt neben deinen Kontakt an verschiedenen Stellen einen Online-Indikator hinzu.";
 
-"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Style";
+"ONLINE_INDICATORS_STYLE_SECTION_LABEL" = "Stil";
 
-"ONLINE_INDICATOR_STYLE_LABEL" = "Online-Indikator Style";
+"ONLINE_INDICATOR_STYLE_LABEL" = "Online-Indikator Stil";
 "ONLINE_INDICATOR_STYLE_BAR_LABEL" = "Balken";
 "ONLINE_INDICATOR_STYLE_ROUNDED_LABEL" = "Punkt";
 
@@ -136,7 +136,7 @@
 "CONTRIBUTE_LABEL" = "Spenden";
 
 "SUPPORT_SECTION_HEADER" = "Support";
-"CONTACT_AND_MORE_LABEL" = "Kontakt & mehr";
-"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Account & Werbungsentfernung";
+"CONTACT_AND_MORE_LABEL" = "Kontakt & Mehr";
+"ACCOUNT_AND_AD_REMOVAL_LABEL" = "Konto & Werbungsentfernung";
 "CONTACT_SUPPORT_LABEL" = "Support kontaktieren";
 "VERSIONS_SECTION_HEADER" = "Versionen";

@@ -1,0 +1,22 @@
+/* Toggles */
+
+"LAST_SEEN" = "Zuletzt gesehen";
+"READ_RECEIPTS" = "Lesebestätigungen";
+"DELIVERY_RECEIPTS" = "Zustellbestätigungen";
+"DISABLE_INTERNET" = "Internet deaktivieren";
+"BLOCK_CALLS" = "Anrufe blockieren";
+"AUTO_REPLY" = "Automatische Antwort";
+"HIDE_CHATS" = "Chats ausblenden";
+
+/* Settings */
+
+"ACTIVE_TOGGLES_LABEL" = "Aktive Steuerelemente";
+"ACTIVE_TOGGLES_FOOTER" = "Füge zusätzliche Steuerelemente hinzu und organisiere sie, damit sie im Kontrollzentrum angezeigt werden.";
+"DISABLE_WHEN_PASSCODE_LOCKED_LABEL" = "Im Sperrzustand deaktivieren";
+"DISABLE_WHEN_PASSCODE_LOCKED_FOOTER" = "Deaktiviert den Zugriff auf die Steuerelemente, wenn das Gerät mit einem Passwort gesperrt ist.";
+"RESPRING_BUTTON" = "Respring";
+"RESPRING_FOOTER" = "Um Änderungen zu übernehmen, ist ein Respring erforderlich.";
+"TOGGLES_PAGE_TITLE" = "Steuerelemente";
+"ACTIVE_SECTION_HEADER" = "Aktive";
+"DISABLED_SECTION_HEADER" = "Deaktiviert";
+"ACTIVE_SECTION_FOOTER" = "Im Kontrollzentrum können maximal 6 Steuerelemente angezeigt werden.";
