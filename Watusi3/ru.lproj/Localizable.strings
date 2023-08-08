@@ -455,6 +455,9 @@
 "STARRED_MESSAGES_PROTECTION_SECTION" = "Защита избранных сообщений";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Пароль на избранные сообщения";
 
+"ARCHIVE_PROTECTION_SECTION" = "Archive Protection";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "Protect Archived Chats";
+
 "BYPASS_PROTECTION_LABEL" = "Отключение защиты";
 "BYPASS_PROTECTION_DESC" = "Введите название сети WiFi, при подключении к которой установленные пароли действовать не будут";
 "BYPASS_APP_PROTECTION_LABEL" = "Отключить защиту приложения";

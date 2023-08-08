@@ -13,8 +13,8 @@
 
 "DISABLE_READ_RECEIPTS_LABEL" = "إخفاء مؤشر قراءة الرسائل";
 "READ_RECEIPTS_DESC" = "بعد تعطيل مؤشر قراءة الرسائل، سترى أنت مؤشر قراءة الرسائل لرسائل جهات اتصالك ولكن جهات اتصالك لن يروا مؤشر قراءة الرسائل لرسائلك لديهم، وسيظل بإمكانك تفعيل/تعطيل مؤشر قراءة الرسائل لجهات اتصال محددة عن طريق خيارات إظهار/عدم إظهار أو من خلال معلومات جهة الاتصال نفسها.";
-"NEVER_SEND_RECEIPTS_TO" = "عدم إظهار مؤشر قراءة الرسائل لـ";
-"FORCE_SEND_RECEIPTS_TO" = "إظهار مؤشر قراءة الرسائل لـ";
+"NEVER_SEND_RECEIPTS_TO" = "عدم إظهار المؤشر لـ";
+"FORCE_SEND_RECEIPTS_TO" = "إظهار المؤشر لـ";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال مؤشرات التسجيلات الصوتية";
 "FORCE_RECEIPTS_ON" = "إظهار المؤشرات على...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
@@ -454,6 +454,9 @@
 
 "STARRED_MESSAGES_PROTECTION_SECTION" = "حماية الرسائل المميزة بنجمة";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "حماية الرسائل المميزة بنجمة";
+
+"ARCHIVE_PROTECTION_SECTION" = "حماية الأرشيف";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "حماية الدردشات المؤرشفة";
 
 "BYPASS_PROTECTION_LABEL" = "تخطي حماية التطبيق";
 "BYPASS_PROTECTION_DESC" = "قم بإدخال اسم شبكة الـ WiFi التي ترغب بتجاوز الحماية عند اتصالك بها.";

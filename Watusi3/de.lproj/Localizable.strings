@@ -455,6 +455,9 @@
 "STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
 
+"ARCHIVE_PROTECTION_SECTION" = "Archive Protection";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "Protect Archived Chats";
+
 "BYPASS_PROTECTION_LABEL" = "Schutz umgehen";
 "BYPASS_PROTECTION_DESC" = "Gebe den Namen des WLAN Netzwerkes ein, bei dem du den Schutz umgehen willst, wenn du mit ihm verbunden bist.";
 "BYPASS_APP_PROTECTION_LABEL" = "App Schutz umgehen";

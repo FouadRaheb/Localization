@@ -455,6 +455,9 @@
 "STARRED_MESSAGES_PROTECTION_SECTION" = "Starred Messages Protection";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Protect Starred Messages";
 
+"ARCHIVE_PROTECTION_SECTION" = "Archive Protection";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "Protect Archived Chats";
+
 "BYPASS_PROTECTION_LABEL" = "עוקף הגנות";
 "BYPASS_PROTECTION_DESC" = "הכנס את השם של האינטרנט האלחוטי כדי שיזהה שאתה בבית ותוכל לגשת להכל מבלי להכניס מחדש כל פעם סיסמא";
 "BYPASS_APP_PROTECTION_LABEL" = "עקוף סיסמאת אפליקציה";

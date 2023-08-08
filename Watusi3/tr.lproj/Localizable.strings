@@ -455,6 +455,9 @@
 "STARRED_MESSAGES_PROTECTION_SECTION" = "Yıldızlı Mesaj Koruması";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Yıldızlı Mesaj Koruması";
 
+"ARCHIVE_PROTECTION_SECTION" = "Archive Protection";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "Protect Archived Chats";
+
 "BYPASS_PROTECTION_LABEL" = "Korumayı Geçersiz Kıl";
 "BYPASS_PROTECTION_DESC" = "Korumanın geçersiz kılınmasını istediğiniz WiFi ağı isimlerini girin.";
 "BYPASS_APP_PROTECTION_LABEL" = "Uygulama Korumasını Geçersiz Kıl";

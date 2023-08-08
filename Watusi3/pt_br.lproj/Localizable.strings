@@ -455,6 +455,9 @@
 "STARRED_MESSAGES_PROTECTION_SECTION" = "Proteção de mensagens com estrela";
 "STARRED_MESSAGES_PROTECTION_ENABLE_LABEL" = "Proteger mensagens com estrela";
 
+"ARCHIVE_PROTECTION_SECTION" = "Archive Protection";
+"ARCHIVE_PROTECTION_ENABLE_LABEL" = "Protect Archived Chats";
+
 "BYPASS_PROTECTION_LABEL" = "Ignorar proteção";
 "BYPASS_PROTECTION_DESC" = "Digite o nome da rede WiFi na qual você deseja ignorar a proteção quando você estiver conectado a ela.";
 "BYPASS_APP_PROTECTION_LABEL" = "Ignorar Proteção do App";
