@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "تعطيل إظهار رؤية الحالة لحالات جهات الاتصال وجعلها يدوية عن طريق الضغط على أيقونة الصح التي ستصبح موجودة في الجهة السفلية اليسرى لكل حالة.";
 
 "STATUS_ARCHIVE_LABEL" = "أرشيف حالاتي";
+"STATUS_ARCHIVE_VIEW_LABEL" = "عرض الأرشيف";
 "STATUS_ARCHIVE_DESC" = "سيؤدي هذا إلى إنشاء أرشيف فيه كل حالاتك التي حملتها بالإضافة إلى مشاهديها.";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "الأرشيف";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ لم يشاهد أيًّا من حالاتك";

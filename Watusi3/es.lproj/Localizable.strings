@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desactivar la marcación automática del estado de visto de tus contactos en cuanto se visualiza el mensaje y enviar las marcas manualmente a través del botón Watusi. Los estados marcados como Visto no mostrarán el botón de Forzar marca.";
 
 "STATUS_ARCHIVE_LABEL" = "Mis Estados Archivados";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "Esto creará un archivo de todos los estados que cargue, incluidos todos los espectadores.";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archivo";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ no vio ninguno de sus estados";

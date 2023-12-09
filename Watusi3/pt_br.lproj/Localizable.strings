@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Desativar a marcação automática do status de seus contatos conforme visualizado e enviar manualmente os recibos vistos usando o botão Watusi. Os status marcados como visualizados não mostrarão o botão de marcar forçado.";
 
 "STATUS_ARCHIVE_LABEL" = "Meu Arquivo de Status";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "Isso criará um arquivo de todos os status que você envia, incluindo todos os espectadores";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Arquivado";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ não visualizou nenhum dos seus status";

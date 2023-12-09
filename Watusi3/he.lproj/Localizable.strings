@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "ביטול צפייה אוטומטית ושלח באופן ידני כשצפית בסטורי של האיש קשר.";
 
 "STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";

@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Attivando questa opzione, quando visualizzerai gli aggiornamenti allo stato dei tuoi contatti, essi non verranno segnati automaticamente come visti. Dovrai utilizzate il tasto di Watusi per inviare manualmente la conferma di averlo visto. Non visualizzerai quel tasto negli aggiornamenti allo stato già impostati come visti.";
 
 "STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";

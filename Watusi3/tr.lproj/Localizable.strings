@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Kişilerin hikayelerini otomatik izlemeyi devre dışı bırak ve  Watusi görüldü tuşuna bas. Görülen hikayelerde zorla işaretlenme tuşu gözükmez.";
 
 "STATUS_ARCHIVE_LABEL" = "Durumlarımın Arşivi";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "Bu, tüm görüntüleyenler dahil olmak üzere yüklediğiniz tüm durumların bir arşivini oluşturacaktır.";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Arşiv";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ hiçbir durumunuzu görüntülemedi";

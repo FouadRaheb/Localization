@@ -126,7 +126,8 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Disable auto marking your contacts status as viewed and manually send viewed receipts using Watusi button. Statuses marked as viewed will not show the force mark button.";
 
 "STATUS_ARCHIVE_LABEL" = "My Statuses Archive";
-"STATUS_ARCHIVE_DESC" = "This will create an archive of all the statuses you upload including all viewers";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
+"STATUS_ARCHIVE_DESC" = "This will create an archive of all your uploaded statuses with viewers. You can access archive from a button on top of updates tab.";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archive";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ did not view any of your statuses";
 "STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE" = "You did not post any statuses yet";

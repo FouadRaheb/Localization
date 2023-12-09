@@ -126,6 +126,7 @@
 "STATUS_DISABLE_AUTO_MARK_VIEWED_DESC" = "Angesehene Status deiner Kontakte werden nicht als gesehen markiert, du kannst den Status per Watusi-Taste manuell als gesehen markieren.";
 
 "STATUS_ARCHIVE_LABEL" = "Mein Status-Archiv";
+"STATUS_ARCHIVE_VIEW_LABEL" = "View Archive";
 "STATUS_ARCHIVE_DESC" = "Erstelle ein Archiv mit all deinen hochgeladenen Status und deren Besuchern.";
 "STATUS_ARCHIVE_NAVIGATION_BUTTON" = "Archiv";
 "STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE" = "%@ hat deinen Status nicht gesehen";
