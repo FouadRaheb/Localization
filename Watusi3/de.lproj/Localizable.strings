@@ -24,6 +24,9 @@
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Einmalige Ansicht deaktivieren";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Öffnet die Medienansicht unbegrenzt oft und markiert sie über eine Schaltfläche in der Medienansicht als geöffnet.";
 
+"ALLOW_VIEW_ONCE_SCREENSHOT_LABEL" = "Screenshot & Record View Once";
+"ALLOW_VIEW_ONCE_SCREENSHOT_DESC" = "Disable Screenshot and Screen Recording detection in View Once media";
+
 "DISABLE_TYPING_LABEL" = "Schreibeindikator deaktivieren";
 "DISABLE_TYPING_DESC" = "Deine Kontakte werden dich nicht schreiben sehen.";
 "NEVER_SEND_TYPING_TO" = "Indikator deaktivieren bei...";
@@ -1062,7 +1065,6 @@
 "RENAME" = "Umbenennen";
 "TO" = "zu";
 "DISMISS" = "Schließen";
-"DUPLICATE" = "Duplizieren";
 "SELECT_ALL" = "Alles auswählen";
 "DESELECT_ALL" = "Alles abwählen";
 "DOWNLOAD" = "Download";

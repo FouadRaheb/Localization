@@ -24,6 +24,9 @@
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
 
+"ALLOW_VIEW_ONCE_SCREENSHOT_LABEL" = "Screenshot & Record View Once";
+"ALLOW_VIEW_ONCE_SCREENSHOT_DESC" = "Disable Screenshot and Screen Recording detection in View Once media";
+
 "DISABLE_TYPING_LABEL" = "ביטול המקליד/ה בשורת הסטטוס";
 "DISABLE_TYPING_DESC" = "אנשי הקשר לעולם לא יראו אותך בסטטוס מקליד/ה";
 "NEVER_SEND_TYPING_TO" = "...בחיים לא לשלוח מקליד/ה אל";
@@ -1056,13 +1059,12 @@
 "SEND" = "שלח";
 "ADD" = "הוסף";
 "EDIT" = "עריכה";
-"DUPLICATE" = "Duplicate";
+"DUPLICATE" = "שכפל";
 "EXPORT" = "Export";
 "PUBLISH" = "Publish";
 "RENAME" = "Rename";
 "TO" = "אל";
 "DISMISS" = "דלג";
-"DUPLICATE" = "שכפל";
 "SELECT_ALL" = "בחר הכל";
 "DESELECT_ALL" = "בטל בחירת הכל";
 "DOWNLOAD" = "Download";

@@ -24,6 +24,9 @@
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Бесконечный просмотр";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Открывайте исчезающие медиафайлы неограниченное количество раз, отмечайте их просмотренными с помощью специальной кнопки в интерфейсе";
 
+"ALLOW_VIEW_ONCE_SCREENSHOT_LABEL" = "Screenshot & Record View Once";
+"ALLOW_VIEW_ONCE_SCREENSHOT_DESC" = "Disable Screenshot and Screen Recording detection in View Once media";
+
 "DISABLE_TYPING_LABEL" = "Скрыть индикатор печати";
 "DISABLE_TYPING_DESC" = "Ваши контакты не будут знать, что вы печатаете сообщение";
 "NEVER_SEND_TYPING_TO" = "Скрыть индикатор печати для";
@@ -1062,7 +1065,6 @@
 "RENAME" = "Переименовать";
 "TO" = "to";
 "DISMISS" = "Отклонить";
-"DUPLICATE" = "Дублировать";
 "SELECT_ALL" = "Выбрать все";
 "DESELECT_ALL" = "Отменить выбор";
 "DOWNLOAD" = "Загрузить";

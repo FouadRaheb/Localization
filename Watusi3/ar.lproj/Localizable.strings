@@ -24,6 +24,9 @@
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "تمييز المعروض لمرة واحدة كمفتوح يدويًا";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "افتح الوسائط المعروضة لمرة واحدة بعدد لا نهائي من المرات، وميزها كمفتوحة بشكل يدوي متى ما أردت باستخدام زر في واجهة الوسائط.";
 
+"ALLOW_VIEW_ONCE_SCREENSHOT_LABEL" = "تسجيل العرض لمرة واحدة";
+"ALLOW_VIEW_ONCE_SCREENSHOT_DESC" = "تعطيل اكتشاف التقاط وتسجيل الشاشة اثناء العرض لمرة واحدة";
+
 "DISABLE_TYPING_LABEL" = "تعطيل مؤشر الكتابة";
 "DISABLE_TYPING_DESC" = "لن تعلم جهات اتصالك أنك تقوم بكتابة شيء.";
 "NEVER_SEND_TYPING_TO" = "عدم إظهار مؤشر الكتابة لـ";
@@ -1063,7 +1066,6 @@
 "RENAME" = "إعادة التسمية";
 "TO" = "إلى";
 "DISMISS" = "تجاهل";
-"DUPLICATE" = "تكرار";
 "SELECT_ALL" = "تحديد الكل";
 "DESELECT_ALL" = "إلغاء تحديد الكل";
 "DOWNLOAD" = "تنزيل";
