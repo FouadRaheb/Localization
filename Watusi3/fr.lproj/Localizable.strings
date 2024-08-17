@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Masquer le bouton sourdine";
 
 "DISABLE_VOIP_LABEL" = "Block Incoming Calls";
-"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Enlever la limite de supression";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Enlever la limte de supression des messages de 7 minutes";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conserver les msg supprimés des contacts";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Les messages que vos contacts supprime ne seront pas supprimés et afficheront une icône pour indiquer que votre contact l'a supprimé.";

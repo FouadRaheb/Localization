@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Non mostrare che il microfono è stato disattivato";
 
 "DISABLE_VOIP_LABEL" = "Block Incoming Calls";
-"DISABLE_VOIP_DESC" = "Blocked calls will not show the caller 'Ringing' message";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Block Calls From";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "All Contacts";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "All Contacts Except";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audio Message";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Voice Message";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Bypassa limite cancellazione";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Bypassa il limite di 7 minuti di WhatsApp per eliminare i messaggi";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Mantieni i messaggi eliminati dai contatti";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "I messaggi eliminati dai contatti non verranno eliminati sul telefono, e presenteranno un'icona per indicare che il contatto li ha cancellati.";

@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Stummschaltung ausblenden";
 
 "DISABLE_VOIP_LABEL" = "Einkommende Anrufe blockieren";
-"DISABLE_VOIP_DESC" = "Bei blockierten Anrufen wird die Meldung \"Klingeln\" des Anrufers nicht angezeigt.";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Blockiere Anrufe von";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Alle Kontakte";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Alle Kontakte außer";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Audioleiste ausblenden";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Audionachricht";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sprachnachricht";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Begrenzung umgehen";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Umgehen des 7 Minuten Limits von WhatsApp, um Nachrichten zu widerrufen.";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Widerrufene Nachrichten behalten";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Nachrichten, die von Ihren Kontakten widerrufen werden, werden nicht gelöscht und zeigen ein Symbol an, das angibt, dass ihr Kontakt sie widerrufen hat.";

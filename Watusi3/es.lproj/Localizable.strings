@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Ocultar Llamada Silenciada";
 
 "DISABLE_VOIP_LABEL" = "Bloquear llamadas entrantes";
-"DISABLE_VOIP_DESC" = "Las llamadas bloqueadas no mostrarán el mensaje 'Llamada' de la persona que llama";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Bloquear llamadas de";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Todos los Contactos";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Todos los Contactos Excepto";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Mensaje de Audio";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Mensaje de Voz";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Eliminar límites de anulación de mensajes";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Eliminar el límite de 7 minutos en los mensajes anulados de WhatsApp";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Conservar mensajes anulados por tus contactos";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Los mensajes que tus contactos anulen no se borrarán y se mostrará un ícono para indicar que tu contacto lo ha anulado.";

@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Ocultar chamada silenciada";
 
 "DISABLE_VOIP_LABEL" = "Bloquear chamadas recebidas";
-"DISABLE_VOIP_DESC" = "As chamadas bloqueadas não mostrarão a mensagem 'Tocando' do chamador";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Bloquear Ligações de";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Todos os contatos";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Todos, exceto..";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Mensagem de Áudio";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Mensagem de Voz";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Desativar Tempo de Revogação";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Desativar Tempo de Revogação de 7 minutos do Whatsapp";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Manter Mensagens Revogadas";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "As mensagens que os contatos revogarem não serão deletadas e um ícone para indicar que o contato revogou aparecerá.";

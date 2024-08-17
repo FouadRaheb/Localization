@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Скрыть отключение микрофона";
 
 "DISABLE_VOIP_LABEL" = "Блокировать входящие вызовы";
-"DISABLE_VOIP_DESC" = "Если эта функция включена, вы не будете получать уведомление о входящем звонке";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Блокировать вызовы от";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Все контакты";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Все контакты, кроме";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Скрыть аудиопанель после прослушивания";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Аудиозапись";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Голосовое сообщение";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Отключить таймер удаления";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "Активируйте эту настройку, чтобы снять ограничение по времени для функции «Удалить для всех»";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Сохранить удаленные сообщения";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Сообщения, удаленные вашими контактами, получат соответствующую метку и останутся у вас на устройстве";

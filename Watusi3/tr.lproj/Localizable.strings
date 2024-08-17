@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "Susturulan Aramayı Gizle";
 
 "DISABLE_VOIP_LABEL" = "Gelen Aramayı Engelle";
-"DISABLE_VOIP_DESC" = "Engellenen aramalar sessize alınır";
+"DISABLE_VOIP_DESC" = "Blocked calls will not be presented inside and outside WhatsApp";
 "DISABLE_VOIP_FILTER_LABEL" = "Gelen Çağrıları Engelle";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "Tüm Kişiler";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "Kişiler Hariç";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "Hide Audio Bar When Finished";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "Sesli Mesaj";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "Sesli Mesaj";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "Mesaj İptal Zamanını Geçersiz Kıl";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "WhatsApp Mesaj İptal Etme Zamanını Geçersiz Kıl";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "Kişilerin Sildiği Mesajları Göster";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "Kişilerinizin sildiği mesajlar silinmeyecek ve silinen mesajların yanında küçük bir işaret mesajın silindiğini belirtecektir.";

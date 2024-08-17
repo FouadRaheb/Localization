@@ -69,7 +69,7 @@
 "HIDE_CALL_MUTE_LABEL" = "إخفاء كتم المكالمة";
 
 "DISABLE_VOIP_LABEL" = "حظر المكالمات الواردة";
-"DISABLE_VOIP_DESC" = "المكالمات المحظورة لن تعرض رسالة 'رنين' للمتصل.";
+"DISABLE_VOIP_DESC" = "لن يتم عرض المكالمات المحظورة داخل واتساب أو خارجه";
 "DISABLE_VOIP_FILTER_LABEL" = "حظر المكالمات من";
 "DISABLE_VOIP_ALL_CONTACTS_LABEL" = "كل جهات الاتصال";
 "DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL" = "كل جهات الاتصال ماعدا";
@@ -189,9 +189,6 @@
 "CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED" = "إخفاء شريط الصوت عند الانتهاء";
 "CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE" = "تسجيل صوتي";
 "CONTINUED_AUDIO_MESSAGES_VOICE_TITLE" = "رسالة صوتية";
-
-"REVOKE_MESSAGES_DISABLE_LIMIT_LABEL" = "تخطي حد الحذف";
-"REVOKE_MESSAGES_DISABLE_LIMIT_DESC" = "تخطي حد واتساب الزمني لحذف الرسائل.";
 
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL" = "الاحتفاظ برسائل جهات الاتصال المحذوفة";
 "REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC" = "لن يتم حذف الرسائل التي حذفها جهات اتصالك من عندك، وستظهر أيقونة أيضًا بجانب الرسالة المحذوفة لتبين أن جهة اتصالك قد قامت بحذف الرسالة.";
