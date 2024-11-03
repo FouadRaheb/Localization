@@ -16,10 +16,13 @@
 "NEVER_SEND_RECEIPTS_TO" = "...בחיים אל תשלח/י וי כחול ל";
 "FORCE_SEND_RECEIPTS_TO" = "...שלח/י וי כחול ל";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
-"FORCE_RECEIPTS_ON" = "...שלח/י וי כחול ל";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Message Sent";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Typing or Recording";
-"FORCE_RECEIPTS_ON_NEVER" = "בחיים לא";
+"FORCE_RECEIPTS_ON" = "Force Receipts on...";
+"FORCE_RECEIPTS_ON_TYPING_LABEL" = "Send on Typing/Recording";
+"FORCE_RECEIPTS_ON_TYPING_DESC" = "Read receipts will be sent when you start typing or recording a voice message";
+"FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
+"FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
+"FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
@@ -595,7 +598,7 @@
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "החבא את אפשרות הוידאו והשיחה בצ'אט.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "החבא את כפתור השיחה בצ'אט";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "החבא את כפתור הוידאו בצ'אט";
+"HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "החבא את כפתור הוידאו בצ'אט";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "Hide Group Call Button";
 
 "FULLSCREEN_MODE_DESC" = "החבא את הסטטוס בר בצ'אט.";

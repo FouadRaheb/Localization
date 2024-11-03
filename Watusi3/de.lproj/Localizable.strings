@@ -16,10 +16,13 @@
 "NEVER_SEND_RECEIPTS_TO" = "Bestätigungen deaktivieren für...";
 "FORCE_SEND_RECEIPTS_TO" = "Bestätigungen erzwingen für...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Hörbestätigungen erzwingen";
-"FORCE_RECEIPTS_ON" = "Bestätigungen erzwingen bei...";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Nachricht gesendet";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Tippen oder Aufnehmen";
-"FORCE_RECEIPTS_ON_NEVER" = "Nie";
+"FORCE_RECEIPTS_ON" = "Force Receipts on...";
+"FORCE_RECEIPTS_ON_TYPING_LABEL" = "Send on Typing/Recording";
+"FORCE_RECEIPTS_ON_TYPING_DESC" = "Read receipts will be sent when you start typing or recording a voice message";
+"FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
+"FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
+"FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Einmalige Ansicht deaktivieren";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Öffnet die Medienansicht unbegrenzt oft und markiert sie über eine Schaltfläche in der Medienansicht als geöffnet.";
@@ -595,7 +598,7 @@
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Blendet die Anruf-Taste in Chats aus.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sprachanruf-Taste ausblenden";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Videoanruf-Taste ausblenden";
+"HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Videoanruf-Taste ausblenden";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "Gruppenanruf-Taste ausblenden";
 
 "FULLSCREEN_MODE_DESC" = "Blendet die Statusleiste in WhatsApp aus.";

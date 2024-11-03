@@ -16,10 +16,13 @@
 "NEVER_SEND_RECEIPTS_TO" = "عدم إظهار المؤشر لـ";
 "FORCE_SEND_RECEIPTS_TO" = "إظهار المؤشر لـ";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "فرض إرسال مؤشرات التسجيلات الصوتية";
-"FORCE_RECEIPTS_ON" = "إظهار المؤشرات على...";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "الرسالة المرسلة";
-"FORCE_RECEIPTS_ON_START_TYPING" = "التسجيل أو الكتابة";
-"FORCE_RECEIPTS_ON_NEVER" = "أبدًا";
+"FORCE_RECEIPTS_ON" = "Force Receipts on...";
+"FORCE_RECEIPTS_ON_TYPING_LABEL" = "Send on Typing/Recording";
+"FORCE_RECEIPTS_ON_TYPING_DESC" = "Read receipts will be sent when you start typing or recording a voice message";
+"FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
+"FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
+"FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "تمييز المعروض لمرة واحدة كمفتوح يدويًا";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "افتح الوسائط المعروضة لمرة واحدة بعدد لا نهائي من المرات، وميزها كمفتوحة بشكل يدوي متى ما أردت باستخدام زر في واجهة الوسائط.";
@@ -595,7 +598,7 @@
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "إخفاز زر اتصال الفيديو";
+"HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "إخفاز زر اتصال الفيديو";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال في المجموعة";
 
 "FULLSCREEN_MODE_DESC" = "إخفاء شريط الحالة داخل تطبيق واتساب.";

@@ -16,10 +16,13 @@
 "NEVER_SEND_RECEIPTS_TO" = "Asla Okundu Bilgisi Gönderme...";
 "FORCE_SEND_RECEIPTS_TO" = "Zorla Okundu Bilgisi Gönder...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Zorla Ses Alındı Bilgisi Gönder";
-"FORCE_RECEIPTS_ON" = "Alındı Bilgisini Zorla...";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mesaj Gönderildi";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Yazıyor";
-"FORCE_RECEIPTS_ON_NEVER" = "Asla";
+"FORCE_RECEIPTS_ON" = "Force Receipts on...";
+"FORCE_RECEIPTS_ON_TYPING_LABEL" = "Send on Typing/Recording";
+"FORCE_RECEIPTS_ON_TYPING_DESC" = "Read receipts will be sent when you start typing or recording a voice message";
+"FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
+"FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
+"FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Hikayeyi Elle İzlendi Olarak İşaretle";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Size gönderilen hikayeyi sınırsız görüntüleyin, dilerseniz elle görüldü yapabilirsiniz";
@@ -595,7 +598,7 @@
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Arama butonunu sohbette gizle.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sesli Arama Butonunu Gizle";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Görüntülü Arama Butonunu Gizle";
+"HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Görüntülü Arama Butonunu Gizle";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "Grup Arama Butonunu Gizle";
 
 "FULLSCREEN_MODE_DESC" = "WhatsApp içinde durum çubuğunu gizle.";

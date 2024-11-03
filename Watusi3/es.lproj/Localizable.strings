@@ -16,10 +16,13 @@
 "NEVER_SEND_RECEIPTS_TO" = "Nunca enviar confirmaciones a...";
 "FORCE_SEND_RECEIPTS_TO" = "Forzar envío de confirmaciones a...";
 "FORCE_VOICE_MESSAGES_RECEIPTS" = "Forzar confirmaciones de envío de mensajes de voz";
-"FORCE_RECEIPTS_ON" = "Forzar confirmaciones en...";
-"FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mensaje Enviado";
-"FORCE_RECEIPTS_ON_START_TYPING" = "Escribiendo o Grabando";
-"FORCE_RECEIPTS_ON_NEVER" = "Nunca";
+"FORCE_RECEIPTS_ON" = "Force Receipts on...";
+"FORCE_RECEIPTS_ON_TYPING_LABEL" = "Send on Typing/Recording";
+"FORCE_RECEIPTS_ON_TYPING_DESC" = "Read receipts will be sent when you start typing or recording a voice message";
+"FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
+"FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
+"FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Manually Mark View Once Opened";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Open view once media unlimited times and mark as opened using a button in media view";
@@ -595,7 +598,7 @@
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar los botones de llamada en los chats.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de voz";
-"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de videollamada";
+"HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Ocultar botón de videollamada";
 "HIDE_GROUP_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de grupo";
 
 "FULLSCREEN_MODE_DESC" = "Ocultar la barra de estado dentro de WhatsApp.";
