@@ -22,7 +22,7 @@
 "FORCE_RECEIPTS_ON_REPLY_LABEL" = "Send After Reply";
 "FORCE_RECEIPTS_ON_REPLY_DESC" = "Read receipts will be sent when you send a message";
 "FORCE_RECEIPTS_ACTION_BUTTON_LABEL" = "Add Button in Chat Actions";
-"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts";
+"FORCE_RECEIPTS_ACTION_BUTTON_DESC" = "A button will be added in the chat actions to manually send read receipts, it will show only when the last message is not marked as read";
 
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL" = "Marcar manualmente após abrir";
 "DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC" = "Abra a visualização única por mídia ilimitadas vezes e marque como aberta usando um botão na visualização de mídia";
