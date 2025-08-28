@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Статус был удален в";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Выбрать цвет статуса";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Нажмите и удерживайте значок палитры для изменения цвета фона статуса";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Разделить длинное видео";
 "STATUS_SPLIT_VIDEO_DESC" = "WhatsApp не разрешает публиковать в статусе медиафайлы, хронометраж которых превышает 30 секунд. Эта функция автоматически разделяет длинные видео на несколько частей, обрезанных в нужное время, для последовательного воспроизведения";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Обезличенные чаты";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Обезличенный список чатов";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Вы можете облегчить интерфейс ваших чатов, скрыв кнопки управления вызовами WhatsApp";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Скрыть кнопку голосового вызова";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Скрыть кнопку видеозвонка";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "Невидимые чаты будут скрыты из общего списка. Вы не увидите содержимое таких чатов, если откроете их из другого места. Просматривать сообщения в невидимых чатах можно только на этой странице";
 "HIDDEN_CHATS" = "Список невидимых чатов";
 "HIDDEN_CHATS_MESSAGES" = "Содержимое невидимых чатов";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Скрыть уведомления в приложении";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Скрыть системные уведомления";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Невидимые чаты не будут показывать уведомления о новых сообщениях";

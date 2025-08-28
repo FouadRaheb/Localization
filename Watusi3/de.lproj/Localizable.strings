@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Gelöscht um";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Benutzerdefinierte Statusfarbe";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Drücke lange auf die Statusfarbtaste, um eine benutzerdefinierte Hintergrundfarbe festzulegen.";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Lange Videos aufteilen";
 "STATUS_SPLIT_VIDEO_DESC" = "Wenn du ein Video in deinen Status hochlädst, lässt WhatsApp nur 30-Sekunden-Videos zu. Diese Funktion teilt längere Videos automatisch in mehrere Status auf, die zum richtigen Zeitpunkt gekürzt wurden, um nacheinander abgespielt zu werden.";
@@ -237,7 +237,7 @@
 "CHAT_DETAILS_DELETED" = "Gelöscht";
 
 "ABOUT_ON_CHATS_DESC" = "Zeigt die Statusnachricht deines Kontakts in einer kleinen Leiste oben in der Chat-Ansicht an.";
-"ABOUT_ON_CHATS_LABEL" = "Stausnachricht im Chat";
+"ABOUT_ON_CHATS_LABEL" = "Statusnachricht im Chat";
 
 "TAP_TO_RECORD_DESC" = "Tippe einmal um die Aufnahme zu starten, tippe erneut zum Senden oder tippe und wische nach links zum Abbrechen.";
 "TAP_TO_RECORD_LABEL" = "Tippen für Aufnahme";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Verstecke Profilbild im Chat.";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Verstecke Profilbild in Chat-Listen.";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Blendet die Anruf-Taste in Chats aus.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sprachanruf-Taste ausblenden";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Videoanruf-Taste ausblenden";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "Versteckte Chats werden in der Chat-Liste ausgeblendet und zeigen einen leeren Chat an, wenn du ihn von einem anderen Ort aus öffnest. Nur auf dieser Seite kannst du deine versteckten Chat-Nachrichten sehen.";
 "HIDDEN_CHATS" = "Versteckte Chats";
 "HIDDEN_CHATS_MESSAGES" = "Versteckte Chat Nachrichten";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "In-App Nachrichten ausblenden";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Systemweit Nachrichten ausblenden";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Versteckte Chats senden keine Benachrichtigungen bei neuen Nachrichten.";

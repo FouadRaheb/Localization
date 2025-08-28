@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Silindi";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Özel Durum Rengi";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Özel bir arka plan rengi ayarlamak için durum rengine uzun basın";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Uzun Videoları Böl";
 "STATUS_SPLIT_VIDEO_DESC" = "Durumunuza bir video yüklerken, WhatsApp yalnızca 30 saniyelik videolara izin verir, bu özellik daha uzun videoları art arda oynatılacak doğru zamanda kesilmiş birden fazla duruma otomatik olarak böler.";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Sohbetlerdeki Resmi Gizle";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Sohbet Listesindeki Resimleri Gizle";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Arama butonunu sohbette gizle.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Sesli Arama Butonunu Gizle";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Görüntülü Arama Butonunu Gizle";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "Gizli sohbetler sohbet listesinden gizlenir ve başka bir yerden açıldığında boş bir sohbet gösterir. Gizli sohbet mesajlarınızı yalnızca bu sayfadan görüntüleyebilirsiniz..";
 "HIDDEN_CHATS" = "Gizli Sohbetler";
 "HIDDEN_CHATS_MESSAGES" = "Gizli Sohbet Mesajları";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Uygulama İçi Bildirimleri Gizle";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Sistem Genelindeki Bildirimleri Gizle";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Gizli sohbetler yeni mesaj bildirimleri göstermez";

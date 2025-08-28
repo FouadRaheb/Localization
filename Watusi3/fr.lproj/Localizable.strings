@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Supprimé à";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Custom Status Color";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Long press on status color button to set a custom background color";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Split Long Videos";
 "STATUS_SPLIT_VIDEO_DESC" = "When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Hide Picture in Chats";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Hide Pictures in Chat List";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Cacher les boutons d'appel des discussion.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vocal";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Masquer le bouton d'appel vidéo";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "Les discussions masquées seront masquées de la liste et afficheront une discussion vide lors de son ouverture. Vous pouvez uniquement afficher les messages de votre chat masqué à partir de cette page";
 "HIDDEN_CHATS" = "Discussion masquée";
 "HIDDEN_CHATS_MESSAGES" = "Messages de discussion cachés";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Hide In-App Notifications";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Hide System-Wide Notifications";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Les discussions cachées ne montreront pas les notifications de nouveaux messages";

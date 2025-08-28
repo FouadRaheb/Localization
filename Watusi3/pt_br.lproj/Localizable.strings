@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Excluído em";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "Cor de status personalizada";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Pressione e segure o botão de cor de status para definir uma cor de fundo personalizada";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "Dividir Vídeos Longos";
 "STATUS_SPLIT_VIDEO_DESC" = "Ao enviar um vídeo para o seu status, o WhatsApp permite vídeos de apenas 30 segundos, esse recurso dividirá automaticamente vídeos mais longos em vários status cortados no momento certo para serem reproduzidos consecutivamente.";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Esconder imagem nas conversas";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "Esconder imagem na lista de conversas";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar botões de chamada das conversas";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar Botão de Ligação de Voz";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "Ocultar Botão de Ligação de Vídeo";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "Chats ocultos serão ocultados da lista de chats e vai mostrar um chat vazio quando abri-lo em outro lugar. Você só pode ver as suas mensagens de chats ocultos nesta página.";
 "HIDDEN_CHATS" = "Chats Ocultos";
 "HIDDEN_CHATS_MESSAGES" = "Mensagens de Chats Ocultos";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "Ocultar notificações no aplicativo";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "Ocultar notificações em todo o sistema";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "Chats ocultos não mostrarão notificações de novas mensagens";

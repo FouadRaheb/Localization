@@ -170,7 +170,7 @@
 "STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "تم الحذف في";
 
 "STATUS_CUSTOM_BACKGROUND_COLOR_LABEL" = "لون حالة مخصص";
-"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "اضغط مطولًا على زر لون الحالة لتعيين لون خلفية مخصص.";
+"STATUS_CUSTOM_BACKGROUND_COLOR_DESC" = "Replace WhatsApp default text status colors with custom colors.";
 
 "STATUS_SPLIT_VIDEO_LABEL" = "تقسيم الفيديوهات الطويلة";
 "STATUS_SPLIT_VIDEO_DESC" = "عند رفع فيديو إلى الحالة الخاصة بك، فإن واتساب لا تسمح أن تزيد مدة الفيديو عن ٣٠ ثانية، ستقوم هذه الميزة بتقسيم الفيديو الطويل تلقائيًا إلى عدة فيديوهات متتالية متناسقة كل منها مدته ٣٠ ثانية.";
@@ -596,6 +596,9 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "إخفاء الصورة في المحادثات";
 "HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL" = "إخفاء الصور في قائمة الدردشة";
 
+"HIDE_META_AI_FLOATING_BUTTON_LABEL" = "Hide Meta AI Floating Button";
+"HIDE_META_AI_FLOATING_BUTTON_DESC" = "Remove the floating meta AI button from the chats list";
+
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "إخفاء أزرار الاتصال داخل الدردشات.";
 "HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "إخفاء زر الاتصال الصوتي";
 "HIDE_CHAT_VIDEO_CALL_BUTTON_LABEL" = "إخفاز زر اتصال الفيديو";
@@ -721,6 +724,7 @@
 "HIDE_CHATS_DESC" = "ستختفي الدردشات المخفية من قائمة الدردشات وستظهر المحادثة فارغة عند فتحها من مكان آخر. يمكنك عرض رسائل دردشاتك المخفية من هذه الصفحة فقط.";
 "HIDDEN_CHATS" = "الدردشات المخفية";
 "HIDDEN_CHATS_MESSAGES" = "رسائل الدردشات المخفية";
+"HIDE_HIDDEN_CHATS_STATUSES_LABEL" = "Hide Statuses";
 "STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL" = "إخفاء الإشعارات داخل التطبيق";
 "STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL" = "إخفاء الإشعارات خارج التطبيق";
 "STOP_HIDDEN_CHATS_NOTIF_DESC" = "لن تُظهر الدردشات المخفية إشعارات الرسائل الجديدة";
