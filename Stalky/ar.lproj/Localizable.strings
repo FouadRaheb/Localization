@@ -243,12 +243,15 @@
 "ADDED_NEW_GIF_STATUS_UPDATE" = "تم إضافة GIF حالة جديد";
 "ADDED_NEW_TEXT_STATUS_UPDATE" = "تم إضافة نص حالة جديد";
 
+"ABOUT_TEXT_EXPIRED_UPDATE" = "انتهت صلاحية نص الحالة";
+
 
 /* Notification Messages */
 
 "DELETE_PROFILE_PICTURE_NOTIFICATION" = "قام بحذف الصورة الشخصية";
 "CHANGED_PROFILE_PICTURE_NOTIFICATION" = "قام بتغيير الصورة الشخصية";
 "CHANGED_ABOUT_NOTIFICATION" = "قام بتغيير الخبر إلى";
+"EXPIRED_ABOUT_NOTIFICATION" = "انتهت صلاحية الخبر";
 
 "CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "انضم إلى واتساب";
 "CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "قام بحذف حساب واتساب";

@@ -243,12 +243,15 @@
 "ADDED_NEW_GIF_STATUS_UPDATE" = "Yeni GİF Hikayesi Paylaştı";
 "ADDED_NEW_TEXT_STATUS_UPDATE" = "Durumunu Güncelledi";
 
+"ABOUT_TEXT_EXPIRED_UPDATE" = "About text expired";
+
 
 /* Notification Messages */
 
 "DELETE_PROFILE_PICTURE_NOTIFICATION" = "Profil Fotoğrafını Sildi";
 "CHANGED_PROFILE_PICTURE_NOTIFICATION" = "Profil Fotoğrafını Değiştirdi";
 "CHANGED_ABOUT_NOTIFICATION" = "Durumunu Değiştirdi";
+"EXPIRED_ABOUT_NOTIFICATION" = "about expired";
 
 "CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "WhatsApp'a Katıldı";
 "CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "WhatsApp Hesabını Sildi";

@@ -243,12 +243,15 @@
 "ADDED_NEW_GIF_STATUS_UPDATE" = "Added a new GIF status";
 "ADDED_NEW_TEXT_STATUS_UPDATE" = "Added a new text status";
 
+"ABOUT_TEXT_EXPIRED_UPDATE" = "About text expired";
+
 
 /* Notification Messages */
 
 "DELETE_PROFILE_PICTURE_NOTIFICATION" = "deleted profile picture";
 "CHANGED_PROFILE_PICTURE_NOTIFICATION" = "changed profile picture";
 "CHANGED_ABOUT_NOTIFICATION" = "changed about to";
+"EXPIRED_ABOUT_NOTIFICATION" = "about expired";
 
 "CONTACT_JOINED_WHATSAPP_NOTIFICATION" = "joined WhatsApp";
 "CONTACT_DELETED_WHATSAPP_NOTIFICATION" = "deleted WhatsApp account";
